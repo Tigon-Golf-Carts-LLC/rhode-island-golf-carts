@@ -12,7 +12,7 @@ export default function EvolutionClassic4PlusPage() {
       seoTitle="EVOLUTION CLASSIC 4 PLUS - Traditional Golf Cart | Atlantic County Golf Carts"
       seoDescription="Experience the EVOLUTION CLASSIC 4 PLUS electric golf cart in Atlantic County, NJ. Traditional 4-passenger golf cart with classic design and reliable performance."
       seoKeywords="EVOLUTION CLASSIC 4 PLUS, traditional golf cart, classic design, Atlantic County, New Jersey"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/evolution-classic-4-plus"
+      canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-classic-4-plus"
       seats="4"
       range="35 miles"
       topSpeed="25 mph"

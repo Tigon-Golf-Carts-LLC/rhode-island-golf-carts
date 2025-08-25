@@ -30,11 +30,11 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2008", event: "Lackawanna County Golf Carts founded in Scranton" },
+    { year: "2008", event: "Pike County Golf Carts founded in Milford" },
     { year: "2010", event: "Became authorized EVOLUTION dealer" },
-    { year: "2013", event: "Expanded to serve all Lackawanna County municipalities" },
+    { year: "2013", event: "Expanded to serve all Pike County municipalities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
-    { year: "2019", event: "Opened service center in Dunmore" },
+    { year: "2019", event: "Opened service center in Hawley" },
     { year: "2024", event: "Reached 750+ satisfied customers across Pennsylvania" }
   ];
 
@@ -42,39 +42,39 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About Lackawanna County Golf Carts - Premier Golf Cart Dealership Since 2008"
-        description="Learn about Lackawanna County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
-        keywords="about Lackawanna County Golf Carts, golf cart dealership Pennsylvania, Denago Evolution dealer, golf cart service team"
-        canonicalUrl="https://lackawannagolfcarts.com/about"
+        title="About Pike County Golf Carts - Premier Golf Cart Dealership Since 2008"
+        description="Learn about Pike County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
+        keywords="about Pike County Golf Carts, golf cart dealership Pennsylvania, Denago Evolution dealer, golf cart service team"
+        canonicalUrl="https://pikecountygolfcarts.com/about"
       />
       <AllSchemas 
         pageType="about" 
         pageData={{
-          title: "About Lackawanna County Golf Carts",
-          description: "Learn about Lackawanna County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
-          url: "https://lackawannagolfcarts.com/about",
+          title: "About Pike County Golf Carts",
+          description: "Learn about Pike County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
+          url: "https://pikecountygolfcarts.com/about",
           breadcrumbs: [
-            { name: "Home", url: "https://lackawannagolfcarts.com/" },
-            { name: "About", url: "https://lackawannagolfcarts.com/about" }
+            { name: "Home", url: "https://pikecountygolfcarts.com/" },
+            { name: "About", url: "https://pikecountygolfcarts.com/about" }
           ],
           people: [
             {
               name: "Mike Johnson",
               jobTitle: "General Manager",
               description: "Leading our team with passion for customer service and golf cart expertise with 15+ years experience",
-              image: "/attached_assets/Lackawanna County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Pike County Golf Carts_1753806477719.png"
             },
             {
               name: "Sarah Davis",
               jobTitle: "Service Manager", 
               description: "Certified technician ensuring quality service and customer satisfaction with 12+ years experience",
-              image: "/attached_assets/Lackawanna County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Pike County Golf Carts_1753806477719.png"
             },
             {
               name: "Tom Wilson",
               jobTitle: "Sales Director",
               description: "Helping customers find the perfect golf cart for their needs with 10+ years experience",
-              image: "/attached_assets/Lackawanna County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Pike County Golf Carts_1753806477719.png"
             }
           ]
         }}
@@ -84,10 +84,10 @@ export default function AboutPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("about")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            About Lackawanna County Golf Carts
+            About Pike County Golf Carts
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Since 2008, we've been Lackawanna County's premier destination for premium golf carts, 
+            Since 2008, we've been Pike County's premier destination for premium golf carts, 
             exceptional service, and unmatched customer care. Serving all 39 municipalities 
             across northeastern Pennsylvania with pride and professionalism.
           </p>
@@ -109,11 +109,11 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Lackawanna County, Pennsylvania, Lackawanna County Golf Carts began with a simple mission: 
+                Founded in 2008 in Pike County, Pennsylvania, Pike County Golf Carts began with a simple mission: 
                 to provide high-quality golf carts and exceptional service to customers throughout northeastern Pennsylvania.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Lackawanna County is home to the vibrant city of Scranton, along with thriving communities like 
+                Pike County is home to the vibrant city of Scranton, along with thriving communities like 
                 Dunmore, Carbondale, and Clarks Summit. Our location in the heart of northeastern Pennsylvania drives our commitment to excellence 
                 and serves the outdoor recreation and residential communities throughout the area.
               </p>
@@ -123,7 +123,7 @@ export default function AboutPage() {
                 combine cutting-edge technology with personalized customer care.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Today, we're proud to serve the diverse communities across Lackawanna County's 39 municipalities, from Scranton 
+                Today, we're proud to serve the diverse communities across Pike County's 39 municipalities, from Scranton 
                 to Carbondale, from Dunmore to Archbald, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
@@ -256,24 +256,24 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div>
-              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Luzerne County</h2>
+              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Pike County</h2>
               <p className="text-lg text-gray-600 mb-6">
-                From our locations serving Luzerne County and beyond, we proudly serve customers throughout 
+                From our locations serving Pike County and beyond, we proudly serve customers throughout 
                 the Pocono Mountains region. Our commitment to quality service extends across our 
                 entire service area with multiple convenient locations.
               </p>
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Lackawanna County Golf Carts - Jim Thorpe</span>
+                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Jim Thorpe</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Lackawanna County Golf Carts - Lehighton</span>
+                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Lehighton</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Lackawanna County Golf Carts - Palmerton</span>
+                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Palmerton</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 mb-6">
@@ -294,14 +294,14 @@ export default function AboutPage() {
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Luzerne County, PA Map"
+                title="Pike County, PA Map"
               />
             </div>
           </div>
 
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">Luzerne County Municipalities We Serve</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">Pike County Municipalities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
                 "Banks Township", "Beaver Meadows", "Bowmanstown", "East Side", "Hauto", "Jim Thorpe",
@@ -325,7 +325,7 @@ export default function AboutPage() {
             Ready to Join Our Family?
           </h2>
           <p className="text-xl mb-8">
-            Experience the Lackawanna County Golf Carts difference in the Pocono Mountains
+            Experience the Pike County Golf Carts difference in the Pocono Mountains
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">

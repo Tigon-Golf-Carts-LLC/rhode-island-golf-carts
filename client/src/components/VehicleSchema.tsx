@@ -29,7 +29,7 @@ export default function VehicleSchema({
         "name": brand
       },
       "description": description,
-      "image": `https://lackawannagolfcarts.com/attached_assets/${image}`,
+      "image": `https://pikecountygolfcarts.com/attached_assets/${image}`,
       "url": url,
       "category": "Golf Cart",
       "manufacturer": {
@@ -43,9 +43,9 @@ export default function VehicleSchema({
         "priceCurrency": "USD",
         "seller": {
           "@type": "Organization",
-          "name": "Lackawanna County Golf Carts",
+          "name": "Pike County Golf Carts",
           "telephone": "1-844-844-6638",
-          "email": "info@lackawannagolfcarts.com",
+          "email": "info@pikecountygolfcarts.com",
           "address": {
             "@type": "PostalAddress",
             "addressRegion": "PA",

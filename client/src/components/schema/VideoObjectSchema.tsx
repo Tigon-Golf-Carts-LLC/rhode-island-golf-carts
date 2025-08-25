@@ -21,7 +21,7 @@ export default function VideoObjectSchema({
   contentUrl, 
   embedUrl, 
   publisher = {
-    name: "Lackawanna County Golf Carts",
+    name: "Pike County Golf Carts",
     logo: "/logo.png"
   }
 }: VideoObjectSchemaProps) {

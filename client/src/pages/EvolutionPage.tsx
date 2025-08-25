@@ -226,10 +226,10 @@ export default function EvolutionPage() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION Golf Carts Lackawanna County | Premium Electric Vehicles PA"
-        description="Discover EVOLUTION golf carts in Lackawanna County, PA. Complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series. Expert sales & service."
-        keywords="EVOLUTION golf carts Lackawanna County, electric golf carts Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Pennsylvania, EVOLUTION dealers"
-        canonicalUrl="https://lackawannagolfcarts.com/evolution"
+        title="EVOLUTION Golf Carts Pike County | Premium Electric Vehicles PA"
+        description="Discover EVOLUTION golf carts in Pike County, PA. Complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series. Expert sales & service."
+        keywords="EVOLUTION golf carts Pike County, electric golf carts Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Pennsylvania, EVOLUTION dealers"
+        canonicalUrl="https://pikecountygolfcarts.com/evolution"
         ogImage="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
         ogType="product.group"
       />
@@ -249,7 +249,7 @@ export default function EvolutionPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the evolution of electric vehicle excellence. EVOLUTION golf carts deliver 
-              premium quality, innovative design, and reliable performance for Lackawanna County, Pennsylvania.
+              premium quality, innovative design, and reliable performance for Pike County, Pennsylvania.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:1-844-844-6638">
@@ -279,7 +279,7 @@ export default function EvolutionPage() {
                   EVOLUTION represents the perfect balance of innovation, quality, and value in 
                   electric vehicle manufacturing. With a comprehensive lineup ranging from classic 
                   golf carts to high-performance utility vehicles, EVOLUTION delivers solutions 
-                  for every need in Lackawanna County's diverse mountainous and suburban communities.
+                  for every need in Pike County's diverse mountainous and suburban communities.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {evolutionFeatures.map((feature, index) => (
@@ -453,7 +453,7 @@ export default function EvolutionPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose EVOLUTION in Luzerne County?
+                Why Choose EVOLUTION in Pike County?
               </h2>
             </div>
 
@@ -489,7 +489,7 @@ export default function EvolutionPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Support</h3>
                 <p className="text-gray-600">
-                  Expert EVOLUTION service and genuine parts support right here in Luzerne County 
+                  Expert EVOLUTION service and genuine parts support right here in Pike County 
                   with factory-trained technicians and comprehensive warranties.
                 </p>
               </div>
@@ -504,7 +504,7 @@ export default function EvolutionPage() {
               Ready to Experience EVOLUTION?
             </h2>
             <p className="text-xl mb-8">
-              Contact Lackawanna County Golf Carts today to explore the complete EVOLUTION lineup 
+              Contact Pike County Golf Carts today to explore the complete EVOLUTION lineup 
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

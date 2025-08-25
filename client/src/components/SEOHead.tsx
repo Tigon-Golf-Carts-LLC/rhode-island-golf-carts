@@ -13,10 +13,10 @@ interface SEOHeadProps {
 export default function SEOHead({ 
   title, 
   description, 
-  keywords = "golf carts, Luzerne County, electric golf carts, golf cart sales, golf cart service", 
+  keywords = "golf carts, Pike County, electric golf carts, golf cart sales, golf cart service", 
   canonicalUrl,
   townName,
-  ogImage = "/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
+  ogImage = "/attached_assets/Pike County Golf Carts_1753809066045.png",
   ogType = "website"
 }: SEOHeadProps) {
   useEffect(() => {
@@ -61,23 +61,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Lackawanna County Golf Carts_1753809066045.png");
+      existingFavicon.setAttribute("href", "/attached_assets/Pike County Golf Carts_1753809066045.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Lackawanna County Golf Carts_1753809066045.png";
+      favicon.href = "/attached_assets/Pike County Golf Carts_1753809066045.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Lackawanna County Golf Carts_1753809066045.png");
+      existingAppleIcon.setAttribute("href", "/attached_assets/Pike County Golf Carts_1753809066045.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Lackawanna County Golf Carts_1753809066045.png";
+      appleIcon.href = "/attached_assets/Pike County Golf Carts_1753809066045.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -97,8 +97,8 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://lackawannagolfcarts.com${ogImage}`);
-    updateOGTag("og:site_name", "Lackawanna County Golf Carts");
+    updateOGTag("og:image", `https://pikecountygolfcarts.com${ogImage}`);
+    updateOGTag("og:site_name", "Pike County Golf Carts");
     updateOGTag("og:locale", "en_US");
     if (canonicalUrl) {
       updateOGTag("og:url", canonicalUrl);
@@ -120,7 +120,7 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://lackawannagolfcarts.com${ogImage}`);
+    updateTwitterTag("twitter:image", `https://pikecountygolfcarts.com${ogImage}`);
     updateTwitterTag("twitter:site", "@lehighgolfcarts");
     updateTwitterTag("twitter:creator", "@lehighgolfcarts");
 
@@ -138,10 +138,10 @@ export default function SEOHead({
           "addressCountry": "US"
         },
         "telephone": "1-844-844-6638",
-        "email": "info@lackawannagolfcarts.com",
+        "email": "info@pikecountygolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://lackawannagolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
-        "image": `https://lackawannagolfcarts.com${ogImage}`,
+        "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
+        "image": `https://pikecountygolfcarts.com${ogImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {

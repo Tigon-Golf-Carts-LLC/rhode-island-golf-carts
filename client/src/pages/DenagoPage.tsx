@@ -138,10 +138,10 @@ export default function DenagoPage() {
   return (
     <>
       <SEOHead 
-        title="DENAGO Electric Golf Carts Lackawanna County | Premium Off-Road Vehicles PA"
-        description="Discover DENAGO electric golf carts in Lackawanna County, PA. Premium EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology. Sales, service & delivery."
-        keywords="DENAGO golf carts Lackawanna County, electric golf carts Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
-        canonicalUrl="https://lackawannagolfcarts.com/denago"
+        title="DENAGO Electric Golf Carts Pike County | Premium Off-Road Vehicles PA"
+        description="Discover DENAGO electric golf carts in Pike County, PA. Premium EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology. Sales, service & delivery."
+        keywords="DENAGO golf carts Pike County, electric golf carts Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
+        canonicalUrl="https://pikecountygolfcarts.com/denago"
         ogImage="/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
         ogType="product.group"
       />
@@ -161,7 +161,7 @@ export default function DenagoPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the ultimate in electric off-road performance. DENAGO vehicles combine cutting-edge 
-              technology with rugged durability for unmatched adventure capability in Lackawanna County, Pennsylvania.
+              technology with rugged durability for unmatched adventure capability in Pike County, Pennsylvania.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:1-844-844-6638">
@@ -191,7 +191,7 @@ export default function DenagoPage() {
                   DENAGO represents the pinnacle of electric vehicle engineering, combining innovative 
                   all-wheel drive technology with premium comfort features. Each DENAGO is built to 
                   exceed expectations on any terrain while delivering exceptional reliability for 
-                  Lackawanna County's diverse mountainous and suburban landscapes.
+                  Pike County's diverse mountainous and suburban landscapes.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {denagoFeatures.map((feature, index) => (
@@ -373,7 +373,7 @@ export default function DenagoPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose DENAGO in Luzerne County?
+                Why Choose DENAGO in Pike County?
               </h2>
             </div>
 
@@ -400,7 +400,7 @@ export default function DenagoPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Service</h3>
                 <p className="text-gray-600">
-                  Expert DENAGO service and support right here in Luzerne County with 
+                  Expert DENAGO service and support right here in Pike County with 
                   genuine parts and factory-trained technicians.
                 </p>
               </div>
@@ -415,7 +415,7 @@ export default function DenagoPage() {
               Ready to Experience DENAGO?
             </h2>
             <p className="text-xl mb-8">
-              Contact Lackawanna County Golf Carts today to schedule a test drive or learn more 
+              Contact Pike County Golf Carts today to schedule a test drive or learn more 
               about DENAGO's revolutionary electric vehicle technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

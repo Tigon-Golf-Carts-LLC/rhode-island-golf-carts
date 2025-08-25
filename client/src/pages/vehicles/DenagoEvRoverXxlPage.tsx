@@ -12,7 +12,7 @@ export default function DenagoEvRoverXxlPage() {
       seoTitle="DENAGO EV ROVER XXL - Maximum Capacity Golf Cart | Atlantic County Golf Carts"
       seoDescription="Discover the DENAGO EV ROVER XXL electric golf cart in Atlantic County, NJ. Maximum capacity with ultra-premium interior and advanced technology suite."
       seoKeywords="DENAGO EV ROVER XXL, maximum capacity, ultra-premium, Atlantic County, New Jersey, 8-passenger"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/denago-ev-rover-xxl"
+      canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-rover-xxl"
       seats="8"
       range="60 miles"
       topSpeed="25 mph"

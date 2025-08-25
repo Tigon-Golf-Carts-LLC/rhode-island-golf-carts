@@ -124,10 +124,10 @@ export default function ContactPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("contact")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Contact Lackawanna County Golf Carts
+              Contact Pike County Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Get in touch with our team for sales, service, and support throughout Lackawanna County, Pennsylvania. 
+              Get in touch with our team for sales, service, and support throughout Pike County, Pennsylvania. 
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -137,7 +137,7 @@ export default function ContactPage() {
                   Call 1-844-844-6638
                 </Button>
               </a>
-              <a href="mailto:info@lackawannagolfcarts.com">
+              <a href="mailto:info@pikecountygolfcarts.com">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Us

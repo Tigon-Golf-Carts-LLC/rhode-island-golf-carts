@@ -125,10 +125,10 @@ interface AllSchemasProps {
 
 export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps) {
   const {
-    title = "Lackawanna County Golf Carts",
-    description = "Premier golf cart dealership in Lackawanna County, Pennsylvania",
-    url = "https://lackawannagolfcarts.com",
-    breadcrumbs = [{ name: "Home", url: "https://lackawannagolfcarts.com/" }],
+    title = "Pike County Golf Carts",
+    description = "Premier golf cart dealership in Pike County, Pennsylvania",
+    url = "https://pikecountygolfcarts.com",
+    breadcrumbs = [{ name: "Home", url: "https://pikecountygolfcarts.com/" }],
     vehicleName,
     vehicleBrand,
     vehicleModel,
@@ -166,18 +166,18 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Auto Dealer Schema for all pages */}
       <AutoDealerSchema
-        name="Lackawanna County Golf Carts"
-        description="Premier electric golf cart dealership serving Lackawanna County, Pennsylvania with sales, service, rentals, and financing"
-        url="https://lackawannagolfcarts.com"
+        name="Pike County Golf Carts"
+        description="Premier electric golf cart dealership serving Pike County, Pennsylvania with sales, service, rentals, and financing"
+        url="https://pikecountygolfcarts.com"
         address={{
           streetAddress: "Various Locations",
-          addressLocality: "Lackawanna County",
+          addressLocality: "Pike County",
           addressRegion: "PA",
           postalCode: "18101",
           addressCountry: "US"
         }}
         telephone="1-844-844-6638"
-        email="info@lackawannagolfcarts.com"
+        email="info@pikecountygolfcarts.com"
         brands={["DENAGO", "EVOLUTION"]}
         services={["Golf Cart Sales", "Golf Cart Service", "Golf Cart Rentals", "Financing", "Parts & Accessories"]}
         openingHours={[
@@ -195,8 +195,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       <ContactPointSchema
         contactType="customer service"
         telephone="1-844-844-6638"
-        email="info@lackawannagolfcarts.com"
-        areaServed="Lackawanna County, Pennsylvania"
+        email="info@pikecountygolfcarts.com"
+        areaServed="Pike County, Pennsylvania"
         availableLanguage={["English"]}
         hoursAvailable={[
           { dayOfWeek: "Monday", opens: "09:00", closes: "18:00" },
@@ -211,7 +211,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Menu Schema for site navigation */}
       <MenuSchema
-        name="Lackawanna County Golf Carts Navigation"
+        name="Pike County Golf Carts Navigation"
         description="Main website navigation menu"
         hasMenuSection={[
           {
@@ -251,7 +251,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             name={vehicleName}
             brand={vehicleBrand}
             model={vehicleModel}
-            description={`${vehicleBrand} ${vehicleModel} electric golf cart available at Lackawanna County Golf Carts`}
+            description={`${vehicleBrand} ${vehicleModel} electric golf cart available at Pike County Golf Carts`}
             image={vehicleImage}
             price={vehiclePrice}
             features={vehicleFeatures}
@@ -277,7 +277,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             features={vehicleFeatures}
             manufacturer={{
               name: vehicleBrand,
-              url: `https://lackawannagolfcarts.com/${vehicleBrand.toLowerCase()}`
+              url: `https://pikecountygolfcarts.com/${vehicleBrand.toLowerCase()}`
             }}
           />
           <VehicleSchemaOld
@@ -306,8 +306,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <BrandSchema
             name={vehicleBrand}
-            description={`${vehicleBrand} electric golf carts available at Lackawanna County Golf Carts`}
-            url={`https://lackawannagolfcarts.com/${vehicleBrand.toLowerCase()}`}
+            description={`${vehicleBrand} electric golf carts available at Pike County Golf Carts`}
+            url={`https://pikecountygolfcarts.com/${vehicleBrand.toLowerCase()}`}
             manufacturer={vehicleBrand}
             products={[{
               name: vehicleName,
@@ -322,7 +322,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "inventory" && (
         <>
           <CollectionPageSchema
-            name="Golf Cart Inventory - Lackawanna County Golf Carts"
+            name="Golf Cart Inventory - Pike County Golf Carts"
             description="Browse our complete inventory of electric golf carts from DENAGO and EVOLUTION"
             url={url}
             mainEntity={collectionItems.length > 0 ? collectionItems : [
@@ -347,7 +347,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               },
               {
                 question: "Do you provide delivery service?",
-                answer: "Yes, we provide delivery service throughout Lackawanna County and surrounding areas in Pennsylvania."
+                answer: "Yes, we provide delivery service throughout Pike County and surrounding areas in Pennsylvania."
               }
             ]}
           />
@@ -365,7 +365,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <PlaceSchema
             name={`${locationName} ${locationType}`}
-            description={`Golf cart sales and service in ${locationName} ${locationType}, Lackawanna County, Pennsylvania`}
+            description={`Golf cart sales and service in ${locationName} ${locationType}, Pike County, Pennsylvania`}
             address={{
               addressLocality: locationName,
               addressRegion: "PA",
@@ -378,17 +378,17 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             telephone="1-844-844-6638"
             url={url}
             containedInPlace={{
-              name: "Lackawanna County",
+              name: "Pike County",
               type: "AdministrativeArea"
             }}
           />
           <ServiceSchema
             serviceName={`Golf Cart Services in ${locationName} ${locationType}`}
-            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Lackawanna County, PA`}
-            areaServed={`${locationName} ${locationType}, Lackawanna County, PA`}
+            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Pike County, PA`}
+            areaServed={`${locationName} ${locationType}, Pike County, PA`}
           />
           <AutoDealerSchema
-            name={`Lackawanna County Golf Carts - ${locationName} Service`}
+            name={`Pike County Golf Carts - ${locationName} Service`}
             description={`Premier golf cart dealership serving ${locationName} ${locationType} and surrounding areas`}
             url={url}
             address={{
@@ -399,7 +399,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               addressCountry: "US"
             }}
             telephone="1-844-844-6638"
-            email="info@lackawannagolfcarts.com"
+            email="info@pikecountygolfcarts.com"
             brands={["DENAGO", "EVOLUTION"]}
             services={["Golf Cart Sales", "Service & Repair", "Rentals", "Parts & Accessories"]}
           />
@@ -416,8 +416,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             longitude={locationLongitude}
           />
           <RentalCarAgencySchema
-            name={`Lackawanna County Golf Carts - ${locationName} Rentals`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Lackawanna County, Pennsylvania`}
+            name={`Pike County Golf Carts - ${locationName} Rentals`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Pike County, Pennsylvania`}
             url={url}
             address={{
               streetAddress: "Service Area",
@@ -427,19 +427,19 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               addressCountry: "US"
             }}
             telephone="1-844-844-6638"
-            email="info@lackawannagolfcarts.com"
-            areaServed={`${locationName} ${locationType}, Lackawanna County, PA`}
+            email="info@pikecountygolfcarts.com"
+            areaServed={`${locationName} ${locationType}, Pike County, PA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater from $245/day, 6-Seater from $295/day, Utility from $245/day" },
-              { type: "Delivery", description: "Professional delivery within Lackawanna County" },
+              { type: "Delivery", description: "Professional delivery within Pike County" },
               { type: "Insurance", description: "Full coverage included with all rentals" }
             ]}
           />
           <ServiceSchema
             serviceName={`Golf Cart Rentals in ${locationName} ${locationType}`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Lackawanna County, Pennsylvania`}
-            areaServed={`${locationName} ${locationType}, Lackawanna County, PA`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Pike County, Pennsylvania`}
+            areaServed={`${locationName} ${locationType}, Pike County, PA`}
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -463,7 +463,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             faqs={[
               {
                 question: `Do you deliver golf cart rentals to ${locationName}?`,
-                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Lackawanna County, Pennsylvania.`
+                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Pike County, Pennsylvania.`
               },
               {
                 question: "What types of golf carts are available for rent?",
@@ -486,7 +486,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Services"
-            description="Comprehensive golf cart sales, service, repair, and maintenance in Lackawanna County, Pennsylvania"
+            description="Comprehensive golf cart sales, service, repair, and maintenance in Pike County, Pennsylvania"
             offers={serviceOffers}
           />
           <OfferSchema
@@ -504,7 +504,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Sales"
-            description="New and used electric golf cart sales in Lackawanna County, Pennsylvania"
+            description="New and used electric golf cart sales in Pike County, Pennsylvania"
           />
           <OfferSchema
             itemOffered={{
@@ -521,7 +521,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Rentals"
-            description="Golf cart rental services throughout Lackawanna County, Pennsylvania"
+            description="Golf cart rental services throughout Pike County, Pennsylvania"
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -529,25 +529,25 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             ]}
           />
           <RentalCarAgencySchema
-            name="Lackawanna County Golf Carts - Rental Services"
-            description="Professional golf cart rental services throughout Lackawanna County, Pennsylvania"
-            url="https://lackawannagolfcarts.com/rentals"
+            name="Pike County Golf Carts - Rental Services"
+            description="Professional golf cart rental services throughout Pike County, Pennsylvania"
+            url="https://pikecountygolfcarts.com/rentals"
             address={{
               streetAddress: "Service Area",
-              addressLocality: "Lackawanna County",
+              addressLocality: "Pike County",
               addressRegion: "PA",
               postalCode: "18101",
               addressCountry: "US"
             }}
             telephone="1-844-844-6638"
-            email="info@lackawannagolfcarts.com"
-            areaServed="Lackawanna County, Pennsylvania"
+            email="info@pikecountygolfcarts.com"
+            areaServed="Pike County, Pennsylvania"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater and Utility from $245/day, 6-Seater from $295/day" },
               { type: "Weekly Rental", description: "Save with weekly rates starting at $1,400/week" },
               { type: "Monthly Rental", description: "Best value with monthly rates starting at $4,200/month" },
-              { type: "Delivery", description: "Professional delivery throughout Lackawanna County" },
+              { type: "Delivery", description: "Professional delivery throughout Pike County" },
               { type: "Insurance", description: "Full coverage included with all rentals" }
             ]}
           />
@@ -555,7 +555,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             itemOffered={{
               name: "Golf Cart Rental",
               type: "Service",
-              description: "Daily, weekly, and monthly golf cart rentals in Lackawanna County",
+              description: "Daily, weekly, and monthly golf cart rentals in Pike County",
               category: "Rental Service"
             }}
             priceSpecification={[
@@ -606,8 +606,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {/* Always include main company image */}
       <ImageObjectSchema
         url="/logo.png"
-        name="Lackawanna County Golf Carts Logo"
-        description="Lackawanna County Golf Carts company logo featuring professional golf cart branding"
+        name="Pike County Golf Carts Logo"
+        description="Pike County Golf Carts company logo featuring professional golf cart branding"
         width={400}
         height={400}
       />
@@ -628,8 +628,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               endDate={event.endDate}
               location={event.location}
               organizer={{
-                name: "Lackawanna County Golf Carts",
-                url: "https://lackawannagolfcarts.com"
+                name: "Pike County Golf Carts",
+                url: "https://pikecountygolfcarts.com"
               }}
             />
           ))}
@@ -639,7 +639,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "brand" && brandName && (
         <BrandSchema
           name={brandName}
-          description={brandDescription || `${brandName} electric golf carts available at Lackawanna County Golf Carts`}
+          description={brandDescription || `${brandName} electric golf carts available at Pike County Golf Carts`}
           url={url}
           logo={brandLogo}
           manufacturer={brandName}
@@ -650,7 +650,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "home" && (
         <>
           <HowToSchema
-            name="How to Buy a Golf Cart from Lackawanna County Golf Carts"
+            name="How to Buy a Golf Cart from Pike County Golf Carts"
             description="Step-by-step guide to purchasing your perfect electric golf cart"
             steps={[
               {
@@ -677,14 +677,14 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           {/* VideoObjectSchema temporarily disabled due to props issue */}
           {/* <VideoObjectSchema
-            name="Lackawanna County Golf Carts - Electric Vehicle Showcase"
+            name="Pike County Golf Carts - Electric Vehicle Showcase"
             description="Watch our showcase of premium electric golf carts from DENAGO and EVOLUTION brands"
             thumbnailUrl="/attached_assets/image_1753728346042.png"
             embedUrl={`${url}#video-showcase`}
             duration="PT3M45S"
             uploadDate="2024-12-01"
             publisher={{
-              name: "Lackawanna County Golf Carts",
+              name: "Pike County Golf Carts",
               logo: "/logo.png"
             }}
           /> */}

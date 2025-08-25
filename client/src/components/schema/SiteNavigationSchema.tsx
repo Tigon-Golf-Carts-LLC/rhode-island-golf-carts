@@ -12,13 +12,13 @@ interface SiteNavigationSchemaProps {
 
 export default function SiteNavigationSchema({ 
   navigationItems = [
-    { name: "Home", url: "https://lackawannagolfcarts.com/", description: "Lackawanna County Golf Carts homepage" },
-    { name: "Inventory", url: "https://lackawannagolfcarts.com/inventory", description: "Browse our golf cart inventory" },
-    { name: "Rentals", url: "https://lackawannagolfcarts.com/rentals", description: "Golf cart rental services" },
-    { name: "Services", url: "https://lackawannagolfcarts.com/services", description: "Golf cart maintenance and repair services" },
-    { name: "Showroom", url: "https://lackawannagolfcarts.com/showroom", description: "Visit our showroom locations" },
-    { name: "About", url: "https://lackawannagolfcarts.com/about", description: "About Lackawanna County Golf Carts" },
-    { name: "Contact", url: "https://lackawannagolfcarts.com/contact", description: "Contact information and locations" }
+    { name: "Home", url: "https://pikecountygolfcarts.com/", description: "Pike County Golf Carts homepage" },
+    { name: "Inventory", url: "https://pikecountygolfcarts.com/inventory", description: "Browse our golf cart inventory" },
+    { name: "Rentals", url: "https://pikecountygolfcarts.com/rentals", description: "Golf cart rental services" },
+    { name: "Services", url: "https://pikecountygolfcarts.com/services", description: "Golf cart maintenance and repair services" },
+    { name: "Showroom", url: "https://pikecountygolfcarts.com/showroom", description: "Visit our showroom locations" },
+    { name: "About", url: "https://pikecountygolfcarts.com/about", description: "About Pike County Golf Carts" },
+    { name: "Contact", url: "https://pikecountygolfcarts.com/contact", description: "Contact information and locations" }
   ]
 }: SiteNavigationSchemaProps) {
   useEffect(() => {
@@ -29,7 +29,7 @@ export default function SiteNavigationSchema({
       "about": {
         "@type": "WebSite",
         "name": "Atlantic County Golf Carts",
-        "url": "https://lackawannagolfcarts.com"
+        "url": "https://pikecountygolfcarts.com"
       },
       "hasPart": navigationItems.map((item, index) => ({
         "@type": "WebPageElement",

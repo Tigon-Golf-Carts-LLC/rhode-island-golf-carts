@@ -18,8 +18,8 @@ export default function ServiceSchema({
   serviceName,
   description,
   serviceType = "Golf Cart Service",
-  provider = "Lackawanna County Golf Carts",
-  areaServed = "Luzerne County, PA",
+  provider = "Pike County Golf Carts",
+  areaServed = "Pike County, PA",
   availableChannel = ["https://schema.org/OnlineChannel", "https://schema.org/InStoreChannel"],
   offers = []
 }: ServiceSchemaProps) {
@@ -34,7 +34,7 @@ export default function ServiceSchema({
         "@type": "LocalBusiness",
         "name": provider,
         "telephone": "1-844-844-6638",
-        "email": "info@lackawannagolfcarts.com",
+        "email": "info@pikecountygolfcarts.com",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Jim Thorpe",
@@ -43,7 +43,7 @@ export default function ServiceSchema({
         },
         "logo": {
           "@type": "ImageObject",
-          "url": "https://lackawannagolfcarts.com/logo.png"
+          "url": "https://pikecountygolfcarts.com/logo.png"
         }
       },
       "areaServed": {
@@ -52,7 +52,7 @@ export default function ServiceSchema({
       },
       "availableChannel": availableChannel.map(channel => ({
         "@type": "ServiceChannel",
-        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://lackawannagolfcarts.com" : undefined,
+        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://pikecountygolfcarts.com" : undefined,
         "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "1-844-844-6638" : undefined
       })),
       ...(offers.length > 0 && {

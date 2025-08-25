@@ -12,7 +12,7 @@ export default function DenagoEvNomadXlPage() {
       seoTitle="DENAGO EV NOMAD XL - Extended Adventure Golf Cart | Atlantic County Golf Carts"
       seoDescription="Experience the DENAGO EV NOMAD XL electric golf cart in Atlantic County, NJ. Extended range premium off-road package with enhanced cargo space."
       seoKeywords="DENAGO EV NOMAD XL, extended range golf cart, premium off-road, Atlantic County, New Jersey"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/denago-ev-nomad-xl"
+      canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-nomad-xl"
       seats="4"
       range="55 miles"
       topSpeed="25 mph"

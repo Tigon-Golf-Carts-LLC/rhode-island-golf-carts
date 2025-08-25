@@ -1,5 +1,5 @@
-// Background image utility for Lackawanna County Golf Carts
-// Uses the 8 professional showroom images featuring the modern Lackawanna County Golf Carts dealership
+// Background image utility for Pike County Golf Carts
+// Uses the 8 professional showroom images featuring the modern Pike County Golf Carts dealership
 
 const BACKGROUND_IMAGES = [
   '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_4zG-0v0fRsSU5AxGt_cEfA_A0HlJrJtSJOlpyerLK2j5Q_1753965748393.png',

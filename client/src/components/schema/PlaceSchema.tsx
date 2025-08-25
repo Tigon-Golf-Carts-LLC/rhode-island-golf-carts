@@ -64,7 +64,7 @@ export default function PlaceSchema({
       }),
       "image": {
         "@type": "ImageObject",
-        "url": "https://lackawannagolfcarts.com/logo.png"
+        "url": "https://pikecountygolfcarts.com/logo.png"
       }
     };
     

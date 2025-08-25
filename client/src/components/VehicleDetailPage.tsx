@@ -86,8 +86,8 @@ export default function VehicleDetailPage({
           description: seoDescription,
           url: canonicalUrl,
           breadcrumbs: [
-            { name: "Home", url: "https://lackawannagolfcarts.com/" },
-            { name: "Inventory", url: "https://lackawannagolfcarts.com/inventory" },
+            { name: "Home", url: "https://pikecountygolfcarts.com/" },
+            { name: "Inventory", url: "https://pikecountygolfcarts.com/inventory" },
             { name: vehicleName, url: canonicalUrl }
           ],
           vehicleName,
@@ -107,7 +107,7 @@ export default function VehicleDetailPage({
             },
             {
               author: "Susan Rodriguez",
-              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Lackawanna County Golf Carts.`,
+              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Pike County Golf Carts.`,
               reviewRating: 5,
               datePublished: "2025-01-18",
               headline: "Excellent purchase experience"

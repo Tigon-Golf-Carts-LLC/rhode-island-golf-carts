@@ -87,23 +87,23 @@ export default function ServicesPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Lackawanna County Golf Cart Services - Expert Maintenance & Repair in PA"
-        description="Professional golf cart maintenance, repair, customization, and warranty services in Lackawanna County, Pennsylvania. Certified technicians, quality parts, and comprehensive care."
-        keywords="golf cart service Lackawanna County PA, golf cart repair Pennsylvania, golf cart maintenance, battery service, customization"
-        canonicalUrl="https://lackawannagolfcarts.com/services"
+        title="Pike County Golf Cart Services - Expert Maintenance & Repair in PA"
+        description="Professional golf cart maintenance, repair, customization, and warranty services in Pike County, Pennsylvania. Certified technicians, quality parts, and comprehensive care."
+        keywords="golf cart service Pike County PA, golf cart repair Pennsylvania, golf cart maintenance, battery service, customization"
+        canonicalUrl="https://pikecountygolfcarts.com/services"
       />
       <AllSchemas 
         pageType="services" 
         pageData={{
-          title: "Lackawanna County Golf Cart Services",
-          description: "Professional golf cart maintenance, repair, customization, and warranty services in Lackawanna County, Pennsylvania. Certified technicians, quality parts, and comprehensive care.",
-          url: "https://lackawannagolfcarts.com/services",
+          title: "Pike County Golf Cart Services",
+          description: "Professional golf cart maintenance, repair, customization, and warranty services in Pike County, Pennsylvania. Certified technicians, quality parts, and comprehensive care.",
+          url: "https://pikecountygolfcarts.com/services",
           breadcrumbs: [
-            { name: "Home", url: "https://lackawannagolfcarts.com/" },
-            { name: "Services", url: "https://lackawannagolfcarts.com/services" }
+            { name: "Home", url: "https://pikecountygolfcarts.com/" },
+            { name: "Services", url: "https://pikecountygolfcarts.com/services" }
           ],
           serviceName: "Golf Cart Services",
-          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in Lackawanna County, Pennsylvania",
+          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in Pike County, Pennsylvania",
           serviceOffers: [
             { price: "Contact for pricing", description: "Maintenance & Repair Services" },
             { price: "Contact for pricing", description: "Battery Service & Replacement" },
@@ -117,10 +117,10 @@ export default function ServicesPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("services")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-              Golf Cart Services in Lackawanna County
+              Golf Cart Services in Pike County
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Professional maintenance, repair, and customization services for all golf cart brands throughout Lackawanna County, Pennsylvania.
+              Professional maintenance, repair, and customization services for all golf cart brands throughout Pike County, Pennsylvania.
             </p>
           <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
             Schedule Service
@@ -216,7 +216,7 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Service Areas</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout Luzerne County and surrounding areas
+            We proudly serve customers throughout Pike County and surrounding areas
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">

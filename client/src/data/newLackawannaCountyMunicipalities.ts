@@ -5,7 +5,7 @@ export interface Municipality {
   url: string;
 }
 
-// New Lackawanna County municipalities for golf cart business
+// New Pike County municipalities for golf cart business
 export const NEW_LACKAWANNA_COUNTY_MUNICIPALITIES: Municipality[] = [
   // Major City
   { name: 'Scranton', type: 'City', slug: 'scranton', url: '/scranton-golf-carts' },
@@ -33,15 +33,15 @@ export const NEW_LACKAWANNA_COUNTY_MUNICIPALITIES: Municipality[] = [
   { name: 'Waverly', type: 'Township', slug: 'waverly-township', url: '/waverly-township-golf-carts' },
 ];
 
-// Lackawanna County coordinates (center of county near Scranton)
+// Pike County coordinates (center of county near Scranton)
 export const NEW_LACKAWANNA_COUNTY_COORDINATES = {
   latitude: 41.4993,
   longitude: -75.6649
 };
 
-// Lackawanna County basic information
+// Pike County basic information
 export const NEW_LACKAWANNA_COUNTY_INFO = {
-  name: 'Lackawanna County',
+  name: 'Pike County',
   state: 'Pennsylvania',
   totalMunicipalities: 19, // 1 city + 11 boroughs + 7 townships
   countySeat: 'Scranton',

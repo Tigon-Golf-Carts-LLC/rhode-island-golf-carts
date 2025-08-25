@@ -371,7 +371,7 @@ export default function HomePage() {
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Luzerne County, PA Map"
+                  title="Pike County, PA Map"
                 />
               </div>
             </div>
@@ -379,7 +379,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Lackawanna County Municipalities Section */}
+      {/* Pike County Municipalities Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
@@ -389,7 +389,7 @@ export default function HomePage() {
             Professional golf cart services delivered to your city, borough, or township
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
-            {/* Complete Lackawanna County Municipality List - dynamically generated */}
+            {/* Complete Pike County Municipality List - dynamically generated */}
             {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality) => (
               <Link 
                 key={municipality.slug} 

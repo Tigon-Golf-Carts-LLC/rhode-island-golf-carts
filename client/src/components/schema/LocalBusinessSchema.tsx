@@ -24,8 +24,8 @@ interface LocalBusinessSchemaProps {
 }
 
 export default function LocalBusinessSchema({
-  name = "Lackawanna County Golf Carts",
-  description = "Premier golf cart dealership in Lackawanna County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
+  name = "Pike County Golf Carts",
+  description = "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
     streetAddress: "123 Golf Cart Lane",
     addressLocality: "Scranton",
@@ -38,8 +38,8 @@ export default function LocalBusinessSchema({
     longitude: "-75.6624"
   },
   telephone = "1-844-844-6638",
-  email = "info@lackawannagolfcarts.com",
-  url = "https://lackawannagolfcarts.com",
+  email = "info@pikecountygolfcarts.com",
+  url = "https://pikecountygolfcarts.com",
   openingHours = [
     "Mo-Fr 09:00-18:00",
     "Sa 09:00-17:00",
@@ -47,7 +47,7 @@ export default function LocalBusinessSchema({
   ],
   paymentAccepted = ["Cash", "Credit Card", "Debit Card", "Check", "Financing"],
   businessType = "Golf Cart Dealership",
-  areaServed = "Lackawanna County, PA"
+  areaServed = "Pike County, PA"
 }: LocalBusinessSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -57,13 +57,13 @@ export default function LocalBusinessSchema({
       "description": description,
       "image": {
         "@type": "ImageObject",
-        "url": "https://lackawannagolfcarts.com/logo.png",
+        "url": "https://pikecountygolfcarts.com/logo.png",
         "width": 400,
         "height": 400
       },
       "logo": {
         "@type": "ImageObject",
-        "url": "https://lackawannagolfcarts.com/logo.png",
+        "url": "https://pikecountygolfcarts.com/logo.png",
         "width": 400,
         "height": 400
       },

@@ -49,7 +49,7 @@ export default function NewInventoryPage() {
         title="Golf Cart Inventory - New & Used | Atlantic County Golf Carts"
         description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION. Find the perfect electric vehicle for your needs in Atlantic County, NJ."
         keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Atlantic County golf carts"
-        canonicalUrl="https://lackawannagolfcarts.com/inventory"
+        canonicalUrl="https://pikecountygolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-bright-modern-golf-car_iofSws5mRiCxoMwQwuXw4A_Yv-NWBaTQQ6ofRhClJiiIw_1753454023367.png"
         ogType="website"
       />

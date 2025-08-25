@@ -11,10 +11,10 @@ export default function DenagoEvNomad() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV NOMAD - Adventure Electric Vehicle | Lackawanna County Golf Carts"
+        title="DENAGO® EV NOMAD - Adventure Electric Vehicle | Pike County Golf Carts"
         description="Discover the DENAGO® EV NOMAD designed for outdoor adventures and off-road capability. Perfect for camping, hunting, and recreational activities."
-        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Luzerne County"
-        canonicalUrl="https://lackawannagolfcarts.com/vehicles/denago-ev-nomad"
+        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
         ogType="product"
       />

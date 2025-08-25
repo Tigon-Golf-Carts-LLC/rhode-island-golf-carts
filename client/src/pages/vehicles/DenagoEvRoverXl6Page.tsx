@@ -12,7 +12,7 @@ export default function DenagoEvRoverXl6Page() {
       seoTitle="DENAGO EV ROVER XL6 - Extended 6-Seat Golf Cart | Atlantic County Golf Carts"
       seoDescription="Experience the DENAGO EV ROVER XL6 electric golf cart in Atlantic County, NJ. Extended 6-seat configuration with premium materials and enhanced comfort."
       seoKeywords="DENAGO EV ROVER XL6, extended 6-seat, premium golf cart, Atlantic County, New Jersey"
-      canonicalUrl="https://lackawannagolfcarts.com/vehicles/denago-ev-rover-xl6"
+      canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-rover-xl6"
       seats="6"
       range="50 miles"
       topSpeed="25 mph"
