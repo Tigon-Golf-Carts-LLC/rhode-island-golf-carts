@@ -10,7 +10,7 @@ export default function DenagoEvRoverXlPage() {
       price="$9,995"
       image={denagoEvRoverXLImage}
       seoTitle="DENAGO EV ROVER XL - Luxury Family Golf Cart | Atlantic County Golf Carts"
-      seoDescription="Discover the DENAGO EV ROVER XL electric golf cart in Atlantic County, NJ. 6-passenger seating with luxury interior and advanced safety features."
+      seoDescription="Discover the DENAGO EV ROVER XL electric golf cart in Atlantic County, PA. 6-passenger seating with luxury interior and advanced safety features."
       seoKeywords="DENAGO EV ROVER XL, luxury golf cart, 6-passenger, Atlantic County, New Jersey, family vehicle"
       canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-rover-xl"
       seats="6"

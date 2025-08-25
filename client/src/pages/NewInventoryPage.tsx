@@ -47,7 +47,7 @@ export default function NewInventoryPage() {
     <>
       <SEOHead 
         title="Golf Cart Inventory - New & Used | Atlantic County Golf Carts"
-        description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION. Find the perfect electric vehicle for your needs in Atlantic County, NJ."
+        description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION. Find the perfect electric vehicle for your needs in Atlantic County, PA."
         keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Atlantic County golf carts"
         canonicalUrl="https://pikecountygolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-bright-modern-golf-car_iofSws5mRiCxoMwQwuXw4A_Yv-NWBaTQQ6ofRhClJiiIw_1753454023367.png"
@@ -287,11 +287,11 @@ export default function NewInventoryPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Montgomery County Service</CardTitle>
+                  <CardTitle>Pike County Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Montgomery County and surrounding areas.
+                    Delivery and pickup available throughout Pike County and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

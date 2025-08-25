@@ -10,9 +10,9 @@ export default function EvolutionForester4Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® FORESTER 4 PLUS - Premium Utility Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® FORESTER 4 PLUS - Premium Utility Golf Cart | Pike County Golf Carts"
         description="Discover the EVOLUTION® FORESTER 4 PLUS lineup and its unique features. Premium electric utility vehicle designed for rugged terrain and heavy-duty work."
-        keywords="EVOLUTION FORESTER 4 PLUS, utility golf cart, electric utility vehicle, work cart, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION FORESTER 4 PLUS, utility golf cart, electric utility vehicle, work cart, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -97,7 +97,7 @@ export default function EvolutionForester4Plus() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Pike County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Utility Features</h2>

@@ -332,7 +332,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* About Montgomery County Golf Carts Section */}
+      {/* About Pike County Golf Carts Section */}
       <section className="py-12 md:py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">

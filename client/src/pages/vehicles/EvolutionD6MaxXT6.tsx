@@ -10,9 +10,9 @@ export default function EvolutionD6MaxXT6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D6 Max XT6 - Maximum Off-Road Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® D6 Max XT6 - Maximum Off-Road Golf Cart | Pike County Golf Carts"
         description="Experience the EVOLUTION® D6 Max XT6 with maximum off-road capability. Six-passenger extreme terrain golf cart with adventure features and rugged design."
-        keywords="EVOLUTION D6 Max XT6, extreme terrain golf cart, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION D6 Max XT6, extreme terrain golf cart, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

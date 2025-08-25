@@ -10,7 +10,7 @@ export default function EvolutionClassic4PlusPage() {
       price="$6,995"
       image={evolutionClassic4PlusImage}
       seoTitle="EVOLUTION CLASSIC 4 PLUS - Traditional Golf Cart | Atlantic County Golf Carts"
-      seoDescription="Experience the EVOLUTION CLASSIC 4 PLUS electric golf cart in Atlantic County, NJ. Traditional 4-passenger golf cart with classic design and reliable performance."
+      seoDescription="Experience the EVOLUTION CLASSIC 4 PLUS electric golf cart in Atlantic County, PA. Traditional 4-passenger golf cart with classic design and reliable performance."
       seoKeywords="EVOLUTION CLASSIC 4 PLUS, traditional golf cart, classic design, Atlantic County, New Jersey"
       canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-classic-4-plus"
       seats="4"

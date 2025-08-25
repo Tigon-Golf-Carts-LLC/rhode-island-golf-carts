@@ -11,9 +11,9 @@ export default function EvolutionClassic4Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® CLASSIC 4 PLUS - Premium Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® CLASSIC 4 PLUS - Premium Golf Cart | Pike County Golf Carts"
         description="Experience the EVOLUTION® CLASSIC 4 PLUS with timeless design and modern electric performance. Classic styling meets contemporary technology."
-        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

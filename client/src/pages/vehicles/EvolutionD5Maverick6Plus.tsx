@@ -10,9 +10,9 @@ export default function EvolutionD5Maverick6Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 Maverick 6 Plus - Luxury Family Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® D5 Maverick 6 Plus - Luxury Family Golf Cart | Pike County Golf Carts"
         description="Experience the EVOLUTION® D5 Maverick 6 Plus with luxury amenities and extended range. Six-passenger family golf cart with premium comfort features."
-        keywords="EVOLUTION D5 Maverick 6 Plus, luxury golf cart, 6-passenger, family ready, premium comfort, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION D5 Maverick 6 Plus, luxury golf cart, 6-passenger, family ready, premium comfort, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

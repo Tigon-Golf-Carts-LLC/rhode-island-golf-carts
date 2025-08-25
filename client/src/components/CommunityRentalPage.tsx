@@ -19,9 +19,9 @@ function CommunityRentalPage({
   slug 
 }: CommunityRentalPageProps) {
   const locationText = parentMunicipality ? `${communityName} (${parentMunicipality})` : communityName;
-  const pageTitle = `Golf Cart Rentals in ${communityName}, Montgomery County | Premium Rental Services`;
-  const pageDescription = `Rent premium golf carts in ${communityName}, Montgomery County, PA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
-  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, Montgomery County golf cart rental, Pennsylvania golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${communityName}, Pike County | Premium Rental Services`;
+  const pageDescription = `Rent premium golf carts in ${communityName}, Pike County, PA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
+  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, Pike County golf cart rental, Pennsylvania golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -183,7 +183,7 @@ function CommunityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://montcogolfcarts.com/${slug}`}
+        canonicalUrl={`https://pikecountygolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -212,7 +212,7 @@ function CommunityRentalPage({
         {/* Hero Section */}
         <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
           <div className="max-w-7xl mx-auto text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800">Montgomery County Golf Carts</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800">Pike County Golf Carts</Badge>
             <h1 className="text-5xl font-bold mb-6">
               Golf Cart Rentals in {locationText}
             </h1>
@@ -246,7 +246,7 @@ function CommunityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {communityName} 
-                and throughout Montgomery County, Pennsylvania.
+                and throughout Pike County, Pennsylvania.
               </p>
             </div>
 
@@ -305,7 +305,7 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Email Us</h3>
                 <p className="text-gray-600 mb-4">Get rental information and quotes</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-lg font-semibold text-gray-700">info@montcogolfcarts.com</span>
+                  <span className="text-lg font-semibold text-gray-700">info@pikecountygolfcarts.com</span>
                   <Link href="/contact">
                     <Button className="bg-blue-600 hover:bg-blue-700 text-white">
                       Contact Form

@@ -10,9 +10,9 @@ export default function DenagoEvNomadXL() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV Nomad XL - Adventure Electric Vehicle | Ocean County Golf Carts"
+        title="DENAGO® EV Nomad XL - Adventure Electric Vehicle | Pike County Golf Carts"
         description="Discover the DENAGO® EV Nomad XL with extended seating and enhanced storage. Perfect for larger adventure groups with superior performance."
-        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger golf cart, DENAGO dealer Ocean County"
+        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger golf cart, DENAGO dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

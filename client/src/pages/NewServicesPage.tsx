@@ -41,10 +41,10 @@ export default function NewServicesPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Services & Repair | Montgomery County Golf Carts"
-        description="Professional golf cart services including maintenance, repair, battery service, and custom modifications. Serving Montgomery County, PA with certified technicians."
-        keywords="golf cart service, golf cart repair, battery replacement, maintenance, Montgomery County"
-        canonicalUrl="https://montcogolfcarts.com/services"
+        title="Golf Cart Services & Repair | Pike County Golf Carts"
+        description="Professional golf cart services including maintenance, repair, battery service, and custom modifications. Serving Pike County, PA with certified technicians."
+        keywords="golf cart service, golf cart repair, battery replacement, maintenance, Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/services"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
         ogType="website"
       />
@@ -215,7 +215,7 @@ export default function NewServicesPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    On-site service available throughout Ocean County for major repairs and maintenance.
+                    On-site service available throughout Pike County for major repairs and maintenance.
                   </p>
                 </CardContent>
               </Card>

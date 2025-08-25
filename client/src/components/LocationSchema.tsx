@@ -96,8 +96,8 @@ export default function LocationSchema({
         ...baseStructuredData,
         "@type": ["LocalBusiness", "RentalCarAgency"],
         "name": `Golf Cart Rentals - ${municipalityName} ${municipalityType}`,
-        "description": `Professional golf cart rentals in ${municipalityName} ${municipalityType}, Montgomery County. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
-        "url": `https://montcogolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-${municipalityType.toLowerCase()}-rentals`,
+        "description": `Professional golf cart rentals in ${municipalityName} ${municipalityType}, Pike County. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
+        "url": `https://pikecountygolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-${municipalityType.toLowerCase()}-rentals`,
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
           "name": `Golf Cart Rental Services in ${municipalityName} ${municipalityType}`,

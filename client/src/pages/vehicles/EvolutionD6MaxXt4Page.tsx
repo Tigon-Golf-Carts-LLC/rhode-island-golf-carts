@@ -10,7 +10,7 @@ export default function EvolutionD6MaxXt4Page() {
       price="$15,595"
       image={evolutionD6MaxXT4Image}
       seoTitle="EVOLUTION D6 MAX XT4 - High-Performance Golf Cart | Atlantic County Golf Carts"
-      seoDescription="Experience the EVOLUTION D6 MAX XT4 electric golf cart in Atlantic County, NJ. High-performance 4-passenger vehicle with advanced technology and premium features."
+      seoDescription="Experience the EVOLUTION D6 MAX XT4 electric golf cart in Atlantic County, PA. High-performance 4-passenger vehicle with advanced technology and premium features."
       seoKeywords="EVOLUTION D6 MAX XT4, high-performance golf cart, advanced technology, Atlantic County, New Jersey"
       canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-d6-max-xt4"
       seats="4"

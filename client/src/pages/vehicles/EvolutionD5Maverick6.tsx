@@ -10,9 +10,9 @@ export default function EvolutionD5Maverick6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 Maverick 6 - Family Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® D5 Maverick 6 - Family Golf Cart | Pike County Golf Carts"
         description="Discover the EVOLUTION® D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance."
-        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

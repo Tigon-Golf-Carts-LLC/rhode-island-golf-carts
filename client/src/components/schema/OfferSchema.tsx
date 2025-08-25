@@ -38,7 +38,7 @@ export default function OfferSchema({
     telephone: "1-844-844-6638",
     email: "info@pikecountygolfcarts.com"
   },
-  eligibleRegion = "Atlantic County, NJ",
+  eligibleRegion = "Atlantic County, PA",
   priceSpecification = []
 }: OfferSchemaProps) {
   useEffect(() => {

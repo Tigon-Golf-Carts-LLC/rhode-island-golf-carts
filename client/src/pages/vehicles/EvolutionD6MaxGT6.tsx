@@ -10,9 +10,9 @@ export default function EvolutionD6MaxGT6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D6 Max GT6 - High Performance Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® D6 Max GT6 - High Performance Golf Cart | Pike County Golf Carts"
         description="Experience the EVOLUTION® D6 Max GT6 with high performance and luxury features. Six-passenger golf cart with maximum power and premium comfort."
-        keywords="EVOLUTION D6 Max GT6, high performance golf cart, 6-passenger, luxury features, maximum power, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION D6 Max GT6, high performance golf cart, 6-passenger, luxury features, maximum power, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

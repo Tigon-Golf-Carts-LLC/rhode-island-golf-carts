@@ -10,7 +10,7 @@ export default function DenagoEvNomadPage() {
       price="$8,495"
       image={denagoEvNomadImage}
       seoTitle="DENAGO EV NOMAD - Adventure Electric Golf Cart | Atlantic County Golf Carts"
-      seoDescription="Explore with the DENAGO EV NOMAD electric golf cart in Atlantic County, NJ. Adventure-ready vehicles built for exploration and off-road adventures."
+      seoDescription="Explore with the DENAGO EV NOMAD electric golf cart in Atlantic County, PA. Adventure-ready vehicles built for exploration and off-road adventures."
       seoKeywords="DENAGO EV NOMAD, adventure golf cart, off-road electric vehicle, Atlantic County, New Jersey, all-terrain"
       canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-nomad"
       seats="4"

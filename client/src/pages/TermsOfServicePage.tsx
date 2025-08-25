@@ -4,9 +4,9 @@ export function TermsOfServicePage() {
   return (
     <>
       <SEOHead 
-        title="Terms of Service | Montgomery County Golf Carts"
-        description="Terms of Service for Montgomery County Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website."
-        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Montgomery County Golf Carts"
+        title="Terms of Service | Pike County Golf Carts"
+        description="Terms of Service for Pike County Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website."
+        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Pike County Golf Carts"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to Montgomery County Golf Carts. These Terms of Service ("Terms") govern your use of our website montcogolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to Pike County Golf Carts. These Terms of Service ("Terms") govern your use of our website pikecountygolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -28,13 +28,13 @@ export function TermsOfServicePage() {
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
-              <p className="mb-4">Montgomery County Golf Carts provides:</p>
+              <p className="mb-4">Pike County Golf Carts provides:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>New and used golf cart sales</li>
                 <li>Golf cart rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
-                <li>Delivery and pickup services throughout Montgomery County, Pennsylvania</li>
+                <li>Delivery and pickup services throughout Pike County, Pennsylvania</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Website Use and Restrictions</h2>
@@ -114,12 +114,12 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the fullest extent permitted by law, Montgomery County Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
+                To the fullest extent permitted by law, Pike County Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Indemnification</h2>
               <p className="mb-6">
-                You agree to indemnify and hold harmless Montgomery County Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
+                You agree to indemnify and hold harmless Pike County Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Privacy Policy</h2>
@@ -129,7 +129,7 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
-                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Montgomery County, Pennsylvania.
+                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Pike County, Pennsylvania.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Changes to Terms</h2>

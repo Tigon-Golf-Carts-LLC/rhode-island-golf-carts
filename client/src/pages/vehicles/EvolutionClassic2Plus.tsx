@@ -10,9 +10,9 @@ export default function EvolutionClassic2Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® Classic 2 Plus - Compact Golf Cart | Ocean County Golf Carts"
+        title="EVOLUTION® Classic 2 Plus - Compact Golf Cart | Pike County Golf Carts"
         description="Discover the EVOLUTION® Classic 2 Plus with timeless design and reliable performance. Perfect compact 2-passenger golf cart for traditional golf."
-        keywords="EVOLUTION Classic 2 Plus, 2-passenger golf cart, compact golf cart, traditional design, EVOLUTION dealer Ocean County"
+        keywords="EVOLUTION Classic 2 Plus, 2-passenger golf cart, compact golf cart, traditional design, EVOLUTION dealer Pike County"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
