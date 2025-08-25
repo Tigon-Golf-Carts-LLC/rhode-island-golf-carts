@@ -92,13 +92,13 @@ export default function ContactPage() {
     {
       icon: Mail,
       label: "Email",
-      value: "info@lackawannagolfcarts.com",
+      value: "info@pikecountygolfcarts.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "lackawannagolfcarts.com",
-      link: "https://lackawannagolfcarts.com",
+      value: "pikecountygolfcarts.com",
+      link: "https://pikecountygolfcarts.com",
     },
   ];
 
@@ -111,10 +111,10 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Lackawanna County Golf Carts - Sales & Service"
-        description="Contact Lackawanna County Golf Carts for sales, service, and support. Pocono Pines: 570-643-0152, Scranton: 570-344-4443, PA Main: 1-844-844-6638."
-        keywords="contact Lackawanna County golf carts, golf cart sales Pennsylvania, Pocono Pines showroom, Scranton golf cart service PA"
-        canonicalUrl="https://lackawannagolfcarts.com/contact"
+        title="Contact Pike County Golf Carts - Sales & Service"
+        description="Contact Pike County Golf Carts for sales, service, and support. Pocono Pines: 570-643-0152, Scranton: 570-344-4443, PA Main: 1-844-844-6638."
+        keywords="contact Pike County golf carts, golf cart sales Pennsylvania, Pocono Pines showroom, Scranton golf cart service PA"
+        canonicalUrl="https://pikecountygolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />

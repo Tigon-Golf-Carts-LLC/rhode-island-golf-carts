@@ -15,14 +15,14 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Lackawanna County Golf Carts",
+  "name": "Pike County Golf Carts",
   "alternateName": "CCGC",
-  "description": "Premier golf cart dealer in Lackawanna County, Pennsylvania specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
-  "url": "https://lackawannagolfcarts.com",
-  "logo": "https://lackawannagolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
+  "description": "Premier golf cart dealer in Pike County, Pennsylvania specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "url": "https://pikecountygolfcarts.com",
+  "logo": "https://pikecountygolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
   "image": [
-    "https://lackawannagolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
-    "https://lackawannagolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+    "https://pikecountygolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
+    "https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
   "telephone": "1-844-844-6638",
   "email": "sales@tigongolfcarts.com",
@@ -30,7 +30,7 @@ export const generateOrganizationSchema = () => ({
     "@type": "PostalAddress",
     "addressRegion": "PA",
     "addressCountry": "US",
-    "addressLocality": "Luzerne County"
+    "addressLocality": "Pike County"
   },
   "areaServed": {
     "@type": "State",
@@ -40,8 +40,8 @@ export const generateOrganizationSchema = () => ({
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 40.8473,
-      "longitude": -75.7413
+      "latitude": 41.3223,
+      "longitude": -74.8021
     },
     "geoRadius": "50000"
   },
@@ -85,10 +85,10 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://lackawannagolfcarts.com/#localbusiness",
-  "name": "Lehigh County Golf Carts",
-  "description": "Premier golf cart dealer serving all 24 Lehigh County municipalities with electric vehicle sales, service, and rentals.",
-  "url": "https://lackawannagolfcarts.com",
+  "@id": "https://pikecountygolfcarts.com/#localbusiness",
+  "name": "Pike County Golf Carts",
+  "description": "Premier golf cart dealer serving all 24 Pike County municipalities with electric vehicle sales, service, and rentals.",
+  "url": "https://pikecountygolfcarts.com",
   "telephone": "1-844-844-6638",
   "email": "sales@tigongolfcarts.com",
   "priceRange": "$$$",
@@ -102,12 +102,12 @@ export const generateLocalBusinessSchema = () => ({
     "@type": "PostalAddress",
     "addressRegion": "PA",
     "addressCountry": "US",
-    "addressLocality": "Lehigh County"
+    "addressLocality": "Pike County"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 40.6023,
-    "longitude": -75.4714
+    "latitude": 41.3223,
+    "longitude": -74.8021
   },
   "areaServed": [
     "Allentown", "Bethlehem", "Emmaus", "Macungie", "Catasauqua", "Coopersburg",
@@ -144,21 +144,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://lackawannagolfcarts.com/#website",
-  "name": "Lehigh County Golf Carts",
-  "description": "Official website for Lehigh County Golf Carts - Pennsylvania's premier electric golf cart dealer",
-  "url": "https://lackawannagolfcarts.com",
+  "@id": "https://pikecountygolfcarts.com/#website",
+  "name": "Pike County Golf Carts",
+  "description": "Official website for Pike County Golf Carts - Pennsylvania's premier electric golf cart dealer",
+  "url": "https://pikecountygolfcarts.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://lackawannagolfcarts.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://pikecountygolfcarts.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Lehigh County Golf Carts"
+    "name": "Pike County Golf Carts"
   }
 });
 
@@ -176,7 +176,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://lackawannagolfcarts.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -184,7 +184,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://lackawannagolfcarts.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://pikecountygolfcarts.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -192,11 +192,11 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "Lehigh County Golf Carts",
+      "name": "Pike County Golf Carts",
       "telephone": "1-844-844-6638",
-      "email": "info@lackawannagolfcarts.com"
+      "email": "info@pikecountygolfcarts.com"
     },
-    "url": `https://lackawannagolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}`
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -237,10 +237,10 @@ export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Lehigh County, Pennsylvania",
+  "description": "Comprehensive golf cart sales, service, repair, and rental services in Pike County, Pennsylvania",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Lehigh County Golf Carts"
+    "name": "Pike County Golf Carts"
   },
   "areaServed": {
     "@type": "State",
@@ -297,24 +297,24 @@ export const generateOfferCatalogSchema = (vehicles: any[]) => ({
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://lackawannagolfcarts.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://pikecountygolfcarts.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://lackawannagolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}`
   }))
 });
 
 export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact Ocean County Golf Carts",
-  "description": "Get in touch with Ocean County Golf Carts for sales, service, rentals, and support",
-  "url": "https://lackawannagolfcarts.com/contact",
+  "name": "Contact Pike County Golf Carts",
+  "description": "Get in touch with Pike County Golf Carts for sales, service, rentals, and support",
+  "url": "https://pikecountygolfcarts.com/contact",
   "mainEntity": {
     "@type": "Organization",
-    "name": "Ocean County Golf Carts",
+    "name": "Pike County Golf Carts",
     "contactPoint": [
       {
         "@type": "ContactPoint",
@@ -337,17 +337,17 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Lehigh County, Pennsylvania`,
-  "url": `https://lackawannagolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Pike County, Pennsylvania`,
+  "url": `https://pikecountygolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "Lehigh County Golf Carts",
+    "name": "Pike County Golf Carts",
     "areaServed": {
       "@type": "City",
       "name": townName,
       "containedInPlace": {
         "@type": "AdministrativeArea",
-        "name": "Lehigh County",
+        "name": "Pike County",
         "containedInPlace": {
           "@type": "State",
           "name": "Pennsylvania"
@@ -362,13 +362,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://lackawannagolfcarts.com"
+        "item": "https://pikecountygolfcarts.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://lackawannagolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
+        "item": `https://pikecountygolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
       }
     ]
   }

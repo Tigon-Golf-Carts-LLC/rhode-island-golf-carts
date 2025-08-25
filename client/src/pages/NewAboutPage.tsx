@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Users, Award, Target, Heart, Phone, Mail, MapPin, Calendar } from "lucide-react";
 import { Link } from "wouter";
 import SEOHead from "@/components/SEOHead";
-import { NEW_LACKAWANNA_COUNTY_MUNICIPALITIES, type Municipality } from "../data/newLackawannaCountyMunicipalities";
+import { PIKE_COUNTY_MUNICIPALITIES, type Municipality } from "../data/pikeCountyMunicipalities";
 import heroImage from "@assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
@@ -14,7 +14,7 @@ export default function NewAboutPage() {
       name: "Michael Thompson",
       role: "Owner & General Manager",
       experience: "15+ years in recreational vehicle sales",
-      description: "Passionate about providing Luzerne County with the best golf cart experience."
+      description: "Passionate about providing Pike County with the best golf cart experience."
     },
     {
       name: "Sarah Martinez",
@@ -50,7 +50,7 @@ export default function NewAboutPage() {
     {
       icon: Target,
       title: "Local Focus",
-      description: "Proud to serve Luzerne County with personalized, community-focused service."
+      description: "Proud to serve Pike County with personalized, community-focused service."
     },
     {
       icon: Heart,
@@ -62,10 +62,10 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About Lackawanna County Golf Carts - Your Premier Golf Cart Dealer"
-        description="Learn about Lackawanna County Golf Carts, Pennsylvania's trusted golf cart dealer serving all municipalities with premium DENAGO and EVOLUTION vehicles since 2010."
-        keywords="Luzerne County golf carts, about us, golf cart dealer Pennsylvania, DENAGO dealer, EVOLUTION dealer"
-        canonicalUrl="https://lackawannagolfcarts.com/about"
+        title="About Pike County Golf Carts - Your Premier Golf Cart Dealer"
+        description="Learn about Pike County Golf Carts, Pennsylvania's trusted golf cart dealer serving all municipalities with premium DENAGO and EVOLUTION vehicles since 2010."
+        keywords="Pike County golf carts, about us, golf cart dealer Pennsylvania, DENAGO dealer, EVOLUTION dealer"
+        canonicalUrl="https://pikecountygolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
         ogType="website"
       />
@@ -75,10 +75,10 @@ export default function NewAboutPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat overflow-hidden" style={getHeroBackgroundStyle("about")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
-              About Lackawanna County Golf Carts
+              About Pike County Golf Carts
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Since 2010, we've been Luzerne County's premier destination for premium golf carts, 
+              Since 2010, we've been Pike County's premier destination for premium golf carts, 
               exceptional service, and unmatched customer care. Serving all municipalities 
               across eastern Pennsylvania with pride and professionalism.
             </p>
@@ -105,29 +105,29 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2010 in Lackawanna County, Pennsylvania, Lackawanna County Golf Carts began with a simple mission: 
+                    Founded in 2010 in Pike County, Pennsylvania, Pike County Golf Carts began with a simple mission: 
                     to provide high-quality golf carts and exceptional service to customers throughout eastern Pennsylvania's 
                     most vibrant and historic county.
                   </p>
                   <p>
-                    Luzerne County stands as one of Pennsylvania's most dynamic and diverse regions, encompassing 
+                    Pike County stands as one of Pennsylvania's most dynamic and diverse regions, encompassing 
                     everything from the bustling city of Allentown to the charming borough of Emmaus, from the 
                     scenic rolling hills of Upper Macungie to the family-friendly communities of Coopersburg and Macungie.
                   </p>
                   <p>
                     Our county holds a special place in American history as part of the Pennsylvania Dutch region and 
-                    home to the Lehigh Valley's rich industrial heritage. Today, Luzerne County is equally 
+                    home to the Lehigh Valley's rich industrial heritage. Today, Pike County is equally 
                     renowned for its championship golf courses, beautiful residential communities, and thriving businesses that appreciate 
                     premium recreational vehicles.
                   </p>
                   <p>
                     With Allentown's revitalized downtown district, proximity to major highways including I-78 and Route 222, 
-                    and some of Eastern Pennsylvania's most beautiful suburban communities, Luzerne County attracts residents who 
+                    and some of Eastern Pennsylvania's most beautiful suburban communities, Pike County attracts residents who 
                     demand excellence in every aspect of their lives—including their golf cart experience.
                   </p>
                   <p>
                     From the rural townships of Lynn and Heidelberg to the bustling boroughs of Emmaus and Macungie, we proudly serve all 
-                    Luzerne County municipalities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing 
+                    Pike County municipalities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing 
                     less than the finest quality and service.
                   </p>
                 </div>
@@ -135,7 +135,7 @@ export default function NewAboutPage() {
                 <div className="mt-8 grid grid-cols-3 gap-4">
                   <div className="text-center">
                     <div className="text-2xl font-bold text-theme-orange">15+</div>
-                    <div className="text-sm text-gray-600">Years Serving Luzerne County</div>
+                    <div className="text-sm text-gray-600">Years Serving Pike County</div>
                   </div>
                   <div className="text-center">
                     <div className="text-2xl font-bold text-theme-orange">500+</div>
@@ -158,17 +158,17 @@ export default function NewAboutPage() {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Luzerne County Service Area Map"
+                    title="Pike County Service Area Map"
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Lackawanna County Golf Carts Service</h3>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Pike County Golf Carts Service</h3>
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
-                      <h4 className="font-semibold text-theme-orange">Lackawanna County Golf Carts</h4>
-                      <p className="text-gray-600">Serving all Luzerne County, PA</p>
+                      <h4 className="font-semibold text-theme-orange">Pike County Golf Carts</h4>
+                      <p className="text-gray-600">Serving all Pike County, PA</p>
                       <p className="text-gray-700">1-844-844-6638</p>
-                      <p className="text-gray-600">info@lackawannagolfcarts.com</p>
+                      <p className="text-gray-600">info@pikecountygolfcarts.com</p>
                     </div>
                   </div>
                 </div>
@@ -236,14 +236,14 @@ export default function NewAboutPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Service Area</h2>
-              <p className="text-lg text-gray-600">Proudly serving all of Lackawanna County, Pennsylvania</p>
+              <p className="text-lg text-gray-600">Proudly serving all of Pike County, Pennsylvania</p>
             </div>
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Northern Luzerne County</CardTitle>
+                  <CardTitle>Northern Pike County</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">North Whitehall, Slatington, Lynn Township, and northern communities</p>
@@ -254,7 +254,7 @@ export default function NewAboutPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Central Luzerne County</CardTitle>
+                  <CardTitle>Central Pike County</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">Allentown, Bethlehem, Emmaus, Macungie, and central townships</p>
@@ -265,7 +265,7 @@ export default function NewAboutPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Southern Lackawanna County</CardTitle>
+                  <CardTitle>Southern Pike County</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">Upper Saucon, Lower Milford, Coopersburg, and southern townships</p>
@@ -275,9 +275,9 @@ export default function NewAboutPage() {
             </div>
 
             <div className="bg-white p-8 rounded-2xl shadow-lg">
-              <h3 className="text-2xl font-bold text-center mb-6">Complete Lackawanna County Coverage</h3>
+              <h3 className="text-2xl font-bold text-center mb-6">Complete Pike County Coverage</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-sm text-gray-600">
-                {NEW_LACKAWANNA_COUNTY_MUNICIPALITIES.map((municipality: Municipality, index: number) => (
+                {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality, index: number) => (
                   <div key={index} className="text-center py-2">
                     <Link href={municipality.url}>
                       <span className="text-theme-orange font-medium hover:text-orange-600 cursor-pointer transition-colors">
@@ -295,7 +295,7 @@ export default function NewAboutPage() {
         <section className="py-16 bg-theme-primary text-white">
           <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-bold mb-6">
-              Ready to Experience the Lackawanna County Golf Carts Difference?
+              Ready to Experience the Pike County Golf Carts Difference?
             </h2>
             <p className="text-xl mb-8">
               Join thousands of satisfied customers who trust us for their golf cart needs.
@@ -336,7 +336,7 @@ export default function NewAboutPage() {
                   <CardTitle>Email Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-medium text-theme-orange mb-2">info@lackawannagolfcarts.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">info@pikecountygolfcarts.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>
@@ -361,7 +361,7 @@ export default function NewAboutPage() {
                   <CardTitle>Service Area</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">All 24 Luzerne County municipalities plus delivery service</p>
+                  <p className="text-gray-600">All 24 Pike County municipalities plus delivery service</p>
                 </CardContent>
               </Card>
             </div>

@@ -9,13 +9,13 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Lackawanna County Golf Carts",
-      "description": "Premier golf cart dealership in Lackawanna County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
-      "url": "https://lackawannagolfcarts.com",
-      "logo": "https://lackawannagolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
-      "image": "https://lackawannagolfcarts.com/attached_assets/Lackawanna County Golf Carts_1753809066045.png",
+      "name": "Pike County Golf Carts",
+      "description": "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
+      "url": "https://pikecountygolfcarts.com",
+      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
+      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
       "telephone": "1-844-844-6638",
-      "email": "info@lackawannagolfcarts.com",
+      "email": "info@pikecountygolfcarts.com",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "123 Golf Cart Lane",
@@ -26,8 +26,8 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "40.8751",
-        "longitude": "-75.7321"
+        "latitude": "41.3223",
+        "longitude": "-74.8021"
       },
       "openingHours": [
         "Mo-Fr 09:00-18:00",
@@ -35,7 +35,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "serviceArea": {
         "@type": "AdministrativeArea",
-        "name": "Lackawanna County, Pennsylvania"
+        "name": "Pike County, Pennsylvania"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -132,7 +132,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "Lehigh County Golf Carts"
+          "name": "Pike County Golf Carts"
         }
       } as any;
     }
