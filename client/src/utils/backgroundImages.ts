@@ -2,14 +2,14 @@
 // Uses the 8 professional showroom images featuring the modern Pike County Golf Carts dealership
 
 const BACKGROUND_IMAGES = [
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_4zG-0v0fRsSU5AxGt_cEfA_A0HlJrJtSJOlpyerLK2j5Q_1753965748393.png',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_2JQB2acORFWnp-bjmYY6KA_A0HlJrJtSJOlpyerLK2j5Q_1753965748394.png',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_cQsH1m3hS0-MskPK4BH5uA_dd9V3Dg-RV6rpmQtK0Rk9Q_1753965748394.png',
-  '/attached_assets/a-photograph-of-a-bright-modern-golf-car_k6d1akbXTKGGRWNW8z_PMQ_AyrHJH6wRZCkACMihvwG_w_1753965748395.png',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_LEm17UaYQ7uOREk6gVlJJw_AyrHJH6wRZCkACMihvwG_w_1753965748395.png',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_3MYLyVtKRoeeHx8zidhSqA_AyrHJH6wRZCkACMihvwG_w_1753965748395.png',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_ilITEs4rRxizuRFcFZ3D6Q_Gx4bPyKKR9SOEEUw1DrCyg_1753965748396.png',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_KIRVRedJQByy93qCY4cIKg_Gx4bPyKKR9SOEEUw1DrCyg_1753965748396.png'
+  '/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg',
+  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg',
+  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_Th3nwXNXQ2CQPoVdYBg6Jg_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg',
+  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg',
+  '/attached_assets/a-photograph-of-a-friendly-young-woman-s_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg',
+  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg',
+  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg',
+  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg'
 ];
 
 // Simple hash function to ensure consistent randomization based on seed
