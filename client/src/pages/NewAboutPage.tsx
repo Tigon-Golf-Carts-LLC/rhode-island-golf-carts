@@ -110,23 +110,23 @@ export default function NewAboutPage() {
                     most vibrant and historic county.
                   </p>
                   <p>
-                    Pike County stands as one of Pennsylvania's most dynamic and diverse regions, encompassing 
-                    everything from the bustling city of Allentown to the charming borough of Emmaus, from the 
-                    scenic rolling hills of Upper Macungie to the family-friendly communities of Coopersburg and Macungie.
+                    Pike County stands as one of Pennsylvania's most beautiful and pristine regions, encompassing 
+                    everything from the historic borough of Milford to the charming town of Hawley, from the 
+                    scenic Delaware River townships to the family-friendly communities of Matamoras and the peaceful rural townships.
                   </p>
                   <p>
-                    Our county holds a special place in American history as part of the Pennsylvania Dutch region and 
-                    home to the Lehigh Valley's rich industrial heritage. Today, Pike County is equally 
-                    renowned for its championship golf courses, beautiful residential communities, and thriving businesses that appreciate 
+                    Our county holds a special place in American history as the gateway to the Pocono Mountains and 
+                    home to the Delaware Water Gap National Recreation Area's stunning natural heritage. Today, Pike County is equally 
+                    renowned for its championship golf courses, beautiful lakefront communities, and outdoor recreation enthusiasts who appreciate 
                     premium recreational vehicles.
                   </p>
                   <p>
-                    With Allentown's revitalized downtown district, proximity to major highways including I-78 and Route 222, 
-                    and some of Eastern Pennsylvania's most beautiful suburban communities, Pike County attracts residents who 
+                    With proximity to major highways including I-84 and Routes 6 and 209, 
+                    and some of Eastern Pennsylvania's most beautiful lakefront and mountain communities, Pike County attracts residents who 
                     demand excellence in every aspect of their lives—including their golf cart experience.
                   </p>
                   <p>
-                    From the rural townships of Lynn and Heidelberg to the bustling boroughs of Emmaus and Macungie, we proudly serve all 
+                    From the rural townships of Delaware and Dingman to the bustling boroughs of Milford and Hawley, we proudly serve all 
                     Pike County municipalities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing 
                     less than the finest quality and service.
                   </p>
@@ -142,7 +142,7 @@ export default function NewAboutPage() {
                     <div className="text-sm text-gray-600">Satisfied Customers</div>
                   </div>
                   <div className="text-center">
-                    <div className="text-2xl font-bold text-theme-orange">24</div>
+                    <div className="text-2xl font-bold text-theme-orange">15</div>
                     <div className="text-sm text-gray-600">Municipalities Served</div>
                   </div>
                 </div>
@@ -151,7 +151,7 @@ export default function NewAboutPage() {
               <div className="relative">
                 <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden shadow-lg">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-76.1273!3d41.2451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5c8b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sLuzerne%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1753817570000!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-74.8021!3d41.3223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0a5b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sPike%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1756135600000!5m2!1sen!2sus"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -246,8 +246,8 @@ export default function NewAboutPage() {
                   <CardTitle>Northern Pike County</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">North Whitehall, Slatington, Lynn Township, and northern communities</p>
-                  <Badge variant="secondary">8 Municipalities</Badge>
+                  <p className="text-gray-600 mb-4">Lackawaxen, Shohola, Palmyra Townships, and northern communities</p>
+                  <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
 
@@ -257,8 +257,8 @@ export default function NewAboutPage() {
                   <CardTitle>Central Pike County</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Allentown, Bethlehem, Emmaus, Macungie, and central townships</p>
-                  <Badge variant="secondary">8 Municipalities</Badge>
+                  <p className="text-gray-600 mb-4">Milford, Hawley, Matamoras Boroughs, and central townships</p>
+                  <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
 
@@ -268,8 +268,8 @@ export default function NewAboutPage() {
                   <CardTitle>Southern Pike County</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Upper Saucon, Lower Milford, Coopersburg, and southern townships</p>
-                  <Badge variant="secondary">8 Municipalities</Badge>
+                  <p className="text-gray-600 mb-4">Delaware, Westfall, Middle Smithfield Townships, and southern communities</p>
+                  <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
             </div>
@@ -361,7 +361,7 @@ export default function NewAboutPage() {
                   <CardTitle>Service Area</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">All 24 Pike County municipalities plus delivery service</p>
+                  <p className="text-gray-600">All 15 Pike County municipalities plus delivery service</p>
                 </CardContent>
               </Card>
             </div>

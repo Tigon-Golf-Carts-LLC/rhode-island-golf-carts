@@ -113,18 +113,18 @@ export default function AboutPage() {
                 to provide high-quality golf carts and exceptional service to customers throughout northeastern Pennsylvania.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Pike County is home to the vibrant city of Scranton, along with thriving communities like 
-                Dunmore, Carbondale, and Clarks Summit. Our location in the heart of northeastern Pennsylvania drives our commitment to excellence 
-                and serves the outdoor recreation and residential communities throughout the area.
+                Pike County is home to beautiful municipalities including Milford, Hawley, and Matamoras, along with scenic townships like 
+                Dingman, Delaware, and Blooming Grove. Our location in the heart of the Pocono Mountains region drives our commitment to excellence 
+                and serves the outdoor recreation and residential communities throughout this pristine area.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Our county is known for its rich history and scenic beauty, home to numerous parks and thriving 
-                business communities. This tradition of excellence continues in our approach to golf cart sales and service, where we 
-                combine cutting-edge technology with personalized customer care.
+                Our county is known for its pristine natural beauty, including the Delaware Water Gap National Recreation Area and numerous 
+                state parks and outdoor recreation areas. This tradition of natural excellence continues in our approach to golf cart sales and service, where we 
+                combine cutting-edge technology with personalized customer care perfect for Pike County's outdoor lifestyle.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Today, we're proud to serve the diverse communities across Pike County's 39 municipalities, from Scranton 
-                to Carbondale, from Dunmore to Archbald, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
+                Today, we're proud to serve the diverse communities across Pike County's 15 municipalities, from Milford 
+                to Hawley, from Matamoras to the scenic townships, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
                 Learn More About Our Services
@@ -142,7 +142,7 @@ export default function AboutPage() {
                     <div className="text-gray-700">Years Experience</div>
                   </div>
                   <div>
-                    <div className="text-4xl font-bold text-theme-orange mb-2">39</div>
+                    <div className="text-4xl font-bold text-theme-orange mb-2">15</div>
                     <div className="text-gray-700">Municipalities Served</div>
                   </div>
                   <div>
@@ -265,15 +265,15 @@ export default function AboutPage() {
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Jim Thorpe</span>
+                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Milford</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Lehighton</span>
+                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Hawley</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Palmerton</span>
+                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Matamoras</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 mb-6">
@@ -288,7 +288,7 @@ export default function AboutPage() {
             {/* Google Maps Embed - Mobile Responsive */}
             <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-76.1273!3d41.2451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5c8b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sLuzerne%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1753817570000!5m2!1sen!2sus" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-74.8021!3d41.3223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0a5b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sPike%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1756135600000!5m2!1sen!2sus" 
                 className="w-full h-64 sm:h-80 md:h-96"
                 style={{border:0}}
                 allowFullScreen 
@@ -304,10 +304,9 @@ export default function AboutPage() {
             <h3 className="text-xl font-semibold mb-4 text-center">Pike County Municipalities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
-                "Banks Township", "Beaver Meadows", "Bowmanstown", "East Side", "Hauto", "Jim Thorpe",
-                "Lansford", "Lehighton", "Nesquehoning", "New Ringgold", "Palmerton", "Parryville",
-                "Penn Forest Township", "Summit Hill", "Tresckow", "Weatherly", "Weissport", "Andreas",
-                "Ashfield", "Christmans", "Hickory Run", "Lake Harmony", "Penn Lake Park", "White Haven"
+                "Milford Borough", "Hawley Borough", "Matamoras Borough", "Blooming Grove Township", "Delaware Township", "Dingman Township",
+                "Greene Township", "Lackawaxen Township", "Lehman Township", "Milford Township", "Palmyra Township", "Porter Township",
+                "Shohola Township", "Westfall Township", "Middle Smithfield Township"
               ].map((town, index) => (
                 <div key={index} className="py-1">
                   {town}
