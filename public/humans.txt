@@ -1,0 +1,202 @@
+# humans.txt
+# Pike County Golf Carts - The Humans Behind the Technology
+
+/* TEAM */
+
+/* MANAGEMENT */
+Company: Pike County Golf Carts
+Website: https://pikecountygolfcarts.com
+Phone: 1-844-844-6638
+Email: info@pikecountygolfcarts.com
+Location: Pike County, Pennsylvania, USA
+
+/* BUSINESS DEVELOPMENT */
+Industry: Electric Golf Cart Sales, Service & Rentals
+Established: Serving Pike County communities since inception
+Specialization: DENAGO & EVOLUTION Electric Vehicle Expertise
+Service Philosophy: Customer-first approach with professional automotive expertise
+
+/* TECHNICAL TEAM */
+Electric Vehicle Technicians: Certified professionals with years of experience
+Service Department: Full-service maintenance and repair capabilities
+Parts Department: Comprehensive inventory management and sourcing
+Delivery Team: Professional setup and customer training specialists
+
+/* SALES TEAM */
+Sales Consultants: Product experts helping customers find perfect vehicles
+Rental Coordinators: Managing fleet operations and customer experiences  
+Finance Specialists: Helping customers find affordable payment solutions
+Customer Service: Dedicated support throughout ownership experience
+
+/* SERVICE AREA COVERAGE */
+Primary Territory: Pike County, Pennsylvania
+Total Coverage: All 15 municipalities (3 boroughs + 12 townships)
+Service Area: 547 square miles of comprehensive coverage
+
+Boroughs Served:
+- Milford (County Seat)
+- Hawley  
+- Matamoras
+
+Townships Served:
+- Blooming Grove Township
+- Delaware Township
+- Dingman Township
+- Greene Township
+- Lackawaxen Township
+- Lehman Township
+- Milford Township
+- Palmyra Township
+- Porter Township
+- Shohola Township
+- Westfall Township
+- Middle Smithfield Township
+
+/* BUSINESS PHILOSOPHY */
+Mission: Providing Pike County residents and visitors with reliable, 
+environmentally-friendly electric transportation solutions backed by 
+professional service and genuine automotive expertise.
+
+Values: 
+- Customer satisfaction and honest business practices
+- Environmental responsibility through electric vehicle promotion
+- Community engagement and local business support
+- Professional expertise and continuous education
+- Quality products and reliable service
+
+/* COMMUNITY INVOLVEMENT */
+Local Community: Active supporters of Pike County business community
+Tourism Support: Assisting Pocono Mountains tourism with rental services
+Environmental Impact: Promoting sustainable transportation alternatives
+Business Network: Members of local business associations and chambers
+
+/* EXPERTISE AREAS */
+Electric Vehicle Technology: Advanced knowledge of lithium battery systems
+Street Legal Conversions: Pennsylvania DOT compliance and registration
+Municipal Regulations: Understanding of local ordinances across all 15 municipalities
+Golf Cart Maintenance: All brands and models service capability
+Customer Education: Teaching safe operation and proper maintenance
+
+/* BUSINESS HOURS */
+Monday - Friday: 9:00 AM - 6:00 PM
+Saturday: 9:00 AM - 5:00 PM  
+Sunday: 12:00 PM - 4:00 PM
+Emergency Service: Available for rental customers 24/7
+Holiday Hours: Contact for seasonal schedule adjustments
+
+/* CONTACT METHODS */
+Primary Phone: 1-844-844-6638
+Email: info@pikecountygolfcarts.com
+Website: https://pikecountygolfcarts.com
+Service Requests: Online scheduling available
+Quote Requests: Email or phone consultation
+
+/* PRODUCTS & SERVICES */
+
+DENAGO Electric Vehicles:
+- EV CITY (Street Legal Urban Transportation)
+- EV NOMAD (Adventure Off-Road)
+- EV NOMAD XL (Extended Family Adventure)
+- EV ROVER XL (Heavy-Duty Utility)
+- EV ROVER XL6 (Six-Passenger Utility)
+- EV ROVER XXL (Maximum Capacity Utility)
+
+EVOLUTION Electric Vehicles:
+- Classic Series (2-8 passenger models)
+- D5 Maverick Series (Performance models)
+- D5 Ranger Series (Utility models)  
+- D6 Max Series (High-performance models)
+- Forester Series (Off-road specialists)
+- Turfman Series (Commercial turf maintenance)
+- Street Cart Series (Street legal ready)
+
+Services Provided:
+- New golf cart sales with full setup
+- Comprehensive rental programs (daily, weekly, monthly)
+- Professional service and maintenance (all brands)
+- Parts and accessories (OEM and aftermarket)
+- Financing assistance and consultation
+- Delivery throughout Pike County
+- Customer training and orientation
+- Warranty service and support
+
+/* PROFESSIONAL CERTIFICATIONS */
+Technician Training: Factory-certified service technicians
+Safety Training: DOT compliance and street legal conversion expertise
+Customer Service: Professional automotive service standards
+Environmental: Electric vehicle and battery system expertise
+
+/* CUSTOMER COMMITMENT */
+Satisfaction Guarantee: 30-day satisfaction policy
+Service Promise: Professional installation and setup
+Support Commitment: Ongoing customer support throughout ownership
+Quality Assurance: All products backed by manufacturer warranties
+
+/* BUSINESS RECOGNITION */
+Community Support: Recognized for local business engagement
+Customer Reviews: Consistently positive feedback and referrals
+Industry Standing: Authorized dealer for premium brands
+Professional Standards: Commitment to automotive service excellence
+
+/* TECHNOLOGY & INNOVATION */
+Electric Vehicle Expertise: Cutting-edge battery and motor technology
+Street Legal Solutions: DOT compliance and registration assistance
+Fleet Management: Commercial and rental fleet optimization
+Environmental Technology: Sustainable transportation solutions
+
+/* LOCATION DETAILS */
+Service Territory: Pike County, Pennsylvania
+Geographic Coverage: Pocono Mountains region
+Tourism Support: Delaware Water Gap and Lake Wallenpaupack areas
+Delivery Range: Pike County and surrounding areas
+Population Served: 58,535+ Pike County residents plus visitors
+
+/* ENVIRONMENTAL IMPACT */
+Zero Emissions: Promoting electric vehicle adoption
+Clean Transportation: Reducing carbon footprint for communities
+Sustainable Business: Environmentally responsible operations
+Green Technology: Advanced lithium battery technology
+
+/* BUSINESS PARTNERSHIPS */
+Manufacturer Relationships: Authorized DENAGO and EVOLUTION dealer
+Financing Partners: Multiple lending institutions for customer options
+Service Network: Professional automotive service standards
+Community Partners: Local business and tourism organizations
+
+/* CUSTOMER DEMOGRAPHICS */
+Primary Customers: Pike County residents ages 35-75
+Secondary Market: Pocono Mountains tourists and vacation home owners
+Commercial Clients: Golf courses, resorts, and business applications
+Seasonal Customers: Summer recreation and tourism rentals
+
+/* ACCESSIBILITY */
+Physical Accessibility: Accommodating customers with mobility needs
+Service Accessibility: Home delivery and pickup services
+Communication: Multiple contact methods for customer convenience
+Payment Options: Various financing and payment solutions
+
+/* FUTURE VISION */
+Growth Plans: Expanding service capabilities and product offerings  
+Technology Advancement: Staying current with electric vehicle innovations
+Community Service: Continuing support for Pike County development
+Environmental Leadership: Promoting sustainable transportation solutions
+
+/* WEBSITE DEVELOPMENT */
+Last Updated: January 25, 2025
+Site Purpose: Comprehensive business information and customer service
+Technology: Modern web standards for optimal user experience
+Accessibility: Designed for universal access and usability
+Mobile Friendly: Responsive design for all device types
+
+/* THANKS */
+We appreciate our Pike County community, loyal customers, 
+manufacturer partners, and everyone who supports local business.
+Together we're building a more sustainable transportation future
+for Pike County and the greater Pocono Mountains region.
+
+/* SITE */
+Last update: 2025/01/25
+Language: English
+Doctype: HTML5
+Standards: W3C compliant, accessibility guidelines followed
+Tools: Modern web development practices and SEO optimization

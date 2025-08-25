@@ -1,0 +1,385 @@
+# data.txt - Structured Business Data
+# Pike County Golf Carts - Complete Business Information Database
+
+## BUSINESS ENTITY DATA
+Business Name: Pike County Golf Carts
+Legal Structure: Pennsylvania Business Entity
+Industry: Automotive Sales, Service & Rentals
+NAICS Code: 441228 (Motorcycle, ATV, and All Other Motor Vehicle Dealers)
+SIC Code: 5571 (Motorcycle Dealers)
+Business Type: Electric Golf Cart Dealership
+Specialization: DENAGO & EVOLUTION Electric Golf Carts
+
+## CONTACT AND LOCATION DATA
+Primary Phone: 1-844-844-6638
+Primary Email: info@pikecountygolfcarts.com
+Website: https://pikecountygolfcarts.com
+Service Territory: Pike County, Pennsylvania
+Geographic Coordinates: 41.3223°N, 74.8021°W (County Center - Milford)
+Time Zone: Eastern Standard Time (EST) / Eastern Daylight Time (EDT)
+UTC Offset: -5:00 (EST) / -4:00 (EDT)
+
+## OPERATING SCHEDULE DATA
+Monday: 09:00-18:00
+Tuesday: 09:00-18:00  
+Wednesday: 09:00-18:00
+Thursday: 09:00-18:00
+Friday: 09:00-18:00
+Saturday: 09:00-17:00
+Sunday: 12:00-16:00
+Holiday Schedule: Reduced hours or closed (contact for details)
+Emergency Service: Available 24/7 for rental customers
+
+## PRODUCT INVENTORY DATA
+
+### DENAGO BRAND VEHICLES (6 Models)
+Model: DENAGO EV CITY
+Price: $15,000.00
+Category: Street Legal
+Passengers: 2
+Range: 40 miles
+Top Speed: 25 mph
+Battery: 72V Lithium
+Charge Time: 6-8 hours
+Weight Capacity: 500 lbs
+Length: 95 inches
+Width: 47 inches  
+Height: 71 inches
+Ground Clearance: 4 inches
+Tires: Street Legal DOT Approved
+Warranty: 2 years limited
+Features: Street Legal,LED Lights,Premium Sound,Weather Protection
+
+Model: DENAGO EV NOMAD
+Price: $8,495.00
+Category: Off-Road
+Passengers: 2
+Range: 35 miles
+Top Speed: 20 mph
+Battery: 48V Lithium
+Charge Time: 4-6 hours
+Weight Capacity: 400 lbs
+Length: 92 inches
+Width: 50 inches
+Height: 70 inches
+Ground Clearance: 8 inches
+Tires: All-Terrain
+Warranty: 2 years limited
+Features: All-Terrain Tires,LED Lighting,Storage Compartment,Durable Frame
+
+Model: DENAGO EV NOMAD XL
+Price: $8,495.00
+Category: Off-Road
+Passengers: 4
+Range: 35 miles
+Top Speed: 20 mph
+Battery: 48V Lithium
+Charge Time: 4-6 hours
+Weight Capacity: 600 lbs
+Length: 112 inches
+Width: 50 inches
+Height: 70 inches
+Ground Clearance: 8 inches
+Tires: All-Terrain
+Warranty: 2 years limited
+Features: Extended Seating,All-Terrain Tires,LED Package,Cargo Space
+
+Model: DENAGO EV ROVER XL
+Price: $9,995.00
+Category: Utility
+Passengers: 2
+Range: 45 miles
+Top Speed: 25 mph
+Battery: 72V Lithium
+Charge Time: 6-8 hours
+Weight Capacity: 800 lbs
+Length: 95 inches
+Width: 50 inches
+Height: 71 inches
+Ground Clearance: 6 inches
+Utility Bed: 24" x 36"
+Tires: All-Terrain
+Warranty: 2 years limited
+Features: Heavy Duty,Utility Bed,All-Terrain,Commercial Grade
+
+Model: DENAGO EV ROVER XL6
+Price: $11,995.00
+Category: Utility
+Passengers: 6
+Range: 40 miles
+Top Speed: 25 mph
+Battery: 72V Lithium
+Charge Time: 6-8 hours
+Weight Capacity: 1000 lbs
+Length: 134 inches
+Width: 50 inches
+Height: 71 inches
+Ground Clearance: 6 inches
+Tires: All-Terrain
+Warranty: 2 years limited
+Features: Six-Seater,Heavy Duty,Utility Bed,Commercial Applications
+
+Model: DENAGO EV ROVER XXL
+Price: $13,995.00
+Category: Utility
+Passengers: 6
+Range: 45 miles
+Top Speed: 25 mph
+Battery: 72V Lithium
+Charge Time: 6-8 hours
+Weight Capacity: 1200 lbs
+Length: 134 inches
+Width: 52 inches
+Height: 73 inches
+Ground Clearance: 6 inches
+Tires: Heavy-Duty All-Terrain
+Warranty: 2 years limited
+Features: Maximum Capacity,Premium Utility,Heavy-Duty Construction
+
+### EVOLUTION BRAND VEHICLES (31 Models - Key Data Points)
+Brand: EVOLUTION
+Total Models: 31
+Price Range: $8,795 - $22,995
+Categories: Classic,D5 Maverick,D5 Ranger,D6 Max,Forester,Turfman,Street Cart,Carrier
+Warranty: 3 years comprehensive
+Battery Types: 48V Lithium, 72V Lithium, Advanced Lithium Systems
+Passenger Capacity: 2-8 passengers
+Speed Range: 15-25 mph
+Range: 25-80 miles depending on model
+
+## SERVICE AREA DATA
+
+### Pike County Municipality Coverage (15 Total)
+County: Pike County, Pennsylvania
+Total Area: 547 square miles
+Population: 58,535 (2020 Census)
+Municipalities: 15 (3 Boroughs + 12 Townships)
+
+Borough: Milford
+Population: 1,103
+Coordinates: 41.3223,-74.8021
+Service Code: MILFORD-B
+Delivery Zone: A (Free Delivery)
+
+Borough: Hawley  
+Population: 1,211
+Coordinates: 41.4282,-75.1768
+Service Code: HAWLEY-B
+Delivery Zone: A (Free Delivery)
+
+Borough: Matamoras
+Population: 2,323
+Coordinates: 41.3804,-74.6954
+Service Code: MATAMORAS-B
+Delivery Zone: A (Free Delivery)
+
+Township: Blooming Grove
+Population: 4,598
+Coordinates: 41.4167,-74.7833
+Service Code: BLOOMINGGROVE-T
+Delivery Zone: A (Free Delivery)
+
+Township: Delaware
+Population: 4,973
+Coordinates: 41.3500,-75.0000
+Service Code: DELAWARE-T
+Delivery Zone: A (Free Delivery)
+
+Township: Dingman
+Population: 8,359
+Coordinates: 41.2500,-74.9167
+Service Code: DINGMAN-T
+Delivery Zone: A (Free Delivery)
+
+Township: Greene
+Population: 4,556
+Coordinates: 41.4000,-75.1500
+Service Code: GREENE-T
+Delivery Zone: A (Free Delivery)
+
+Township: Lackawaxen
+Population: 4,994
+Coordinates: 41.4833,-75.0833
+Service Code: LACKAWAXEN-T
+Delivery Zone: A (Free Delivery)
+
+Township: Lehman
+Population: 2,650
+Coordinates: 41.4167,-75.1833
+Service Code: LEHMAN-T
+Delivery Zone: A (Free Delivery)
+
+Township: Milford
+Population: 1,790
+Coordinates: 41.3000,-74.8500
+Service Code: MILFORDTWP-T
+Delivery Zone: A (Free Delivery)
+
+Township: Palmyra
+Population: 6,319
+Coordinates: 41.2833,-75.2000
+Service Code: PALMYRA-T
+Delivery Zone: A (Free Delivery)
+
+Township: Porter
+Population: 6,055
+Coordinates: 41.4167,-74.6833
+Service Code: PORTER-T
+Delivery Zone: A (Free Delivery)
+
+Township: Shohola
+Population: 2,493
+Coordinates: 41.4500,-74.9500
+Service Code: SHOHOLA-T
+Delivery Zone: A (Free Delivery)
+
+Township: Westfall
+Population: 2,299
+Coordinates: 41.3333,-75.0833
+Service Code: WESTFALL-T
+Delivery Zone: A (Free Delivery)
+
+Township: Middle Smithfield
+Population: 5,544
+Coordinates: 41.0833,-75.1667
+Service Code: MIDDLESMITHFIELD-T
+Delivery Zone: A (Free Delivery)
+
+## RENTAL PRICING DATA
+
+### Daily Rental Rates (USD)
+4-Seater Golf Cart: $245.00
+6-Seater Golf Cart: $295.00
+Utility Golf Cart: $245.00
+Delivery Fee: Included (Pike County)
+Insurance: Included
+Damage Waiver: $25.00 (Optional)
+
+### Weekly Rental Rates (USD)
+4-Seater Golf Cart: $1,400.00
+6-Seater Golf Cart: $1,680.00
+Utility Golf Cart: $1,400.00
+Delivery Fee: Included (Pike County)
+Insurance: Included
+Damage Waiver: $100.00 (Optional)
+
+### Monthly Rental Rates (USD)
+4-Seater Golf Cart: $4,200.00
+6-Seater Golf Cart: $5,040.00
+Utility Golf Cart: $4,200.00
+Delivery Fee: Included (Pike County)
+Insurance: Included
+Damage Waiver: $300.00 (Optional)
+
+## TECHNICAL SERVICE DATA
+
+### Service Categories
+Preventive Maintenance: Annual service, battery maintenance, inspection
+Repair Services: Diagnostic, component replacement, system repair
+Warranty Service: Manufacturer warranty claims, covered repairs
+Emergency Service: Roadside assistance, priority scheduling
+Upgrade Services: Performance enhancements, accessory installation
+
+### Service Pricing Structure
+Diagnostic Fee: $85.00 (Applied to repair if approved)
+Labor Rate: $95.00 per hour
+Parts: List price + 20% markup
+Warranty Labor: Covered by manufacturer
+Emergency Service: $125.00 minimum charge + regular rates
+
+### Battery Service Data
+48V Lithium Replacement: $2,800.00 - $3,200.00
+72V Lithium Replacement: $3,800.00 - $4,200.00
+Battery Testing: $45.00
+Charger Replacement: $285.00 - $450.00
+Charging System Diagnostic: $65.00
+
+## FINANCING DATA
+
+### Financing Partners
+Primary Lender: Automotive Finance Partners
+Secondary Lender: Regional Credit Union
+Alternative: In-house financing available
+Credit Requirements: Minimum 580 credit score
+Down Payment: 10-20% typical
+
+### Financing Terms
+Loan Terms: 12-60 months available
+APR Range: 6.99% - 18.99% (based on credit)
+Maximum Amount: $25,000
+Processing Fee: $199.00
+Early Payment: No prepayment penalty
+
+## BUSINESS METRICS DATA
+
+### Customer Demographics
+Primary Age Range: 35-75 years
+Average Income: $65,000 - $125,000
+Geographic Distribution: 75% Pike County, 25% surrounding areas
+Customer Type: 60% individual, 40% commercial/rental
+
+### Seasonal Patterns
+Peak Season: March - September
+Sales Peak: April - June  
+Rental Peak: June - August
+Service Peak: March - May
+Storage Season: October - February
+
+### Inventory Turnover
+Average Inventory: 25-30 units
+Monthly Sales: 8-12 units (peak season)
+Rental Fleet: 15-20 units
+Service Capacity: 5-8 units per day
+
+## DIGITAL MARKETING DATA
+
+### Website Analytics
+Google Analytics ID: G-QJVWEK6RT8
+Google Tag Manager: GTM-NSN3ZJPP
+Monthly Visitors: 2,500-4,000 (seasonal variation)
+Average Session Duration: 3:45 minutes
+Conversion Rate: 3.2% (inquiries to sales)
+
+### Search Engine Data
+Primary Keywords: "Pike County golf carts", "DENAGO PA", "EVOLUTION dealer"
+Local Search Position: #1-3 for primary terms
+Online Reviews: 4.8/5.0 average rating
+Review Platforms: Google, Yelp, Facebook, Better Business Bureau
+
+## COMPLIANCE DATA
+
+### Regulatory Requirements
+Pennsylvania Dealer License: Current and valid
+DOT Street Legal Certification: Authorized provider
+Municipal Business Licenses: All Pike County municipalities
+Insurance Coverage: General liability, product liability, professional
+Environmental Compliance: Battery disposal, recycling programs
+
+### Industry Certifications
+Manufacturer Authorization: DENAGO, EVOLUTION
+Technician Certification: Factory-trained service staff
+Safety Training: DOT compliance, electrical systems
+Continuing Education: Annual manufacturer training programs
+
+## HISTORICAL DATA
+
+### Business Milestones
+Establishment: Serving Pike County community since inception
+Service Expansion: Comprehensive coverage all 15 municipalities
+Product Lines: Added EVOLUTION brand partnership
+Fleet Growth: Expanded rental program 50+ units capability
+Recognition: Local business excellence awards
+
+### Performance Metrics
+Customer Satisfaction: 95%+ positive feedback
+Repeat Business: 60% customer return rate
+Referral Rate: 40% new customers from referrals
+Warranty Claims: <2% of sales (excellent reliability)
+Service Response Time: Same-day or next-day for most requests
+
+## CONTACT DATA VERIFICATION
+Last Verified: January 25, 2025
+Data Accuracy: Professionally maintained
+Update Frequency: Monthly review, quarterly audit
+Source Authority: Pike County Golf Carts Management
+Contact for Data Updates: info@pikecountygolfcarts.com

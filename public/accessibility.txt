@@ -1,0 +1,275 @@
+# accessibility.txt - Web Accessibility Statement
+# Pike County Golf Carts - Commitment to Digital Accessibility
+
+## ACCESSIBILITY COMMITMENT
+Pike County Golf Carts is committed to ensuring digital accessibility for people with disabilities. 
+We are continually improving the user experience for everyone, and applying the relevant 
+accessibility standards to ensure we provide equal access to all users.
+
+Website: https://pikecountygolfcarts.com
+Business: Pike County Golf Carts - Electric Golf Cart Sales, Service & Rentals
+Location: Pike County, Pennsylvania
+Contact: info@pikecountygolfcarts.com | 1-844-844-6638
+
+## CONFORMANCE STATUS
+We strive to conform to the Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA. 
+These guidelines explain how to make web content accessible to people with disabilities. 
+Conformance with these guidelines helps us ensure the site is accessible to blind and visually 
+impaired users, deaf and hearing impaired users, users with learning disabilities, cognitive 
+limitations, limited movement, speech disabilities, photosensitivity, and combinations of these.
+
+### WCAG 2.1 Compliance Level: AA Target
+
+## ACCESSIBILITY FEATURES IMPLEMENTED
+
+### Visual Accessibility
+✓ High contrast color schemes for improved readability
+✓ Scalable text that can be enlarged up to 200% without loss of functionality
+✓ Alternative text descriptions for all images and graphics
+✓ Consistent and logical heading structure (H1-H6)
+✓ Focus indicators for keyboard navigation
+✓ Color is not used as the only visual means of conveying information
+
+### Motor/Mobility Accessibility  
+✓ Full keyboard navigation support
+✓ Keyboard focus management and logical tab order
+✓ Adequate target sizes for clickable elements (minimum 44x44 pixels)
+✓ No time limits on content interaction
+✓ Skip navigation links for efficient page traversal
+
+### Cognitive Accessibility
+✓ Clear and simple language throughout the website
+✓ Consistent navigation and page layouts
+✓ Error identification and suggestion in forms
+✓ Descriptive page titles and headings
+✓ Logical reading and navigation order
+✓ Clear instructions for all interactive elements
+
+### Hearing Accessibility
+✓ Captions and transcripts for video content (when available)
+✓ Visual alternatives to audio-only information
+✓ No audio that plays automatically
+✓ Contact information available in multiple formats (phone, email, web form)
+
+## TECHNICAL SPECIFICATIONS
+
+### Supported Technologies
+Our website is designed to be compatible with the following assistive technologies:
+- Screen readers (NVDA, JAWS, VoiceOver)
+- Keyboard navigation
+- Voice recognition software
+- Screen magnification software
+- Alternative input devices
+
+### Browser Compatibility
+Accessibility features tested and supported on:
+- Chrome (latest version)
+- Firefox (latest version)  
+- Safari (latest version)
+- Edge (latest version)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+### Device Compatibility
+✓ Desktop computers
+✓ Laptop computers
+✓ Tablet devices
+✓ Smartphone devices
+✓ Assistive technology devices
+
+## CONTENT ACCESSIBILITY
+
+### Images and Media
+- All images include alternative text descriptions
+- Decorative images are marked appropriately for screen readers
+- Product images include detailed descriptions of golf cart features
+- Company photos include contextual descriptions
+- No essential information is conveyed through images alone
+
+### Navigation and Structure
+- Consistent navigation across all pages
+- Breadcrumb navigation on deep pages
+- Skip links to main content
+- Logical heading hierarchy
+- Clear page titles describing page purpose
+
+### Forms and Interactive Elements
+- All form fields have associated labels
+- Required fields are clearly identified
+- Error messages are descriptive and helpful
+- Submit buttons have clear action descriptions
+- Form validation provides clear feedback
+
+### Text and Content
+- Plain language used throughout the site
+- Technical terms explained when necessary
+- Content organized in logical sections
+- Important information highlighted appropriately
+- Adequate spacing between clickable elements
+
+## BUSINESS ACCESSIBILITY SERVICES
+
+### Physical Accessibility
+Pike County Golf Carts is committed to serving customers with mobility needs:
+- Accessible golf cart models available
+- Low step-through designs for easy entry/exit
+- Hand controls and adaptive equipment available
+- Delivery and setup services to accommodate mobility limitations
+- Flexible meeting locations for sales consultations
+
+### Communication Accessibility
+- Multiple contact methods available (phone, email, web form)
+- Written communication available for hearing impaired customers
+- Visual product demonstrations and materials
+- Flexible appointment scheduling
+- Professional staff trained in accessibility awareness
+
+### Product Accessibility
+Our golf cart inventory includes models suitable for customers with various accessibility needs:
+- Easy entry/exit designs
+- Adjustable seating options
+- Hand control adaptations available
+- Stability and safety features
+- Professional assessment of customer needs
+
+## ONGOING ACCESSIBILITY EFFORTS
+
+### Regular Accessibility Audits
+- Quarterly accessibility reviews of website content
+- Testing with actual assistive technology users
+- Professional accessibility consulting as needed
+- Continuous monitoring of accessibility compliance
+- Staff training on accessibility best practices
+
+### User Feedback Integration
+We actively seek and incorporate feedback from users with disabilities to improve our 
+accessibility. Customer suggestions have led to improvements in:
+- Website navigation structure
+- Content organization and clarity
+- Form design and functionality
+- Mobile device compatibility
+- Customer service procedures
+
+### Technology Updates
+- Regular updates to ensure compatibility with new assistive technologies
+- Testing with latest screen reader versions
+- Mobile accessibility improvements
+- Performance optimizations for assistive technology users
+- Implementation of new accessibility standards as they emerge
+
+## ACCESSIBILITY CONTACT INFORMATION
+
+### Report Accessibility Issues
+If you encounter accessibility barriers on our website or need assistance accessing 
+our content, please contact us:
+
+Primary Contact: info@pikecountygolfcarts.com
+Phone: 1-844-844-6638
+Business Hours: Monday-Friday 9AM-6PM, Saturday 9AM-5PM, Sunday 12PM-4PM
+Website: https://pikecountygolfcarts.com
+
+### Response Time
+We are committed to responding to accessibility inquiries within:
+- Email: 24 hours during business days
+- Phone: Immediate during business hours
+- Complex issues: 5 business days for resolution plan
+- Website updates: 10 business days for implementation
+
+### Accessibility Support Services
+- Alternative format documents available upon request
+- Personal assistance with website navigation
+- Telephone consultation for product information
+- In-person meetings for detailed product discussions
+- Customized product demonstrations
+
+## THIRD-PARTY ACCESSIBILITY
+
+### External Links
+We strive to link only to accessible external websites, including:
+- Manufacturer websites (DENAGO, EVOLUTION) 
+- Government resources for regulations and registration
+- Financing partner websites
+- Local government and tourism information
+
+### Social Media Accessibility
+Our social media presence includes accessibility considerations:
+- Alternative text for social media images
+- Descriptive captions for video content
+- Accessible links and hashtags
+- Clear language in posts and descriptions
+
+## COMPLIANCE MONITORING
+
+### Standards Compliance
+We monitor compliance with:
+- Web Content Accessibility Guidelines (WCAG) 2.1 Level AA
+- Americans with Disabilities Act (ADA) requirements
+- Section 508 standards
+- Pennsylvania accessibility regulations
+- Industry best practices for automotive websites
+
+### Testing Methods
+Regular accessibility testing includes:
+- Automated accessibility scanning tools
+- Manual keyboard navigation testing
+- Screen reader compatibility testing
+- Color contrast validation
+- Mobile device accessibility testing
+- User experience testing with disabled users
+
+## CONTINUOUS IMPROVEMENT
+
+### Accessibility Roadmap
+Our ongoing accessibility improvements include:
+- Enhanced mobile accessibility features
+- Improved form design and error handling
+- Better integration with assistive technologies
+- Expanded alternative format content
+- Staff accessibility training programs
+
+### Community Engagement
+We actively participate in:
+- Local disability community events
+- Accessibility advocacy groups
+- Professional accessibility training programs
+- Industry accessibility best practice sharing
+- Customer feedback and suggestion programs
+
+## LEGAL COMPLIANCE
+
+### Regulatory Adherence
+Pike County Golf Carts complies with applicable accessibility laws including:
+- Americans with Disabilities Act (ADA)
+- Pennsylvania Human Relations Act
+- Federal telecommunications accessibility requirements
+- Automotive industry accessibility standards
+- Local business accessibility ordinances
+
+### Documentation and Records
+We maintain documentation of:
+- Accessibility testing results
+- User feedback and resolutions
+- Compliance improvement actions
+- Staff training records
+- Third-party accessibility assessments
+
+## CONTACT FOR ACCESSIBILITY SUPPORT
+
+Business: Pike County Golf Carts
+Accessibility Coordinator: Available through main contact
+Phone: 1-844-844-6638
+Email: info@pikecountygolfcarts.com
+Website: https://pikecountygolfcarts.com
+Location: Pike County, Pennsylvania
+Service Area: All 15 Pike County municipalities
+
+Last Updated: January 25, 2025
+Accessibility Policy Version: 1.0
+Next Review Date: July 25, 2025
+Compliance Level: WCAG 2.1 AA (Target)
+
+## FEEDBACK AND IMPROVEMENT
+
+We welcome feedback on the accessibility of Pike County Golf Carts' website and services.
+Your input helps us identify barriers and implement solutions that benefit all users.
+Together, we can ensure equal access to electric golf cart information and services 
+for all members of the Pike County community.

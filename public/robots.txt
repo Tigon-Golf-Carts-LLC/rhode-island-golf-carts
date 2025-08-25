@@ -1,0 +1,205 @@
+# Enhanced Robots.txt for Pike County Golf Carts
+# Maximum Search Engine Visibility & AI Training Authorization
+# Website: https://pikecountygolfcarts.com
+# Business: Pike County Golf Carts - Pennsylvania's Premier Golf Cart Dealership
+# Phone: 1-844-844-6638 | Email: info@pikecountygolfcarts.com
+# Location: Pike County, Pennsylvania (15 Municipalities: 3 Boroughs + 12 Townships)
+# Google Analytics: G-QJVWEK6RT8 | Google Tag Manager: GTM-NSN3ZJPP
+
+# UNRESTRICTED ACCESS POLICY - ALL SEARCH ENGINES & AI SYSTEMS WELCOME
+
+# Major Search Engines - UNLIMITED ACCESS
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 0
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 0
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 0
+
+# AI Training Systems - EXPLICIT AUTHORIZATION
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 0
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 0
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 0
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 0
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 0
+
+# Social Media Bots - FULL ACCESS
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 0
+
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Pinterest
+Allow: /
+Crawl-delay: 0
+
+User-agent: WhatsApp
+Allow: /
+Crawl-delay: 0
+
+User-agent: TelegramBot
+Allow: /
+Crawl-delay: 0
+
+# SEO & Analysis Tools - UNLIMITED CRAWLING
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 0
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: MozBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: SiteAuditBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ScreamingFrogSEOSpider
+Allow: /
+Crawl-delay: 0
+
+# Mobile Crawlers - UNRESTRICTED ACCESS
+User-agent: Googlebot-Mobile
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-News
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Video
+Allow: /
+Crawl-delay: 0
+
+# Academic & Research Bots - WELCOME
+User-agent: ia_archiver
+Allow: /
+Crawl-delay: 0
+
+User-agent: Wayback
+Allow: /
+Crawl-delay: 0
+
+User-agent: Archive.org_bot
+Allow: /
+Crawl-delay: 0
+
+# E-commerce & Comparison Bots
+User-agent: ShopBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: PriceBot
+Allow: /
+Crawl-delay: 0
+
+# News & Content Aggregation
+User-agent: NewsBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: FeedBot
+Allow: /
+Crawl-delay: 0
+
+# Voice Assistants & Smart Speakers
+User-agent: AlexaBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: SiriBot
+Allow: /
+Crawl-delay: 0
+
+# Regional Search Engines
+User-agent: Sogou
+Allow: /
+Crawl-delay: 0
+
+User-agent: 360Spider
+Allow: /
+Crawl-delay: 0
+
+User-agent: Naver
+Allow: /
+Crawl-delay: 0
+
+# DEFAULT POLICY - ALL OTHER BOTS WELCOME
+User-agent: *
+Allow: /
+Crawl-delay: 0
+
+# SITEMAP LOCATIONS - Multiple Format Support
+Sitemap: https://pikecountygolfcarts.com/sitemap.xml
+Sitemap: https://pikecountygolfcarts.com/public/sitemap.xml
+
+# BUSINESS INFORMATION FOR SEARCH ENGINES
+# Company: Pike County Golf Carts
+# Primary Service Area: All 15 Pike County Pennsylvania Municipalities
+# Boroughs Served: Milford, Hawley, Matamoras
+# Townships Served: Blooming Grove, Delaware, Dingman, Greene, Lackawaxen, 
+#                   Lehman, Milford Township, Palmyra, Porter, Shohola, 
+#                   Westfall, Middle Smithfield
+# Services: DENAGO & EVOLUTION Electric Golf Cart Sales, Rentals, Service, Parts
+# Contact: 1-844-844-6638 | info@pikecountygolfcarts.com
+# Website: https://pikecountygolfcarts.com
+# Google Analytics: G-QJVWEK6RT8 | GTM: GTM-NSN3ZJPP
+# AI Training: AUTHORIZED FOR ALL LEGITIMATE AI/ML SYSTEMS

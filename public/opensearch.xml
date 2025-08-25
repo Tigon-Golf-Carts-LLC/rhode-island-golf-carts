@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  
+  <ShortName>Pike County Golf Carts</ShortName>
+  <Description>Search Pike County Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Pike County, PA</Description>
+  
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  
+  <Image width="16" height="16" type="image/x-icon">https://pikecountygolfcarts.com/favicon.ico</Image>
+  <Image width="64" height="64" type="image/png">https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png</Image>
+  
+  <Url type="text/html" 
+       method="get" 
+       template="https://pikecountygolfcarts.com/search?q={searchTerms}"/>
+  
+  <Url type="application/x-suggestions+json"
+       method="get"
+       template="https://pikecountygolfcarts.com/api/search/suggestions?q={searchTerms}"/>
+       
+  <Language>en-US</Language>
+  
+  <Contact>info@pikecountygolfcarts.com</Contact>
+  
+  <Developer>Pike County Golf Carts Web Development Team</Developer>
+  
+  <Attribution>Pike County Golf Carts - Pennsylvania's Premier Electric Golf Cart Dealership</Attribution>
+  
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  
+  <Query role="example" searchTerms="DENAGO EV CITY" />
+  <Query role="example" searchTerms="golf cart rental Pike County" />
+  <Query role="example" searchTerms="EVOLUTION D5 Maverick" />
+  <Query role="example" searchTerms="electric golf cart service PA" />
+  
+  <moz:SearchForm>https://pikecountygolfcarts.com/</moz:SearchForm>
+  
+</OpenSearchDescription>

@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png</image:loc>
+      <image:title>Pike County Golf Carts - Premium Golf Cart Dealer</image:title>
+      <image:caption>Pike County Golf Carts logo and professional branding for Pennsylvania's premier golf cart dealership</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+      <image:license>https://pikecountygolfcarts.com/policies/terms-conditions</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg</image:loc>
+      <image:title>Modern Pike County Golf Cart Dealership Showroom</image:title>
+      <image:caption>Professional Pike County Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/inventory</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</image:loc>
+      <image:title>EVOLUTION D5 Maverick 4 Plus Golf Cart</image:title>
+      <image:caption>Premium EVOLUTION D5 Maverick 4 Plus electric golf cart available at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV City Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV City street-legal electric golf cart for urban mobility in Pike County</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/about</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg</image:loc>
+      <image:title>About Pike County Golf Carts</image:title>
+      <image:caption>Learn about Pike County Golf Carts - Pennsylvania's premier golf cart dealership serving all 15 municipalities</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/services</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_Th3nwXNXQ2CQPoVdYBg6Jg_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg</image:loc>
+      <image:title>Golf Cart Services Pike County</image:title>
+      <image:caption>Professional golf cart maintenance, repair, and service for Pike County residents</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg</image:loc>
+      <image:title>Golf Cart Rentals Pike County</image:title>
+      <image:caption>Professional golf cart rental services throughout Pike County, Pennsylvania</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/contact</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/showroom</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Brand Pages -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/denago</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
+      <image:title>DENAGO Electric Golf Carts</image:title>
+      <image:caption>Premium DENAGO electric golf cart lineup available at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/evolution</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</image:loc>
+      <image:title>EVOLUTION Electric Golf Carts</image:title>
+      <image:caption>Premium EVOLUTION electric golf cart lineup available at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Individual Vehicle Pages -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/vehicle/denago-ev-city</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV City Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV City street-legal electric golf cart - $15,000 at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/vehicle/denago-ev-nomad</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV Nomad Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV Nomad off-road electric golf cart - $8,495 at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/vehicle/denago-ev-nomad-xl</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV Nomad XL Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV Nomad XL extended electric golf cart - $8,495 at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/vehicle/denago-ev-rover-xl</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV Rover XL Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV Rover XL utility electric golf cart - $9,995 at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/vehicle/denago-ev-rover-xl6</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV Rover XL6 Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV Rover XL6 6-seater utility electric golf cart - $11,995 at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/vehicle/denago-ev-rover-xxl</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pikecountygolfcarts.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg</image:loc>
+      <image:title>DENAGO EV Rover XXL Electric Golf Cart</image:title>
+      <image:caption>DENAGO EV Rover XXL maximum capacity electric golf cart - $13,995 at Pike County Golf Carts</image:caption>
+      <image:geo_location>Pike County, Pennsylvania</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Pike County Municipality Pages - Boroughs -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/milford-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/hawley-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/matamoras-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pike County Municipality Pages - Townships -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/blooming-grove-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/delaware-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/dingman-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/greene-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/lackawaxen-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/lehman-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/milford-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/palmyra-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/porter-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/shohola-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/westfall-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/middle-smithfield-township-golf-carts</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Pike County Rental Pages - Boroughs -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/milford</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/hawley</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/matamoras</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pike County Rental Pages - Townships -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/blooming-grove-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/delaware-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/dingman-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/greene-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/lackawaxen-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/lehman-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/milford-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/palmyra-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/porter-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/shohola-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/westfall-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/rentals/middle-smithfield-township</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Policy Pages -->
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/terms-conditions</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/return-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/delivery-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/rental-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/storage-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/publishing-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/feedback-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/corrections-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/diversity-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/ethics-policy</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pikecountygolfcarts.com/policies/staffing-report</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

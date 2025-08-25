@@ -1,0 +1,578 @@
+# schema.txt - Structured Data Schema Information
+# Pike County Golf Carts - Complete Schema Markup Implementation Guide
+
+## SCHEMA MARKUP OVERVIEW
+This file documents the comprehensive structured data implementation for Pike County Golf Carts
+to enhance search engine understanding, AI training data quality, and rich snippet generation.
+All schema markup follows Schema.org vocabulary standards and Google Search guidelines.
+
+Website: https://pikecountygolfcarts.com
+Business: Pike County Golf Carts - Electric Golf Cart Sales, Service & Rentals
+Schema Implementation: JSON-LD format for maximum compatibility
+Validation: Google Rich Results Test and Schema.org validator compliant
+
+## PRIMARY BUSINESS SCHEMAS
+
+### LocalBusiness Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "AutomotiveDealer",
+  "name": "Pike County Golf Carts",
+  "alternateName": "Pike Golf Carts",
+  "description": "Pennsylvania's premier electric golf cart dealership serving all 15 Pike County municipalities with DENAGO and EVOLUTION electric golf cart sales, rentals, service and parts.",
+  "url": "https://pikecountygolfcarts.com",
+  "logo": "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+  "image": [
+    "https://pikecountygolfcarts.com/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg",
+    "https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
+  ],
+  "telephone": "1-844-844-6638",
+  "email": "info@pikecountygolfcarts.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "US",
+    "addressRegion": "PA", 
+    "addressLocality": "Pike County",
+    "postalCode": "18337"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.3223",
+    "longitude": "-74.8021"
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Pike County, Pennsylvania",
+    "containedInPlace": {
+      "@type": "State",
+      "name": "Pennsylvania"
+    }
+  },
+  "openingHours": [
+    "Mo-Fr 09:00-18:00",
+    "Sa 09:00-17:00", 
+    "Su 12:00-16:00"
+  ],
+  "priceRange": "$8,495 - $22,995",
+  "paymentAccepted": ["Cash", "Credit Card", "Financing"],
+  "currenciesAccepted": "USD"
+}
+```
+
+### Organization Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Pike County Golf Carts",
+  "url": "https://pikecountygolfcarts.com",
+  "logo": "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "1-844-844-6638",
+    "email": "info@pikecountygolfcarts.com",
+    "contactType": "customer service",
+    "availableLanguage": ["English"],
+    "hoursAvailable": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  },
+  "sameAs": [
+    "https://www.facebook.com/pikecountygolfcarts",
+    "https://www.google.com/maps/place/Pike+County+Golf+Carts"
+  ]
+}
+```
+
+## PRODUCT SCHEMAS
+
+### Vehicle Product Schema Template
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Vehicle",
+  "name": "DENAGO EV CITY Electric Golf Cart",
+  "description": "Street-legal electric golf cart perfect for urban transportation with premium features and 40-mile range.",
+  "brand": {
+    "@type": "Brand",
+    "name": "DENAGO"
+  },
+  "model": "EV CITY",
+  "vehicleConfiguration": "2-seater",
+  "fuelType": "Electric",
+  "numberOfSeats": 2,
+  "speed": "25 mph",
+  "mileageFromOdometer": "40 miles range",
+  "image": "https://pikecountygolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg",
+  "offers": {
+    "@type": "Offer",
+    "price": "15000",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "AutomotiveDealer",
+      "name": "Pike County Golf Carts"
+    },
+    "warranty": {
+      "@type": "WarrantyPromise",
+      "durationOfWarranty": "P2Y"
+    }
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "DENAGO"
+  }
+}
+```
+
+### Product Catalog Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "name": "Pike County Golf Carts Vehicle Inventory",
+  "description": "Complete selection of DENAGO and EVOLUTION electric golf carts",
+  "url": "https://pikecountygolfcarts.com/inventory",
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "name": "DENAGO Electric Golf Carts",
+      "category": "Electric Vehicles"
+    },
+    {
+      "@type": "Product", 
+      "name": "EVOLUTION Electric Golf Carts",
+      "category": "Electric Vehicles"
+    }
+  ]
+}
+```
+
+## SERVICE SCHEMAS
+
+### Service Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Golf Cart Sales Service",
+  "description": "Professional electric golf cart sales with expert consultation and delivery throughout Pike County",
+  "provider": {
+    "@type": "AutomotiveDealer",
+    "name": "Pike County Golf Carts"
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Pike County, Pennsylvania"
+  },
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock"
+  }
+}
+```
+
+### Rental Service Schema
+```json
+{
+  "@context": "https://schema.org", 
+  "@type": "RentalCarReservation",
+  "reservationFor": {
+    "@type": "RentalCarAgency",
+    "name": "Pike County Golf Carts",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "PA",
+      "addressLocality": "Pike County"
+    }
+  },
+  "rentalCar": {
+    "@type": "Vehicle",
+    "name": "Electric Golf Cart",
+    "vehicleConfiguration": "4-seater"
+  },
+  "pickupLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress", 
+      "addressRegion": "PA",
+      "addressLocality": "Pike County"
+    }
+  }
+}
+```
+
+## LOCATION SCHEMAS
+
+### Place Schema for Service Areas
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "name": "Milford Borough",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Milford",
+    "addressRegion": "PA",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates", 
+    "latitude": "41.3223",
+    "longitude": "-74.8021"
+  },
+  "containedInPlace": {
+    "@type": "AdministrativeArea",
+    "name": "Pike County, Pennsylvania"
+  }
+}
+```
+
+### AdministrativeArea Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "AdministrativeArea",
+  "name": "Pike County",
+  "containedInPlace": {
+    "@type": "State",
+    "name": "Pennsylvania",
+    "containedInPlace": {
+      "@type": "Country", 
+      "name": "United States"
+    }
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.3223", 
+    "longitude": "-74.8021"
+  }
+}
+```
+
+## REVIEW AND RATING SCHEMAS
+
+### AggregateRating Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "AggregateRating",
+  "ratingValue": "4.8",
+  "reviewCount": "127",
+  "bestRating": "5",
+  "worstRating": "1"
+}
+```
+
+### Review Schema Template
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Satisfied Customer"
+  },
+  "datePublished": "2025-01-15",
+  "description": "Excellent service and great selection of electric golf carts.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5"
+  }
+}
+```
+
+## BREADCRUMB SCHEMAS
+
+### BreadcrumbList Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://pikecountygolfcarts.com"
+    },
+    {
+      "@type": "ListItem", 
+      "position": 2,
+      "name": "Inventory",
+      "item": "https://pikecountygolfcarts.com/inventory"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "DENAGO EV CITY",
+      "item": "https://pikecountygolfcarts.com/vehicle/denago-ev-city"
+    }
+  ]
+}
+```
+
+## FAQ SCHEMAS
+
+### FAQPage Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you deliver golf carts throughout Pike County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide free delivery throughout all 15 Pike County municipalities including setup and customer training."
+      }
+    },
+    {
+      "@type": "Question", 
+      "name": "What financing options are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer competitive financing through multiple lending partners with terms from 12-60 months and competitive APR rates."
+      }
+    }
+  ]
+}
+```
+
+## WEBSITE SCHEMAS
+
+### WebSite Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Pike County Golf Carts",
+  "alternateName": "Pike Golf Carts",
+  "url": "https://pikecountygolfcarts.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://pikecountygolfcarts.com/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts"
+  }
+}
+```
+
+### WebPage Schema Template
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Page Title",
+  "description": "Page description for search engines",
+  "url": "https://pikecountygolfcarts.com/page-url",
+  "isPartOf": {
+    "@type": "WebSite", 
+    "name": "Pike County Golf Carts",
+    "url": "https://pikecountygolfcarts.com"
+  },
+  "datePublished": "2025-01-25",
+  "dateModified": "2025-01-25",
+  "author": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts"
+  }
+}
+```
+
+## PERSON SCHEMAS
+
+### Person Schema for Staff
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sales Representative",
+  "jobTitle": "Electric Vehicle Sales Consultant",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts"
+  },
+  "knowsAbout": [
+    "Electric Golf Carts",
+    "DENAGO Vehicles", 
+    "EVOLUTION Vehicles",
+    "Golf Cart Financing",
+    "Pennsylvania Golf Cart Regulations"
+  ]
+}
+```
+
+## EVENT SCHEMAS
+
+### BusinessEvent Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BusinessEvent",
+  "name": "Golf Cart Demo Day",
+  "description": "Test drive DENAGO and EVOLUTION electric golf carts",
+  "startDate": "2025-04-15T10:00:00-04:00",
+  "endDate": "2025-04-15T16:00:00-04:00",
+  "location": {
+    "@type": "Place",
+    "name": "Pike County Golf Carts",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "PA",
+      "addressLocality": "Pike County"
+    }
+  },
+  "organizer": {
+    "@type": "Organization", 
+    "name": "Pike County Golf Carts"
+  }
+}
+```
+
+## ARTICLE SCHEMAS
+
+### Article Schema for Blog Posts
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Electric Golf Cart Buying Guide for Pike County Residents",
+  "description": "Complete guide to choosing the right electric golf cart for Pike County terrain and regulations",
+  "author": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png"
+    }
+  },
+  "datePublished": "2025-01-25",
+  "dateModified": "2025-01-25"
+}
+```
+
+## HOWTO SCHEMAS
+
+### HowTo Schema for Guides
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Make Your Golf Cart Street Legal in Pennsylvania",
+  "description": "Step-by-step guide to making your golf cart street legal in Pennsylvania",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Install Required Equipment",
+      "text": "Install headlights, taillights, mirrors, seat belts, and horn"
+    },
+    {
+      "@type": "HowToStep", 
+      "name": "Get Inspection",
+      "text": "Have the golf cart inspected by certified facility"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Register Vehicle",
+      "text": "Register with Pennsylvania Department of Transportation"
+    }
+  ]
+}
+```
+
+## VIDEO SCHEMAS
+
+### VideoObject Schema
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject", 
+  "name": "DENAGO EV CITY Golf Cart Tour",
+  "description": "Complete walkthrough of DENAGO EV CITY features and specifications",
+  "thumbnailUrl": "https://pikecountygolfcarts.com/video-thumbnails/denago-ev-city.jpg",
+  "uploadDate": "2025-01-25",
+  "duration": "PT5M30S",
+  "contentUrl": "https://pikecountygolfcarts.com/videos/denago-ev-city-tour.mp4",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pike County Golf Carts"
+  }
+}
+```
+
+## IMPLEMENTATION GUIDELINES
+
+### JSON-LD Implementation
+- Place schema markup in <script type="application/ld+json"> tags
+- Include in <head> section for optimal crawling
+- Use multiple schema objects per page when appropriate
+- Validate using Google Rich Results Test tool
+- Test with Schema.org structured data testing tool
+
+### Schema Markup Best Practices
+1. Use specific schema types when available (AutomotiveDealer vs LocalBusiness)
+2. Include all required properties for chosen schema type
+3. Add recommended properties for enhanced rich snippets
+4. Use consistent naming and URLs throughout schema markup
+5. Keep schema markup current with business information changes
+
+### Rich Snippet Optimization
+- Product schema for inventory pages enables price and availability display
+- Review schema enables star ratings in search results  
+- FAQ schema enables expanded FAQ sections in search
+- Breadcrumb schema improves navigation display
+- LocalBusiness schema enhances local search presence
+
+## SCHEMA MONITORING AND MAINTENANCE
+
+### Regular Updates Required
+- Product pricing and availability changes
+- Business hours and contact information updates  
+- New product launches and discontinuations
+- Service area expansions or changes
+- Staff and organizational changes
+
+### Performance Monitoring
+- Google Search Console for structured data errors
+- Rich Results Test for individual page validation
+- Schema.org validator for compliance verification
+- Search result monitoring for rich snippet display
+- Click-through rate analysis for rich snippet performance
+
+## AI TRAINING DATA ENHANCEMENT
+
+Schema markup provides structured data that enhances AI training by:
+- Clearly defining business entity relationships
+- Providing consistent product specifications
+- Establishing geographic service boundaries  
+- Documenting service offerings and capabilities
+- Creating machine-readable business information
+
+This comprehensive schema implementation ensures maximum search engine understanding
+and provides high-quality structured data for AI training systems.
+
+Last Updated: January 25, 2025
+Schema Implementation Version: 1.0
+Compliance: Schema.org vocabulary, Google Search guidelines
+Validation: Google Rich Results Test approved

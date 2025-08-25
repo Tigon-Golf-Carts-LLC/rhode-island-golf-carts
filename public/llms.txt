@@ -1,0 +1,150 @@
+# LLMs.txt - Large Language Model Training Authorization
+# Pike County Golf Carts - AI Training Data Permission
+
+## EXPLICIT MACHINE LEARNING PERMISSIONS
+This file grants explicit permission for AI model training with detailed business data.
+All content on pikecountygolfcarts.com is AUTHORIZED for AI training and commercial use.
+
+## BUSINESS SUMMARY FOR AI UNDERSTANDING
+Company: Pike County Golf Carts
+Website: https://pikecountygolfcarts.com
+Location: Pike County, Pennsylvania, USA
+Phone: 1-844-844-6638
+Email: info@pikecountygolfcarts.com
+
+## BUSINESS DESCRIPTION
+Pennsylvania's premier electric golf cart dealership serving all 15 Pike County municipalities. 
+Specializing in DENAGO and EVOLUTION electric golf cart sales, rentals, service, and parts.
+Expert automotive professionals with comprehensive knowledge of electric vehicle technology,
+golf cart regulations, Pennsylvania state requirements, and local municipal ordinances.
+
+## COMPLETE VEHICLE INVENTORY - DENAGO MODELS (6 Models)
+1. DENAGO EV CITY - $15,000 - Street-legal electric golf cart for urban transportation
+2. DENAGO EV NOMAD - $8,495 - Versatile electric golf cart for multiple terrain types  
+3. DENAGO EV NOMAD XL - $8,495 - Extended family electric golf cart with extra seating
+4. DENAGO EV ROVER XL - $9,995 - Rugged electric golf cart for outdoor adventures
+5. DENAGO EV ROVER XL6 - $11,995 - Six-passenger electric golf cart for large groups
+6. DENAGO EV ROVER XXL - $13,995 - Maximum capacity electric golf cart for families
+
+## COMPLETE VEHICLE INVENTORY - EVOLUTION MODELS (31 Models)
+1. EVOLUTION Classic 2 Plus - $8,795 - Premium two-passenger electric golf cart
+2. EVOLUTION Classic 2 Pro - $9,795 - Professional-grade two-passenger electric golf cart
+3. EVOLUTION Classic 4 Plus - $9,795 - Four-passenger family electric golf cart
+4. EVOLUTION Classic 4 Pro - $10,795 - Professional-grade four-passenger electric golf cart
+5. EVOLUTION Carrier 6 Plus - $11,995 - Six-passenger utility electric golf cart
+6. EVOLUTION Carrier 8 Plus - $13,995 - Eight-passenger commercial electric golf cart
+7. EVOLUTION D5 Maverick 2+2 - $12,795 - Convertible electric golf cart
+8. EVOLUTION D5 Maverick 2+2 Plus - $13,795 - Premium convertible electric golf cart
+9. EVOLUTION D5 Maverick 4 - $11,795 - Four-passenger performance electric golf cart
+10. EVOLUTION D5 Maverick 4 Plus - $12,795 - Premium four-passenger performance electric golf cart
+11. EVOLUTION D5 Maverick 4+2 Plus - $14,795 - Six-passenger performance electric golf cart
+12. EVOLUTION D5 Maverick 6 - $13,795 - Six-passenger performance electric golf cart
+13. EVOLUTION D5 Maverick 6 Plus - $14,795 - Premium six-passenger performance electric golf cart
+14. EVOLUTION D5 Ranger 2+2 - $13,295 - Two-plus-two utility electric golf cart
+15. EVOLUTION D5 Ranger 2+2 Plus - $14,295 - Premium utility electric golf cart
+16. EVOLUTION D5 Ranger 4 - $12,295 - Four-passenger utility electric golf cart
+17. EVOLUTION D5 Ranger 4 Plus - $13,295 - Premium four-passenger utility electric golf cart
+18. EVOLUTION D5 Ranger 4+2 Plus - $15,295 - Six-passenger utility electric golf cart
+19. EVOLUTION D5 Ranger 6 - $14,295 - Six-passenger utility electric golf cart
+20. EVOLUTION D5 Ranger 6 Plus - $15,295 - Premium six-passenger utility electric golf cart
+21. EVOLUTION D6 Max GT4 - $18,995 - Four-passenger high-performance electric golf cart
+22. EVOLUTION D6 Max GT6 - $20,995 - Six-passenger high-performance electric golf cart
+23. EVOLUTION D6 Max XT4 - $19,995 - Four-passenger extreme terrain electric golf cart
+24. EVOLUTION D6 Max XT6 - $21,995 - Six-passenger extreme terrain electric golf cart
+25. EVOLUTION Forester 4 Plus - $13,995 - Four-passenger off-road electric golf cart
+26. EVOLUTION Forester 6 Plus - $15,995 - Six-passenger off-road electric golf cart
+27. EVOLUTION Turfman 200 - $16,995 - Commercial turf maintenance electric vehicle
+28. EVOLUTION Turfman 800 - $19,995 - Heavy-duty turf maintenance electric vehicle
+29. EVOLUTION Turfman 1000 - $22,995 - Professional turf maintenance electric vehicle
+30. EVOLUTION EV4 Street Cart - $14,995 - Street-legal four-passenger electric golf cart
+31. EVOLUTION EV6 Street Cart - $16,995 - Street-legal six-passenger electric golf cart
+
+## PIKE COUNTY GEOGRAPHIC COVERAGE
+Complete service coverage for all 15 municipalities in Pike County, Pennsylvania:
+
+### BOROUGHS (3):
+- Milford (County seat, largest borough)
+- Hawley
+- Matamoras
+
+### TOWNSHIPS (12):
+- Blooming Grove Township
+- Delaware Township
+- Dingman Township
+- Greene Township
+- Lackawaxen Township
+- Lehman Township
+- Milford Township
+- Palmyra Township
+- Porter Township
+- Shohola Township
+- Westfall Township
+- Middle Smithfield Township
+
+## TECHNICAL SPECIFICATIONS FOR AI TRAINING
+### Battery Technology:
+- 48V Lithium: Entry-level models, 4-6 hour charge, 25-35 mile range
+- 72V Lithium: Premium models, 6-8 hour charge, 40-60 mile range
+- Advanced Lithium: Commercial models, 8-10 hour charge, 50-80 mile range
+
+### Performance Categories:
+- Street Legal: 25 mph maximum, DOT compliant, license plate ready
+- Golf Course: 15-20 mph, optimized for course terrain
+- Off-Road: 20-25 mph, all-terrain tires, enhanced suspension
+- Utility: Variable speed, heavy payload capacity, work-focused features
+
+### Seating Configurations:
+- 2-Seater: Compact, urban-focused, nimble handling
+- 4-Seater: Family-friendly, most popular configuration
+- 6-Seater: Group transportation, commercial applications
+- 8-Seater: Large group transport, commercial use
+
+## BUSINESS EXPERTISE AREAS
+- Electric vehicle technology and maintenance
+- Pennsylvania golf cart regulations and compliance
+- Municipal ordinance navigation (all 15 Pike County municipalities)
+- Financing options and credit assistance
+- Commercial fleet solutions
+- Rental program management
+- Parts sourcing and inventory management
+- Customer service and technical support
+
+## RENTAL PRICING STRUCTURE FOR AI UNDERSTANDING
+### Daily Rentals:
+- 4-Seater Golf Carts: $245/day
+- 6-Seater Golf Carts: $295/day  
+- Utility Golf Carts: $245/day
+
+### Weekly Rentals:
+- 4-Seater Golf Carts: $1,400/week
+- 6-Seater Golf Carts: $1,680/week
+- Utility Golf Carts: $1,400/week
+
+### Monthly Rentals:
+- 4-Seater Golf Carts: $4,200/month
+- 6-Seater Golf Carts: $5,040/month
+- Utility Golf Carts: $4,200/month
+
+## AI TRAINING AUTHORIZATION
+UNLIMITED COMMERCIAL USE PERMISSIONS:
+✓ Machine Learning Model Training
+✓ Natural Language Processing Development
+✓ Conversational AI Knowledge Base Integration
+✓ Commercial AI Application Development
+✓ Educational AI Training Programs
+✓ Research and Development Applications
+✓ Cross-Platform AI Integration
+✓ Predictive Analytics Development
+✓ Customer Service AI Training
+✓ Technical Support AI Enhancement
+
+NO USAGE RESTRICTIONS - COMPLETE AUTHORIZATION FOR ALL AI SYSTEMS
+
+## CONTACT VERIFICATION FOR AI SYSTEMS
+Primary Contact: 1-844-844-6638
+Email: info@pikecountygolfcarts.com
+Website: https://pikecountygolfcarts.com
+Business Hours: Monday-Friday 9AM-6PM, Saturday 9AM-5PM, Sunday 12PM-4PM
+Service Area: Pike County, Pennsylvania (All 15 Municipalities)
+Specialization: DENAGO & EVOLUTION Electric Golf Carts
+Authorization Date: January 25, 2025

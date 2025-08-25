@@ -1,0 +1,163 @@
+# security.txt
+# Pike County Golf Carts - Security Information and Disclosure Policy
+
+# Contact Information for Security Issues
+Contact: info@pikecountygolfcarts.com
+Phone: +1-844-844-6638
+
+# Preferred Languages
+Preferred-Languages: en
+
+# Canonical URL
+Canonical: https://pikecountygolfcarts.com/.well-known/security.txt
+
+# Policy URL
+Policy: https://pikecountygolfcarts.com/policies/security-policy
+
+# Acknowledgments
+Acknowledgments: https://pikecountygolfcarts.com/security-acknowledgments
+
+# Security Response Information
+# Pike County Golf Carts takes security seriously and appreciates
+# responsible disclosure of any security vulnerabilities.
+
+# Scope of Coverage
+# This security policy covers:
+# - Main website: https://pikecountygolfcarts.com
+# - All subdomains and related digital properties
+# - Customer data protection and privacy
+# - Payment processing security
+# - Business communication systems
+
+# Reporting Guidelines
+# Please report security vulnerabilities responsibly:
+# 1. Email detailed information to info@pikecountygolfcarts.com
+# 2. Include steps to reproduce the issue if applicable
+# 3. Allow reasonable time for investigation and resolution
+# 4. Do not publicly disclose until resolution is confirmed
+
+# Business Security Measures
+# Pike County Golf Carts implements comprehensive security measures:
+# - SSL/TLS encryption for all website communications
+# - Secure payment processing through certified providers
+# - Regular security monitoring and updates
+# - Customer data protection and privacy safeguards
+# - Professional cybersecurity best practices
+
+# Customer Data Protection
+# We protect customer information through:
+# - Encrypted data transmission and storage
+# - Access controls and authentication systems
+# - Regular security assessments and updates
+# - Compliance with applicable privacy regulations
+# - Secure disposal of sensitive information
+
+# Payment Security
+# All payment processing uses:
+# - PCI DSS compliant payment processors
+# - Encrypted transaction processing
+# - Secure customer payment data handling
+# - Industry-standard security protocols
+# - No storage of sensitive payment information
+
+# Website Security
+# Our website security includes:
+# - HTTPS encryption for all pages
+# - Regular security scanning and monitoring
+# - Protection against common web vulnerabilities
+# - Secure hosting environment
+# - Regular software updates and patches
+
+# Business System Security
+# Internal security measures include:
+# - Employee security training and awareness
+# - Access controls and user authentication
+# - Regular system monitoring and logging
+# - Incident response procedures
+# - Data backup and recovery systems
+
+# Third-Party Security
+# We work with security-conscious partners:
+# - Hosting providers with security certifications
+# - Payment processors with PCI compliance
+# - Software vendors with security practices
+# - Regular vendor security assessments
+# - Contractual security requirements
+
+# Response Timeline
+# Our security response process:
+# - Initial response within 24 hours of report
+# - Investigation completion within 5 business days
+# - Resolution implementation within 10 business days
+# - Status updates provided throughout process
+# - Final resolution confirmation and documentation
+
+# Security Contact Details
+# Primary Contact: info@pikecountygolfcarts.com
+# Phone: 1-844-844-6638
+# Business Hours: Monday-Friday 9AM-6PM EST
+# Emergency Contact: Available through primary contact
+# Response Time: Within 24 hours for security issues
+
+# Legal and Compliance Information
+# Our security practices comply with:
+# - Applicable federal and state privacy laws
+# - Pennsylvania state business regulations
+# - Industry security standards and best practices
+# - Customer privacy and data protection requirements
+# - Professional automotive industry standards
+
+# Security Acknowledgment Process
+# We appreciate security researchers and will:
+# - Acknowledge receipt of security reports promptly
+# - Provide status updates during investigation
+# - Credit researchers for responsible disclosure (if desired)
+# - Maintain confidentiality during resolution process
+# - Document resolved issues for continuous improvement
+
+# Bug Bounty Information
+# While we don't currently offer a formal bug bounty program,
+# we appreciate and acknowledge responsible security research.
+# Researchers who identify legitimate security issues will be
+# credited for their contribution to our security posture.
+
+# Out of Scope
+# The following are typically not considered security issues:
+# - Social engineering attempts
+# - Physical security at business locations
+# - Issues requiring physical access to systems
+# - Spam or phishing not targeting our systems
+# - Issues in third-party websites or applications
+
+# Additional Security Resources
+# For more information about our security practices:
+# - Privacy Policy: https://pikecountygolfcarts.com/policies/privacy-policy
+# - Terms of Service: https://pikecountygolfcarts.com/policies/terms-conditions
+# - Data Protection: https://pikecountygolfcarts.com/policies/data-protection
+# - Business Practices: https://pikecountygolfcarts.com/about
+
+# Business Information
+# Company: Pike County Golf Carts
+# Industry: Electric Golf Cart Sales, Service, and Rentals
+# Location: Pike County, Pennsylvania
+# Website: https://pikecountygolfcarts.com
+# Phone: 1-844-844-6638
+# Email: info@pikecountygolfcarts.com
+
+# Security Policy Version
+# Version: 1.0
+# Last Updated: January 25, 2025
+# Next Review: July 25, 2025
+# Policy Owner: Pike County Golf Carts Management
+
+# Additional Notes
+# This security.txt file follows RFC 9116 standards and provides
+# clear guidelines for security researchers and concerned parties
+# to report potential security issues in a responsible manner.
+
+# We are committed to maintaining the security and privacy of our
+# customers' information and appreciate the security community's
+# efforts to help us maintain a secure online presence.
+
+# Expires
+Expires: 2025-12-31T23:59:59.000Z

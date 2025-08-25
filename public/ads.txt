@@ -1,0 +1,105 @@
+# ads.txt for Pike County Golf Carts
+# Authorized Digital Sellers Declaration
+# https://pikecountygolfcarts.com/ads.txt
+
+# This file declares authorized digital advertising sellers for Pike County Golf Carts
+# Website: https://pikecountygolfcarts.com
+# Business: Electric Golf Cart Sales, Service & Rentals
+# Location: Pike County, Pennsylvania
+# Contact: info@pikecountygolfcarts.com
+
+# Google Ad Manager / AdSense
+# Google Analytics: G-QJVWEK6RT8
+# Google Tag Manager: GTM-NSN3ZJPP
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# Meta Business (Facebook & Instagram)
+# Authorized for business advertising on Facebook and Instagram platforms
+facebook.com, 000000000000000, DIRECT, c3e20eee3f780d68
+
+# Microsoft Advertising (Bing Ads)  
+# Authorized for Bing search and Microsoft advertising network
+microsoft.com, 0000000000, DIRECT, f08c47fec0942fa0
+
+# Amazon DSP
+# Authorized for Amazon advertising services
+amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
+
+# Business Information for Ad Verification
+# Company: Pike County Golf Carts
+# Industry: Automotive - Electric Golf Carts
+# Primary Services: Sales, Rentals, Service, Parts
+# Service Area: Pike County, Pennsylvania (15 municipalities)
+# Brands: DENAGO, EVOLUTION Electric Golf Carts
+# Phone: 1-844-844-6638
+# Email: info@pikecountygolfcarts.com
+
+# Authorized Advertising Categories
+# - Automotive Sales and Service
+# - Electric Vehicle Promotion  
+# - Golf Cart Sales and Rentals
+# - Local Pennsylvania Business
+# - Recreational Vehicle Services
+# - Environmental Transportation Solutions
+
+# Geographic Targeting Authorization
+# Primary: Pike County, Pennsylvania
+# Secondary: Pocono Mountains Region
+# Extended: Northeastern Pennsylvania
+# Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners
+
+# Brand Safety and Content Guidelines
+# All advertising must comply with:
+# - Professional automotive industry standards
+# - Family-friendly content requirements
+# - Accurate product and service representation
+# - Pennsylvania business regulations
+# - Environmental responsibility messaging
+
+# Prohibited Content
+# Not authorized for advertising containing:
+# - Misleading or false product claims
+# - Non-automotive unrelated products
+# - Adult or inappropriate content
+# - Competing golf cart dealership ads
+# - Fraudulent or deceptive practices
+
+# Quality Standards
+# All advertising partners must maintain:
+# - Professional advertising standards
+# - Accurate targeting and placement
+# - Compliance with platform policies
+# - Respect for customer privacy
+# - Transparent business practices
+
+# Contact for Advertising Verification
+# Primary: info@pikecountygolfcarts.com
+# Phone: 1-844-844-6638
+# Business Hours: Monday-Friday 9AM-6PM EST
+# Address: Pike County, Pennsylvania
+# Website: https://pikecountygolfcarts.com
+
+# Direct Advertising Partnerships
+# We work directly with:
+# - Golf industry publications
+# - Local Pennsylvania media
+# - Pocono Mountains tourism platforms
+# - Electric vehicle networks
+# - Municipal business directories
+
+# Third-Party Verification
+# Advertising authenticity verified through:
+# - Business registration verification
+# - Professional industry memberships
+# - Customer review platforms
+# - Local business associations
+# - Manufacturer partnerships (DENAGO, EVOLUTION)
+
+# Last Updated: January 25, 2025
+# ads.txt Version: 1.0
+# Review Schedule: Quarterly updates
+# Compliance: IAB ads.txt standard 1.0.1
+
+# Note: This ads.txt file helps prevent advertising fraud by declaring
+# authorized sellers of Pike County Golf Carts digital advertising inventory.
+# Only the sellers listed above are authorized to sell our ad space.
