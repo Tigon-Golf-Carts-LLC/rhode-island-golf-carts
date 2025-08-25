@@ -43,7 +43,7 @@ export default function ServiceSchema({
         },
         "logo": {
           "@type": "ImageObject",
-          "url": "https://pikecountygolfcarts.com/logo.png"
+          "url": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
         }
       },
       "areaServed": {

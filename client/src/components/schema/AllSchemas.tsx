@@ -605,7 +605,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Always include main company image */}
       <ImageObjectSchema
-        url="/logo.png"
+        url="/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
         name="Pike County Golf Carts Logo"
         description="Pike County Golf Carts company logo featuring professional golf cart branding"
         width={400}
@@ -641,7 +641,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           name={brandName}
           description={brandDescription || `${brandName} electric golf carts available at Pike County Golf Carts`}
           url={url}
-          logo={brandLogo}
+          logo="/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
           manufacturer={brandName}
           products={brandProducts}
         />
@@ -685,7 +685,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             uploadDate="2024-12-01"
             publisher={{
               name: "Pike County Golf Carts",
-              logo: "/logo.png"
+              logo: "/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
             }}
           /> */}
         </>

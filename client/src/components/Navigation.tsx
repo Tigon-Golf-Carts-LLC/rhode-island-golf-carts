@@ -35,7 +35,7 @@ export default function Navigation() {
           <div className="flex items-center space-x-3">
             <div className="rounded-lg">
               <img 
-                src="/logo.png" 
+                src="/attached_assets/Pike County Golf Carts (2)_1756138898367.png" 
                 alt="Pike County Golf Carts Logo" 
                 className="h-16 w-16"
               />

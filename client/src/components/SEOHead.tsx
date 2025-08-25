@@ -16,7 +16,7 @@ export default function SEOHead({
   keywords = "golf carts, Pike County, electric golf carts, golf cart sales, golf cart service", 
   canonicalUrl,
   townName,
-  ogImage = "/attached_assets/Pike County Golf Carts_1753809066045.png",
+  ogImage = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
   ogType = "website"
 }: SEOHeadProps) {
   useEffect(() => {
@@ -61,23 +61,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Pike County Golf Carts_1753809066045.png");
+      existingFavicon.setAttribute("href", "/attached_assets/Pike County Golf Carts (2)_1756138898367.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Pike County Golf Carts_1753809066045.png";
+      favicon.href = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Pike County Golf Carts_1753809066045.png");
+      existingAppleIcon.setAttribute("href", "/attached_assets/Pike County Golf Carts (2)_1756138898367.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Pike County Golf Carts_1753809066045.png";
+      appleIcon.href = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -140,7 +140,7 @@ export default function SEOHead({
         "telephone": "1-844-844-6638",
         "email": "info@pikecountygolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
+        "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
         "image": `https://pikecountygolfcarts.com${ogImage}`,
         "serviceArea": {
           "@type": "GeoCircle",

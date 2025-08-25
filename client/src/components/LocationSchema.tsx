@@ -22,8 +22,8 @@ export default function LocationSchema({
       "name": `Pike County Golf Carts - ${municipalityName} ${municipalityType}`,
       "description": `Professional golf cart sales, service, and rentals serving ${municipalityName} ${municipalityType}, Pike County, Pennsylvania. Premium DENAGO and Evolution electric golf carts available.`,
       "url": `https://pikecountygolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-${municipalityType.toLowerCase()}-golf-carts`,
-      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
-      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
+      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
       "telephone": "1-844-844-6638",
       "email": "info@pikecountygolfcarts.com",
       "address": {

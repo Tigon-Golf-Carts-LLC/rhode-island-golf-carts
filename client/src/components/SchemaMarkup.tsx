@@ -19,9 +19,9 @@ export const generateOrganizationSchema = () => ({
   "alternateName": "CCGC",
   "description": "Premier golf cart dealer in Pike County, Pennsylvania specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   "url": "https://pikecountygolfcarts.com",
-  "logo": "https://pikecountygolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
+  "logo": "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
   "image": [
-    "https://pikecountygolfcarts.com/attached_assets/Luzerne%20County%20Golf%20Carts_1753809066045.png",
+    "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
     "https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
   "telephone": "1-844-844-6638",

@@ -12,8 +12,8 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "name": "Pike County Golf Carts",
       "description": "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
       "url": "https://pikecountygolfcarts.com",
-      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
-      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts_1753809066045.png",
+      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
       "telephone": "1-844-844-6638",
       "email": "info@pikecountygolfcarts.com",
       "address": {
