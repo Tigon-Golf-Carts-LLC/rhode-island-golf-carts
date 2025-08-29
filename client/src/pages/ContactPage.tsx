@@ -74,25 +74,24 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: MapPin,
-      label: "TIGON Golf Carts Pocono PA",
-      value: "1712 Pennsylvania 940, Pocono Pines, PA 18350",
-      phone: "570-643-0152",
-    },
-    {
-      icon: MapPin,
-      label: "TIGON Golf Carts Scranton-Wilkes-Barre PA",
-      value: "1225 N Keyser Ave #2, Scranton, PA 18504",
-      phone: "570-344-4443",
+      label: "Pike County Golf Carts",
+      value: "663 PA-739, Lords Valley, PA 18428",
+      phone: "570-535-1535",
     },
     {
       icon: Phone,
       label: "Pennsylvania Main Line",
-      value: "1-844-844-6638",
+      value: "570-535-1535",
     },
     {
       icon: Mail,
-      label: "Email",
+      label: "Primary Email",
       value: "info@pikecountygolfcarts.com",
+    },
+    {
+      icon: Mail,
+      label: "Secondary Email",
+      value: "pikegolfcarts@gmail.com",
     },
     {
       icon: Globe,
@@ -112,7 +111,7 @@ export default function ContactPage() {
     <>
       <SEOHead 
         title="Contact Pike County Golf Carts - Sales & Service"
-        description="Contact Pike County Golf Carts for sales, service, and support. Pocono Pines: 570-643-0152, Scranton: 570-344-4443, PA Main: 1-844-844-6638."
+        description="Contact Pike County Golf Carts for sales, service, and support. Located at 663 PA-739, Lords Valley, PA 18428. Call 570-535-1535 or email info@pikecountygolfcarts.com."
         keywords="contact Pike County golf carts, golf cart sales Pennsylvania, Pocono Pines showroom, Scranton golf cart service PA"
         canonicalUrl="https://pikecountygolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
@@ -131,10 +130,10 @@ export default function ContactPage() {
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:1-844-844-6638">
+              <a href="tel:570-535-1535">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 1-844-844-6638
+                  Call 570-535-1535
                 </Button>
               </a>
               <a href="mailto:info@pikecountygolfcarts.com">

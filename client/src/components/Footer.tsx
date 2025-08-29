@@ -50,8 +50,10 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-              <p className="text-gray-600 text-sm">Email: info@PikeCountyGolfCarts.com</p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:570-535-1535" className="hover:text-blue-600">570-535-1535</a></p>
+              <p className="text-gray-600 text-sm">Email: info@pikecountygolfcarts.com</p>
+              <p className="text-gray-600 text-sm">Email: pikegolfcarts@gmail.com</p>
+              <p className="text-gray-600 text-sm">663 PA-739, Lords Valley, PA 18428</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -125,8 +127,10 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
-                <p className="text-gray-600 text-sm">Email: info@PikeCountyGolfCarts.com</p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:570-535-1535" className="hover:text-blue-600">570-535-1535</a></p>
+                <p className="text-gray-600 text-sm">Email: info@pikecountygolfcarts.com</p>
+                <p className="text-gray-600 text-sm">Email: pikegolfcarts@gmail.com</p>
+                <p className="text-gray-600 text-sm">663 PA-739, Lords Valley, PA 18428</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>

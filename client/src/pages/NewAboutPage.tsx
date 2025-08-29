@@ -166,9 +166,11 @@ export default function NewAboutPage() {
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Pike County Golf Carts</h4>
+                      <p className="text-gray-600">663 PA-739, Lords Valley, PA 18428</p>
                       <p className="text-gray-600">Serving all Pike County, PA</p>
-                      <p className="text-gray-700">1-844-844-6638</p>
+                      <p className="text-gray-700">570-535-1535</p>
                       <p className="text-gray-600">info@pikecountygolfcarts.com</p>
+                      <p className="text-gray-600">pikegolfcarts@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -306,9 +308,9 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:570-535-1535">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 1-844-844-6638
+                  Call 570-535-1535
                 </Button>
               </a>
             </div>
@@ -325,7 +327,7 @@ export default function NewAboutPage() {
                   <CardTitle>Call Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">570-535-1535</p>
                   <p className="text-gray-600">Available 7 days a week</p>
                 </CardContent>
               </Card>
@@ -337,6 +339,7 @@ export default function NewAboutPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg font-medium text-theme-orange mb-2">info@pikecountygolfcarts.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">pikegolfcarts@gmail.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>

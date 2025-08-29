@@ -184,7 +184,7 @@ export default function RentalsPage() {
                   </div>
                 </div>
 
-                <a href="tel:1-844-844-6638">
+                <a href="tel:570-535-1535">
                   <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                     <Phone className="w-4 h-4 mr-2" />
                     RESERVE TODAY
@@ -219,9 +219,9 @@ export default function RentalsPage() {
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               Rent premium electric golf carts throughout Pike County, Pennsylvania. Perfect for events, vacations, and special occasions.
             </p>
-            <a href="tel:1-844-844-6638">
+            <a href="tel:570-535-1535">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 1-844-844-6638
+                Call 570-535-1535
               </Button>
             </a>
           </div>
@@ -280,9 +280,9 @@ export default function RentalsPage() {
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
               Our friendly team is here to help you select the perfect golf cart rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
             </p>
-            <a href="tel:1-844-844-6638">
+            <a href="tel:570-535-1535">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call Now 1-844-844-6638
+                Call Now 570-535-1535
               </Button>
             </a>
           </div>

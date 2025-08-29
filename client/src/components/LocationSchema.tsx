@@ -24,8 +24,9 @@ export default function LocationSchema({
       "url": `https://pikecountygolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-${municipalityType.toLowerCase()}-golf-carts`,
       "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
       "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "1-844-844-6638",
+      "telephone": "570-535-1535",
       "email": "info@pikecountygolfcarts.com",
+      "additionalEmail": "pikegolfcarts@gmail.com",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": municipalityName,
