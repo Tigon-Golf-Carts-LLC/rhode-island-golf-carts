@@ -117,7 +117,7 @@ export function PrivacyPolicyPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Pike County Golf Carts</strong></p>
                 <p className="mb-2">Email: info@pikecountygolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Phone: 570-535-1535</p>
                 <p className="mb-2">Serving Pike County, Pennsylvania</p>
                 <p>Website: pikecountygolfcarts.com</p>
               </div>

@@ -38,7 +38,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON GOLF CARTS PENNSYLVANIA",
       address: "Pennsylvania",
-      phone: "1-844-844-6638",
+      phone: "570-535-1535",
       coordinates: "41.1169824,-77.6047047",
       googleMapsUrl: "https://www.google.com/maps?cid=13935683838976847185",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsPennsylvania",
@@ -294,7 +294,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:1-844-844-6638">
+            <a href="tel:570-535-1535">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today

@@ -67,7 +67,7 @@ export default function NewServicesPage() {
                     Schedule Service
                   </Button>
                 </Link>
-                <a href="tel:1-844-844-6638">
+                <a href="tel:570-535-1535">
                   <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                     Call for Emergency Service
                   </Button>
@@ -170,9 +170,9 @@ export default function NewServicesPage() {
                   Schedule Service Online
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:570-535-1535">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 1-844-844-6638
+                  Call 570-535-1535
                 </Button>
               </a>
             </div>
@@ -189,7 +189,7 @@ export default function NewServicesPage() {
                   <CardTitle>Service Department</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-green-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-green-600 mb-2">570-535-1535</p>
                   <p className="text-gray-600">Direct line to our service team</p>
                 </CardContent>
               </Card>

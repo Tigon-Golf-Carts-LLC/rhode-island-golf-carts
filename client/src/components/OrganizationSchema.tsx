@@ -14,20 +14,20 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "url": "https://pikecountygolfcarts.com",
       "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
       "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "1-844-844-6638",
+      "telephone": "570-535-1535",
       "email": "info@pikecountygolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "123 Golf Cart Lane",
-        "addressLocality": "Jim Thorpe",
+        "streetAddress": "663 PA-739",
+        "addressLocality": "Lords Valley",
         "addressRegion": "PA",
-        "postalCode": "18229",
+        "postalCode": "18428",
         "addressCountry": "US"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "41.3223",
-        "longitude": "-74.8021"
+        "latitude": "41.3020",
+        "longitude": "-75.0418"
       },
       "openingHours": [
         "Mo-Fr 09:00-18:00",

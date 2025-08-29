@@ -24,7 +24,7 @@ export const generateOrganizationSchema = () => ({
     "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
     "https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "1-844-844-6638",
+  "telephone": "570-535-1535",
   "email": "sales@tigongolfcarts.com",
   "address": {
     "@type": "PostalAddress",
@@ -89,7 +89,7 @@ export const generateLocalBusinessSchema = () => ({
   "name": "Pike County Golf Carts",
   "description": "Premier golf cart dealer serving all 24 Pike County municipalities with electric vehicle sales, service, and rentals.",
   "url": "https://pikecountygolfcarts.com",
-  "telephone": "1-844-844-6638",
+  "telephone": "570-535-1535",
   "email": "sales@tigongolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -193,7 +193,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "seller": {
       "@type": "Organization",
       "name": "Pike County Golf Carts",
-      "telephone": "1-844-844-6638",
+      "telephone": "570-535-1535",
       "email": "info@pikecountygolfcarts.com"
     },
     "url": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}`
@@ -318,7 +318,7 @@ export const generateContactPageSchema = () => ({
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "1-844-844-6638",
+        "telephone": "570-535-1535",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"

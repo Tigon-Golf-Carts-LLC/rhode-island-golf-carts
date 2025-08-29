@@ -80,7 +80,7 @@ export default function ProductSchema({
         "seller": {
           "@type": "Organization",
           "name": "Pike County Golf Carts",
-          "telephone": "1-844-844-6638",
+          "telephone": "570-535-1535",
           "email": "info@pikecountygolfcarts.com",
           "address": {
             "@type": "PostalAddress",

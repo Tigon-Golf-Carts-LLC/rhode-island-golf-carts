@@ -33,11 +33,11 @@ export default function ServiceSchema({
       "provider": {
         "@type": "LocalBusiness",
         "name": provider,
-        "telephone": "1-844-844-6638",
+        "telephone": "570-535-1535",
         "email": "info@pikecountygolfcarts.com",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Jim Thorpe",
+          "addressLocality": "Lords Valley",
           "addressRegion": "PA",
           "addressCountry": "US"
         },

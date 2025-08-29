@@ -27,17 +27,17 @@ export default function LocalBusinessSchema({
   name = "Pike County Golf Carts",
   description = "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
-    streetAddress: "123 Golf Cart Lane",
-    addressLocality: "Scranton",
+    streetAddress: "663 PA-739",
+    addressLocality: "Lords Valley",
     addressRegion: "PA",
-    postalCode: "18229",
+    postalCode: "18428",
     addressCountry: "US"
   },
   geo = {
-    latitude: "41.4084",
-    longitude: "-75.6624"
+    latitude: "41.3020",
+    longitude: "-75.0418"
   },
-  telephone = "1-844-844-6638",
+  telephone = "570-535-1535",
   email = "info@pikecountygolfcarts.com",
   url = "https://pikecountygolfcarts.com",
   openingHours = [

@@ -129,15 +129,15 @@ export default function SEOHead({
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `Atlantic County Golf Carts - ${townName}`,
+        "name": `Pike County Golf Carts - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
           "addressLocality": townName,
-          "addressRegion": "NJ",
+          "addressRegion": "PA",
           "addressCountry": "US"
         },
-        "telephone": "1-844-844-6638",
+        "telephone": "570-535-1535",
         "email": "info@pikecountygolfcarts.com",
         "url": canonicalUrl,
         "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
@@ -146,8 +146,8 @@ export default function SEOHead({
           "@type": "GeoCircle",
           "geoMidpoint": {
             "@type": "GeoCoordinates",
-            "latitude": "40.3073",
-            "longitude": "-75.1292"
+            "latitude": "41.3020",
+            "longitude": "-75.0418"
           },
           "geoRadius": "50000"
         },

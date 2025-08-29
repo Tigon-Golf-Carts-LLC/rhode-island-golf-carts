@@ -35,7 +35,7 @@ export default function OfferSchema({
   validThrough,
   seller = {
     name: "Atlantic County Golf Carts",
-    telephone: "1-844-844-6638",
+    telephone: "570-535-1535",
     email: "info@pikecountygolfcarts.com"
   },
   eligibleRegion = "Atlantic County, PA",

@@ -176,7 +176,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           postalCode: "18101",
           addressCountry: "US"
         }}
-        telephone="1-844-844-6638"
+        telephone="570-535-1535"
         email="info@pikecountygolfcarts.com"
         brands={["DENAGO", "EVOLUTION"]}
         services={["Golf Cart Sales", "Golf Cart Service", "Golf Cart Rentals", "Financing", "Parts & Accessories"]}
@@ -194,7 +194,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {/* Contact Point Schema */}
       <ContactPointSchema
         contactType="customer service"
-        telephone="1-844-844-6638"
+        telephone="570-535-1535"
         email="info@pikecountygolfcarts.com"
         areaServed="Pike County, Pennsylvania"
         availableLanguage={["English"]}
@@ -375,7 +375,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               latitude: locationLatitude,
               longitude: locationLongitude
             } : undefined}
-            telephone="1-844-844-6638"
+            telephone="570-535-1535"
             url={url}
             containedInPlace={{
               name: "Pike County",
@@ -398,7 +398,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               postalCode: "18000",
               addressCountry: "US"
             }}
-            telephone="1-844-844-6638"
+            telephone="570-535-1535"
             email="info@pikecountygolfcarts.com"
             brands={["DENAGO", "EVOLUTION"]}
             services={["Golf Cart Sales", "Service & Repair", "Rentals", "Parts & Accessories"]}
@@ -426,7 +426,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               postalCode: "18000",
               addressCountry: "US"
             }}
-            telephone="1-844-844-6638"
+            telephone="570-535-1535"
             email="info@pikecountygolfcarts.com"
             areaServed={`${locationName} ${locationType}, Pike County, PA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
@@ -539,7 +539,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               postalCode: "18101",
               addressCountry: "US"
             }}
-            telephone="1-844-844-6638"
+            telephone="570-535-1535"
             email="info@pikecountygolfcarts.com"
             areaServed="Pike County, Pennsylvania"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
