@@ -423,7 +423,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Pike County Golf Carts</h3>
-              <p className="text-sm text-gray-600 mb-2">663 PA-739, Lords Valley, PA 18428</p>
+              <p className="text-sm text-gray-600 mb-2">653 PA-739, Lords Valley, PA 18428</p>
               <p className="text-theme-orange font-semibold">570-535-1535</p>
             </div>
           </div>
