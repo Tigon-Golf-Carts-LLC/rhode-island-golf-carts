@@ -18,7 +18,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "email": "info@pikecountygolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "653 PA-739",
+        "streetAddress": "655 PA-739",
         "addressLocality": "Lords Valley",
         "addressRegion": "PA",
         "postalCode": "18428",

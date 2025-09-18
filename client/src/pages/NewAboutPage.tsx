@@ -166,7 +166,7 @@ export default function NewAboutPage() {
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Pike County Golf Carts</h4>
-                      <p className="text-gray-600">653 PA-739, Lords Valley, PA 18428</p>
+                      <p className="text-gray-600">655 PA-739, Lords Valley, PA 18428</p>
                       <p className="text-gray-600">Serving all Pike County, PA</p>
                       <p className="text-gray-700">570-535-1535</p>
                       <p className="text-gray-600">info@pikecountygolfcarts.com</p>
