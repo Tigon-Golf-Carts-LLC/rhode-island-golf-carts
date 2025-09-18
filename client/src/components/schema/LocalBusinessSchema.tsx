@@ -27,7 +27,7 @@ export default function LocalBusinessSchema({
   name = "Pike County Golf Carts",
   description = "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
-    streetAddress: "653 PA-739",
+    streetAddress: "655 PA-739",
     addressLocality: "Lords Valley",
     addressRegion: "PA",
     postalCode: "18428",
