@@ -9,8 +9,8 @@ export default function DenagoEvCityPage() {
       series="EV CITY"
       price="$15,000"
       image={denagoEvCityImage}
-      seoTitle="DENAGO EV CITY - Urban Electric Golf Cart | Pike County Golf Carts"
-      seoDescription="Discover the DENAGO EV CITY electric golf cart in Pike County, PA. Street legal ready urban mobility with sleek design and efficient performance. Sales, service & delivery."
+      seoTitle="DENAGO EV CITY"
+      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Pike County, PA. Call 1-844-844-6638."
       seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Pike County, Pennsylvania, electric vehicle"
       canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-city"
       seats="2"
