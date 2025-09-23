@@ -1,9 +1,18 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { AlertCircle } from "lucide-react";
+import SEOHead from "@/components/SEOHead";
 
 export default function NotFound() {
   return (
-    <div className="min-h-screen w-full flex items-center justify-center bg-gray-50">
+    <>
+      <SEOHead 
+        title="404 Page Not Found"
+        description="The page you're looking for doesn't exist. Return to Pike County Golf Carts to explore our premium electric golf cart inventory and services. Call 1-844-844-6638."
+        keywords="404 error, page not found, Pike County Golf Carts"
+        ogImageWidth={1200}
+        ogImageHeight={800}
+      />
+      <div className="min-h-screen w-full flex items-center justify-center bg-gray-50">
       <Card className="w-full max-w-md mx-4">
         <CardContent className="pt-6">
           <div className="flex mb-4 gap-2">
@@ -16,6 +25,7 @@ export default function NotFound() {
           </p>
         </CardContent>
       </Card>
-    </div>
+      </div>
+    </>
   );
 }

@@ -9,9 +9,12 @@ export default function ThankYouPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Thank You - Pike County Golf Carts"
-        description="Thank you for contacting Pike County Golf Carts. We'll respond to your inquiry within 24 hours. Serving all Pike County municipalities."
+        title="Thank You!"
+        description="Thank you for contacting Pike County Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 1-844-844-6638."
         keywords="thank you, contact confirmation, Pike County Golf Carts, TIGON Golf Carts"
+        canonicalUrl="https://pikecountygolfcarts.com/thank-you"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       {/* Hero Section */}

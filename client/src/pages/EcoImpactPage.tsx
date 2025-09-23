@@ -1,4 +1,4 @@
-import { Helmet } from "react-helmet-async";
+import SEOHead from "@/components/SEOHead";
 import EcoImpactCalculator from "@/components/EcoImpactCalculator";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -65,30 +65,15 @@ export default function EcoImpactPage() {
 
   return (
     <>
-      {/* SEO Head */}
-      <Helmet>
-        <title>Eco-Impact Calculator - Environmental Benefits | Pike County Golf Carts</title>
-        <meta 
-          name="description" 
-          content="Calculate your environmental impact and savings with electric golf carts. See CO₂ reduction, fuel savings, and carbon offset benefits. Free eco-impact calculator for Pike County." 
-        />
-        <meta 
-          name="keywords" 
-          content="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Pike County, green golf carts Pennsylvania" 
-        />
-        <link rel="canonical" href="https://pikecountygolfcarts.com/eco-impact" />
-        
-        {/* Open Graph */}
-        <meta property="og:title" content="Eco-Impact Calculator - Calculate Your Environmental Savings" />
-        <meta property="og:description" content="See how much CO₂, fuel, and money you save by choosing electric golf carts. Interactive calculator with real environmental data." />
-        <meta property="og:url" content="https://pikecountygolfcarts.com/eco-impact" />
-        <meta property="og:type" content="website" />
-        
-        {/* Twitter Card */}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Eco-Impact Calculator - Environmental Golf Cart Benefits" />
-        <meta name="twitter:description" content="Calculate your environmental impact with our free eco-impact calculator for electric golf carts." />
-      </Helmet>
+      <SEOHead 
+        title="Calculate Your Environmental Impact"
+        description="Discover how much CO₂, fuel, and money you save by choosing electric golf carts with our free environmental impact calculator. Call 1-844-844-6638."
+        keywords="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Pike County, green golf carts Pennsylvania"
+        canonicalUrl="https://pikecountygolfcarts.com/eco-impact"
+        ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
+      />
 
       {/* Schema Markup */}
       <AllSchemas 

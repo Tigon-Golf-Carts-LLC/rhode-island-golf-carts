@@ -10,6 +10,7 @@ interface SEOHeadProps {
   ogType?: string;
   ogImageWidth?: number;
   ogImageHeight?: number;
+  heroBackgroundImage?: string;
 }
 
 export default function SEOHead({ 
@@ -18,11 +19,14 @@ export default function SEOHead({
   keywords = "golf carts, Pike County, electric golf carts, golf cart sales, golf cart service", 
   canonicalUrl,
   townName,
-  ogImage = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+  ogImage,
   ogType = "website",
   ogImageWidth = 1200,
-  ogImageHeight = 630
+  ogImageHeight = 630,
+  heroBackgroundImage
 }: SEOHeadProps) {
+  // Use hero background image if provided, otherwise fallback to logo
+  const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Pike County Golf Carts (2)_1756138898367.png";
   useEffect(() => {
     // Set page title
     document.title = title;
@@ -101,7 +105,7 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://pikecountygolfcarts.com${ogImage}`);
+    updateOGTag("og:image", `https://pikecountygolfcarts.com${finalOgImage}`);
     updateOGTag("og:image:width", ogImageWidth.toString());
     updateOGTag("og:image:height", ogImageHeight.toString());
     updateOGTag("og:site_name", "Pike County Golf Carts");
@@ -126,7 +130,7 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://pikecountygolfcarts.com${ogImage}`);
+    updateTwitterTag("twitter:image", `https://pikecountygolfcarts.com${finalOgImage}`);
     updateTwitterTag("twitter:site", "@lehighgolfcarts");
     updateTwitterTag("twitter:creator", "@lehighgolfcarts");
 
@@ -147,7 +151,7 @@ export default function SEOHead({
         "email": "info@pikecountygolfcarts.com",
         "url": canonicalUrl,
         "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-        "image": `https://pikecountygolfcarts.com${ogImage}`,
+        "image": `https://pikecountygolfcarts.com${finalOgImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {

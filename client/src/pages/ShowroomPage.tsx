@@ -52,12 +52,14 @@ export default function ShowroomPage() {
   return (
     <>
       <SEOHead 
-        title="Pike County Golf Carts Showrooms | TIGON Golf Cart Sales PA"
-        description="Visit our TIGON Golf Carts showrooms serving Pike County PA. Complete DENAGO and EVOLUTION golf cart lineup with expert service across all 19 municipalities."
+        title="Pike County Golf Carts LSV Showrooms"
+        description="Visit our TIGON Golf Carts showrooms in Pocono Pines and Scranton with the complete DENAGO and EVOLUTION lineup serving Pike County, PA. Call 1-844-844-6638."
         keywords="Pike County golf carts, TIGON golf carts showroom, golf cart dealership Pennsylvania, DENAGO EVOLUTION Pike County, Scranton golf carts"
         canonicalUrl="https://pikecountygolfcarts.com/showroom"
-        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
+        heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
