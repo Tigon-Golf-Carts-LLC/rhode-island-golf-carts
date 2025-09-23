@@ -5,9 +5,12 @@ export default function DeliveryPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Delivery Policy | Pike County Golf Carts"
-        description="Learn about delivery options, fees, and policies for golf cart purchases and rentals in Pike County, Pennsylvania. Free delivery zones and scheduling information."
+        title="Delivery Policy"
+        description="Comprehensive delivery services throughout Pennsylvania and surrounding areas for golf cart sales and rentals with free delivery zones and professional scheduling. Call 1-844-844-6638."
         keywords="delivery policy, golf cart delivery, Pike County delivery, Pennsylvania golf cart shipping"
+        canonicalUrl="https://pikecountygolfcarts.com/policies/delivery-policy"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       {/* Hero Section */}

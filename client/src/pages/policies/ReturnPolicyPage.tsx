@@ -5,9 +5,12 @@ export default function ReturnPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Return Policy | Pike County Golf Carts"
-        description="Learn about Pike County Golf Carts return policy for golf cart purchases, accessories, and parts. Understand return conditions, timelines, and procedures."
+        title="Return Policy"
+        description="Learn about our comprehensive return policy for golf cart purchases, accessories, and parts with clear conditions, timelines, and procedures. Call 1-844-844-6638."
         keywords="return policy, golf cart returns, Pike County golf carts, refund policy Pennsylvania"
+        canonicalUrl="https://pikecountygolfcarts.com/policies/return-policy"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       {/* Hero Section */}

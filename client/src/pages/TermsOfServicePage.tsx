@@ -4,9 +4,12 @@ export function TermsOfServicePage() {
   return (
     <>
       <SEOHead 
-        title="Terms of Service | Pike County Golf Carts"
-        description="Terms of Service for Pike County Golf Carts. Review our terms and conditions for purchasing golf carts, rental services, and using our website."
+        title="Terms of Service"
+        description="Review our comprehensive terms and conditions for purchasing golf carts, rental services, and using our Pike County Golf Carts website. Call 1-844-844-6638."
         keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Pike County Golf Carts"
+        canonicalUrl="https://pikecountygolfcarts.com/terms-of-service"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">

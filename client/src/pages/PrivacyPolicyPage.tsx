@@ -4,9 +4,12 @@ export function PrivacyPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Privacy Policy | Pike County Golf Carts"
-        description="Privacy Policy for Pike County Golf Carts. Learn how we collect, use, and protect your personal information when you visit our website or purchase golf carts."
+        title="Privacy Policy"
+        description="Learn how Pike County Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 1-844-844-6638."
         keywords="privacy policy, data protection, personal information, Pike County Golf Carts"
+        canonicalUrl="https://pikecountygolfcarts.com/privacy-policy"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">

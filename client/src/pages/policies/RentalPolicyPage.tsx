@@ -5,9 +5,12 @@ export default function RentalPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Rental Policy | Pike County Golf Carts"
-        description="Complete golf cart rental policy for Pike County Golf Carts. Learn about rental requirements, responsibilities, insurance, and terms for Pennsylvania golf cart rentals."
+        title="Rental Policy"
+        description="Complete golf cart rental terms, requirements, and responsibilities for Pike County, Pennsylvania including age requirements, deposits, and operating guidelines. Call 1-844-844-6638."
         keywords="rental policy, golf cart rental, Pike County rentals, Pennsylvania golf cart rental policy"
+        canonicalUrl="https://pikecountygolfcarts.com/policies/rental-policy"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       {/* Hero Section */}
