@@ -201,12 +201,14 @@ export default function RentalsPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Rentals - Pike County Golf Carts PA"
-        description="Rent premium golf carts in Pike County, PA. Daily, weekly, and monthly rental options available with full insurance and delivery service."
+        title="Golf Cart Rentals in Pike County"
+        description="Rent premium electric golf carts throughout Pike County, Pennsylvania with daily, weekly, and monthly options, full insurance, and delivery service. Call 1-844-844-6638."
         keywords="golf cart rental, Pike County rentals, golf cart hire, Pennsylvania golf cart rental"
         canonicalUrl="https://pikecountygolfcarts.com/rentals"
-        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
+        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
 
       <div className="min-h-screen bg-gray-50">

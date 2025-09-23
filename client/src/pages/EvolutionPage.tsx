@@ -226,12 +226,14 @@ export default function EvolutionPage() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION Golf Carts Pike County | Premium Electric Vehicles PA"
-        description="Discover EVOLUTION golf carts in Pike County, PA. Complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series. Expert sales & service."
+        title="EVOLUTION®"
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Pike County, PA. Call 1-844-844-6638."
         keywords="EVOLUTION golf carts Pike County, electric golf carts Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Pennsylvania, EVOLUTION dealers"
         canonicalUrl="https://pikecountygolfcarts.com/evolution"
-        ogImage="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
+        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="product.group"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
 
       <div className="min-h-screen bg-gray-50">

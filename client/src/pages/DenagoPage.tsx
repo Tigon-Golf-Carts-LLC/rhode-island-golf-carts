@@ -138,12 +138,14 @@ export default function DenagoPage() {
   return (
     <>
       <SEOHead 
-        title="DENAGO Electric Golf Carts Pike County | Premium Off-Road Vehicles PA"
-        description="Discover DENAGO electric golf carts in Pike County, PA. Premium EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology. Sales, service & delivery."
+        title="DENAGO®"
+        description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 1-844-844-6638."
         keywords="DENAGO golf carts Pike County, electric golf carts Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
         canonicalUrl="https://pikecountygolfcarts.com/denago"
-        ogImage="/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
+        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg"
         ogType="product.group"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
 
       <div className="min-h-screen bg-gray-50">

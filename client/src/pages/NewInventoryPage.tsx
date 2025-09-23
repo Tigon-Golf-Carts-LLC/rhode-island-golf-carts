@@ -46,12 +46,14 @@ export default function NewInventoryPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Inventory - New & Used | Atlantic County Golf Carts"
-        description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION. Find the perfect electric vehicle for your needs in Atlantic County, PA."
-        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Atlantic County golf carts"
+        title="Golf Cart Inventory"
+        description="Discover our extensive selection of premium new and used golf carts from DENAGO and EVOLUTION, with flexible financing and expert service. Call 1-844-844-6638."
+        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Pike County golf carts"
         canonicalUrl="https://pikecountygolfcarts.com/inventory"
-        ogImage="/attached_assets/a-photograph-of-a-bright-modern-golf-car_iofSws5mRiCxoMwQwuXw4A_Yv-NWBaTQQ6ofRhClJiiIw_1753454023367.png"
+        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gray-50">
