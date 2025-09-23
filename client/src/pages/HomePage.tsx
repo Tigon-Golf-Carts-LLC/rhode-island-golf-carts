@@ -24,12 +24,14 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Pike County Golf Carts - Premier Electric Golf Cart Dealership in Pennsylvania"
-        description="Discover premium electric golf carts from Denago and Evolution at Pike County Golf Carts. Expert sales, service, rentals, and financing throughout Pike County, PA."
+        title="Pike County Golf Carts - Premier Pennsylvania Dealership"
+        description="Experience Pennsylvania's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 1-844-844-6638."
         keywords="golf carts Pike County PA, electric golf carts Pennsylvania, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
         canonicalUrl="https://pikecountygolfcarts.com/"
-        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+        ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
         ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       <AllSchemas 
         pageType="home" 

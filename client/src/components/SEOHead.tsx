@@ -8,6 +8,8 @@ interface SEOHeadProps {
   townName?: string;
   ogImage?: string;
   ogType?: string;
+  ogImageWidth?: number;
+  ogImageHeight?: number;
 }
 
 export default function SEOHead({ 
@@ -17,7 +19,9 @@ export default function SEOHead({
   canonicalUrl,
   townName,
   ogImage = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-  ogType = "website"
+  ogType = "website",
+  ogImageWidth = 1200,
+  ogImageHeight = 630
 }: SEOHeadProps) {
   useEffect(() => {
     // Set page title
@@ -98,6 +102,8 @@ export default function SEOHead({
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
     updateOGTag("og:image", `https://pikecountygolfcarts.com${ogImage}`);
+    updateOGTag("og:image:width", ogImageWidth.toString());
+    updateOGTag("og:image:height", ogImageHeight.toString());
     updateOGTag("og:site_name", "Pike County Golf Carts");
     updateOGTag("og:locale", "en_US");
     if (canonicalUrl) {

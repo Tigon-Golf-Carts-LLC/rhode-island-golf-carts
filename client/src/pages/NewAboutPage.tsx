@@ -62,12 +62,14 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About Pike County Golf Carts - Your Premier Golf Cart Dealer"
-        description="Learn about Pike County Golf Carts, Pennsylvania's trusted golf cart dealer serving all municipalities with premium DENAGO and EVOLUTION vehicles since 2010."
+        title="About Pike County Golf Carts"
+        description="Discover Pennsylvania's most trusted golf cart dealer serving all municipalities with premium DENAGO and EVOLUTION vehicles since 2010. Call 1-844-844-6638."
         keywords="Pike County golf carts, about us, golf cart dealer Pennsylvania, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://pikecountygolfcarts.com/about"
-        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gray-50">

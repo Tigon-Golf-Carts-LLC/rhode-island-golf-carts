@@ -110,12 +110,14 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Pike County Golf Carts - Sales & Service"
-        description="Contact Pike County Golf Carts for sales, service, and support. Located at 655 PA-739, Lords Valley, PA 18428. Call 570-535-1535 or email info@pikecountygolfcarts.com."
+        title="Contact Pike County Golf Carts"
+        description="Get expert golf cart sales, service, and support from Pike County's premier dealership located at 655 PA-739, Lords Valley, PA 18428. Call 1-844-844-6638."
         keywords="contact Pike County golf carts, golf cart sales Pennsylvania, Pocono Pines showroom, Scranton golf cart service PA"
         canonicalUrl="https://pikecountygolfcarts.com/contact"
-        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
+        ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
 
       <div className="min-h-screen bg-gray-50">
