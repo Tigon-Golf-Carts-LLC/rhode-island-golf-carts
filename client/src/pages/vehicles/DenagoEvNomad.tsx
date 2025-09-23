@@ -11,12 +11,14 @@ export default function DenagoEvNomad() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV NOMAD - Adventure Electric Vehicle | Pike County Golf Carts"
-        description="Discover the DENAGO® EV NOMAD designed for outdoor adventures and off-road capability. Perfect for camping, hunting, and recreational activities."
+        title="EV NOMAD"
+        description="Discover the adventure-ready DENAGO® EV NOMAD designed for outdoor adventures and off-road capability, perfect for camping, hunting, and exploration. Call 1-844-844-6638."
         keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Pike County"
         canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
         ogType="product"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

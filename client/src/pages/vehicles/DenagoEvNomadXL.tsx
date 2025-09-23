@@ -10,9 +10,14 @@ export default function DenagoEvNomadXL() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV Nomad XL - Adventure Electric Vehicle | Pike County Golf Carts"
-        description="Discover the DENAGO® EV Nomad XL with extended seating and enhanced storage. Perfect for larger adventure groups with superior performance."
+        title="Nomad XL"
+        description="Discover the DENAGO® EV Nomad XL with extended seating and enhanced storage, perfect for larger adventure groups with superior performance. Call 1-844-844-6638."
         keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger golf cart, DENAGO dealer Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-nomad-xl"
+        ogImage="/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg"
+        ogType="product"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

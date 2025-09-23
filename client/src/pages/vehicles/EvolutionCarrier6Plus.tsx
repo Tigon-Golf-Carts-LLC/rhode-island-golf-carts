@@ -10,9 +10,14 @@ export default function EvolutionCarrier6Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® Carrier 6 Plus - Utility Golf Cart | Pike County Golf Carts"
-        description="Discover the EVOLUTION® Carrier 6 Plus with enhanced cargo capacity and utility features. Perfect for work and recreation with 6-passenger seating."
+        title="Carrier 6 Plus"
+        description="Discover the EVOLUTION® Carrier 6 Plus with enhanced cargo capacity and utility features, perfect for work and recreation with 6-passenger seating. Call 1-844-844-6638."
         keywords="EVOLUTION Carrier 6 Plus, utility golf cart, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-carrier-6-plus"
+        ogImage="/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg"
+        ogType="product"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

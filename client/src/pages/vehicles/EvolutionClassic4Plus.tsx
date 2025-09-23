@@ -11,9 +11,14 @@ export default function EvolutionClassic4Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® CLASSIC 4 PLUS - Premium Golf Cart | Pike County Golf Carts"
-        description="Experience the EVOLUTION® CLASSIC 4 PLUS with timeless design and modern electric performance. Classic styling meets contemporary technology."
+        title="CLASSIC 4 PLUS"
+        description="Experience the EVOLUTION® CLASSIC 4 PLUS with timeless design and modern electric performance where classic styling meets contemporary technology. Call 1-844-844-6638."
         keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-classic-4-plus"
+        ogImage="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
+        ogType="product"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
