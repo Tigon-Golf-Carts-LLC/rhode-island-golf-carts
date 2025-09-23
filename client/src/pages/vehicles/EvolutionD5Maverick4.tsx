@@ -10,9 +10,14 @@ export default function EvolutionD5Maverick4() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 Maverick 4 - Standard Golf Cart | Pike County Golf Carts"
-        description="Discover the EVOLUTION® D5 Maverick 4 with reliable performance and essential features. Perfect 4-passenger golf cart for standard transportation needs."
+        title="Maverick 4"
+        description="Discover the EVOLUTION® D5 Maverick 4 with reliable performance and essential features, perfect for standard 4-passenger transportation needs. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 4, 4-passenger golf cart, standard features, reliable performance, EVOLUTION dealer Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-d5-maverick-4"
+        ogImage="/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"
+        ogType="product"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

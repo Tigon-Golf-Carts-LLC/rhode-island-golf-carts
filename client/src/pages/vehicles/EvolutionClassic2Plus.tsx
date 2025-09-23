@@ -10,9 +10,14 @@ export default function EvolutionClassic2Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® Classic 2 Plus - Compact Golf Cart | Pike County Golf Carts"
-        description="Discover the EVOLUTION® Classic 2 Plus with timeless design and reliable performance. Perfect compact 2-passenger golf cart for traditional golf."
+        title="Classic 2 Plus"
+        description="Discover the EVOLUTION® Classic 2 Plus with timeless design and reliable performance, perfect compact 2-passenger golf cart for traditional golf. Call 1-844-844-6638."
         keywords="EVOLUTION Classic 2 Plus, 2-passenger golf cart, compact golf cart, traditional design, EVOLUTION dealer Pike County"
+        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-classic-2-plus"
+        ogImage="/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
+        ogType="product"
+        ogImageWidth={1200}
+        ogImageHeight={800}
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
