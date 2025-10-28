@@ -11,15 +11,15 @@ export default function ShowroomPage() {
   const locations = [
     {
       name: "GLOUCESTER GOLF CARTS",
-      address: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
+      address: "6109 George Washington Memorial Hwy, Gloucester, VA 23061",
       phone: "804-210-6567",
-      coordinates: "37.2850625, -76.5074161",
-      googleMapsUrl: "https://www.google.com/maps/place/2810+George+Washington+Memorial+Hwy,+Gloucester+Point,+VA+23072",
+      coordinates: "37.4093, -76.5275",
+      googleMapsUrl: "https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Gloucester,+VA+23061",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsVirginia",
       websiteUrl: "https://gloucestergolfcarts.com/",
-      reviewUrl: "https://www.google.com/maps/place/2810+George+Washington+Memorial+Hwy,+Gloucester+Point,+VA+23072",
-      city: "Gloucester Point",
+      reviewUrl: "https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Gloucester,+VA+23061",
+      city: "Gloucester",
       type: "physical"
     }
   ];
@@ -28,8 +28,8 @@ export default function ShowroomPage() {
     <>
       <SEOHead 
         title="Gloucester Golf Carts LSV Showroom"
-        description="Visit our TIGON Golf Carts showroom in Gloucester Point with the complete DENAGO and EVOLUTION lineup serving Gloucester County, VA. Call 804-210-6567."
-        keywords="Gloucester golf carts, TIGON golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Gloucester, Gloucester Point golf carts"
+        description="Visit our TIGON Golf Carts showroom in Gloucester with the complete DENAGO and EVOLUTION lineup serving Gloucester County, VA. Call 804-210-6567."
+        keywords="Gloucester golf carts, TIGON golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Gloucester, Gloucester VA golf carts"
         canonicalUrl="https://gloucestergolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
@@ -44,7 +44,7 @@ export default function ShowroomPage() {
             Gloucester Golf Carts LSV Showroom
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Visit our TIGON Golf Carts showroom in Gloucester Point, Virginia. 
+            Visit our TIGON Golf Carts showroom in Gloucester, Virginia. 
             Experience our full lineup of DENAGO and EVOLUTION electric vehicles serving Gloucester County.
           </p>
           <div className="flex justify-center">
@@ -263,7 +263,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our TIGON Golf Carts showroom in Gloucester Point, or call us to see our full inventory of DENAGO and EVOLUTION golf carts.
+            Visit our TIGON Golf Carts showroom in Gloucester, or call us to see our full inventory of DENAGO and EVOLUTION golf carts.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">

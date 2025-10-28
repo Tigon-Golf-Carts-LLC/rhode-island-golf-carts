@@ -28,10 +28,10 @@ export const generateOrganizationSchema = () => ({
   "email": "sales@tigongolfcarts.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "2810 George Washington Memorial Hwy",
-    "addressLocality": "Gloucester Point",
+    "streetAddress": "6109 George Washington Memorial Hwy",
+    "addressLocality": "Gloucester",
     "addressRegion": "VA",
-    "postalCode": "23072",
+    "postalCode": "23061",
     "addressCountry": "US"
   },
   "areaServed": {
@@ -42,8 +42,8 @@ export const generateOrganizationSchema = () => ({
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 37.2850625,
-      "longitude": -76.5074161
+      "latitude": 37.4093,
+      "longitude": -76.5275
     },
     "geoRadius": "50000"
   },
@@ -103,16 +103,16 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "2810 George Washington Memorial Hwy",
-    "addressLocality": "Gloucester Point",
+    "streetAddress": "6109 George Washington Memorial Hwy",
+    "addressLocality": "Gloucester",
     "addressRegion": "VA",
-    "postalCode": "23072",
+    "postalCode": "23061",
     "addressCountry": "US"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 37.2850625,
-    "longitude": -76.5074161
+    "latitude": 37.4093,
+    "longitude": -76.5275
   },
   "areaServed": [
     "Gloucester", "Gloucester Point", "Gloucester Courthouse", "Yorktown", "Hayes", "Seaford",

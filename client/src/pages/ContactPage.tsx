@@ -75,7 +75,7 @@ export default function ContactPage() {
     {
       icon: MapPin,
       label: "Gloucester Golf Carts",
-      value: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
+      value: "6109 George Washington Memorial Hwy, Gloucester, VA 23061",
       phone: "804-210-6567",
     },
     {
@@ -111,7 +111,7 @@ export default function ContactPage() {
     <>
       <SEOHead 
         title="Contact Gloucester Golf Carts"
-        description="Get expert golf cart sales, service, and support from Gloucester's premier dealership located at 2810 George Washington Memorial Hwy, Gloucester Point, VA 23072. Call 804-210-6567."
+        description="Get expert golf cart sales, service, and support from Gloucester's premier dealership located at 6109 George Washington Memorial Hwy, Gloucester, VA 23061. Call 804-210-6567."
         keywords="contact Gloucester golf carts, golf cart sales Virginia, Gloucester Point showroom, Williamsburg golf cart service VA"
         canonicalUrl="https://gloucestergolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"

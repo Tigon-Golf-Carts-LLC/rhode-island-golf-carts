@@ -13,18 +13,18 @@ export const BRANDING = {
   
   // Address
   address: {
-    street: "2810 George Washington Memorial Hwy",
-    city: "Gloucester Point",
+    street: "6109 George Washington Memorial Hwy",
+    city: "Gloucester",
     state: "VA",
     stateFullName: "Virginia",
-    zip: "23072",
+    zip: "23061",
     country: "US",
   },
   
   // Coordinates
   coordinates: {
-    latitude: 37.2850625,
-    longitude: -76.5074161,
+    latitude: 37.4093,
+    longitude: -76.5275,
   },
   
   // Website
@@ -56,8 +56,8 @@ export const BRANDING = {
   foundingYear: "2008",
   
   // Google Maps
-  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189.5!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE3JzA2LjIiTiA3NsKwMzAnMjYuNyJX!5e0!3m2!1sen!2sus!4v1234567890123",
-  googleMapsUrl: "https://www.google.com/maps?cid=16682967888503617377",
+  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3187.9902440058717!2d-76.5298!3d37.4093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b077d8f7a1968b%3A0x6b6fedc7e21baa97!2s6109%20George%20Washington%20Memorial%20Hwy%2C%20Gloucester%2C%20VA%2023061!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus",
+  googleMapsUrl: "https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Gloucester,+VA+23061",
   
   // Legacy values for reference
   legacy: {

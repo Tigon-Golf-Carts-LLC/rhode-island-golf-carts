@@ -31,8 +31,8 @@ export const NEW_LACKAWANNA_COUNTY_MUNICIPALITIES: Municipality[] = [
 
 // Gloucester County coordinates (showroom location)
 export const NEW_LACKAWANNA_COUNTY_COORDINATES = {
-  latitude: 37.2850625,
-  longitude: -76.5074161
+  latitude: 37.4093,
+  longitude: -76.5275
 };
 
 // Gloucester County basic information

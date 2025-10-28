@@ -62,7 +62,7 @@ export default function Footer() {
               <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-210-6567" className="hover:text-blue-600">804-210-6567</a></p>
               <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
               <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
-              <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
+              <p className="text-gray-600 text-sm">6109 George Washington Memorial Hwy, Gloucester, VA 23061</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -139,7 +139,7 @@ export default function Footer() {
                 <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-210-6567" className="hover:text-blue-600">804-210-6567</a></p>
                 <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
                 <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
-                <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
+                <p className="text-gray-600 text-sm">6109 George Washington Memorial Hwy, Gloucester, VA 23061</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>

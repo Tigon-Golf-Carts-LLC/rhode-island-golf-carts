@@ -366,7 +366,7 @@ export default function HomePage() {
             <div className="relative order-1 lg:order-2">
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189.5!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE3JzA2LjIiTiA3NsKwMzAnMjYuNyJX!5e0!3m2!1sen!2sus!4v1234567890123" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3187.9902440058717!2d-76.5298!3d37.4093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b077d8f7a1968b%3A0x6b6fedc7e21baa97!2s6109%20George%20Washington%20Memorial%20Hwy%2C%20Gloucester%2C%20VA%2023061!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus" 
                   className="w-full h-64 md:h-80 lg:h-96"
                   style={{border: 0}} 
                   allowFullScreen={true} 
@@ -424,7 +424,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Gloucester Golf Carts</h3>
-              <p className="text-sm text-gray-600 mb-2">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
+              <p className="text-sm text-gray-600 mb-2">6109 George Washington Memorial Hwy, Gloucester, VA 23061</p>
               <p className="text-theme-orange font-semibold">804-210-6567</p>
             </div>
           </div>
