@@ -19,9 +19,9 @@ function CommunityRentalPage({
   slug 
 }: CommunityRentalPageProps) {
   const locationText = parentMunicipality ? `${communityName} (${parentMunicipality})` : communityName;
-  const pageTitle = `Golf Cart Rentals in ${communityName}, Pike County | Premium Rental Services`;
-  const pageDescription = `Rent premium golf carts in ${communityName}, Pike County, PA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
-  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, Pike County golf cart rental, Pennsylvania golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${communityName}, Gloucester County | Premium Rental Services`;
+  const pageDescription = `Rent premium golf carts in ${communityName}, Gloucester County, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
+  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, Gloucester County golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -147,10 +147,10 @@ function CommunityRentalPage({
           <p>{plan.renewal}</p>
           <p>{plan.delivery}</p>
         </div>
-        <a href="tel:570-535-1535">
+        <a href="tel:804-792-0234">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 570-535-1535
+            Call 804-792-0234
           </Button>
         </a>
       </CardContent>
@@ -183,7 +183,7 @@ function CommunityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://pikecountygolfcarts.com/${slug}`}
+        canonicalUrl={`https://gloucestergolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -212,7 +212,7 @@ function CommunityRentalPage({
         {/* Hero Section */}
         <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
           <div className="max-w-7xl mx-auto text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800">Pike County Golf Carts</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800">Gloucester Golf Carts</Badge>
             <h1 className="text-5xl font-bold mb-6">
               Golf Cart Rentals in {locationText}
             </h1>
@@ -221,10 +221,10 @@ function CommunityRentalPage({
               Choose from our flexible daily, weekly, and monthly rental options.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:570-535-1535">
+              <a href="tel:804-792-0234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="h-5 w-5" />
-                  Call 570-535-1535
+                  Call 804-792-0234
                 </Button>
               </a>
               <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 border-white">
@@ -246,7 +246,7 @@ function CommunityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {communityName} 
-                and throughout Pike County, Pennsylvania.
+                and throughout Gloucester County, Virginia.
               </p>
             </div>
 
@@ -292,8 +292,8 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Call Now</h3>
                 <p className="text-gray-600 mb-4">Speak with our rental specialists</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-2xl font-bold text-theme-orange">570-535-1535</span>
-                  <a href="tel:570-535-1535">
+                  <span className="text-2xl font-bold text-theme-orange">804-792-0234</span>
+                  <a href="tel:804-792-0234">
                     <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                       Call Now
                     </Button>
@@ -305,7 +305,7 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Email Us</h3>
                 <p className="text-gray-600 mb-4">Get rental information and quotes</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-lg font-semibold text-gray-700">info@pikecountygolfcarts.com</span>
+                  <span className="text-lg font-semibold text-gray-700">info@gloucestergolfcarts.com</span>
                   <Link href="/contact">
                     <Button className="bg-blue-600 hover:bg-blue-700 text-white">
                       Contact Form

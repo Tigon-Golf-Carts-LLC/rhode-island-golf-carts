@@ -18,9 +18,9 @@ export default function MunicipalityRentalPage({
   slug 
 }: MunicipalityRentalPageProps) {
   const fullLocationName = `${municipalityName} ${municipalityType}`;
-  const pageTitle = `Golf Cart Rentals in ${fullLocationName}, PA | Pike County Golf Carts`;
-  const pageDescription = `Rent premium golf carts in ${fullLocationName}, Pike County, PA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${fullLocationName}.`;
-  const keywords = `golf cart rental ${municipalityName}, ${fullLocationName} golf cart rental, Pike County golf cart rental, Pennsylvania golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${municipalityName}, VA | Gloucester Golf Carts`;
+  const pageDescription = `Rent premium golf carts in ${municipalityName}, Gloucester County, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
+  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, Gloucester County golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -190,17 +190,17 @@ export default function MunicipalityRentalPage({
           <p>{plan.renewal}</p>
           <p>{plan.delivery}</p>
         </div>
-        <a href="tel:570-535-1535">
+        <a href="tel:804-792-0234">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 570-535-1535
+            Call 804-792-0234
           </Button>
         </a>
       </CardContent>
     </Card>
   );
 
-  const businessPhone = "570-535-1535";
+  const businessPhone = "804-792-0234";
 
   return (
     <>
@@ -208,7 +208,7 @@ export default function MunicipalityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://pikecountygolfcarts.com/${slug}`}
+        canonicalUrl={`https://gloucestergolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -226,7 +226,7 @@ export default function MunicipalityRentalPage({
               Golf Cart Rentals in {fullLocationName}
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-              Premium golf cart rentals delivered to your door in {fullLocationName}, Berks County. 
+              Premium golf cart rentals delivered to your door in {municipalityName}, Gloucester County. 
               Street legal, fully insured, and ready for adventure.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -253,8 +253,8 @@ export default function MunicipalityRentalPage({
                 Why Choose Our {fullLocationName} Golf Cart Rentals?
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                We provide the most reliable and convenient golf cart rental service in {fullLocationName} 
-                and throughout Berks County, Pennsylvania.
+                We provide the most reliable and convenient golf cart rental service in {municipalityName} 
+                and throughout Gloucester County, Virginia.
               </p>
             </div>
 

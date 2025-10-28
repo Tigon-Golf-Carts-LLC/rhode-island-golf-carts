@@ -86,8 +86,8 @@ export default function VehicleDetailPage({
           description: seoDescription,
           url: canonicalUrl,
           breadcrumbs: [
-            { name: "Home", url: "https://pikecountygolfcarts.com/" },
-            { name: "Inventory", url: "https://pikecountygolfcarts.com/inventory" },
+            { name: "Home", url: "https://gloucestergolfcarts.com/" },
+            { name: "Inventory", url: "https://gloucestergolfcarts.com/inventory" },
             { name: vehicleName, url: canonicalUrl }
           ],
           vehicleName,
@@ -107,7 +107,7 @@ export default function VehicleDetailPage({
             },
             {
               author: "Susan Rodriguez",
-              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Pike County Golf Carts.`,
+              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Gloucester Golf Carts.`,
               reviewRating: 5,
               datePublished: "2025-01-18",
               headline: "Excellent purchase experience"
@@ -148,10 +148,10 @@ export default function VehicleDetailPage({
                   </div>
                 </div>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="tel:570-535-1535">
+                  <a href="tel:804-792-0234">
                     <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                       <Phone className="w-5 h-5 mr-2" />
-                      Call 570-535-1535
+                      Call 804-792-0234
                     </Button>
                   </a>
                   <Link href="/contact">
@@ -269,12 +269,12 @@ export default function VehicleDetailPage({
           </div>
         </section>
 
-        {/* Why Choose Atlantic County Golf Carts */}
+        {/* Why Choose Gloucester Golf Carts */}
         <section className="py-16 px-4 bg-theme-primary text-white">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4">
-                Why Choose Atlantic County Golf Carts?
+                Why Choose Gloucester Golf Carts?
               </h2>
             </div>
 
@@ -283,7 +283,7 @@ export default function VehicleDetailPage({
                 <Shield className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Expert Service</h3>
                 <p className="text-blue-100">
-                  Professional installation, maintenance, and warranty support for all {brand} vehicles in Atlantic County, New Jersey.
+                  Professional installation, maintenance, and warranty support for all {brand} vehicles in Gloucester County, Virginia.
                 </p>
               </div>
 
@@ -299,7 +299,7 @@ export default function VehicleDetailPage({
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Local Expertise</h3>
                 <p className="text-blue-100">
-                  Deep knowledge of Atlantic County's communities and terrain to help you choose the perfect vehicle for your needs.
+                  Deep knowledge of Gloucester County's communities and terrain to help you choose the perfect vehicle for your needs.
                 </p>
               </div>
             </div>
@@ -313,13 +313,13 @@ export default function VehicleDetailPage({
               Ready to Experience the {vehicleName}?
             </h2>
             <p className="text-xl mb-8">
-              Contact Atlantic County Golf Carts today for pricing, availability, and to schedule your test drive.
+              Contact Gloucester Golf Carts today for pricing, availability, and to schedule your test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:570-535-1535">
+              <a href="tel:804-792-0234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 570-535-1535
+                  Call 804-792-0234
                 </Button>
               </a>
               <Link href="/contact">
