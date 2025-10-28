@@ -5,6 +5,15 @@ export default function Footer() {
   return (
     <footer className="bg-gray-50 py-12 px-4">
       <div className="max-w-7xl mx-auto">
+        {/* Logo Section */}
+        <div className="flex justify-center mb-8">
+          <img 
+            src="/attached_assets/Gloucester Golf Carts - Transparent_1761674039270.png" 
+            alt="Gloucester Golf Carts Logo" 
+            className="h-24 w-24 object-contain"
+          />
+        </div>
+
         {/* Main Footer Content */}
         <div className="space-y-8 mb-8">
           {/* Company Description */}

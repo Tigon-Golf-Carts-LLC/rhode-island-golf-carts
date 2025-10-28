@@ -35,9 +35,9 @@ export default function Navigation() {
           <div className="flex items-center space-x-3">
             <div className="rounded-lg">
               <img 
-                src="/attached_assets/Pike County Golf Carts (2)_1756138898367.png" 
+                src="/attached_assets/Gloucester Golf Carts - Transparent_1761674039270.png" 
                 alt="Gloucester Golf Carts Logo" 
-                className="h-16 w-16"
+                className="h-16 w-16 object-contain"
               />
             </div>
             <Link href="/">
