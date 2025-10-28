@@ -1,23 +1,23 @@
-# ads.txt for Pike County Golf Carts
+# ads.txt for Gloucester Golf Carts
 # Authorized Digital Sellers Declaration
-# https://pikecountygolfcarts.com/ads.txt
+# https://gloucestergolfcarts.com/ads.txt
 
-# This file declares authorized digital advertising sellers for Pike County Golf Carts
-# Website: https://pikecountygolfcarts.com
+# This file declares authorized digital advertising sellers for Gloucester Golf Carts
+# Website: https://gloucestergolfcarts.com
 # Business: Electric Golf Cart Sales, Service & Rentals
-# Location: Pike County, Pennsylvania
-# Contact: info@pikecountygolfcarts.com
+# Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# Contact: sales@tigongolfcarts.com
 
 # Google Ad Manager / AdSense
-# Google Analytics: G-QJVWEK6RT8
-# Google Tag Manager: GTM-NSN3ZJPP
+# Google Analytics: G-YX9XKCQF4X
+# Google Tag Manager: GTM-KB3WNGFH
 google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 
 # Meta Business (Facebook & Instagram)
 # Authorized for business advertising on Facebook and Instagram platforms
 facebook.com, 000000000000000, DIRECT, c3e20eee3f780d68
 
-# Microsoft Advertising (Bing Ads)  
+# Microsoft Advertising (Bing Ads)
 # Authorized for Bing search and Microsoft advertising network
 microsoft.com, 0000000000, DIRECT, f08c47fec0942fa0
 
@@ -26,35 +26,37 @@ microsoft.com, 0000000000, DIRECT, f08c47fec0942fa0
 amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 
 # Business Information for Ad Verification
-# Company: Pike County Golf Carts
+# Company: Gloucester Golf Carts
 # Industry: Automotive - Electric Golf Carts
 # Primary Services: Sales, Rentals, Service, Parts
-# Service Area: Pike County, Pennsylvania (15 municipalities)
+# Service Area: Gloucester County, Virginia + 19 communities
 # Brands: DENAGO, EVOLUTION Electric Golf Carts
-# Phone: 1-844-844-6638
-# Email: info@pikecountygolfcarts.com
+# Phone: 804-210-6567
+# Email: sales@tigongolfcarts.com
 
 # Authorized Advertising Categories
 # - Automotive Sales and Service
-# - Electric Vehicle Promotion  
+# - Electric Vehicle Promotion
 # - Golf Cart Sales and Rentals
-# - Local Pennsylvania Business
+# - Local Virginia Business
 # - Recreational Vehicle Services
 # - Environmental Transportation Solutions
+# - Waterfront Community Services
 
 # Geographic Targeting Authorization
-# Primary: Pike County, Pennsylvania
-# Secondary: Pocono Mountains Region
-# Extended: Northeastern Pennsylvania
-# Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners
+# Primary: Gloucester County, Virginia
+# Secondary: Hampton Roads Region, Virginia Peninsula
+# Extended: Coastal Virginia, Tidewater Area
+# Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners, Waterfront Residents
 
 # Brand Safety and Content Guidelines
 # All advertising must comply with:
 # - Professional automotive industry standards
 # - Family-friendly content requirements
 # - Accurate product and service representation
-# - Pennsylvania business regulations
+# - Virginia business regulations
 # - Environmental responsibility messaging
+# - Coastal community values
 
 # Prohibited Content
 # Not authorized for advertising containing:
@@ -63,6 +65,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Adult or inappropriate content
 # - Competing golf cart dealership ads
 # - Fraudulent or deceptive practices
+# - Harmful environmental messaging
 
 # Quality Standards
 # All advertising partners must maintain:
@@ -71,21 +74,24 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Compliance with platform policies
 # - Respect for customer privacy
 # - Transparent business practices
+# - Virginia consumer protection compliance
 
 # Contact for Advertising Verification
-# Primary: info@pikecountygolfcarts.com
-# Phone: 1-844-844-6638
-# Business Hours: Monday-Friday 9AM-6PM EST
-# Address: Pike County, Pennsylvania
-# Website: https://pikecountygolfcarts.com
+# Primary: sales@tigongolfcarts.com
+# Phone: 804-210-6567
+# Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM ET
+# Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# Website: https://gloucestergolfcarts.com
 
 # Direct Advertising Partnerships
 # We work directly with:
 # - Golf industry publications
-# - Local Pennsylvania media
-# - Pocono Mountains tourism platforms
+# - Local Virginia media
+# - Hampton Roads tourism platforms
 # - Electric vehicle networks
 # - Municipal business directories
+# - Waterfront community publications
+# - Coastal Virginia lifestyle magazines
 
 # Third-Party Verification
 # Advertising authenticity verified through:
@@ -94,12 +100,38 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Customer review platforms
 # - Local business associations
 # - Manufacturer partnerships (DENAGO, EVOLUTION)
+# - Virginia Better Business Bureau
 
-# Last Updated: January 25, 2025
+# Market Focus
+# Gloucester County Communities: Gloucester, Gloucester Point, Gloucester Courthouse,
+# Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
+
+# Surrounding Virginia Communities: Mathews, Williamsburg, Yorktown, Poquoson,
+# Hampton, Newport News, York County, James City County, Toano, Norge
+
+# Target Customer Segments:
+# - Waterfront property owners
+# - Golf course communities
+# - Resort and hospitality operators
+# - Marina owners and operators
+# - Retirement communities
+# - Beach community residents
+# - Agricultural operations
+# - Tourism businesses
+
+# Advertising Objectives:
+# - Brand awareness in Gloucester County
+# - Lead generation for sales and rentals
+# - Service area expansion
+# - Customer education on electric vehicles
+# - Environmental impact messaging
+# - Community engagement
+
+# Last Updated: January 2025
 # ads.txt Version: 1.0
 # Review Schedule: Quarterly updates
 # Compliance: IAB ads.txt standard 1.0.1
 
 # Note: This ads.txt file helps prevent advertising fraud by declaring
-# authorized sellers of Pike County Golf Carts digital advertising inventory.
+# authorized sellers of Gloucester Golf Carts digital advertising inventory.
 # Only the sellers listed above are authorized to sell our ad space.

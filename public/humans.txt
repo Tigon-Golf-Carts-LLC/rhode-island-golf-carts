@@ -1,202 +1,198 @@
 # humans.txt
-# Pike County Golf Carts - The Humans Behind the Technology
+# Gloucester Golf Carts - The Humans Behind the Technology
 
 /* TEAM */
 
 /* MANAGEMENT */
-Company: Pike County Golf Carts
-Website: https://pikecountygolfcarts.com
-Phone: 1-844-844-6638
-Email: info@pikecountygolfcarts.com
-Location: Pike County, Pennsylvania, USA
+Company: Gloucester Golf Carts
+Website: https://gloucestergolfcarts.com
+Phone: 804-210-6567
+Email: sales@tigongolfcarts.com
+Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Region: Gloucester County, Virginia, USA
 
 /* BUSINESS DEVELOPMENT */
 Industry: Electric Golf Cart Sales, Service & Rentals
-Established: Serving Pike County communities since inception
+Established: 2024
 Specialization: DENAGO & EVOLUTION Electric Vehicle Expertise
 Service Philosophy: Customer-first approach with professional automotive expertise
+Market Focus: Coastal Virginia waterfront communities
 
 /* TECHNICAL TEAM */
-Electric Vehicle Technicians: Certified professionals with years of experience
+Electric Vehicle Technicians: Certified professionals with electric vehicle experience
 Service Department: Full-service maintenance and repair capabilities
 Parts Department: Comprehensive inventory management and sourcing
 Delivery Team: Professional setup and customer training specialists
+Quality Assurance: Ensuring every vehicle meets highest standards
 
 /* SALES TEAM */
 Sales Consultants: Product experts helping customers find perfect vehicles
-Rental Coordinators: Managing fleet operations and customer experiences  
+Rental Coordinators: Managing fleet operations and customer experiences
 Finance Specialists: Helping customers find affordable payment solutions
 Customer Service: Dedicated support throughout ownership experience
+Community Relations: Building lasting relationships in Gloucester County
 
 /* SERVICE AREA COVERAGE */
-Primary Territory: Pike County, Pennsylvania
-Total Coverage: All 15 municipalities (3 boroughs + 12 townships)
-Service Area: 547 square miles of comprehensive coverage
+Primary Territory: Gloucester County, Virginia
+Total Coverage: 19 communities across Virginia
+Service Area: Approximately 500 square miles of comprehensive coverage
+Showroom: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
 
-Boroughs Served:
-- Milford (County Seat)
-- Hawley  
-- Matamoras
+Primary Markets (Gloucester County):
+- Gloucester (County seat, showroom location)
+- Gloucester Point (waterfront community)
+- Gloucester Courthouse (historic district)
+- Hayes (rural community)
+- Seaford (coastal village)
+- Ordinary (historic crossroads)
+- Ware Neck (peninsula community)
+- Wicomico (waterfront area)
+- Achilles (coastal community)
 
-Townships Served:
-- Blooming Grove Township
-- Delaware Township
-- Dingman Township
-- Greene Township
-- Lackawaxen Township
-- Lehman Township
-- Milford Township
-- Palmyra Township
-- Porter Township
-- Shohola Township
-- Westfall Township
-- Middle Smithfield Township
+Secondary Markets (Surrounding Virginia):
+- Mathews County
+- Williamsburg (colonial city)
+- Yorktown (historic waterfront)
+- Poquoson (coastal city)
+- Hampton (Hampton Roads metro)
+- Newport News (shipbuilding center)
+- York County
+- James City County
+- Toano
+- Norge
 
 /* BUSINESS PHILOSOPHY */
-Mission: Providing Pike County residents and visitors with reliable, 
-environmentally-friendly electric transportation solutions backed by 
-professional service and genuine automotive expertise.
+Mission: Providing Gloucester County and surrounding Virginia communities with reliable,
+environmentally-friendly electric transportation solutions backed by professional
+service and genuine automotive expertise.
 
-Values: 
+Values:
 - Customer satisfaction and honest business practices
 - Environmental responsibility through electric vehicle promotion
 - Community engagement and local business support
 - Professional expertise and continuous education
 - Quality products and reliable service
+- Waterfront community understanding
+- Virginia coastal lifestyle appreciation
 
 /* COMMUNITY INVOLVEMENT */
-Local Community: Active supporters of Pike County business community
-Tourism Support: Assisting Pocono Mountains tourism with rental services
+Local Community: Active supporters of Gloucester County business community
+Tourism Support: Assisting Virginia coastal tourism with rental services
 Environmental Impact: Promoting sustainable transportation alternatives
 Business Network: Members of local business associations and chambers
+Waterfront Communities: Understanding unique needs of coastal properties
+Golf Course Support: Serving Virginia golf courses and clubs
 
 /* EXPERTISE AREAS */
 Electric Vehicle Technology: Advanced knowledge of lithium battery systems
-Street Legal Conversions: Pennsylvania DOT compliance and registration
-Municipal Regulations: Understanding of local ordinances across all 15 municipalities
-Golf Cart Maintenance: All brands and models service capability
-Customer Education: Teaching safe operation and proper maintenance
+Street Legal Conversions: Virginia DMV compliance and registration
+Waterfront Applications: Corrosion-resistant solutions for coastal environments
+Golf Course Operations: Turf-friendly vehicles and fleet management
+Resort Fleet Management: Commercial programs for hotels and marinas
+Rental Operations: Professional fleet management and customer service
+Maintenance Programs: Preventive maintenance and extended warranties
+Financing Solutions: Multiple financing options and payment plans
 
-/* BUSINESS HOURS */
-Monday - Friday: 9:00 AM - 6:00 PM
-Saturday: 9:00 AM - 5:00 PM  
-Sunday: 12:00 PM - 4:00 PM
-Emergency Service: Available for rental customers 24/7
-Holiday Hours: Contact for seasonal schedule adjustments
+/* TECHNICAL KNOWLEDGE */
+Battery Technology: 48V and 72V lithium-ion systems, charging infrastructure
+Performance Optimization: Range maximization, speed regulation, terrain adaptation
+Safety Systems: LED lighting, seat belts, mirrors, turn signals, brake systems
+Navigation: GPS integration, community mapping, delivery optimization
+Virginia Regulations: DMV requirements, insurance mandates, local ordinances
+Environmental Protection: Zero emissions, energy efficiency, sustainability
 
-/* CONTACT METHODS */
-Primary Phone: 1-844-844-6638
-Email: info@pikecountygolfcarts.com
-Website: https://pikecountygolfcarts.com
-Service Requests: Online scheduling available
-Quote Requests: Email or phone consultation
+/* BRANDS AND PRODUCTS */
+Primary Brands: DENAGO and EVOLUTION Electric Golf Carts
+Model Range: 2-seater to 8-seater configurations
+Price Range: $8,495 to $19,995
+Applications: Urban transportation, golf courses, waterfront properties,
+            resorts, commercial operations, family recreation
 
-/* PRODUCTS & SERVICES */
+DENAGO Models:
+- EV CITY: Street legal urban transport
+- EV NOMAD: All-terrain adventure  
+- EV NOMAD XL: Extended range family
+- EV ROVER XL: Luxury 6-seater
+- EV ROVER XL6: Extended luxury
+- EV ROVER XXL: Maximum capacity 8-seater
 
-DENAGO Electric Vehicles:
-- EV CITY (Street Legal Urban Transportation)
-- EV NOMAD (Adventure Off-Road)
-- EV NOMAD XL (Extended Family Adventure)
-- EV ROVER XL (Heavy-Duty Utility)
-- EV ROVER XL6 (Six-Passenger Utility)
-- EV ROVER XXL (Maximum Capacity Utility)
+EVOLUTION Models:
+- Classic 4 Plus: Traditional family cart
+- D5 Maverick 4 Plus: Performance vehicle
+- D5 Ranger 4 Plus: Utility 4-seater
+- D5 Ranger 6 Plus: Large utility vehicle
+- Carrier 6 Plus: Commercial utility
+- D6 Max XT4: Extreme terrain specialist
 
-EVOLUTION Electric Vehicles:
-- Classic Series (2-8 passenger models)
-- D5 Maverick Series (Performance models)
-- D5 Ranger Series (Utility models)  
-- D6 Max Series (High-performance models)
-- Forester Series (Off-road specialists)
-- Turfman Series (Commercial turf maintenance)
-- Street Cart Series (Street legal ready)
+/* CUSTOMER SERVICE EXCELLENCE */
+Response Time: Same-day inquiries, 24-hour quotes
+Test Drives: Available by appointment at showroom
+Financing: Pre-approval within 24 hours
+Delivery: Professional setup throughout service area
+Training: Complete orientation with every delivery
+Follow-up: 7-day check-in, 30-day service reminder
+Support: Ongoing technical support and assistance
 
-Services Provided:
-- New golf cart sales with full setup
-- Comprehensive rental programs (daily, weekly, monthly)
-- Professional service and maintenance (all brands)
-- Parts and accessories (OEM and aftermarket)
-- Financing assistance and consultation
-- Delivery throughout Pike County
-- Customer training and orientation
-- Warranty service and support
+/* RENTAL PROGRAM */
+Daily Rentals: 4-seater ($245), 6-seater ($295)
+3-Day Rentals: 4-seater ($685), 6-seater ($825)
+Weekly Rentals: 4-seater ($1,400), 6-seater ($1,680)
+Monthly Rentals: 4-seater ($4,200), 6-seater ($5,040)
+Services: Full insurance, maintenance, 24/7 support, delivery
 
-/* PROFESSIONAL CERTIFICATIONS */
-Technician Training: Factory-certified service technicians
-Safety Training: DOT compliance and street legal conversion expertise
-Customer Service: Professional automotive service standards
-Environmental: Electric vehicle and battery system expertise
+/* SERVICE CAPABILITIES */
+Maintenance: Regular service, inspections, tune-ups
+Repairs: All brands, comprehensive diagnostic capabilities
+Parts: OEM and aftermarket parts available
+Battery Service: Testing, maintenance, replacement
+Tire Service: Sales, installation, balancing, alignment
+Accessories: Lights, mirrors, windshields, covers, upgrades
+Warranties: Manufacturer warranties honored and serviced
 
-/* CUSTOMER COMMITMENT */
-Satisfaction Guarantee: 30-day satisfaction policy
-Service Promise: Professional installation and setup
-Support Commitment: Ongoing customer support throughout ownership
-Quality Assurance: All products backed by manufacturer warranties
+/* ENVIRONMENTAL COMMITMENT */
+Zero Emissions: All-electric vehicle fleet
+Energy Efficiency: Promoting sustainable transportation
+Community Impact: Reducing carbon footprint in Gloucester County
+Coastal Protection: Environmentally-friendly waterfront solutions
+Future Focus: Leading Virginia's electric vehicle adoption
 
-/* BUSINESS RECOGNITION */
-Community Support: Recognized for local business engagement
-Customer Reviews: Consistently positive feedback and referrals
-Industry Standing: Authorized dealer for premium brands
-Professional Standards: Commitment to automotive service excellence
+/* DIGITAL PRESENCE */
+Website: https://gloucestergolfcarts.com
+Email: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Analytics: Google Analytics (G-YX9XKCQF4X)
+Tag Manager: GTM-KB3WNGFH
+Social Media: Active engagement with community
 
-/* TECHNOLOGY & INNOVATION */
-Electric Vehicle Expertise: Cutting-edge battery and motor technology
-Street Legal Solutions: DOT compliance and registration assistance
-Fleet Management: Commercial and rental fleet optimization
-Environmental Technology: Sustainable transportation solutions
+/* OPERATIONAL EXCELLENCE */
+Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
+Showroom: Professional display of latest models
+Inventory: Maintained stock for immediate delivery
+Delivery: Throughout Gloucester County and surrounding areas
+Payment Options: Cash, credit, financing, business accounts
 
-/* LOCATION DETAILS */
-Service Territory: Pike County, Pennsylvania
-Geographic Coverage: Pocono Mountains region
-Tourism Support: Delaware Water Gap and Lake Wallenpaupack areas
-Delivery Range: Pike County and surrounding areas
-Population Served: 58,535+ Pike County residents plus visitors
+/* COMPETITIVE ADVANTAGES */
+Exclusive Dealership: Only full-service DENAGO & EVOLUTION dealer in Gloucester County
+Strategic Location: Route 17 visibility and accessibility
+Local Expertise: Understanding Virginia coastal communities
+Family Business: Personalized service and attention
+Professional Team: Automotive experience and electric vehicle specialists
+Comprehensive Services: Sales, rentals, service, parts - complete solution
 
-/* ENVIRONMENTAL IMPACT */
-Zero Emissions: Promoting electric vehicle adoption
-Clean Transportation: Reducing carbon footprint for communities
-Sustainable Business: Environmentally responsible operations
-Green Technology: Advanced lithium battery technology
+/* CONTACT */
+Primary: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Directions: Located on US Route 17 in Gloucester
+GPS: 37.4093° N, 76.5275° W
 
-/* BUSINESS PARTNERSHIPS */
-Manufacturer Relationships: Authorized DENAGO and EVOLUTION dealer
-Financing Partners: Multiple lending institutions for customer options
-Service Network: Professional automotive service standards
-Community Partners: Local business and tourism organizations
+/* GRATITUDE */
+Thank you to our customers throughout Gloucester County and surrounding
+Virginia communities for trusting us with their electric golf cart needs.
+We're honored to serve the waterfront communities, golf courses, and
+families of coastal Virginia.
 
-/* CUSTOMER DEMOGRAPHICS */
-Primary Customers: Pike County residents ages 35-75
-Secondary Market: Pocono Mountains tourists and vacation home owners
-Commercial Clients: Golf courses, resorts, and business applications
-Seasonal Customers: Summer recreation and tourism rentals
-
-/* ACCESSIBILITY */
-Physical Accessibility: Accommodating customers with mobility needs
-Service Accessibility: Home delivery and pickup services
-Communication: Multiple contact methods for customer convenience
-Payment Options: Various financing and payment solutions
-
-/* FUTURE VISION */
-Growth Plans: Expanding service capabilities and product offerings  
-Technology Advancement: Staying current with electric vehicle innovations
-Community Service: Continuing support for Pike County development
-Environmental Leadership: Promoting sustainable transportation solutions
-
-/* WEBSITE DEVELOPMENT */
-Last Updated: January 25, 2025
-Site Purpose: Comprehensive business information and customer service
-Technology: Modern web standards for optimal user experience
-Accessibility: Designed for universal access and usability
-Mobile Friendly: Responsive design for all device types
-
-/* THANKS */
-We appreciate our Pike County community, loyal customers, 
-manufacturer partners, and everyone who supports local business.
-Together we're building a more sustainable transportation future
-for Pike County and the greater Pocono Mountains region.
-
-/* SITE */
-Last update: 2025/01/25
-Language: English
-Doctype: HTML5
-Standards: W3C compliant, accessibility guidelines followed
-Tools: Modern web development practices and SEO optimization
+/* LAST UPDATED */
+Date: January 2025
+Season: Serving year-round
+Next Review: Quarterly updates

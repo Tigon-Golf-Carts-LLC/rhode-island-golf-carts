@@ -1,7 +1,7 @@
 {
-  "name": "Pike County Golf Carts",
-  "short_name": "Pike Golf Carts",
-  "description": "Pike County Golf Carts - Pennsylvania's premier DENAGO & EVOLUTION electric golf cart dealership serving all 15 Pike County municipalities with sales, rentals, service and parts.",
+  "name": "Gloucester Golf Carts",
+  "short_name": "Gloucester Carts",
+  "description": "Gloucester Golf Carts - Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving Gloucester County and surrounding Virginia communities with sales, rentals, service and parts.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -56,7 +56,7 @@
     {
       "name": "Golf Cart Rentals",
       "short_name": "Rentals", 
-      "description": "Daily, weekly, and monthly golf cart rentals throughout Pike County",
+      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Gloucester County",
       "url": "/rentals",
       "icons": [
         {
@@ -82,7 +82,7 @@
     {
       "name": "Contact Us",
       "short_name": "Contact",
-      "description": "Get in touch for sales, service, or rental inquiries",
+      "description": "Get in touch for sales, service, or rental inquiries - Call 804-210-6567",
       "url": "/contact",
       "icons": [
         {
@@ -99,7 +99,7 @@
       "src": "/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg",
       "sizes": "1280x720",
       "type": "image/jpeg",
-      "label": "Pike County Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts"
+      "label": "Gloucester Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts"
     }
   ],
   
@@ -135,7 +135,7 @@
   
   "display_override": ["window-controls-overlay", "standalone", "minimal-ui", "browser"],
   
-  "id": "pikecountygolfcarts",
+  "id": "gloucestergolfcarts",
   
   "note_taking": {
     "new_note_url": "/contact"

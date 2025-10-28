@@ -1,275 +1,268 @@
 # geo.txt - Geographic Coverage Data
-# Pike County Golf Carts - Complete Geographic Service Information
+# Gloucester Golf Carts - Complete Geographic Service Information
 
 ## PRIMARY SERVICE AREA
 Country: United States
-State: Pennsylvania (PA)
-County: Pike County
-Total Area: 547 square miles
-Population: 58,535 (2020 Census)
-County Seat: Milford
-Established: 1814
-Website: pikepa.org
+State: Virginia (VA)
+County: Gloucester County
+Total Area: 288 square miles
+Population: 38,711 (2020 Census)
+County Seat: Gloucester
+Established: 1651
+Historic Significance: Colonial Virginia settlement
 
-## COMPLETE MUNICIPALITY COVERAGE (15 Total)
+## SHOWROOM LOCATION
+Business Name: Gloucester Golf Carts
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Route: US Route 17 (George Washington Memorial Highway)
+Coordinates: 37.4093° N, 76.5275° W
+Elevation: 50 feet above sea level
+Time Zone: Eastern Time Zone (ET)
+Climate: Humid subtropical
 
-### BOROUGHS (3)
-1. Milford Borough
-   - Population: 1,103
-   - Coordinates: 41.3223°N, 74.8021°W
-   - Status: County Seat
-   - Area: 1.2 square miles
-   - Founded: 1874
-   - Character: Commercial center, tourism hub
-   - Notable Features: Historic downtown, Delaware River access
+## GLOUCESTER COUNTY SERVICE COVERAGE (9 Communities)
 
-2. Hawley Borough  
-   - Population: 1,211
-   - Coordinates: 41.4282°N, 75.1768°W
-   - Area: 1.1 square miles
-   - Founded: 1827
-   - Character: Lake Wallenpaupack region
-   - Notable Features: Tourism center, recreational activities
+### PRIMARY MARKET - GLOUCESTER COUNTY COMMUNITIES:
 
-3. Matamoras Borough
-   - Population: 2,323
-   - Coordinates: 41.3804°N, 74.6954°W
-   - Area: 1.8 square miles
-   - Founded: 1908
-   - Character: Delaware River border community
-   - Notable Features: Residential area, New York border proximity
+1. Gloucester (County Seat)
+   - Population: Largest community in county
+   - Coordinates: 37.4093° N, 76.5275° W
+   - Character: Government center, commercial hub
+   - Notable: County administration, retail, services
+   - Showroom Location: Primary market center
 
-### TOWNSHIPS (12)
+2. Gloucester Point
+   - Population: Historic waterfront community
+   - Coordinates: 37.2537° N, 76.5022° W
+   - Character: Waterfront, educational, historic
+   - Notable: Virginia Institute of Marine Science (VIMS)
+   - Features: Chesapeake Bay access, York River views
 
-4. Blooming Grove Township
-   - Population: 4,598
-   - Coordinates: 41.4167°N, 74.7833°W
-   - Area: 42.8 square miles
-   - Character: Rural residential, family communities
-   - Notable Features: Suburban development, natural areas
+3. Gloucester Courthouse
+   - Coordinates: 37.4110° N, 76.5272° W
+   - Character: Administrative and historic district
+   - Notable: Colonial-era courthouse, government offices
+   - Features: Historic preservation area
 
-5. Delaware Township
-   - Population: 4,973
-   - Coordinates: 41.3500°N, 75.0000°W
-   - Area: 32.1 square miles
-   - Character: Riverside community, recreational area
-   - Notable Features: Delaware River frontage, scenic beauty
+4. Hayes
+   - Coordinates: 37.2681° N, 76.4664° W
+   - Character: Rural community, residential
+   - Notable: Agricultural heritage
+   - Features: Suburban development, family neighborhoods
 
-6. Dingman Township
-   - Population: 8,359 (Largest township)
-   - Coordinates: 41.2500°N, 74.9167°W
-   - Area: 60.2 square miles
-   - Character: Delaware Water Gap region, tourism
-   - Notable Features: National recreation area access
+5. Seaford
+   - Coordinates: 37.2167° N, 76.4333° W
+   - Character: Coastal village
+   - Notable: Waterfront access
+   - Features: Beach communities, marine activities
 
-7. Greene Township
-   - Population: 4,556
-   - Coordinates: 41.4000°N, 75.1500°W
-   - Area: 35.7 square miles
-   - Character: Central Pike County, agricultural area
-   - Notable Features: Rural character, farming community
+6. Ordinary
+   - Coordinates: 37.3500° N, 76.5167° W
+   - Character: Historic crossroads community
+   - Notable: Traditional Virginia settlement
+   - Features: Rural character
 
-8. Lackawaxen Township
-   - Population: 4,994
-   - Coordinates: 41.4833°N, 75.0833°W
-   - Area: 44.8 square miles
-   - Character: Northern region, scenic Lackawaxen River
-   - Notable Features: River recreation, natural beauty
+7. Ware Neck
+   - Coordinates: 37.3500° N, 76.4000° W
+   - Character: Peninsula community
+   - Notable: Surrounded by waterways
+   - Features: Waterfront properties, rural setting
 
-9. Lehman Township
-   - Population: 2,650
-   - Coordinates: 41.4167°N, 75.1833°W
-   - Area: 25.9 square miles
-   - Character: Rural agricultural, traditional communities
-   - Notable Features: Farming operations, rural lifestyle
+8. Wicomico
+   - Coordinates: 37.3000° N, 76.3000° W
+   - Character: Waterfront area
+   - Notable: Marine environment
+   - Features: Coastal access
 
-10. Milford Township
-    - Population: 1,790
-    - Coordinates: 41.3000°N, 74.8500°W
-    - Area: 23.4 square miles
-    - Character: Surrounding county seat area
-    - Notable Features: Rural residential, county proximity
+9. Achilles
+   - Coordinates: 37.2500° N, 76.3667° W
+   - Character: Coastal community
+   - Notable: Chesapeake Bay proximity
+   - Features: Waterfront lifestyle
 
-11. Palmyra Township
-    - Population: 6,319
-    - Coordinates: 41.2833°N, 75.2000°W
-    - Area: 51.3 square miles
-    - Character: Southern Pike County, growing community
-    - Notable Features: Development growth, family areas
+## SECONDARY SERVICE AREA (10 Surrounding Virginia Communities)
 
-12. Porter Township
-    - Population: 6,055
-    - Coordinates: 41.4167°N, 74.6833°W
-    - Area: 31.2 square miles
-    - Character: Eastern border area, Delaware River access
-    - Notable Features: River communities, scenic views
+### SURROUNDING VIRGINIA MARKETS:
 
-13. Shohola Township
-    - Population: 2,493
-    - Coordinates: 41.4500°N, 74.9500°W
-    - Area: 42.1 square miles
-    - Character: Northeastern region, rural character
-    - Notable Features: Natural areas, outdoor recreation
+10. Mathews County
+    - Coordinates: 37.4333° N, 76.3167° W
+    - Distance: 10 miles from Gloucester
+    - Population: 8,900
+    - Character: Rural county, waterfront
 
-14. Westfall Township
-    - Population: 2,299
-    - Coordinates: 41.3333°N, 75.0833°W
-    - Area: 35.8 square miles
-    - Character: Western Pike County, farming community
-    - Notable Features: Agricultural operations, rural roads
+11. Williamsburg
+    - Coordinates: 37.2707° N, 76.7075° W
+    - Distance: 15 miles from Gloucester
+    - Population: 14,954
+    - Character: Historic colonial city
+    - Notable: Colonial Williamsburg, tourism hub
 
-15. Middle Smithfield Township
-    - Population: 5,544
-    - Coordinates: 41.0833°N, 75.1667°W
-    - Area: 46.7 square miles
-    - Character: Pocono Mountains region, recreational area
-    - Notable Features: Tourism, vacation properties
+12. Yorktown
+    - Coordinates: 37.2376° N, 76.5097° W
+    - Distance: 8 miles from Gloucester
+    - Population: 195
+    - Character: Historic waterfront town
+    - Notable: Revolutionary War history
 
-## REGIONAL GEOGRAPHIC CONTEXT
+13. Poquoson
+    - Coordinates: 37.1224° N, 76.3458° W
+    - Distance: 12 miles from Gloucester
+    - Population: 12,460
+    - Character: Independent coastal city
+    - Notable: Waterfront community
 
-### Pocono Mountains Region
-- Location: Northeastern Pennsylvania
-- Character: Four-season recreation destination
-- Tourism: Year-round visitor destination
-- Activities: Outdoor recreation, resorts, golf courses
-- Population: Seasonal variation with vacation homes
+14. Hampton
+    - Coordinates: 37.0299° N, 76.3452° W
+    - Distance: 20 miles from Gloucester
+    - Population: 137,148
+    - Character: Hampton Roads metro area
+    - Notable: Military, aerospace, tourism
 
-### Delaware Water Gap National Recreation Area
-- Federal Protection: National Park Service
-- Activities: Hiking, boating, camping, fishing
-- Accessibility: Golf cart friendly trails and areas
-- Tourism Impact: Major draw for Pike County visitors
-- Conservation: Protected natural resources
+15. Newport News
+    - Coordinates: 37.0871° N, 76.4730° W
+    - Distance: 18 miles from Gloucester
+    - Population: 180,719
+    - Character: Major shipbuilding center
+    - Notable: Naval shipyard, port city
 
-### Lake Wallenpaupack
-- Size: 5,700 acres
-- Location: Pike/Wayne County border
-- Recreation: Boating, fishing, waterfront properties
-- Golf Cart Use: Lakefront community transportation
-- Tourism: Major recreational destination
+16. York County
+    - Coordinates: 37.2290° N, 76.5380° W
+    - Distance: Adjacent to Gloucester
+    - Population: 70,045
+    - Character: Suburban county
 
-## TRANSPORTATION AND ACCESS
+17. James City County
+    - Coordinates: 37.3019° N, 76.7897° W
+    - Distance: 18 miles from Gloucester
+    - Population: 75,965
+    - Character: Historic county, suburban
 
-### Major Highways
-- Interstate 84: East-west corridor through southern Pike County
-- US Route 6: Historic highway through central county
-- US Route 209: North-south corridor along Delaware River
-- PA Route 390: Pocono region access
-- Local Roads: Extensive network of municipal roads
+18. Toano
+    - Coordinates: 37.3793° N, 76.8174° W
+    - Distance: 22 miles from Gloucester
+    - Population: 517
+    - Character: Rural community
 
-### Golf Cart Street Legal Areas
-- Municipal Regulations: Vary by municipality
-- Permitted Areas: Designated roads and communities
-- Registration: Required for street legal operation
-- Age Requirements: 16+ with valid driver's license
-- Equipment: Lights, mirrors, seat belts, DOT compliance
+19. Norge
+    - Coordinates: 37.3696° N, 76.7827° W
+    - Distance: 20 miles from Gloucester
+    - Population: 1,000
+    - Character: Suburban community
 
-### Delivery Logistics
-- Pike County Coverage: All 15 municipalities served
-- Delivery Time: Same-day or next-day availability
-- Setup Service: Professional installation and training
-- Service Calls: Throughout Pike County territory
-- Emergency Service: Available for rental customers
+## GEOGRAPHIC CHARACTERISTICS
 
-## CLIMATE AND SEASONAL INFORMATION
+### Gloucester County Features:
+- Chesapeake Bay waterfront: 60+ miles of coastline
+- York River access: Southern boundary
+- Piankatank River: Northern boundary
+- Ware River: Internal waterway
+- Tidal wetlands: Extensive marsh systems
+- Rural character: Agricultural heritage preserved
+- Historic sites: Colonial and Civil War history
 
-### Four-Season Climate
-- Spring: March-May, mild temperatures, vehicle preparation
-- Summer: June-August, peak usage season, rental demand
-- Fall: September-November, scenic foliage, moderate use
-- Winter: December-February, storage season, maintenance
+### Climate Data:
+- Summers: Warm and humid, 75-90°F
+- Winters: Mild, 30-50°F
+- Annual rainfall: 45 inches
+- Growing season: 220 days
+- Hurricane risk: Moderate (coastal location)
+- Best golf cart season: April-November
 
-### Seasonal Business Patterns
-- Peak Sales: March through June (spring preparation)
-- Peak Rentals: June through September (tourism season)
-- Service Season: Year-round with spring surge
-- Storage Season: October through March (winter preparation)
+### Topography:
+- Terrain: Flat to gently rolling
+- Elevation range: Sea level to 100 feet
+- Soil: Sandy loam, well-drained
+- Vegetation: Mixed hardwood forests, pines
+- Water features: Extensive tidal creeks and rivers
 
-### Weather Considerations
-- Temperature Range: -10°F to 90°F annually
-- Precipitation: 45+ inches annually
-- Snow Season: December-March average
-- Golf Cart Usage: Three-season primary use
+## MARKET CHARACTERISTICS
 
-## ECONOMIC AND DEMOGRAPHIC PROFILE
+### Demographics:
+- Population: 38,711 (Gloucester County)
+- Median age: 45.3 years
+- Households: 14,800
+- Average household size: 2.6
+- Median income: $72,500
+- Homeownership rate: 78%
 
-### Population Demographics
-- Total Population: 58,535 (Pike County)
-- Age Distribution: All ages, focus on 35-75 for golf carts
-- Income Levels: $50,000-$150,000+ target demographic
-- Housing: Mix of permanent residents and vacation homes
+### Economic Profile:
+- Major employers: Government, healthcare, retail, tourism
+- Industries: Marine research, agriculture, tourism, services
+- Unemployment: Below state average
+- Property values: Above state median
+- Tourism season: May-September peak
 
-### Economic Sectors
-- Tourism: Major economic driver
-- Recreation: Outdoor activities and golf courses
-- Residential: Growing residential development
-- Agriculture: Traditional farming operations
-- Service: Local business and professional services
+### Golf Cart Market Potential:
+- Waterfront properties: High concentration
+- Golf courses: Multiple facilities in region
+- Resort areas: Hotels and vacation rentals
+- Retirement communities: Growing market
+- Beach communities: Year-round residents
+- Agricultural operations: Commercial applications
+- Marina operations: Fleet opportunities
 
-### Golf Cart Market
-- Primary Users: Golf courses, residential communities, recreation
-- Secondary Users: Tourism, vacation rentals, commercial applications
-- Market Growth: Increasing electric vehicle adoption
-- Street Legal Interest: Growing demand for road-legal vehicles
+## REGIONAL CONTEXT
 
-## BUSINESS SERVICE RADIUS
+### Hampton Roads Metropolitan Area:
+- Total Population: 1.8 million
+- Major Cities: Virginia Beach, Norfolk, Chesapeake, Hampton, Newport News
+- Position: Gloucester is northern gateway
+- Access: I-64 corridor, Route 17
+- Economic hub: Military, shipbuilding, tourism
 
-### Primary Service Area (Free Delivery)
-- All Pike County municipalities
-- Response time: Same day or next day
-- Setup service: Included with sales and rentals
-- Service calls: Throughout Pike County
+### Virginia Peninsula:
+- Gloucester position: Northern tip
+- York River: Natural boundary
+- Historic Triangle: Williamsburg, Yorktown, Jamestown proximity
+- Tourism corridor: Colonial heritage attractions
 
-### Extended Service Area (Available)
-- Wayne County: Adjacent county coverage
-- Monroe County: Pocono region coverage  
-- Orange County NY: Border area coverage
-- Sussex County NJ: Delaware River region
+### Coastal Virginia:
+- Chesapeake Bay: Dominant geographic feature
+- Tidewater region: Low-lying coastal plain
+- Marine economy: Fishing, tourism, recreation
+- Waterfront lifestyle: Primary attraction
 
-### Service Capabilities
-- Sales: Complete vehicle sales and setup
-- Rentals: Daily, weekly, monthly programs
-- Service: All brands maintenance and repair
-- Parts: OEM and aftermarket inventory
-- Training: Customer education and safety
+## TRANSPORTATION NETWORK
 
-## MUNICIPAL REGULATIONS SUMMARY
+### Major Routes:
+- US Route 17: Primary north-south artery (George Washington Memorial Highway)
+- State Route 3: East-west corridor
+- Coleman Bridge: York River crossing to Yorktown
+- George P. Coleman Memorial Bridge: Strategic link
 
-### Street Legal Requirements (Vary by Municipality)
-- Lighting: LED headlights and taillights required
-- Safety Equipment: Mirrors, seat belts, horn
-- Registration: State and local requirements
-- Insurance: Liability coverage recommended
-- Operation: Licensed driver, age restrictions
+### Access Points:
+- From Richmond: 60 miles via I-64 and Route 17
+- From Norfolk: 45 miles via I-64 and Route 17
+- From Washington DC: 170 miles via I-95 and Route 17
 
-### Permitting and Compliance
-- Municipal Permits: Required in some areas
-- Road Usage: Designated streets and zones
-- Speed Limits: Typically 25 mph maximum
-- Parking: Municipal parking regulations apply
-- Commercial Use: Business license requirements
+### Local Roads:
+- Secondary roads: Well-maintained
+- Waterfront access roads: Scenic routes
+- Golf cart friendly: Low-speed communities
 
-## CONTACT AND VERIFICATION
+## SERVICE AREA SUMMARY
 
-Business: Pike County Golf Carts
-Service Area: All 15 Pike County municipalities
-Phone: 1-844-844-6638
-Email: info@pikecountygolfcarts.com  
-Website: https://pikecountygolfcarts.com
-Address: Pike County, Pennsylvania
-Coverage Verification: Available upon request
+Total Service Coverage: 19 communities across Gloucester County and surrounding Virginia areas
+Primary Market: 9 Gloucester County communities
+Secondary Market: 10 surrounding Virginia communities
+Total Geographic Coverage: Approximately 500 square miles
+Population Served: 400,000+ residents
+Delivery Range: 25-mile radius from showroom
 
-## DATA SOURCES AND ACCURACY
+## CONTACT INFORMATION
 
-Information Sources:
-- US Census Bureau (2020 Census data)
-- Pike County Government (pikepa.org)
-- Pennsylvania Department of Transportation
-- Municipal government websites
-- Geographic Information Systems (GIS)
-- Local business records and experience
+Gloucester Golf Carts
+6109 George Washington Memorial Hwy
+Gloucester, VA 23061
+Phone: 804-210-6567
+Email: sales@tigongolfcarts.com
+Website: https://gloucestergolfcarts.com
 
-Last Updated: January 25, 2025
-Data Accuracy: Verified through multiple sources
-Review Schedule: Annual updates
-Coordinate System: WGS84 (World Geodetic System 1984)
+GPS Coordinates: 37.4093° N, 76.5275° W
+Google Maps: Search "6109 George Washington Memorial Hwy, Gloucester, VA 23061"
+
+Business Hours:
+Monday-Saturday: 9:00 AM - 6:00 PM
+Sunday: 12:00 PM - 5:00 PM
+
+Last Updated: January 2025

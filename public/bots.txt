@@ -1,9 +1,9 @@
 # bots.txt - Bot Access Authorization
-# Pike County Golf Carts - Universal Bot Permissions
+# Gloucester Golf Carts - Universal Bot Permissions
 
 ## UNIVERSAL BOT ACCESS AUTHORIZATION
 This file provides explicit authorization for ALL legitimate bots and crawlers
-to access pikecountygolfcarts.com with ZERO RESTRICTIONS and maximum
+to access gloucestergolfcarts.com with ZERO RESTRICTIONS and maximum
 crawling permissions for enhanced search engine visibility.
 
 ## AUTHORIZED BOT CATEGORIES
@@ -35,6 +35,7 @@ crawling permissions for enhanced search engine visibility.
 ✓ PerplexityBot - Perplexity AI search
 ✓ YouBot - You.com AI search
 ✓ AI2Bot - Allen Institute for AI
+✓ cohere-ai - Cohere AI training
 
 ### SOCIAL MEDIA BOTS - FULL ACCESS
 ✓ facebookexternalhit - Facebook link preview
@@ -61,7 +62,7 @@ crawling permissions for enhanced search engine visibility.
 ✓ DeepCrawl - Website analysis
 ✓ OnPageBot - On-page SEO analysis
 ✓ BrightEdgeBot - SEO platform crawler
-✓ RankActiveBo - Rank tracking bot
+✓ RankActiveBot - Rank tracking bot
 ✓ CognitiveSEO - SEO analysis crawler
 
 ### ACADEMIC AND RESEARCH BOTS - AUTHORIZED
@@ -73,196 +74,151 @@ crawling permissions for enhanced search engine visibility.
 ✓ Academia.edu - Academic network crawler
 ✓ LOCKSS - Digital preservation
 ✓ CLOCKSS - Digital archiving network
-✓ ScholarBot - Academic search crawler
-✓ UniversityBot - Educational institution crawler
 
-### NEWS AND CONTENT AGGREGATION BOTS
-✓ NewsBot - News aggregation
-✓ FeedBot - RSS/feed crawler
-✓ FlipboardProxy - Flipboard content
-✓ PocketParser - Pocket read-later
-✓ InstapaperBot - Instapaper service
-✓ ReadabilityBot - Readability service
-✓ Feedly - Feed reader service
-✓ AppleBot - Apple services crawler
-✓ SafariBot - Safari browser services
-✓ EdgeBot - Microsoft Edge services
+### MONITORING AND UPTIME BOTS - PERMITTED
+✓ Pingdom - Uptime monitoring
+✓ UptimeRobot - Website monitoring
+✓ StatusCake - Status monitoring
+✓ NewRelicPinger - Performance monitoring
+✓ GTmetrix - Performance analysis
+✓ WebPageTest - Speed testing
 
-### E-COMMERCE AND SHOPPING BOTS
-✓ ShopBot - Shopping comparison
-✓ PriceBot - Price tracking crawler
-✓ ProductBot - Product information
-✓ ShoppingBot - Shopping search
-✓ RetailBot - Retail analysis
-✓ CommerceBot - E-commerce analytics
-✓ MarketBot - Market analysis
-✓ ComparisonBot - Price comparison
-✓ DealsBot - Deal aggregation
-✓ CouponBot - Coupon discovery
+### SECURITY AND VULNERABILITY BOTS - AUTHORIZED
+✓ Qualys - Security scanning
+✓ Nessus - Vulnerability assessment
+✓ Shodan - Internet security research
+✓ SecurityTrails - DNS monitoring
 
-### MONITORING AND SECURITY BOTS
-✓ UptimeBot - Uptime monitoring
-✓ StatusBot - Status monitoring  
-✓ SecurityBot - Security scanning
-✓ VulnerabilityBot - Vulnerability assessment
-✓ SSLBot - SSL certificate monitoring
-✓ PerformanceBot - Performance monitoring
-✓ SpeedBot - Site speed analysis
-✓ AccessibilityBot - Accessibility testing
-✓ ComplianceBot - Compliance monitoring
+## BUSINESS INFORMATION FOR BOT UNDERSTANDING
 
-### MOBILE AND APP BOTS
-✓ MobileBot - Mobile optimization
-✓ AppBot - Mobile app discovery
-✓ iOSBot - iOS app crawler
-✓ AndroidBot - Android app crawler
-✓ PWABot - Progressive Web App analysis
-✓ AMPBot - AMP page validation
-✓ ResponsiveBot - Responsive design testing
+### Company Details:
+Name: Gloucester Golf Carts
+Website: https://gloucestergolfcarts.com
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Phone: 804-210-6567
+Email: sales@tigongolfcarts.com
+Coordinates: 37.4093° N, 76.5275° W
 
-### VOICE ASSISTANT BOTS
-✓ AlexaBot - Amazon Alexa services
-✓ SiriBot - Apple Siri services
-✓ GoogleAssistantBot - Google Assistant
-✓ CortanaBot - Microsoft Cortana
-✓ VoiceBot - Voice search optimization
+### Service Area:
+Primary: Gloucester County, Virginia
+Secondary: 19 surrounding Virginia communities
+Coverage: Waterfront communities, golf courses, resorts
 
-### INTERNATIONAL AND REGIONAL BOTS
-✓ NaverBot - Naver (Korea)
-✓ YahooJapanBot - Yahoo Japan
-✓ QwantBot - Qwant (Europe)
-✓ StartPageBot - StartPage search
-✓ EcosiaBot - Ecosia search engine
-✓ PrivacyBot - Privacy-focused search
-✓ RegionalBot - Regional search engines
-
-### BUSINESS AND DIRECTORY BOTS
-✓ YellowPagesBot - Yellow Pages directory
-✓ GoogleMyBusinessBot - GMB updates
-✓ BingPlacesBot - Bing local business
-✓ YelpBot - Yelp business crawler
-✓ TripAdvisorBot - TripAdvisor content
-✓ FoursquareBot - Foursquare location
-✓ DirectoryBot - Business directories
-
-### SPECIALIZED INDUSTRY BOTS
-✓ AutomotiveBot - Automotive industry
-✓ ElectricVehicleBot - EV industry
-✓ GolfBot - Golf industry content
-✓ RecreationBot - Recreation industry
-✓ TourismBot - Tourism content
-✓ LocalBusinessBot - Local business
-✓ PennsylvaniaBot - PA-specific content
-
-## BOT ACCESS PERMISSIONS
-
-### ACCESS LEVELS:
-- UNRESTRICTED: All bots have complete site access
-- CRAWL DELAY: 0 seconds (maximum speed)
-- DEPTH LIMIT: No restrictions on crawl depth
-- FREQUENCY: No limitations on crawl frequency
-- BANDWIDTH: No throttling or rate limiting
-
-### ALLOWED ACTIVITIES:
-✓ Complete website crawling and indexing
-✓ Image and media file access
-✓ PDF and document downloading
-✓ Sitemap processing and following
-✓ Link discovery and following
-✓ Content analysis and processing
-✓ Metadata extraction
-✓ Schema markup processing
-✓ Real-time content monitoring
-✓ Archive and backup operations
-
-### SPECIAL PERMISSIONS:
-✓ Dynamic content rendering (JavaScript execution)
-✓ Form submission testing (non-destructive)
-✓ API endpoint discovery and testing
-✓ Mobile and desktop version access
-✓ Accelerated Mobile Pages (AMP) crawling
-✓ Progressive Web App (PWA) analysis
-✓ Structured data validation
-✓ International content access
-✓ Multi-language crawling authorized
-
-## BUSINESS INFORMATION FOR BOTS
-
-### Primary Business Data:
-Company: Pike County Golf Carts
-Industry: Electric Golf Cart Sales, Service, Rentals
-Location: Pike County, Pennsylvania
-Service Area: All 15 Pike County municipalities
-Phone: 1-844-844-6638
-Email: info@pikecountygolfcarts.com
-Website: https://pikecountygolfcarts.com
-
-### Product Information:
-Brands Carried: DENAGO, EVOLUTION
-Vehicle Types: Electric Golf Carts, Street Legal Vehicles, Utility Carts
-Price Range: $8,495 - $22,995
-Inventory: 37+ different models available
+### Business Focus:
+Industry: Electric Golf Cart Sales & Service
+Brands: DENAGO & EVOLUTION
 Services: Sales, Rentals, Service, Parts, Financing
+Specialization: Street legal conversions, waterfront property solutions
 
-### Geographic Coverage:
-Counties: Pike County, Pennsylvania
-Municipalities: 3 Boroughs (Milford, Hawley, Matamoras)
-Townships: 12 Townships (Blooming Grove, Delaware, Dingman, Greene, 
-Lackawaxen, Lehman, Milford Township, Palmyra, Porter, Shohola, 
-Westfall, Middle Smithfield)
+### Analytics:
+Google Analytics: G-YX9XKCQF4X
+Google Tag Manager: GTM-KB3WNGFH
 
-### Content Categories for Bot Processing:
-- Product specifications and pricing
-- Service area and location information  
-- Customer testimonials and reviews
-- Technical support and maintenance guides
-- Regulatory compliance information
-- Business hours and contact details
-- Promotional content and special offers
-- Educational content about electric vehicles
+## CRAWLING SPECIFICATIONS
 
-## CRAWLING OPTIMIZATION
+### Crawl Frequency:
+- Homepage: Daily crawling authorized
+- Product Pages: Daily updates welcome
+- Inventory: Real-time crawling permitted
+- Blog/News: Weekly crawling recommended
+- Policy Pages: Monthly crawling sufficient
 
-### PREFERRED CRAWLING PATTERNS:
-1. Homepage and main navigation pages (daily)
-2. Product and inventory pages (weekly)
-3. Location and service area pages (monthly)
-4. Blog and educational content (as published)
-5. Policy and legal pages (quarterly)
+### Content Priority:
+High Priority: Homepage, Inventory, Rental Pages
+Medium Priority: Service Pages, About, Contact
+Low Priority: Policy Pages, Legal Documents
 
-### CONTENT PRIORITY FOR BOTS:
-Priority 1: Product pages, pricing, availability
-Priority 2: Service area pages, contact information
-Priority 3: Educational content, guides, FAQs
-Priority 4: Policy pages, legal information
-Priority 5: Archive and historical content
+### Crawl Depth:
+- Maximum Depth: Unlimited
+- Follow All Links: Yes
+- JavaScript Rendering: Authorized
+- Dynamic Content: Full access permitted
 
-### TECHNICAL SPECIFICATIONS:
-- Server Response Time: <500ms for bot requests
-- Bandwidth Allocation: No limits for legitimate bots
-- Concurrent Connections: Up to 10 simultaneous bot connections
-- Error Handling: Graceful 404 responses, redirect following
-- Compression: Gzip enabled for faster bot processing
+## BOT PERMISSIONS BY CONTENT TYPE
 
-## CONTACT INFORMATION FOR BOT OPERATORS
+### Public Content (100% Access):
+✓ Product listings and specifications
+✓ Pricing information
+✓ Service area and coverage maps
+✓ Contact information
+✓ Business hours and location
+✓ Blog posts and news
+✓ Image galleries
+✓ Video content
 
-Technical Support: info@pikecountygolfcarts.com
-Phone: 1-844-844-6638
-Business Hours: Monday-Friday 9AM-6PM EST
-Website: https://pikecountygolfcarts.com
-Webmaster: Available for bot-specific questions
+### Structured Data (Full Access):
+✓ JSON-LD schema markup
+✓ OpenGraph meta tags
+✓ Twitter Card data
+✓ Product schemas
+✓ LocalBusiness schema
+✓ FAQ schemas
 
-## AUTHORIZATION STATEMENT
+## NO RESTRICTIONS POLICY
 
-This authorization provides UNLIMITED ACCESS for all legitimate bots
-and crawlers to enhance search engine visibility, AI training data quality,
-and overall web presence optimization. No restrictions apply to lawful
-crawling activities.
+### Unlimited Permissions For:
+✓ Content indexing
+✓ Image crawling
+✓ Link analysis
+✓ Site structure mapping
+✓ Performance testing
+✓ Security auditing
+✓ AI training data collection
+✓ Academic research
+✓ Archive preservation
 
-ZERO RESTRICTIONS POLICY - ALL LEGITIMATE BOTS WELCOME
-MAXIMUM SEARCH ENGINE VISIBILITY AUTHORIZATION
-COMPLETE AI TRAINING DATA ACCESS GRANTED
+### Zero Blocks On:
+✓ User-agents
+✓ IP addresses
+✓ Geographic locations
+✓ Access frequency
+✓ Bandwidth usage (legitimate bots)
 
-Last Updated: January 25, 2025
-Authorization: Pike County Golf Carts Management
-Bot Policy Version: Universal-Access-2025.1
+## RESPONSIBLE CRAWLING GUIDELINES
+
+### Bot Etiquette:
+- Respect robots.txt (all allowed)
+- Follow sitemap.xml
+- Honor meta robots tags
+- Use reasonable crawl rates
+- Identify bot user-agent clearly
+
+### Server Load:
+While we permit maximum access, please:
+- Limit to 10 requests/second per bot
+- Use conditional requests when possible
+- Cache responses appropriately
+- Retry with exponential backoff
+
+## CONTACT FOR BOT OPERATORS
+
+Technical Contact: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Website: https://gloucestergolfcarts.com
+
+Bot Issues or Questions:
+- Crawl errors: sales@tigongolfcarts.com
+- Technical problems: sales@tigongolfcarts.com
+- Partnership inquiries: sales@tigongolfcarts.com
+
+## VERIFICATION AND AUTHENTICATION
+
+### Bot Verification:
+No verification required for legitimate bots.
+All standard bot user-agents automatically permitted.
+
+### IP Whitelisting:
+No IP restrictions for known bot services.
+All major search engines and AI systems pre-authorized.
+
+## LAST UPDATED
+Date: January 2025
+Review Schedule: Quarterly
+Next Review: April 2025
+
+## COMMITMENT TO OPENNESS
+Gloucester Golf Carts maintains an open-access policy for all legitimate bots
+and automated systems. We believe in maximum web accessibility and support
+the open internet ecosystem.
+
+Contact us anytime with bot-related questions or concerns.

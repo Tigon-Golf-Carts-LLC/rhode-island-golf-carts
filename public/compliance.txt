@@ -1,0 +1,430 @@
+# compliance.txt - Regulatory Compliance and Legal Information
+# Gloucester Golf Carts - Complete Compliance Documentation
+
+## COMPREHENSIVE COMPLIANCE DECLARATION
+This file documents all regulatory compliance, legal requirements, and industry standards
+for Gloucester Golf Carts (gloucestergolfcarts.com) to ensure transparency and legal operation.
+
+## BUSINESS COMPLIANCE
+
+### Business Registration:
+Business Name: Gloucester Golf Carts
+Legal Entity: Gloucester Golf Carts LLC
+Operating Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+State: Virginia
+Business Type: Electric Golf Cart Dealership
+Industry: Automotive - Electric Vehicles
+NAICS Code: 441229 (All Other Motor Vehicle Dealers)
+
+### Virginia Business Compliance:
+✓ Virginia State Corporation Commission registration
+✓ Virginia business license
+✓ Gloucester County business permits
+✓ Virginia sales tax registration
+✓ Virginia tax compliance
+✓ Local zoning compliance
+✓ Occupational licensing (where required)
+
+### Automotive Dealer Requirements:
+✓ Virginia Motor Vehicle Dealer License (if applicable)
+✓ Dealer bond compliance (if required)
+✓ Manufacturer authorization (DENAGO, EVOLUTION)
+✓ Vehicle sales documentation
+✓ Title transfer compliance
+✓ DMV reporting requirements
+✓ Vehicle inventory management
+
+## CONSUMER PROTECTION COMPLIANCE
+
+### Virginia Consumer Protection:
+✓ Truth in advertising
+✓ Fair pricing practices
+✓ Clear return/refund policies
+✓ Written sales agreements
+✓ Consumer rights disclosure
+✓ Warranty compliance
+✓ Lemon law awareness (if applicable)
+
+### Federal Trade Commission (FTC):
+✓ FTC Act compliance
+✓ Truthful advertising
+✓ No deceptive practices
+✓ Clear pricing disclosure
+✓ Warranty disclosure
+✓ Consumer privacy protection
+✓ Do Not Call Registry compliance
+
+## PRODUCT SAFETY COMPLIANCE
+
+### Vehicle Safety Standards:
+✓ DENAGO manufacturer safety certifications
+✓ EVOLUTION manufacturer safety certifications
+✓ Electric vehicle safety standards
+✓ Battery safety compliance
+✓ Electrical system safety
+✓ Product liability insurance
+✓ Safety recalls monitoring
+
+### Street Legal Requirements (Virginia):
+✓ DMV registration compliance
+✓ Required safety equipment (lights, mirrors, seat belts, horn)
+✓ Speed limitation compliance (25 mph)
+✓ Turn signal requirements
+✓ Inspection requirements
+✓ Insurance requirements
+✓ Operator licensing (driver's license required)
+
+## ENVIRONMENTAL COMPLIANCE
+
+### Environmental Responsibility:
+✓ Zero emissions electric vehicles
+✓ Battery recycling program
+✓ Hazardous waste disposal (batteries)
+✓ Environmental protection compliance
+✓ Virginia DEQ awareness
+✓ Clean air initiatives
+✓ Sustainable business practices
+
+### Battery Compliance:
+✓ Lithium battery safety regulations
+✓ Battery disposal regulations
+✓ Hazardous materials handling
+✓ Battery recycling partnerships
+✓ EPA compliance
+✓ Virginia environmental regulations
+
+## DATA PROTECTION AND PRIVACY
+
+### Customer Data Protection:
+✓ Customer information security
+✓ Payment data protection (PCI DSS)
+✓ Email privacy compliance
+✓ Marketing consent
+✓ Data retention policies
+✓ Secure data disposal
+✓ Privacy policy disclosure
+
+### Website Privacy:
+✓ Privacy policy published
+✓ Cookie consent (where applicable)
+✓ Google Analytics privacy settings (G-YX9XKCQF4X)
+✓ Third-party data sharing disclosure
+✓ User data rights
+✓ Opt-out mechanisms
+✓ CCPA consideration (California residents)
+
+### Analytics Compliance:
+Google Analytics: G-YX9XKCQF4X
+- IP anonymization enabled
+- Data retention policies set
+- User consent management
+- Privacy-compliant configuration
+- Third-party data sharing limited
+
+Google Tag Manager: GTM-KB3WNGFH
+- Privacy-compliant tracking
+- Consent management
+- Secure implementation
+- Limited data collection
+
+## FINANCIAL COMPLIANCE
+
+### Payment Processing:
+✓ PCI DSS compliance
+✓ Secure payment processing
+✓ Financial data protection
+✓ Fraud prevention measures
+✓ Secure transaction handling
+✓ No credit card data storage
+✓ Third-party processor compliance
+
+### Financing Compliance:
+✓ Truth in Lending Act (TILA) compliance
+✓ Equal Credit Opportunity Act compliance
+✓ Fair Credit Reporting Act compliance
+✓ Transparent financing terms
+✓ APR disclosure
+✓ Loan documentation
+✓ Financial partnership compliance
+
+### Tax Compliance:
+✓ Virginia sales tax collection
+✓ Tax reporting requirements
+✓ Federal tax compliance
+✓ Business tax filings
+✓ Property tax compliance
+✓ Employment tax (if applicable)
+
+## EMPLOYMENT COMPLIANCE (If Applicable)
+
+### Labor Law Compliance:
+✓ Fair Labor Standards Act
+✓ Virginia employment laws
+✓ Equal employment opportunity
+✓ Workplace safety (OSHA)
+✓ Workers' compensation
+✓ Employee rights
+✓ Wage and hour compliance
+
+## ADVERTISING AND MARKETING COMPLIANCE
+
+### Advertising Standards:
+✓ Truthful advertising (FTC)
+✓ Clear pricing disclosure
+✓ Accurate product descriptions
+✓ No misleading claims
+✓ Testimonial authenticity
+✓ Comparative advertising rules
+✓ Virginia advertising regulations
+
+### Digital Marketing:
+✓ CAN-SPAM Act compliance (email marketing)
+✓ TCPA compliance (telephone marketing)
+✓ Do Not Call Registry compliance
+✓ Opt-out mechanisms
+✓ Unsubscribe options
+✓ Marketing consent
+✓ Social media advertising rules
+
+### ads.txt Compliance:
+✓ IAB ads.txt standard 1.0.1
+✓ Authorized seller declaration
+✓ Fraud prevention
+✓ Transparent advertising inventory
+
+## ACCESSIBILITY COMPLIANCE
+
+### Web Accessibility:
+✓ WCAG 2.1 Level AA target
+✓ ADA compliance awareness
+✓ Screen reader compatibility
+✓ Keyboard navigation
+✓ Color contrast standards
+✓ Alt text for images
+✓ Accessible forms
+
+### Physical Accessibility:
+✓ Showroom accessibility (ADA)
+✓ Parking accessibility
+✓ Entrance accessibility
+✓ Customer service accessibility
+✓ Equal access commitment
+
+## INSURANCE COMPLIANCE
+
+### Business Insurance:
+✓ General liability insurance
+✓ Product liability insurance
+✓ Professional liability insurance
+✓ Property insurance
+✓ Business interruption insurance
+✓ Commercial auto insurance (fleet)
+✓ Umbrella policy
+
+### Customer Insurance:
+✓ Rental insurance provided
+✓ Insurance requirements disclosed
+✓ Virginia insurance regulations
+✓ Liability coverage options
+
+## INTELLECTUAL PROPERTY COMPLIANCE
+
+### Trademark Protection:
+✓ DENAGO trademark respect
+✓ EVOLUTION trademark respect
+✓ Authorized dealer status
+✓ Brand usage guidelines
+✓ No trademark infringement
+✓ Proper attribution
+✓ Logo usage compliance
+
+### Copyright Compliance:
+✓ Original content creation
+✓ Licensed content usage
+✓ Copyright notices
+✓ Fair use compliance
+✓ Image licensing
+✓ Content attribution
+✓ DMCA compliance
+
+## INDUSTRY STANDARDS
+
+### Automotive Industry:
+✓ Better Business Bureau standards
+✓ Industry best practices
+✓ Professional conduct
+✓ Ethical business practices
+✓ Customer service excellence
+✓ Quality standards
+
+### Electric Vehicle Standards:
+✓ EV safety standards
+✓ Charging infrastructure compliance
+✓ Battery technology regulations
+✓ Environmental standards
+✓ Manufacturer specifications
+
+## RENTAL OPERATIONS COMPLIANCE
+
+### Rental Business Regulations:
+✓ Rental agreement compliance
+✓ Age requirements (18+ with valid license)
+✓ Driver's license verification
+✓ Insurance coverage
+✓ Safety briefings
+✓ Equipment inspection
+✓ Return condition standards
+
+### Rental Terms:
+✓ Clear pricing disclosure
+✓ Damage policy transparency
+✓ Cancellation policy disclosure
+✓ Liability waivers
+✓ User responsibilities
+✓ Equipment condition documentation
+
+## SERVICE OPERATIONS COMPLIANCE
+
+### Service Standards:
+✓ Certified technician training
+✓ Manufacturer service guidelines
+✓ Parts authenticity
+✓ Warranty compliance
+✓ Service documentation
+✓ Customer authorization
+✓ Quality assurance
+
+### Parts Compliance:
+✓ OEM parts availability
+✓ Aftermarket parts disclosure
+✓ Parts warranty
+✓ Proper installation
+✓ Safety compliance
+✓ Manufacturer specifications
+
+## LOCAL ORDINANCES COMPLIANCE
+
+### Gloucester County Regulations:
+✓ Local business ordinances
+✓ Zoning compliance
+✓ Signage regulations
+✓ Operating hours compliance
+✓ Noise regulations
+✓ Traffic regulations
+✓ Environmental regulations
+
+### Golf Cart Usage Regulations:
+✓ Virginia golf cart laws
+✓ Street legal requirements
+✓ Local municipality rules
+✓ Golf course regulations
+✓ Private property compliance
+✓ Community association rules
+
+## GEOGRAPHIC SERVICE AREA COMPLIANCE
+
+### Primary Service Area (Gloucester County):
+Gloucester, Gloucester Point, Gloucester Courthouse, Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
+
+### Secondary Service Area (Surrounding Virginia):
+Mathews, Williamsburg, Yorktown, Poquoson, Hampton, Newport News, York County, James City County, Toano, Norge
+
+All operations comply with regulations in all service areas.
+
+## DOCUMENTATION AND RECORD KEEPING
+
+### Required Documentation:
+✓ Sales contracts
+✓ Vehicle titles and registration
+✓ Service records
+✓ Rental agreements
+✓ Financial records
+✓ Tax records
+✓ Insurance certificates
+✓ Manufacturer certifications
+
+### Retention Periods:
+- Sales documents: 7 years
+- Tax records: 7 years
+- Service records: 5 years
+- Rental agreements: 3 years
+- Customer communications: 2 years
+- Marketing materials: 2 years
+
+## DISPUTE RESOLUTION
+
+### Customer Complaints:
+✓ Internal complaint process
+✓ Fair resolution procedures
+✓ BBB mediation available
+✓ Virginia consumer protection resources
+✓ Legal remedies disclosure
+✓ Transparent communication
+
+### Legal Compliance:
+✓ Jurisdiction: Virginia
+✓ Governing law: Virginia state law
+✓ Venue: Gloucester County
+✓ Alternative dispute resolution
+✓ Legal representation rights
+
+## ONGOING COMPLIANCE MONITORING
+
+### Regular Reviews:
+- Quarterly compliance audits
+- Annual legal review
+- Regulatory updates monitoring
+- Industry standards updates
+- Training and education
+- Policy updates
+- Procedure refinement
+
+### Compliance Contacts:
+Primary: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Website: https://gloucestergolfcarts.com
+
+## COMMITMENT TO COMPLIANCE
+
+Gloucester Golf Carts is committed to:
+- Full legal compliance
+- Ethical business practices
+- Consumer protection
+- Environmental responsibility
+- Data privacy
+- Industry standards
+- Continuous improvement
+- Transparent operations
+
+## CONTACT INFORMATION
+
+For compliance questions or concerns:
+Email: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+
+## ADDITIONAL RESOURCES
+
+Policies Available Online:
+- Privacy Policy: https://gloucestergolfcarts.com/privacy-policy
+- Terms of Service: https://gloucestergolfcarts.com/terms-of-service
+- Refund Policy: https://gloucestergolfcarts.com/refund-policy
+- Cookie Policy: https://gloucestergolfcarts.com/cookie-policy
+- Security Policy: https://gloucestergolfcarts.com/security-policy
+
+## COMPLIANCE CERTIFICATION
+
+This compliance documentation is accurate to the best of our knowledge and represents our commitment to legal and ethical business operations.
+
+Last Updated: January 2025
+Review Schedule: Quarterly
+Next Review: April 2025
+Version: 1.0
+
+Contact us with any compliance questions or concerns.
+We maintain an open-door policy for regulatory inquiries.
+
+Gloucester Golf Carts
+Serving Gloucester County and Surrounding Virginia Communities Since 2024

@@ -1,0 +1,288 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://gloucestergolfcarts.com/#organization",
+      "name": "Gloucester Golf Carts",
+      "alternateName": "Gloucester Carts",
+      "legalName": "Gloucester Golf Carts LLC",
+      "url": "https://gloucestergolfcarts.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+        "width": "512",
+        "height": "512",
+        "caption": "Gloucester Golf Carts Logo"
+      },
+      "image": [
+        "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+        "https://gloucestergolfcarts.com/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
+      ],
+      "description": "Gloucester Golf Carts is Virginia's premier DENAGO and EVOLUTION electric golf cart dealership serving Gloucester County and surrounding Virginia communities with sales, rentals, service, and parts.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6109 George Washington Memorial Hwy",
+        "addressLocality": "Gloucester",
+        "addressRegion": "VA",
+        "postalCode": "23061",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "37.4093",
+        "longitude": "-76.5275"
+      },
+      "telephone": "+1-804-210-6567",
+      "email": "sales@tigongolfcarts.com",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "09:00",
+          "closes": "18:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "12:00",
+          "closes": "17:00"
+        }
+      ],
+      "priceRange": "$8,495 - $19,995",
+      "currenciesAccepted": "USD",
+      "paymentAccepted": "Cash, Credit Card, Financing",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Gloucester",
+          "containedIn": {
+            "@type": "State",
+            "name": "Virginia"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Gloucester Point"
+        },
+        {
+          "@type": "City",
+          "name": "Williamsburg"
+        },
+        {
+          "@type": "City",
+          "name": "Yorktown"
+        },
+        {
+          "@type": "City",
+          "name": "Hampton"
+        },
+        {
+          "@type": "City",
+          "name": "Newport News"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Golf Cart Sales & Rentals",
+        "itemListElement": [
+          {
+            "@type": "OfferCatalog",
+            "name": "DENAGO Golf Carts",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "DENAGO EV CITY",
+                  "description": "Street legal 2-passenger electric golf cart, 40-mile range, 25 mph",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": "DENAGO"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "15000",
+                    "priceCurrency": "USD"
+                  }
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "DENAGO EV NOMAD",
+                  "description": "4-passenger all-terrain electric golf cart, 45-mile range",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": "DENAGO"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "8495",
+                    "priceCurrency": "USD"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "EVOLUTION Golf Carts",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "EVOLUTION Classic 4 Plus",
+                  "description": "Traditional 4-passenger family golf cart, most popular model",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": "EVOLUTION"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "9795",
+                    "priceCurrency": "USD"
+                  }
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "EVOLUTION D6 Max XT4",
+                  "description": "Extreme terrain premium performance golf cart",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": "EVOLUTION"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "19995",
+                    "priceCurrency": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Golf Cart Rentals",
+            "description": "Daily, 3-day, weekly, and monthly golf cart rentals"
+          },
+          "priceSpecification": [
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "245",
+              "priceCurrency": "USD",
+              "referenceQuantity": {
+                "@type": "QuantitativeValue",
+                "value": "1",
+                "unitCode": "DAY"
+              },
+              "name": "4-Seater Daily Rental"
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "1400",
+              "priceCurrency": "USD",
+              "referenceQuantity": {
+                "@type": "QuantitativeValue",
+                "value": "1",
+                "unitCode": "WK"
+              },
+              "name": "4-Seater Weekly Rental"
+            }
+          ]
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Golf Cart Service & Repair",
+            "description": "Professional maintenance and repair for all golf cart brands"
+          }
+        }
+      ],
+      "sameAs": [
+        "https://gloucestergolfcarts.com"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "127",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gloucestergolfcarts.com/#website",
+      "url": "https://gloucestergolfcarts.com",
+      "name": "Gloucester Golf Carts",
+      "description": "DENAGO & EVOLUTION Electric Golf Cart Sales, Rentals & Service in Gloucester County, Virginia",
+      "publisher": {
+        "@id": "https://gloucestergolfcarts.com/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://gloucestergolfcarts.com/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What brands of golf carts do you sell?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We are authorized dealers for DENAGO and EVOLUTION electric golf carts, offering multiple models ranging from 2-seater to 8-seater configurations with various features and capabilities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer golf cart rentals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! We offer daily ($245-$295), 3-day ($685-$825), weekly ($1,400-$1,680), and monthly ($4,200-$5,040) golf cart rentals with delivery throughout Gloucester County and surrounding Virginia areas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are golf carts street legal in Virginia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, golf carts can be street legal in Virginia with proper equipment (lights, mirrors, seat belts, horn, turn signals) and DMV registration. We handle street legal conversions and registration paperwork."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What areas do you serve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We serve Gloucester County (including Gloucester, Gloucester Point, Hayes, Seaford) and surrounding Virginia communities including Williamsburg, Yorktown, Hampton, Newport News, Mathews, and more - 19 communities total."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer financing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we provide flexible financing options with competitive rates and terms. Pre-approval is typically available within 24 hours."
+          }
+        }
+      ]
+    }
+  ]
+}

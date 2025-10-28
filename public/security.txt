@@ -1,48 +1,51 @@
 # security.txt
-# Pike County Golf Carts - Security Information and Disclosure Policy
+# Gloucester Golf Carts - Security Information and Disclosure Policy
 
 # Contact Information for Security Issues
-Contact: info@pikecountygolfcarts.com
-Phone: +1-844-844-6638
+Contact: sales@tigongolfcarts.com
+Phone: +1-804-210-6567
 
 # Preferred Languages
 Preferred-Languages: en
 
 # Canonical URL
-Canonical: https://pikecountygolfcarts.com/.well-known/security.txt
+Canonical: https://gloucestergolfcarts.com/.well-known/security.txt
 
 # Policy URL
-Policy: https://pikecountygolfcarts.com/policies/security-policy
+Policy: https://gloucestergolfcarts.com/policies/security-policy
 
 # Acknowledgments
-Acknowledgments: https://pikecountygolfcarts.com/security-acknowledgments
+Acknowledgments: https://gloucestergolfcarts.com/security-acknowledgments
 
 # Security Response Information
-# Pike County Golf Carts takes security seriously and appreciates
+# Gloucester Golf Carts takes security seriously and appreciates
 # responsible disclosure of any security vulnerabilities.
 
 # Scope of Coverage
 # This security policy covers:
-# - Main website: https://pikecountygolfcarts.com
+# - Main website: https://gloucestergolfcarts.com
 # - All subdomains and related digital properties
 # - Customer data protection and privacy
 # - Payment processing security
 # - Business communication systems
+# - Analytics and tracking systems (G-YX9XKCQF4X, GTM-KB3WNGFH)
 
 # Reporting Guidelines
 # Please report security vulnerabilities responsibly:
-# 1. Email detailed information to info@pikecountygolfcarts.com
+# 1. Email detailed information to sales@tigongolfcarts.com
 # 2. Include steps to reproduce the issue if applicable
 # 3. Allow reasonable time for investigation and resolution
 # 4. Do not publicly disclose until resolution is confirmed
+# 5. Use subject line: "Security Issue - Gloucester Golf Carts"
 
 # Business Security Measures
-# Pike County Golf Carts implements comprehensive security measures:
+# Gloucester Golf Carts implements comprehensive security measures:
 # - SSL/TLS encryption for all website communications
 # - Secure payment processing through certified providers
 # - Regular security monitoring and updates
 # - Customer data protection and privacy safeguards
 # - Professional cybersecurity best practices
+# - Virginia state compliance regulations
 
 # Customer Data Protection
 # We protect customer information through:
@@ -51,6 +54,8 @@ Acknowledgments: https://pikecountygolfcarts.com/security-acknowledgments
 # - Regular security assessments and updates
 # - Compliance with applicable privacy regulations
 # - Secure disposal of sensitive information
+# - Limited data collection practices
+# - Privacy-by-design principles
 
 # Payment Security
 # All payment processing uses:
@@ -59,6 +64,8 @@ Acknowledgments: https://pikecountygolfcarts.com/security-acknowledgments
 # - Secure customer payment data handling
 # - Industry-standard security protocols
 # - No storage of sensitive payment information
+# - Tokenization for recurring payments
+# - Fraud detection systems
 
 # Website Security
 # Our website security includes:
@@ -67,97 +74,140 @@ Acknowledgments: https://pikecountygolfcarts.com/security-acknowledgments
 # - Protection against common web vulnerabilities
 # - Secure hosting environment
 # - Regular software updates and patches
+# - Content Security Policy (CSP) headers
+# - Cross-Site Scripting (XSS) protection
+# - SQL injection prevention
+# - CSRF token protection
 
 # Business System Security
 # Internal security measures include:
 # - Employee security training and awareness
 # - Access controls and user authentication
 # - Regular system monitoring and logging
+# - Backup and disaster recovery procedures
+# - Secure internal communication channels
+# - Regular security audits
 # - Incident response procedures
-# - Data backup and recovery systems
+
+# Analytics Security
+# Google Analytics: G-YX9XKCQF4X
+# Google Tag Manager: GTM-KB3WNGFH
+# - Privacy-compliant analytics configuration
+# - IP anonymization enabled
+# - Data retention policies enforced
+# - Cookie consent management
+# - GDPR/CCPA compliance measures
+
+# Physical Security
+# Business location security:
+# - Secure showroom at 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# - Controlled access to business systems
+# - Secure document storage
+# - Employee background checks
+# - Visitor log maintenance
 
 # Third-Party Security
-# We work with security-conscious partners:
-# - Hosting providers with security certifications
-# - Payment processors with PCI compliance
-# - Software vendors with security practices
-# - Regular vendor security assessments
-# - Contractual security requirements
+# Our vendors and partners must meet:
+# - Industry security standards
+# - Regular security assessments
+# - Data protection agreements
+# - Compliance certifications
+# - Incident notification requirements
 
-# Response Timeline
-# Our security response process:
-# - Initial response within 24 hours of report
-# - Investigation completion within 5 business days
-# - Resolution implementation within 10 business days
-# - Status updates provided throughout process
-# - Final resolution confirmation and documentation
+# Security Best Practices
+# We recommend customers:
+# - Use strong, unique passwords
+# - Enable two-factor authentication where available
+# - Keep contact information updated
+# - Report suspicious activity immediately
+# - Verify communication authenticity
+# - Be cautious of phishing attempts
 
-# Security Contact Details
-# Primary Contact: info@pikecountygolfcarts.com
-# Phone: 1-844-844-6638
-# Business Hours: Monday-Friday 9AM-6PM EST
-# Emergency Contact: Available through primary contact
-# Response Time: Within 24 hours for security issues
-
-# Legal and Compliance Information
-# Our security practices comply with:
-# - Applicable federal and state privacy laws
-# - Pennsylvania state business regulations
-# - Industry security standards and best practices
-# - Customer privacy and data protection requirements
-# - Professional automotive industry standards
-
-# Security Acknowledgment Process
-# We appreciate security researchers and will:
-# - Acknowledge receipt of security reports promptly
-# - Provide status updates during investigation
-# - Credit researchers for responsible disclosure (if desired)
-# - Maintain confidentiality during resolution process
-# - Document resolved issues for continuous improvement
-
-# Bug Bounty Information
-# While we don't currently offer a formal bug bounty program,
-# we appreciate and acknowledge responsible security research.
-# Researchers who identify legitimate security issues will be
-# credited for their contribution to our security posture.
+# Vulnerability Disclosure Program
+# We welcome security research:
+# - Responsible disclosure appreciated
+# - Recognition for verified reports
+# - Reasonable time for fixes
+# - No legal action for good-faith research
+# - Acknowledgment on security page (with permission)
 
 # Out of Scope
-# The following are typically not considered security issues:
-# - Social engineering attempts
-# - Physical security at business locations
-# - Issues requiring physical access to systems
-# - Spam or phishing not targeting our systems
-# - Issues in third-party websites or applications
+# The following are explicitly out of scope:
+# - Social engineering attacks on staff
+# - Physical security testing without permission
+# - Denial of service attacks
+# - Spam or content injection without security impact
+# - Vulnerabilities in third-party services we don't control
 
-# Additional Security Resources
-# For more information about our security practices:
-# - Privacy Policy: https://pikecountygolfcarts.com/policies/privacy-policy
-# - Terms of Service: https://pikecountygolfcarts.com/policies/terms-conditions
-# - Data Protection: https://pikecountygolfcarts.com/policies/data-protection
-# - Business Practices: https://pikecountygolfcarts.com/about
+# Response Timeline
+# Our security response commitment:
+# - Initial response: Within 48 hours
+# - Issue assessment: Within 7 days
+# - Fix implementation: Based on severity
+#   - Critical: 24-48 hours
+#   - High: 7 days
+#   - Medium: 30 days
+#   - Low: 90 days
+# - Public disclosure: After fix deployment
 
-# Business Information
-# Company: Pike County Golf Carts
-# Industry: Electric Golf Cart Sales, Service, and Rentals
-# Location: Pike County, Pennsylvania
-# Website: https://pikecountygolfcarts.com
-# Phone: 1-844-844-6638
-# Email: info@pikecountygolfcarts.com
+# Security Contact Hours
+# Security team availability:
+# - Email monitoring: 24/7
+# - Phone support: Monday-Saturday 9AM-6PM ET
+# - Emergency contact: 804-210-6567
+# - After-hours: Leave voicemail for urgent issues
 
-# Security Policy Version
+# Compliance and Standards
+# We maintain compliance with:
+# - Virginia state business regulations
+# - Federal trade commission guidelines
+# - Payment card industry standards (PCI DSS)
+# - General data protection considerations
+# - Industry best practices
+# - Automotive dealer regulations
+
+# Incident Response
+# In case of security incident:
+# 1. Immediate containment measures
+# 2. Forensic investigation
+# 3. Customer notification if data affected
+# 4. Regulatory reporting if required
+# 5. Remediation implementation
+# 6. Post-incident review and improvements
+
+# Security Updates
+# This security policy is reviewed:
+# - Quarterly for accuracy
+# - After significant incidents
+# - When regulations change
+# - With technology updates
+
+# Contact Information Summary
+# Primary: sales@tigongolfcarts.com
+# Phone: 804-210-6567
+# Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# Website: https://gloucestergolfcarts.com
+# Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
+
+# Additional Resources
+# - Privacy Policy: https://gloucestergolfcarts.com/privacy-policy
+# - Terms of Service: https://gloucestergolfcarts.com/terms-of-service
+# - Cookie Policy: https://gloucestergolfcarts.com/cookie-policy
+# - Security Best Practices: https://gloucestergolfcarts.com/security-guide
+
+# Encryption
+# For sensitive communications:
+# - Use email: sales@tigongolfcarts.com
+# - PGP key available upon request
+# - Encrypted communication supported
+
+# Acknowledgments
+# Thank you to security researchers and the cybersecurity community
+# for helping us maintain a secure environment for our customers.
+
+# Last Updated: January 2025
+# Next Review: April 2025
 # Version: 1.0
-# Last Updated: January 25, 2025
-# Next Review: July 25, 2025
-# Policy Owner: Pike County Golf Carts Management
 
-# Additional Notes
-# This security.txt file follows RFC 9116 standards and provides
-# clear guidelines for security researchers and concerned parties
-# to report potential security issues in a responsible manner.
-
-# We are committed to maintaining the security and privacy of our
-# customers' information and appreciate the security community's
-# efforts to help us maintain a secure online presence.
-
-# Expires
-Expires: 2025-12-31T23:59:59.000Z
+# This security.txt file follows RFC 9116 format
+# More information: https://securitytxt.org/

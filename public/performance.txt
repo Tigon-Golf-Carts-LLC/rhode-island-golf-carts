@@ -1,0 +1,360 @@
+# performance.txt - Website Performance Optimization Data
+# Gloucester Golf Carts - Performance Metrics and Optimization Strategy
+
+## WEBSITE PERFORMANCE DECLARATION
+This file documents performance optimization strategies and metrics for gloucestergolfcarts.com
+to ensure maximum speed, efficiency, and user experience across all devices and platforms.
+
+## PERFORMANCE GOALS
+
+### Core Web Vitals Targets:
+- Largest Contentful Paint (LCP): < 2.5 seconds
+- First Input Delay (FID): < 100 milliseconds
+- Cumulative Layout Shift (CLS): < 0.1
+- First Contentful Paint (FCP): < 1.8 seconds
+- Time to Interactive (TTI): < 3.8 seconds
+- Total Blocking Time (TBT): < 300 milliseconds
+
+### Page Speed Targets:
+- Desktop PageSpeed Score: > 90
+- Mobile PageSpeed Score: > 85
+- Lighthouse Performance Score: > 90
+- Time to First Byte (TTFB): < 600ms
+- Full Page Load: < 3 seconds
+
+## OPTIMIZATION STRATEGIES
+
+### Frontend Optimization:
+
+#### JavaScript Optimization:
+- Code splitting and lazy loading
+- Minification and compression
+- Tree shaking to remove unused code
+- Deferred loading for non-critical scripts
+- Async loading for third-party scripts
+- Reduced bundle size through optimization
+- Modern ES6+ with fallbacks
+- Service worker for offline capability
+
+#### CSS Optimization:
+- Critical CSS inlining
+- Unused CSS removal
+- Minification and compression
+- Tailwind CSS purging
+- CSS-in-JS optimization
+- Media query optimization
+- Font loading optimization
+
+#### Image Optimization:
+- WebP format with JPEG/PNG fallbacks
+- Lazy loading for below-the-fold images
+- Responsive images with srcset
+- Image compression (70-85% quality)
+- Proper sizing and dimensions
+- CDN delivery for static assets
+- Progressive JPEG loading
+- SVG optimization for icons/graphics
+
+#### Resource Loading:
+- Preconnect to external domains
+- DNS prefetch for third-party resources
+- Preload critical resources
+- Resource hints optimization
+- Async/defer for scripts
+- Font preloading
+- Critical path optimization
+
+### Backend Optimization:
+
+#### Server Configuration:
+- Express server optimization
+- Vite build optimization
+- Compression middleware (gzip/brotli)
+- HTTP/2 support
+- Efficient routing
+- Response caching
+- Static asset serving
+- Database query optimization
+
+#### Caching Strategy:
+- Browser caching headers
+- Service worker caching
+- CDN caching (when applicable)
+- API response caching
+- Static asset caching (1 year)
+- HTML caching (short-term)
+- Cache invalidation strategy
+
+#### Database Performance:
+- Connection pooling
+- Query optimization
+- Index optimization
+- Efficient data fetching
+- Minimal database calls
+- In-memory storage for speed
+
+### Network Optimization:
+
+#### HTTP Optimization:
+- HTTP/2 multiplexing
+- Keep-alive connections
+- Compression (gzip, brotli)
+- Reduced request count
+- Cookie optimization
+- Header optimization
+
+#### Asset Delivery:
+- Static asset optimization
+- Image format selection
+- Progressive enhancement
+- Adaptive loading
+- Priority hints
+- Resource prefetching
+
+## PERFORMANCE MONITORING
+
+### Analytics Integration:
+Google Analytics: G-YX9XKCQF4X
+Google Tag Manager: GTM-KB3WNGFH
+
+### Monitoring Tools:
+- Google PageSpeed Insights
+- Google Search Console
+- Lighthouse CI
+- WebPageTest
+- GTmetrix
+- Real User Monitoring (RUM)
+- Synthetic monitoring
+
+### Key Metrics Tracked:
+- Page load times
+- Server response times
+- Resource sizes
+- Request counts
+- Error rates
+- Conversion rates
+- User engagement
+- Bounce rates
+- Core Web Vitals
+
+## MOBILE PERFORMANCE
+
+### Mobile-First Approach:
+- Responsive design optimization
+- Touch-friendly interfaces
+- Reduced payload for mobile
+- Adaptive images
+- Mobile-specific optimizations
+- Progressive Web App (PWA) features
+- Offline functionality
+- Fast mobile load times
+
+### Mobile Optimization:
+- Reduced JavaScript for mobile
+- Smaller image sizes
+- Simplified layouts
+- Touch gesture optimization
+- Mobile viewport optimization
+- Accelerated Mobile Pages consideration
+- Service worker for offline access
+
+## THIRD-PARTY OPTIMIZATION
+
+### External Services:
+Analytics: Google Analytics (G-YX9XKCQF4X)
+Tag Management: Google Tag Manager (GTM-KB3WNGFH)
+Fonts: Optimized web font loading
+Payment: Secure payment processor integration
+
+### Third-Party Loading:
+- Async loading for all third-party scripts
+- Conditional loading based on user interaction
+- Minimal third-party dependencies
+- Performance impact monitoring
+- Fallback strategies
+
+## CONTENT DELIVERY
+
+### Asset Organization:
+- Logical file structure
+- Optimized bundle sizes
+- Code splitting by route
+- Dynamic imports
+- Efficient chunking
+- Tree shaking
+
+### Resource Prioritization:
+Critical: Above-the-fold content, navigation, core functionality
+Important: Product images, key features, contact information
+Deferred: Below-the-fold content, analytics, non-critical scripts
+
+## BROWSER COMPATIBILITY
+
+### Supported Browsers:
+- Chrome (latest 2 versions)
+- Firefox (latest 2 versions)
+- Safari (latest 2 versions)
+- Edge (latest 2 versions)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+### Progressive Enhancement:
+- Core functionality works everywhere
+- Enhanced features for modern browsers
+- Graceful degradation
+- Polyfills for older browsers
+- Feature detection
+
+## GEOGRAPHIC PERFORMANCE
+
+### Service Area Coverage:
+Primary: Gloucester County, Virginia
+Secondary: 19 surrounding Virginia communities
+Server Location: Optimized for East Coast US
+CDN: Content delivery optimization
+
+### Regional Optimization:
+- Server proximity to target market
+- CDN edge locations
+- Local DNS resolution
+- Geographic load balancing
+
+## ACCESSIBILITY PERFORMANCE
+
+### Accessibility-Performance Balance:
+- Fast load times for assistive technologies
+- Semantic HTML for screen readers
+- Keyboard navigation optimization
+- Focus management performance
+- ARIA attributes minimal overhead
+- Accessible and performant
+
+## BUSINESS IMPACT
+
+### Performance Metrics:
+- Conversion rate optimization
+- Bounce rate reduction
+- User engagement improvement
+- SEO ranking factors
+- Mobile usability
+- Customer satisfaction
+
+### Business Goals:
+Company: Gloucester Golf Carts
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Phone: 804-210-6567
+Email: sales@tigongolfcarts.com
+Website: https://gloucestergolfcarts.com
+
+### Conversion Optimization:
+- Fast page loads increase sales
+- Reduced bounce rates
+- Better mobile experience
+- Improved user engagement
+- Higher search rankings
+- Better customer experience
+
+## CONTINUOUS IMPROVEMENT
+
+### Performance Budget:
+- Maximum total page size: 2MB
+- Maximum JavaScript: 300KB
+- Maximum CSS: 50KB
+- Maximum images: 1.5MB
+- Maximum fonts: 100KB
+- Maximum requests: 50
+
+### Optimization Cycle:
+1. Measure current performance
+2. Identify bottlenecks
+3. Implement optimizations
+4. Test improvements
+5. Deploy changes
+6. Monitor results
+7. Repeat continuously
+
+### Testing Strategy:
+- Regular performance audits
+- A/B testing for optimizations
+- Real user monitoring
+- Synthetic testing
+- Competitive benchmarking
+- Continuous monitoring
+
+## TECHNICAL STACK PERFORMANCE
+
+### Frontend Technologies:
+- React: Optimized component rendering
+- Vite: Fast build times and HMR
+- Tailwind CSS: Purged and optimized
+- Modern JavaScript: ES6+ features
+- Service Worker: Offline capability
+- PWA: App-like performance
+
+### Backend Technologies:
+- Express: Efficient server
+- Node.js: Fast JavaScript runtime
+- Vite: Optimized development server
+- In-memory storage: Fast data access
+- Minimal middleware: Reduced overhead
+
+## SECURITY AND PERFORMANCE
+
+### Security Without Sacrifice:
+- SSL/TLS encryption (minimal overhead)
+- Secure headers (performance optimized)
+- Input validation (efficient processing)
+- XSS protection (lightweight)
+- CSRF protection (minimal impact)
+
+## FUTURE OPTIMIZATIONS
+
+### Planned Improvements:
+- HTTP/3 implementation
+- Advanced image formats (AVIF)
+- Further code splitting
+- Edge computing
+- Enhanced caching strategies
+- Performance monitoring enhancements
+- AI-powered optimization
+
+## PERFORMANCE COMMITMENT
+
+Gloucester Golf Carts is committed to:
+- Fast, responsive user experience
+- Mobile-first performance
+- Continuous optimization
+- Regular performance monitoring
+- User experience excellence
+- Competitive advantage through speed
+
+## CONTACT FOR PERFORMANCE INQUIRIES
+
+Technical Contact: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
+Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+
+## PERFORMANCE METRICS SUMMARY
+
+Target Audience: Golf cart buyers in Gloucester County and surrounding Virginia
+User Experience: Fast, seamless, professional
+Business Goal: Maximum conversion and engagement
+Technical Excellence: Optimized for speed and efficiency
+Continuous Improvement: Ongoing monitoring and optimization
+
+Last Updated: January 2025
+Review Schedule: Monthly performance audits
+Next Review: February 2025
+
+## ADDITIONAL RESOURCES
+
+Performance monitoring available through:
+- Google Analytics (G-YX9XKCQF4X)
+- Google Tag Manager (GTM-KB3WNGFH)
+- Google Search Console
+- Internal performance tracking
+
+Contact us for performance questions or concerns:
+Email: sales@tigongolfcarts.com
+Phone: 804-210-6567
+Website: https://gloucestergolfcarts.com
