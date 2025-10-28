@@ -63,7 +63,7 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Gloucester Golf Carts"
-        description="Discover Virginia's most trusted golf cart dealer serving Gloucester County and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-792-0234."
+        description="Discover Virginia's most trusted golf cart dealer serving Gloucester County and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-210-6567."
         keywords="Gloucester VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://gloucestergolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
@@ -169,7 +169,7 @@ export default function NewAboutPage() {
                       <h4 className="font-semibold text-theme-orange">Gloucester Golf Carts</h4>
                       <p className="text-gray-600">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
                       <p className="text-gray-600">Serving all Gloucester County, VA</p>
-                      <p className="text-gray-700">804-792-0234</p>
+                      <p className="text-gray-700">804-210-6567</p>
                       <p className="text-gray-600">info@gloucestergolfcarts.com</p>
                       <p className="text-gray-600">sales@tigongolfcarts.com</p>
                     </div>
@@ -309,9 +309,9 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:804-792-0234">
+              <a href="tel:804-210-6567">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 804-792-0234
+                  Call 804-210-6567
                 </Button>
               </a>
             </div>
@@ -328,7 +328,7 @@ export default function NewAboutPage() {
                   <CardTitle>Call Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">804-210-6567</p>
                   <p className="text-gray-600">Available 7 days a week</p>
                 </CardContent>
               </Card>

@@ -190,17 +190,17 @@ export default function MunicipalityRentalPage({
           <p>{plan.renewal}</p>
           <p>{plan.delivery}</p>
         </div>
-        <a href="tel:804-792-0234">
+        <a href="tel:804-210-6567">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 804-792-0234
+            Call 804-210-6567
           </Button>
         </a>
       </CardContent>
     </Card>
   );
 
-  const businessPhone = "804-792-0234";
+  const businessPhone = "804-210-6567";
 
   return (
     <>

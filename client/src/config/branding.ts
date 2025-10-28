@@ -8,7 +8,7 @@ export const BRANDING = {
   description: "Premier golf cart dealer in Gloucester, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   
   // Contact Information
-  phone: "804-792-0234",
+  phone: "804-210-6567",
   email: "sales@tigongolfcarts.com",
   
   // Address

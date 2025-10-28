@@ -87,9 +87,9 @@ export default function Navigation() {
             </div>
 
             <div className="flex items-center space-x-4">
-              <a href="tel:804-792-0234">
+              <a href="tel:804-210-6567">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2 text-sm font-medium">
-                  Call Now 804-792-0234
+                  Call Now 804-210-6567
                 </Button>
               </a>
             </div>
@@ -143,9 +143,9 @@ export default function Navigation() {
                   </div>
                   
                   <div className="border-t pt-4 mt-4">
-                    <a href="tel:804-792-0234">
+                    <a href="tel:804-210-6567">
                       <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full">
-                        Call Now 804-792-0234
+                        Call Now 804-210-6567
                       </Button>
                     </a>
                   </div>

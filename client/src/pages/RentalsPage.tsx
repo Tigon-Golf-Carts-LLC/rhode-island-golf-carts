@@ -184,7 +184,7 @@ export default function RentalsPage() {
                   </div>
                 </div>
 
-                <a href="tel:804-792-0234">
+                <a href="tel:804-210-6567">
                   <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                     <Phone className="w-4 h-4 mr-2" />
                     RESERVE TODAY
@@ -202,7 +202,7 @@ export default function RentalsPage() {
     <>
       <SEOHead 
         title="Golf Cart Rentals in Gloucester County"
-        description="Rent premium electric golf carts throughout Gloucester County, Virginia with daily, weekly, and monthly options, full insurance, and delivery service. Call 804-792-0234."
+        description="Rent premium electric golf carts throughout Gloucester County, Virginia with daily, weekly, and monthly options, full insurance, and delivery service. Call 804-210-6567."
         keywords="golf cart rental, Gloucester rentals, golf cart hire, Virginia golf cart rental"
         canonicalUrl="https://gloucestergolfcarts.com/rentals"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
@@ -221,9 +221,9 @@ export default function RentalsPage() {
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               Rent premium electric golf carts throughout Gloucester County, Virginia. Perfect for events, vacations, and special occasions.
             </p>
-            <a href="tel:804-792-0234">
+            <a href="tel:804-210-6567">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 804-792-0234
+                Call 804-210-6567
               </Button>
             </a>
           </div>
@@ -282,9 +282,9 @@ export default function RentalsPage() {
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
               Our friendly team is here to help you select the perfect golf cart rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
             </p>
-            <a href="tel:804-792-0234">
+            <a href="tel:804-210-6567">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call Now 804-792-0234
+                Call Now 804-210-6567
               </Button>
             </a>
           </div>

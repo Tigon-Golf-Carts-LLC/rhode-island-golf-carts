@@ -139,7 +139,7 @@ export default function DenagoPage() {
     <>
       <SEOHead 
         title="DENAGO®"
-        description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 804-792-0234."
+        description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 804-210-6567."
         keywords="DENAGO golf carts Gloucester, electric golf carts Virginia, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
         canonicalUrl="https://gloucestergolfcarts.com/denago"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg"
@@ -166,10 +166,10 @@ export default function DenagoPage() {
               technology with rugged durability for unmatched adventure capability in Gloucester County, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:804-210-6567">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 804-210-6567
                 </Button>
               </a>
               <Link href="/inventory">
@@ -421,10 +421,10 @@ export default function DenagoPage() {
               about DENAGO's revolutionary electric vehicle technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:804-210-6567">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 804-210-6567
                 </Button>
               </a>
               <Link href="/contact">

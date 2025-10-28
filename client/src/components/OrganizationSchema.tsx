@@ -14,7 +14,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "url": "https://gloucestergolfcarts.com",
       "logo": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
       "image": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "804-792-0234",
+      "telephone": "804-210-6567",
       "email": "sales@tigongolfcarts.com",
       "address": {
         "@type": "PostalAddress",
@@ -121,7 +121,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "804-792-0234",
+          "telephone": "804-210-6567",
           "contactType": "customer service",
           "availableLanguage": "English"
         }

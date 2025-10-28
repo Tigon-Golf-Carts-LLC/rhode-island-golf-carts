@@ -227,7 +227,7 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION®"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Gloucester County, VA. Call 804-792-0234."
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Gloucester County, VA. Call 804-210-6567."
         keywords="EVOLUTION golf carts Gloucester, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
         canonicalUrl="https://gloucestergolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
@@ -254,10 +254,10 @@ export default function EvolutionPage() {
               premium quality, innovative design, and reliable performance for Gloucester County, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:804-210-6567">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 804-210-6567
                 </Button>
               </a>
               <Link href="/inventory">
@@ -510,10 +510,10 @@ export default function EvolutionPage() {
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:804-210-6567">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 804-210-6567
                 </Button>
               </a>
               <Link href="/contact">

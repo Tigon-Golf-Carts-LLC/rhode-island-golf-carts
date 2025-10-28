@@ -24,7 +24,7 @@ export const generateOrganizationSchema = () => ({
     "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
     "https://gloucestergolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "804-792-0234",
+  "telephone": "804-210-6567",
   "email": "sales@tigongolfcarts.com",
   "address": {
     "@type": "PostalAddress",
@@ -92,7 +92,7 @@ export const generateLocalBusinessSchema = () => ({
   "name": "Gloucester Golf Carts",
   "description": "Premier golf cart dealer serving Gloucester Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
   "url": "https://gloucestergolfcarts.com",
-  "telephone": "804-792-0234",
+  "telephone": "804-210-6567",
   "email": "sales@tigongolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -195,7 +195,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "seller": {
       "@type": "Organization",
       "name": "Gloucester Golf Carts",
-      "telephone": "804-792-0234",
+      "telephone": "804-210-6567",
       "email": "sales@tigongolfcarts.com"
     },
     "url": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}`
@@ -320,7 +320,7 @@ export const generateContactPageSchema = () => ({
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "804-792-0234",
+        "telephone": "804-210-6567",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"

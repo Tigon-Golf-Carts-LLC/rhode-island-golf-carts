@@ -12,7 +12,7 @@ export default function ShowroomPage() {
     {
       name: "GLOUCESTER GOLF CARTS",
       address: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
-      phone: "804-792-0234",
+      phone: "804-210-6567",
       coordinates: "37.2850625, -76.5074161",
       googleMapsUrl: "https://www.google.com/maps/place/2810+George+Washington+Memorial+Hwy,+Gloucester+Point,+VA+23072",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
@@ -28,7 +28,7 @@ export default function ShowroomPage() {
     <>
       <SEOHead 
         title="Gloucester Golf Carts LSV Showroom"
-        description="Visit our TIGON Golf Carts showroom in Gloucester Point with the complete DENAGO and EVOLUTION lineup serving Gloucester County, VA. Call 804-792-0234."
+        description="Visit our TIGON Golf Carts showroom in Gloucester Point with the complete DENAGO and EVOLUTION lineup serving Gloucester County, VA. Call 804-210-6567."
         keywords="Gloucester golf carts, TIGON golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Gloucester, Gloucester Point golf carts"
         canonicalUrl="https://gloucestergolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
@@ -271,7 +271,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:804-792-0234">
+            <a href="tel:804-210-6567">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today

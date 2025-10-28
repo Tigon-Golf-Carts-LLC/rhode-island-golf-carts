@@ -50,7 +50,7 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-210-6567" className="hover:text-blue-600">804-210-6567</a></p>
               <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
               <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
               <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
@@ -127,7 +127,7 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-210-6567" className="hover:text-blue-600">804-210-6567</a></p>
                 <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
                 <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
                 <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
