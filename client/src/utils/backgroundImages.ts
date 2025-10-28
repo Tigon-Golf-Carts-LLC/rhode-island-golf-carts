@@ -1,15 +1,15 @@
-// Background image utility for Pike County Golf Carts
-// Uses the 8 professional showroom images featuring the modern Pike County Golf Carts dealership
+// Background image utility for Gloucester Golf Carts
+// Uses the 8 professional images featuring Gloucester Golf Carts in Virginia
 
 const BACKGROUND_IMAGES = [
-  '/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_Th3nwXNXQ2CQPoVdYBg6Jg_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg',
-  '/attached_assets/a-photograph-of-a-friendly-young-woman-s_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg',
-  '/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg'
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts_1761674623462.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 2_1761674623462.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 3_1761674623463.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 4_1761674623463.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 5_1761674623463.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 6_1761674623463.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 7_1761674623464.jpeg',
+  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 8_1761674623464.jpeg'
 ];
 
 // Simple hash function to ensure consistent randomization based on seed
