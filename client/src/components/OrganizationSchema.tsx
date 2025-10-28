@@ -9,25 +9,25 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Pike County Golf Carts",
-      "description": "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
-      "url": "https://pikecountygolfcarts.com",
-      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "570-535-1535",
-      "email": "info@pikecountygolfcarts.com",
+      "name": "Gloucester Golf Carts",
+      "description": "Premier golf cart dealership in Gloucester, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
+      "url": "https://gloucestergolfcarts.com",
+      "logo": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+      "image": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+      "telephone": "804-792-0234",
+      "email": "sales@tigongolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "655 PA-739",
-        "addressLocality": "Lords Valley",
-        "addressRegion": "PA",
-        "postalCode": "18428",
+        "streetAddress": "2810 George Washington Memorial Hwy",
+        "addressLocality": "Gloucester Point",
+        "addressRegion": "VA",
+        "postalCode": "23072",
         "addressCountry": "US"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "41.3020",
-        "longitude": "-75.0418"
+        "latitude": "37.2850625",
+        "longitude": "-76.5074161"
       },
       "openingHours": [
         "Mo-Fr 09:00-18:00",
@@ -35,7 +35,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "serviceArea": {
         "@type": "AdministrativeArea",
-        "name": "Pike County, Pennsylvania"
+        "name": "Gloucester County, Virginia"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -99,9 +99,9 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/montcogolfcarts",
-        "https://www.instagram.com/montcogolfcarts",
-        "https://www.linkedin.com/company/montcogolfcarts"
+        "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
+        "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
+        "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/"
       ]
     };
 
@@ -121,7 +121,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "(215) 555-0123",
+          "telephone": "804-792-0234",
           "contactType": "customer service",
           "availableLanguage": "English"
         }
@@ -132,7 +132,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "Pike County Golf Carts"
+          "name": "Gloucester Golf Carts"
         }
       } as any;
     }

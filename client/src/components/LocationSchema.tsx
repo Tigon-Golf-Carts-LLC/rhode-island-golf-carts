@@ -12,25 +12,26 @@ export default function LocationSchema({
   municipalityName, 
   municipalityType, 
   pageType = 'location',
-  latitude = "41.3223",
-  longitude = "-74.8021"
+  latitude = "37.2850625",
+  longitude = "-76.5074161"
 }: LocationSchemaProps) {
   useEffect(() => {
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": `Pike County Golf Carts - ${municipalityName} ${municipalityType}`,
-      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName} ${municipalityType}, Pike County, Pennsylvania. Premium DENAGO and Evolution electric golf carts available.`,
-      "url": `https://pikecountygolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-${municipalityType.toLowerCase()}-golf-carts`,
-      "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "image": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "570-535-1535",
-      "email": "info@pikecountygolfcarts.com",
-      "additionalEmail": "pikegolfcarts@gmail.com",
+      "name": `Gloucester Golf Carts - ${municipalityName}`,
+      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Gloucester, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
+      "url": `https://gloucestergolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
+      "logo": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+      "image": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+      "telephone": "804-792-0234",
+      "email": "sales@tigongolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": municipalityName,
-        "addressRegion": "PA",
+        "streetAddress": "2810 George Washington Memorial Hwy",
+        "addressLocality": "Gloucester Point",
+        "addressRegion": "VA",
+        "postalCode": "23072",
         "addressCountry": "US"
       },
       "geo": {
@@ -40,13 +41,13 @@ export default function LocationSchema({
       },
       "areaServed": {
         "@type": "City",
-        "name": `${municipalityName} ${municipalityType}`,
+        "name": municipalityName,
         "containedInPlace": {
           "@type": "AdministrativeArea",
-          "name": "Pike County",
+          "name": "Gloucester County",
           "containedInPlace": {
             "@type": "State",
-            "name": "Pennsylvania"
+            "name": "Virginia"
           }
         }
       },
@@ -59,7 +60,7 @@ export default function LocationSchema({
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
-        "name": `Golf Cart Services in ${municipalityName} ${municipalityType}`,
+        "name": `Golf Cart Services in ${municipalityName}`,
         "itemListElement": [
           {
             "@type": "Offer",
@@ -96,12 +97,12 @@ export default function LocationSchema({
       const rentalSchema = {
         ...baseStructuredData,
         "@type": ["LocalBusiness", "RentalCarAgency"],
-        "name": `Golf Cart Rentals - ${municipalityName} ${municipalityType}`,
-        "description": `Professional golf cart rentals in ${municipalityName} ${municipalityType}, Pike County. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
-        "url": `https://pikecountygolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-${municipalityType.toLowerCase()}-rentals`,
+        "name": `Golf Cart Rentals - ${municipalityName}`,
+        "description": `Professional golf cart rentals in ${municipalityName}, Gloucester, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
+        "url": `https://gloucestergolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
-          "name": `Golf Cart Rental Services in ${municipalityName} ${municipalityType}`,
+          "name": `Golf Cart Rental Services in ${municipalityName}`,
           "itemListElement": [
             {
               "@type": "Offer",

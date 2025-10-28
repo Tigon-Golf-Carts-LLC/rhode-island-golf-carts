@@ -15,43 +15,46 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Pike County Golf Carts",
-  "alternateName": "CCGC",
-  "description": "Premier golf cart dealer in Pike County, Pennsylvania specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
-  "url": "https://pikecountygolfcarts.com",
-  "logo": "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+  "name": "Gloucester Golf Carts",
+  "alternateName": "GGC",
+  "description": "Premier golf cart dealer in Gloucester, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "url": "https://gloucestergolfcarts.com",
+  "logo": "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
   "image": [
-    "https://pikecountygolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
-    "https://pikecountygolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+    "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+    "https://gloucestergolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "570-535-1535",
+  "telephone": "804-792-0234",
   "email": "sales@tigongolfcarts.com",
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "PA",
-    "addressCountry": "US",
-    "addressLocality": "Pike County"
+    "streetAddress": "2810 George Washington Memorial Hwy",
+    "addressLocality": "Gloucester Point",
+    "addressRegion": "VA",
+    "postalCode": "23072",
+    "addressCountry": "US"
   },
   "areaServed": {
     "@type": "State",
-    "name": "Pennsylvania"
+    "name": "Virginia"
   },
   "serviceArea": {
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 41.3223,
-      "longitude": -74.8021
+      "latitude": 37.2850625,
+      "longitude": -76.5074161
     },
     "geoRadius": "50000"
   },
   "foundingDate": "2008",
   "numberOfEmployees": "15-25",
-  "slogan": "Professional golf cart services delivered to your town",
+  "slogan": "Professional golf cart services delivered to your community",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/carbongolfcarts",
-    "https://www.instagram.com/carbongolfcarts"
+    "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
+    "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
+    "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -85,11 +88,11 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://pikecountygolfcarts.com/#localbusiness",
-  "name": "Pike County Golf Carts",
-  "description": "Premier golf cart dealer serving all 24 Pike County municipalities with electric vehicle sales, service, and rentals.",
-  "url": "https://pikecountygolfcarts.com",
-  "telephone": "570-535-1535",
+  "@id": "https://gloucestergolfcarts.com/#localbusiness",
+  "name": "Gloucester Golf Carts",
+  "description": "Premier golf cart dealer serving Gloucester Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
+  "url": "https://gloucestergolfcarts.com",
+  "telephone": "804-792-0234",
   "email": "sales@tigongolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -100,22 +103,21 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "PA",
-    "addressCountry": "US",
-    "addressLocality": "Pike County"
+    "streetAddress": "2810 George Washington Memorial Hwy",
+    "addressLocality": "Gloucester Point",
+    "addressRegion": "VA",
+    "postalCode": "23072",
+    "addressCountry": "US"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 41.3223,
-    "longitude": -74.8021
+    "latitude": 37.2850625,
+    "longitude": -76.5074161
   },
   "areaServed": [
-    "Allentown", "Bethlehem", "Emmaus", "Macungie", "Catasauqua", "Coopersburg",
-    "Fountain Hill", "Alburtis", "Slatington", "Coplay", "Lower Macungie Township",
-    "South Whitehall Township", "Upper Macungie Township", "Whitehall Township",
-    "Salisbury Township", "North Whitehall Township", "Upper Saucon Township",
-    "Lower Milford Township", "Lynn Township", "Heidelberg Township", "Washington Township",
-    "Weisenberg Township", "Lowhill Township", "Upper Saucon Township"
+    "Gloucester", "Gloucester Point", "Gloucester Courthouse", "Yorktown", "Hayes", "Seaford",
+    "Ordinary", "Ware Neck", "Wicomico", "Achilles", "Mathews", "Williamsburg",
+    "Poquoson", "Hampton", "Newport News", "York County"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -144,21 +146,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://pikecountygolfcarts.com/#website",
-  "name": "Pike County Golf Carts",
-  "description": "Official website for Pike County Golf Carts - Pennsylvania's premier electric golf cart dealer",
-  "url": "https://pikecountygolfcarts.com",
+  "@id": "https://gloucestergolfcarts.com/#website",
+  "name": "Gloucester Golf Carts",
+  "description": "Official website for Gloucester Golf Carts - Virginia's premier electric golf cart dealer",
+  "url": "https://gloucestergolfcarts.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://pikecountygolfcarts.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://gloucestergolfcarts.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Pike County Golf Carts"
+    "name": "Gloucester Golf Carts"
   }
 });
 
@@ -176,7 +178,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -184,7 +186,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://pikecountygolfcarts.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://gloucestergolfcarts.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -192,11 +194,11 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "Pike County Golf Carts",
-      "telephone": "570-535-1535",
-      "email": "info@pikecountygolfcarts.com"
+      "name": "Gloucester Golf Carts",
+      "telephone": "804-792-0234",
+      "email": "sales@tigongolfcarts.com"
     },
-    "url": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}`
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -237,14 +239,14 @@ export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Pike County, Pennsylvania",
+  "description": "Comprehensive golf cart sales, service, repair, and rental services in Gloucester, Virginia",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Pike County Golf Carts"
+    "name": "Gloucester Golf Carts"
   },
   "areaServed": {
     "@type": "State",
-    "name": "Pennsylvania"
+    "name": "Virginia"
   },
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -297,28 +299,28 @@ export const generateOfferCatalogSchema = (vehicles: any[]) => ({
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://pikecountygolfcarts.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://gloucestergolfcarts.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://pikecountygolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}`
   }))
 });
 
 export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact Pike County Golf Carts",
-  "description": "Get in touch with Pike County Golf Carts for sales, service, rentals, and support",
-  "url": "https://pikecountygolfcarts.com/contact",
+  "name": "Contact Gloucester Golf Carts",
+  "description": "Get in touch with Gloucester Golf Carts for sales, service, rentals, and support",
+  "url": "https://gloucestergolfcarts.com/contact",
   "mainEntity": {
     "@type": "Organization",
-    "name": "Pike County Golf Carts",
+    "name": "Gloucester Golf Carts",
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "570-535-1535",
+        "telephone": "804-792-0234",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"
@@ -337,20 +339,20 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Pike County, Pennsylvania`,
-  "url": `https://pikecountygolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Gloucester, Virginia`,
+  "url": `https://gloucestergolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "Pike County Golf Carts",
+    "name": "Gloucester Golf Carts",
     "areaServed": {
       "@type": "City",
       "name": townName,
       "containedInPlace": {
         "@type": "AdministrativeArea",
-        "name": "Pike County",
+        "name": "Gloucester County",
         "containedInPlace": {
           "@type": "State",
-          "name": "Pennsylvania"
+          "name": "Virginia"
         }
       }
     }
@@ -362,13 +364,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://pikecountygolfcarts.com"
+        "item": "https://gloucestergolfcarts.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://pikecountygolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
+        "item": `https://gloucestergolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
       }
     ]
   }
