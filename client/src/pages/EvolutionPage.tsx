@@ -227,9 +227,9 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION®"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Pike County, PA. Call 1-844-844-6638."
-        keywords="EVOLUTION golf carts Pike County, electric golf carts Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Pennsylvania, EVOLUTION dealers"
-        canonicalUrl="https://pikecountygolfcarts.com/evolution"
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Gloucester County, VA. Call 804-792-0234."
+        keywords="EVOLUTION golf carts Gloucester, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
+        canonicalUrl="https://gloucestergolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="product.group"
         ogImageWidth={1200}
@@ -251,13 +251,13 @@ export default function EvolutionPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the evolution of electric vehicle excellence. EVOLUTION golf carts deliver 
-              premium quality, innovative design, and reliable performance for Pike County, Pennsylvania.
+              premium quality, innovative design, and reliable performance for Gloucester County, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:570-535-1535">
+              <a href="tel:804-792-0234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 570-535-1535
+                  Call 804-792-0234
                 </Button>
               </a>
               <Link href="/inventory">
@@ -281,7 +281,7 @@ export default function EvolutionPage() {
                   EVOLUTION represents the perfect balance of innovation, quality, and value in 
                   electric vehicle manufacturing. With a comprehensive lineup ranging from classic 
                   golf carts to high-performance utility vehicles, EVOLUTION delivers solutions 
-                  for every need in Pike County's diverse mountainous and suburban communities.
+                  for every need in Gloucester County's diverse waterfront and suburban communities.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {evolutionFeatures.map((feature, index) => (
@@ -455,7 +455,7 @@ export default function EvolutionPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose EVOLUTION in Pike County?
+                Why Choose EVOLUTION in Gloucester County?
               </h2>
             </div>
 
@@ -483,7 +483,7 @@ export default function EvolutionPage() {
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Reliable Performance</h3>
                 <p className="text-gray-600">
                   Count on EVOLUTION's dependable electric systems and robust construction 
-                  for years of reliable service in Pennsylvania's varied conditions.
+                  for years of reliable service in Virginia's varied conditions.
                 </p>
               </div>
 
@@ -491,7 +491,7 @@ export default function EvolutionPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Support</h3>
                 <p className="text-gray-600">
-                  Expert EVOLUTION service and genuine parts support right here in Pike County 
+                  Expert EVOLUTION service and genuine parts support right here in Gloucester County 
                   with factory-trained technicians and comprehensive warranties.
                 </p>
               </div>
@@ -506,14 +506,14 @@ export default function EvolutionPage() {
               Ready to Experience EVOLUTION?
             </h2>
             <p className="text-xl mb-8">
-              Contact Pike County Golf Carts today to explore the complete EVOLUTION lineup 
+              Contact Gloucester Golf Carts today to explore the complete EVOLUTION lineup 
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:570-535-1535">
+              <a href="tel:804-792-0234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 570-535-1535
+                  Call 804-792-0234
                 </Button>
               </a>
               <Link href="/contact">

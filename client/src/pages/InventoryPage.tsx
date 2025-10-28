@@ -48,29 +48,29 @@ export default function InventoryPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://pikecountygolfcarts.com" },
-    { name: "Inventory", url: "https://pikecountygolfcarts.com/inventory" }
+    { name: "Home", url: "https://gloucestergolfcarts.com" },
+    { name: "Inventory", url: "https://gloucestergolfcarts.com/inventory" }
   ];
 
   return (
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Golf Cart Inventory - Pike County Golf Carts | New Electric Golf Carts PA"
-        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Pike County, Pennsylvania with expert service."
-        keywords="golf cart inventory Pike County PA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Pennsylvania"
-        canonicalUrl="https://pikecountygolfcarts.com/inventory"
+        title="Golf Cart Inventory - Gloucester Golf Carts | New Electric Golf Carts VA"
+        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Gloucester County, Virginia with expert service."
+        keywords="golf cart inventory Gloucester VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Virginia"
+        canonicalUrl="https://gloucestergolfcarts.com/inventory"
       />
       <AllSchemas 
         pageType="inventory" 
         pageData={{
-          title: "Golf Cart Inventory - Pike County Golf Carts",
-          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Pike County, Pennsylvania with expert service.",
-          url: "https://pikecountygolfcarts.com/inventory",
+          title: "Golf Cart Inventory - Gloucester Golf Carts",
+          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Gloucester County, Virginia with expert service.",
+          url: "https://gloucestergolfcarts.com/inventory",
           breadcrumbs: breadcrumbItems,
           collectionItems: vehicles?.map(vehicle => ({
             name: vehicle.name,
-            url: `https://pikecountygolfcarts.com/vehicle/${vehicle.id}`,
+            url: `https://gloucestergolfcarts.com/vehicle/${vehicle.id}`,
             description: `${vehicle.brand} ${vehicle.name} electric golf cart`,
             image: vehicle.images[0]
           })) || [],
@@ -178,8 +178,8 @@ export default function InventoryPage() {
                 Contact Our Team
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:570-535-1535")}>
-              Call 570-535-1535
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:804-792-0234")}>
+              Call 804-792-0234
             </Button>
           </div>
         </div>

@@ -10,52 +10,27 @@ import { PIKE_COUNTY_MUNICIPALITIES } from "@/data/pikeCountyMunicipalities";
 export default function ShowroomPage() {
   const locations = [
     {
-      name: "TIGON GOLF CARS POCONO PA",
-      address: "1712 Pennsylvania 940, Pocono Pines, PA 18350",
-      phone: "570-643-0152",
-      coordinates: "41.10286354605563, -75.48758590250345",
-      googleMapsUrl: "https://www.google.com/maps?cid=17137841834562046914",
-      facebookUrl: "https://www.facebook.com/TigonGolfCartsPoconos/",
-      youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsPoconosPA",
-      websiteUrl: "https://tigongolfcarts.com/pocono/",
-      reviewUrl: "https://g.page/r/CcJL5i1Z2NXtEBM/review",
-      city: "Pocono Pines",
+      name: "GLOUCESTER GOLF CARTS",
+      address: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
+      phone: "804-792-0234",
+      coordinates: "37.2850625, -76.5074161",
+      googleMapsUrl: "https://www.google.com/maps/place/2810+George+Washington+Memorial+Hwy,+Gloucester+Point,+VA+23072",
+      facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
+      youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsVirginia",
+      websiteUrl: "https://gloucestergolfcarts.com/",
+      reviewUrl: "https://www.google.com/maps/place/2810+George+Washington+Memorial+Hwy,+Gloucester+Point,+VA+23072",
+      city: "Gloucester Point",
       type: "physical"
-    },
-    {
-      name: "TIGON GOLF CARS SCRANTON-WILKES-BARRE PA",
-      address: "1225 N Keyser Ave #2, Scranton, PA 18504",
-      phone: "570-344-4443",
-      coordinates: "41.4374075,-75.6835104",
-      googleMapsUrl: "https://www.google.com/maps?cid=13243686786001524416",
-      facebookUrl: "https://www.facebook.com/TigonGolfCartsScranton/",
-      youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsScrantonWilkesPA",
-      websiteUrl: "https://tigongolfcarts.com/scranton-wilkes-barre/",
-      reviewUrl: "https://g.page/r/CcDWJ7z2Bsu3EBM/review",
-      city: "Scranton",
-      type: "physical"
-    },
-    {
-      name: "TIGON GOLF CARTS PENNSYLVANIA",
-      address: "Pennsylvania",
-      phone: "570-535-1535",
-      coordinates: "41.1169824,-77.6047047",
-      googleMapsUrl: "https://www.google.com/maps?cid=13935683838976847185",
-      youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsPennsylvania",
-      websiteUrl: "https://tigongolfcarts.com/pennsylvania/",
-      reviewUrl: "https://g.page/r/CVHtXfydfmXBEBM/review",
-      city: "Pennsylvania",
-      type: "online"
     }
   ];
 
   return (
     <>
       <SEOHead 
-        title="Pike County Golf Carts LSV Showrooms"
-        description="Visit our TIGON Golf Carts showrooms in Pocono Pines and Scranton with the complete DENAGO and EVOLUTION lineup serving Pike County, PA. Call 1-844-844-6638."
-        keywords="Pike County golf carts, TIGON golf carts showroom, golf cart dealership Pennsylvania, DENAGO EVOLUTION Pike County, Scranton golf carts"
-        canonicalUrl="https://pikecountygolfcarts.com/showroom"
+        title="Gloucester Golf Carts LSV Showroom"
+        description="Visit our TIGON Golf Carts showroom in Gloucester Point with the complete DENAGO and EVOLUTION lineup serving Gloucester County, VA. Call 804-792-0234."
+        keywords="Gloucester golf carts, TIGON golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Gloucester, Gloucester Point golf carts"
+        canonicalUrl="https://gloucestergolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
         ogImageWidth={1200}
@@ -66,11 +41,11 @@ export default function ShowroomPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("showroom")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Pike County Golf Carts LSV Showrooms
+            Gloucester Golf Carts LSV Showroom
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Visit our TIGON Golf Carts showrooms in Pocono Pines and Scranton, Pennsylvania. 
-            Experience our full lineup of DENAGO and EVOLUTION electric vehicles serving Pike County.
+            Visit our TIGON Golf Carts showroom in Gloucester Point, Virginia. 
+            Experience our full lineup of DENAGO and EVOLUTION electric vehicles serving Gloucester County.
           </p>
           <div className="flex justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -86,7 +61,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Our Locations</h2>
-            <p className="text-xl text-gray-600">Three convenient locations serving all of Pennsylvania</p>
+            <p className="text-xl text-gray-600">Serving Gloucester County and surrounding Virginia areas</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -250,7 +225,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Areas We Serve</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout all 19 Pike County municipalities and surrounding Pennsylvania areas
+            We proudly serve customers throughout Gloucester County and surrounding Virginia communities
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 text-gray-700">
@@ -270,7 +245,7 @@ export default function ShowroomPage() {
 
           <div className="mt-8 text-center">
             <p className="text-gray-600 mb-4">
-              Serving all of Pike County including boroughs, townships, and surrounding communities
+              Serving all of Gloucester County and surrounding Virginia communities
             </p>
             <Link href="/contact">
               <Button className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -288,7 +263,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our TIGON Golf Carts showrooms in Pocono Pines or Scranton, or call us to see our full inventory of DENAGO and EVOLUTION golf carts.
+            Visit our TIGON Golf Carts showroom in Gloucester Point, or call us to see our full inventory of DENAGO and EVOLUTION golf carts.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">
@@ -296,7 +271,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:570-535-1535">
+            <a href="tel:804-792-0234">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today

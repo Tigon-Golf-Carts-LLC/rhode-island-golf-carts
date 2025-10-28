@@ -67,8 +67,8 @@ export default function Footer() {
             {/* Company Description */}
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
-                Pike County's premier golf cart dealership serving customers across 
-                the region with quality carts and expert service.
+                Gloucester's premier golf cart dealership serving customers across 
+                Gloucester County and surrounding Virginia areas with quality carts and expert service.
               </p>
             </div>
 
@@ -141,7 +141,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Towns Served - Pike County */}
+        {/* Towns Served - Gloucester & Virginia Communities */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
             Gloucester & Surrounding Virginia Communities We Serve
