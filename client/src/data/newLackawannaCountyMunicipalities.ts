@@ -5,48 +5,44 @@ export interface Municipality {
   url: string;
 }
 
-// New Pike County municipalities for golf cart business
+// Gloucester Virginia area municipalities for golf cart business
 export const NEW_LACKAWANNA_COUNTY_MUNICIPALITIES: Municipality[] = [
-  // Major City
-  { name: 'Scranton', type: 'City', slug: 'scranton', url: '/scranton-golf-carts' },
-
-  // Boroughs
-  { name: 'Archbald', type: 'Borough', slug: 'archbald', url: '/archbald-golf-carts' },
-  { name: 'Carbondale', type: 'Borough', slug: 'carbondale', url: '/carbondale-golf-carts' },
-  { name: 'Clarks Summit', type: 'Borough', slug: 'clarks-summit', url: '/clarks-summit-golf-carts' },
-  { name: 'Dalton', type: 'Borough', slug: 'dalton', url: '/dalton-golf-carts' },
-  { name: 'Jermyn', type: 'Borough', slug: 'jermyn', url: '/jermyn-golf-carts' },
-  { name: 'Jessup', type: 'Borough', slug: 'jessup', url: '/jessup-golf-carts' },
-  { name: 'Moosic', type: 'Borough', slug: 'moosic', url: '/moosic-golf-carts' },
-  { name: 'Moscow', type: 'Borough', slug: 'moscow', url: '/moscow-golf-carts' },
-  { name: 'Old Forge', type: 'Borough', slug: 'old-forge', url: '/old-forge-golf-carts' },
-  { name: 'Olyphant', type: 'Borough', slug: 'olyphant', url: '/olyphant-golf-carts' },
-  { name: 'Taylor', type: 'Borough', slug: 'taylor', url: '/taylor-golf-carts' },
-
-  // Townships
-  { name: 'Chinchilla', type: 'Township', slug: 'chinchilla-township', url: '/chinchilla-township-golf-carts' },
-  { name: 'Elmhurst', type: 'Township', slug: 'elmhurst-township', url: '/elmhurst-township-golf-carts' },
-  { name: 'Fleetville', type: 'Township', slug: 'fleetville-township', url: '/fleetville-township-golf-carts' },
-  { name: 'La Plume', type: 'Township', slug: 'la-plume-township', url: '/la-plume-township-golf-carts' },
-  { name: 'Peckville', type: 'Township', slug: 'peckville-township', url: '/peckville-township-golf-carts' },
-  { name: 'Ransom', type: 'Township', slug: 'ransom-township', url: '/ransom-township-golf-carts' },
-  { name: 'Waverly', type: 'Township', slug: 'waverly-township', url: '/waverly-township-golf-carts' },
+  // Cities & Main Areas
+  { name: 'Gloucester', type: 'City', slug: 'gloucester', url: '/gloucester-golf-carts' },
+  { name: 'Gloucester Point', type: 'City', slug: 'gloucester-point', url: '/gloucester-point-golf-carts' },
+  { name: 'Gloucester Courthouse', type: 'City', slug: 'gloucester-courthouse', url: '/gloucester-courthouse-golf-carts' },
+  { name: 'Yorktown', type: 'City', slug: 'yorktown', url: '/yorktown-golf-carts' },
+  { name: 'Hayes', type: 'City', slug: 'hayes', url: '/hayes-golf-carts' },
+  { name: 'Seaford', type: 'City', slug: 'seaford', url: '/seaford-golf-carts' },
+  { name: 'Ordinary', type: 'City', slug: 'ordinary', url: '/ordinary-golf-carts' },
+  { name: 'Ware Neck', type: 'City', slug: 'ware-neck', url: '/ware-neck-golf-carts' },
+  { name: 'Wicomico', type: 'City', slug: 'wicomico', url: '/wicomico-golf-carts' },
+  { name: 'Achilles', type: 'City', slug: 'achilles', url: '/achilles-golf-carts' },
+  { name: 'Mathews', type: 'City', slug: 'mathews', url: '/mathews-golf-carts' },
+  { name: 'Williamsburg', type: 'City', slug: 'williamsburg', url: '/williamsburg-golf-carts' },
+  { name: 'Poquoson', type: 'City', slug: 'poquoson', url: '/poquoson-golf-carts' },
+  { name: 'Hampton', type: 'City', slug: 'hampton', url: '/hampton-golf-carts' },
+  { name: 'Newport News', type: 'City', slug: 'newport-news', url: '/newport-news-golf-carts' },
+  { name: 'York County', type: 'City', slug: 'york-county', url: '/york-county-golf-carts' },
+  { name: 'James City County', type: 'City', slug: 'james-city-county', url: '/james-city-county-golf-carts' },
+  { name: 'Toano', type: 'City', slug: 'toano', url: '/toano-golf-carts' },
+  { name: 'Norge', type: 'City', slug: 'norge', url: '/norge-golf-carts' },
 ];
 
-// Pike County coordinates (center of county near Scranton)
+// Gloucester County coordinates (showroom location)
 export const NEW_LACKAWANNA_COUNTY_COORDINATES = {
-  latitude: 41.4993,
-  longitude: -75.6649
+  latitude: 37.2850625,
+  longitude: -76.5074161
 };
 
-// Pike County basic information
+// Gloucester County basic information
 export const NEW_LACKAWANNA_COUNTY_INFO = {
-  name: 'Pike County',
-  state: 'Pennsylvania',
-  totalMunicipalities: 19, // 1 city + 11 boroughs + 7 townships
-  countySeat: 'Scranton',
-  population: 215896, // 2020 census
-  area: '459 square miles',
-  founded: 1878,
-  website: 'lackawannacounty.org'
+  name: 'Gloucester County',
+  state: 'Virginia',
+  totalMunicipalities: 19,
+  countySeat: 'Gloucester Courthouse',
+  population: 38711, // 2020 census
+  area: '288 square miles',
+  founded: 1651,
+  website: 'gloucesterva.info'
 };

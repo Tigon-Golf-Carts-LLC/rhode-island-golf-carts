@@ -24,10 +24,10 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Pike County Golf Carts - Premier Pennsylvania Dealership"
-        description="Experience Pennsylvania's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 1-844-844-6638."
-        keywords="golf carts Pike County PA, electric golf carts Pennsylvania, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
-        canonicalUrl="https://pikecountygolfcarts.com/"
+        title="Gloucester Golf Carts - Premier Virginia Dealership"
+        description="Experience Gloucester Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 804-792-0234."
+        keywords="golf carts Gloucester VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
+        canonicalUrl="https://gloucestergolfcarts.com/"
         ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -36,21 +36,21 @@ export default function HomePage() {
       <AllSchemas 
         pageType="home" 
         pageData={{
-          title: "Pike County Golf Carts - Premier Electric Golf Cart Dealership in Pennsylvania",
-          description: "Discover premium electric golf carts from Denago and Evolution at Pike County Golf Carts. Expert sales, service, rentals, and financing throughout Pike County, PA.",
-          url: "https://pikecountygolfcarts.com/",
-          breadcrumbs: [{ name: "Home", url: "https://pikecountygolfcarts.com/" }],
+          title: "Gloucester Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
+          description: "Discover premium electric golf carts from Denago and Evolution at Gloucester Golf Carts. Expert sales, service, rentals, and financing throughout Gloucester, VA.",
+          url: "https://gloucestergolfcarts.com/",
+          breadcrumbs: [{ name: "Home", url: "https://gloucestergolfcarts.com/" }],
           reviews: [
             {
               author: "John Smith",
-              reviewBody: "Excellent service and quality golf carts. The team at Pike County Golf Carts helped me find the perfect cart for my needs.",
+              reviewBody: "Excellent service and quality golf carts. The team at Gloucester Golf Carts helped me find the perfect cart for my needs.",
               reviewRating: 5,
               datePublished: "2025-01-15",
               headline: "Outstanding service and selection"
             },
             {
               author: "Maria Garcia",
-              reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Pike County.",
+              reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Gloucester.",
               reviewRating: 5,
               datePublished: "2025-01-20",
               headline: "Professional and affordable"
@@ -71,11 +71,10 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Pike County Golf Carts - Premier Pennsylvania Dealership
+                Gloucester Golf Carts - Premier Virginia Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Pike County municipalities with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions. 
-                Serving Pike County, and all surrounding towns, townships, and Pennsylvania communities in Pike County.
+                Serving all 15 Gloucester communities in and around Gloucester, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to Gloucester County and surrounding Virginia areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -83,9 +82,9 @@ export default function HomePage() {
                     View Inventory
                   </Button>
                 </Link>
-                <a href="tel:570-535-1535">
+                <a href="tel:804-792-0234">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
-                    Call Now 570-535-1535
+                    Call Now 804-792-0234
                   </Button>
                 </a>
               </div>
@@ -105,7 +104,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose Pike County Golf Carts?
+            Why Choose Gloucester Golf Carts?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             We're more than just a dealership - we're your partner in golf cart ownership 
@@ -160,7 +159,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Pike County Golf Carts - Top Golf Cart and LSV Brands
+            Gloucester Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -334,16 +333,16 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* About Pike County Golf Carts Section */}
+      {/* About Gloucester Golf Carts Section */}
       <section className="py-12 md:py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="order-2 lg:order-1">
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4 md:mb-6 text-gray-900">
-                About Pike County Golf Carts
+                About Gloucester Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Pike County and surrounding Pennsylvania areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Gloucester County and surrounding Virginia areas.
               </p>
               
               <div className="grid grid-cols-2 gap-4 md:gap-8 mb-6 md:mb-8">
@@ -367,13 +366,13 @@ export default function HomePage() {
             <div className="relative order-1 lg:order-2">
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97175.20062851234!2d-75.7413!3d40.8473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c36b1e7b5c1e5d%3A0x5b2e6f7b5b5e7b5b!2sLuzerne%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1753472406041!5m2!1sen!2sus" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189.5!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE3JzA2LjIiTiA3NsKwMzAnMjYuNyJX!5e0!3m2!1sen!2sus!4v1234567890123" 
                   className="w-full h-64 md:h-80 lg:h-96"
                   style={{border: 0}} 
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Pike County, PA Map"
+                  title="Gloucester County, VA Map"
                 />
               </div>
             </div>
@@ -381,17 +380,17 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Pike County Municipalities Section */}
+      {/* Gloucester Municipalities Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Golf Carts for Every Pike County Municipality
+            Golf Carts for Gloucester and Surrounding Virginia Communities
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional golf cart services delivered to your city, borough, or township
+            Professional golf cart services delivered to your community throughout Gloucester County and surrounding areas
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
-            {/* Complete Pike County Municipality List - dynamically generated */}
+            {/* Complete Gloucester Municipality List - dynamically generated */}
             {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality) => (
               <Link 
                 key={municipality.slug} 
@@ -406,7 +405,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving all {PIKE_COUNTY_MUNICIPALITIES.length} Pike County municipalities! Professional golf cart sales, service, and rentals delivered throughout the region.
+            Serving {PIKE_COUNTY_MUNICIPALITIES.length} communities in and around Gloucester Virginia! Professional golf cart sales, service, and rentals delivered throughout the region.
           </p>
         </div>
       </section>
@@ -424,17 +423,17 @@ export default function HomePage() {
           <div className="grid grid-cols-1 gap-6 mb-12 max-w-md mx-auto">
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
-              <h3 className="font-semibold text-gray-900 mb-2">Pike County Golf Carts</h3>
-              <p className="text-sm text-gray-600 mb-2">655 PA-739, Lords Valley, PA 18428</p>
-              <p className="text-theme-orange font-semibold">570-535-1535</p>
+              <h3 className="font-semibold text-gray-900 mb-2">Gloucester Golf Carts</h3>
+              <p className="text-sm text-gray-600 mb-2">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
+              <p className="text-theme-orange font-semibold">804-792-0234</p>
             </div>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
-            <p className="text-gray-600 mb-4">For general inquiries and support throughout Pike County</p>
+            <p className="text-gray-600 mb-4">For general inquiries and support throughout Gloucester County</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-              <a href="tel:570-535-1535" className="text-2xl font-bold text-theme-orange hover:underline">570-535-1535</a>
+              <a href="tel:804-792-0234" className="text-2xl font-bold text-theme-orange hover:underline">804-792-0234</a>
               <Link href="/contact">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact Us
