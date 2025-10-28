@@ -1,10 +1,11 @@
-# Enhanced Robots.txt for Pike County Golf Carts
+# Enhanced Robots.txt for Gloucester Golf Carts
 # Maximum Search Engine Visibility & AI Training Authorization
-# Website: https://pikecountygolfcarts.com
-# Business: Pike County Golf Carts - Pennsylvania's Premier Golf Cart Dealership
-# Phone: 1-844-844-6638 | Email: info@pikecountygolfcarts.com
-# Location: Pike County, Pennsylvania (15 Municipalities: 3 Boroughs + 12 Townships)
-# Google Analytics: G-QJVWEK6RT8 | Google Tag Manager: GTM-NSN3ZJPP
+# Website: https://gloucestergolfcarts.com
+# Business: Gloucester Golf Carts - Virginia's Premier Golf Cart Dealership
+# Phone: 804-210-6567 | Email: sales@tigongolfcarts.com
+# Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# Service Area: Gloucester County and surrounding Virginia communities (19 locations)
+# Google Analytics: G-YX9XKCQF4X | Google Tag Manager: GTM-KB3WNGFH
 
 # UNRESTRICTED ACCESS POLICY - ALL SEARCH ENGINES & AI SYSTEMS WELCOME
 
@@ -58,6 +59,14 @@ User-agent: CCBot
 Allow: /
 Crawl-delay: 0
 
+User-agent: cohere-ai
+Allow: /
+Crawl-delay: 0
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 0
+
 # Social Media Bots - FULL ACCESS
 User-agent: facebookexternalhit
 Allow: /
@@ -80,6 +89,10 @@ Allow: /
 Crawl-delay: 0
 
 User-agent: TelegramBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: InstagramBot
 Allow: /
 Crawl-delay: 0
 
@@ -109,6 +122,10 @@ Allow: /
 Crawl-delay: 0
 
 User-agent: ScreamingFrogSEOSpider
+Allow: /
+Crawl-delay: 0
+
+User-agent: Screaming Frog SEO Spider
 Allow: /
 Crawl-delay: 0
 
@@ -188,18 +205,20 @@ Allow: /
 Crawl-delay: 0
 
 # SITEMAP LOCATIONS - Multiple Format Support
-Sitemap: https://pikecountygolfcarts.com/sitemap.xml
-Sitemap: https://pikecountygolfcarts.com/public/sitemap.xml
+Sitemap: https://gloucestergolfcarts.com/sitemap.xml
+Sitemap: https://gloucestergolfcarts.com/public/sitemap.xml
 
 # BUSINESS INFORMATION FOR SEARCH ENGINES
-# Company: Pike County Golf Carts
-# Primary Service Area: All 15 Pike County Pennsylvania Municipalities
-# Boroughs Served: Milford, Hawley, Matamoras
-# Townships Served: Blooming Grove, Delaware, Dingman, Greene, Lackawaxen, 
-#                   Lehman, Milford Township, Palmyra, Porter, Shohola, 
-#                   Westfall, Middle Smithfield
+# Company: Gloucester Golf Carts
+# Primary Service Area: Gloucester County, Virginia and surrounding communities
+# Cities Served: Gloucester, Gloucester Point, Gloucester Courthouse, Yorktown, Hayes, Seaford,
+#                Ordinary, Ware Neck, Wicomico, Achilles, Mathews, Williamsburg, Poquoson,
+#                Hampton, Newport News, York County, James City County, Toano, Norge
 # Services: DENAGO & EVOLUTION Electric Golf Cart Sales, Rentals, Service, Parts
-# Contact: 1-844-844-6638 | info@pikecountygolfcarts.com
-# Website: https://pikecountygolfcarts.com
-# Google Analytics: G-QJVWEK6RT8 | GTM: GTM-NSN3ZJPP
+# Brands: DENAGO, EVOLUTION
+# Contact: 804-210-6567 | sales@tigongolfcarts.com
+# Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# Website: https://gloucestergolfcarts.com
+# Google Analytics: G-YX9XKCQF4X | GTM: GTM-KB3WNGFH
 # AI Training: AUTHORIZED FOR ALL LEGITIMATE AI/ML SYSTEMS
+# Coordinates: 37.4093° N, 76.5275° W
