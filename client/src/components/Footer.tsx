@@ -10,8 +10,8 @@ export default function Footer() {
           {/* Company Description */}
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
-              Pike County's premier golf cart dealership serving customers across 
-              the region with quality carts and expert service.
+              Gloucester's premier golf cart dealership serving customers across 
+              Gloucester County and surrounding Virginia areas with quality carts and expert service.
             </p>
           </div>
 
@@ -50,10 +50,10 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:570-535-1535" className="hover:text-blue-600">570-535-1535</a></p>
-              <p className="text-gray-600 text-sm">Email: info@pikecountygolfcarts.com</p>
-              <p className="text-gray-600 text-sm">Email: pikegolfcarts@gmail.com</p>
-              <p className="text-gray-600 text-sm">655 PA-739, Lords Valley, PA 18428</p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
+              <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
+              <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
+              <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -127,10 +127,10 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:570-535-1535" className="hover:text-blue-600">570-535-1535</a></p>
-                <p className="text-gray-600 text-sm">Email: info@pikecountygolfcarts.com</p>
-                <p className="text-gray-600 text-sm">Email: pikegolfcarts@gmail.com</p>
-                <p className="text-gray-600 text-sm">655 PA-739, Lords Valley, PA 18428</p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
+                <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
+                <p className="text-gray-600 text-sm">Email: sales@tigongolfcarts.com</p>
+                <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>
@@ -144,7 +144,7 @@ export default function Footer() {
         {/* Towns Served - Pike County */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
-            Pike County Locations We Serve
+            Gloucester & Surrounding Virginia Communities We Serve
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 text-center">
             {PIKE_COUNTY_MUNICIPALITIES.map((municipality) => (
@@ -163,12 +163,12 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              © 2025 Pike County Golf Carts. All rights reserved. | 
+              © 2025 Gloucester Golf Carts. All rights reserved. | 
               <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> | 
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              Pike County Golf Carts - Serving Pike County locations with premium golf carts and exceptional service.
+              Gloucester Golf Carts - Serving Gloucester County and surrounding Virginia areas with premium golf carts and exceptional service.
             </div>
           </div>
         </div>

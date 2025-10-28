@@ -74,30 +74,30 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: MapPin,
-      label: "Pike County Golf Carts",
-      value: "655 PA-739, Lords Valley, PA 18428",
-      phone: "570-535-1535",
+      label: "Gloucester Golf Carts",
+      value: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
+      phone: "804-792-0234",
     },
     {
       icon: Phone,
-      label: "Pennsylvania Main Line",
-      value: "570-535-1535",
+      label: "Virginia Main Line",
+      value: "804-792-0234",
     },
     {
       icon: Mail,
       label: "Primary Email",
-      value: "info@pikecountygolfcarts.com",
+      value: "info@gloucestergolfcarts.com",
     },
     {
       icon: Mail,
       label: "Secondary Email",
-      value: "pikegolfcarts@gmail.com",
+      value: "sales@tigongolfcarts.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "pikecountygolfcarts.com",
-      link: "https://pikecountygolfcarts.com",
+      value: "gloucestergolfcarts.com",
+      link: "https://gloucestergolfcarts.com",
     },
   ];
 
@@ -110,10 +110,10 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Pike County Golf Carts"
-        description="Get expert golf cart sales, service, and support from Pike County's premier dealership located at 655 PA-739, Lords Valley, PA 18428. Call 1-844-844-6638."
-        keywords="contact Pike County golf carts, golf cart sales Pennsylvania, Pocono Pines showroom, Scranton golf cart service PA"
-        canonicalUrl="https://pikecountygolfcarts.com/contact"
+        title="Contact Gloucester Golf Carts"
+        description="Get expert golf cart sales, service, and support from Gloucester's premier dealership located at 2810 George Washington Memorial Hwy, Gloucester Point, VA 23072. Call 804-792-0234."
+        keywords="contact Gloucester golf carts, golf cart sales Virginia, Gloucester Point showroom, Williamsburg golf cart service VA"
+        canonicalUrl="https://gloucestergolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -125,20 +125,20 @@ export default function ContactPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("contact")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Contact Pike County Golf Carts
+              Contact Gloucester Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Get in touch with our team for sales, service, and support throughout Pike County, Pennsylvania. 
+              Get in touch with our team for sales, service, and support throughout Gloucester County, Virginia. 
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:570-535-1535">
+              <a href="tel:804-792-0234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 570-535-1535
+                  Call 804-792-0234
                 </Button>
               </a>
-              <a href="mailto:info@pikecountygolfcarts.com">
+              <a href="mailto:info@gloucestergolfcarts.com">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Us
