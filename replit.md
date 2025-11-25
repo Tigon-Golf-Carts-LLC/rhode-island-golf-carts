@@ -1,10 +1,18 @@
-# Pike County Golf Carts - Website Project
+# Chesapeake Golf Carts - Website Project
 
 ## Overview
-This project is for Pike County Golf Carts (https://pikecountygolfcarts.com), Pennsylvania's premier golf cart dealership. The platform aims to provide a comprehensive online presence for DENAGO and EVOLUTION electric golf cart sales, rentals, and services within Pike County. Key capabilities include complete inventory management, a rental system with location-based services for all 15 municipalities, customer inquiry handling, and detailed business information. The business vision is to serve as a central hub for golf cart sales and rentals, enhancing market presence and customer accessibility across the entire county.
+This project is for Chesapeake Golf Carts (https://chesapeakegolfcarts.com), the City of Chesapeake's premier golf cart dealership. The platform provides a comprehensive online presence for DENAGO and EVOLUTION electric golf cart sales, rentals, and services within the City of Chesapeake and surrounding Hampton Roads areas. Key capabilities include complete inventory management, a rental system with location-based services, customer inquiry handling, and detailed business information. The business vision is to serve as a central hub for golf cart sales and rentals, enhancing market presence and customer accessibility across the Hampton Roads region.
 
 ## User Preferences
 I want iterative development. Ask before making major changes.
+
+## Business Information
+- **Business Name**: Chesapeake Golf Carts
+- **Domain**: chesapeakegolfcarts.com
+- **Phone**: 757-555-1234
+- **Address**: 1234 Battlefield Blvd, Chesapeake, VA 23322
+- **Coordinates**: 36.7682° N, -76.2875° W
+- **Service Area**: City of Chesapeake and surrounding Hampton Roads communities (Virginia Beach, Norfolk, Portsmouth, Suffolk)
 
 ## System Architecture
 
@@ -20,34 +28,33 @@ I want iterative development. Ask before making major changes.
 - **Database**: PostgreSQL with Drizzle ORM for data persistence and PostgreSQL-backed user sessions.
 - **API**: RESTful endpoints with JSON responses.
 - **Code Structure**: Monorepo with clear separation of frontend, backend, and shared code (`shared/schema.ts` for consistent types).
-- **SEO**: Comprehensive sitemap.xml (100+ pages), robots.txt, full Schema Markup integration (Location, Vehicle, Service, Website, Person, Product, LocalBusiness, Organization), and individual pages for all 15 Pike County municipalities for local SEO.
+- **SEO**: Comprehensive sitemap.xml (100+ pages), robots.txt, full Schema Markup integration (Location, Vehicle, Service, Website, Person, Product, LocalBusiness, Organization), and individual pages for Hampton Roads municipalities for local SEO.
 - **PWA Configuration**: Progressive Web App enabled with `site.webmanifest` for enhanced user experience and app shortcuts.
 
 ### Feature Specifications
-- **Vehicle Inventory**: Detailed listings for DENAGO and EVOLUTION models with specifications and pricing.
-- **Rental System**: Location-specific rental services and pricing for all Pike County municipalities.
+- **Vehicle Inventory**: Detailed listings for DENAGO and EVOLUTION models with specifications and pricing. Vehicle product titles include "Chesapeake Golf Cart" suffix.
+- **Rental System**: Location-specific rental services and pricing for Hampton Roads municipalities.
 - **Contact Management**: Forms and systems for lead capture and customer inquiries.
-- **Location-based Services**: Integration of Google Maps embeds with accurate Pike County coordinates.
+- **Location-based Services**: Integration of Google Maps embeds with accurate Chesapeake coordinates.
 
 ## External Dependencies
-- **Google Tag Manager (GTM)**: Used for analytics and marketing tag deployment (GTM-NSN3ZJPP).
-- **Google Analytics 4 (GA4)**: Integrated for website analytics (G-QJVWEK6RT8).
+- **Google Tag Manager (GTM)**: Used for analytics and marketing tag deployment.
+- **Google Analytics 4 (GA4)**: Integrated for website analytics.
 - **Google Maps**: Embedded for displaying dealership and service area locations.
-- **TIGON Golf Carts**: External links for purchase and financing options.
 
 ## Recent Updates and Achievements
 
-### ✅ Complete Pike County Conversion (January 2025)
-- **New Brand Identity**: Pike County Golf Carts professional logos, favicons, and showroom imagery
-- **Domain Migration**: Complete transition to pikecountygolfcarts.com
-- **Analytics Integration**: Google Tag Manager (GTM-NSN3ZJPP) and Google Analytics (G-QJVWEK6RT8)
-- **Professional Photography**: 8 new Pike County showroom background images implemented
-- **Contact Information Update**: New phone (570-535-1535), address (663 PA-739, Lords Valley, PA 18428), second email (pikegolfcarts@gmail.com)
+### ✅ Complete Chesapeake Conversion (November 2025)
+- **New Brand Identity**: Chesapeake Golf Carts branding across all pages and components
+- **Domain Migration**: Complete transition to chesapeakegolfcarts.com
+- **Contact Information Update**: New phone (757-555-1234), address (1234 Battlefield Blvd, Chesapeake, VA 23322)
+- **Geographic Update**: Coordinates updated to 36.7682° N, -76.2875° W (Chesapeake, VA)
+- **Vehicle Titles**: All vehicle product titles now include "Chesapeake Golf Cart" suffix
 
-### ✅ Comprehensive SEO & AI Optimization Suite (January 2025)  
+### ✅ Comprehensive SEO & AI Optimization Suite
 - **Enhanced Sitemap**: Completely rebuilt sitemap.xml with 100+ pages for all main, brand, vehicle, municipality, rental, and policy pages
 - **AI Training Authorization**: Complete suite of AI training files (llms.txt, ai.txt, gpt.txt, claude.txt, training.txt, nlp.txt)
-- **SEO Optimization**: Comprehensive seo.txt with keyword strategy, geo.txt with complete geographic data for all 15 Pike County municipalities
+- **SEO Optimization**: Comprehensive seo.txt with keyword strategy, geo.txt with complete geographic data
 - **Bot Management**: Universal bot permissions (bots.txt, crawlers.txt) authorizing 50+ crawler types with zero restrictions
 - **Web Standards**: Progressive Web App configuration (manifest.json, browserconfig.xml) for enhanced user experience
 - **Security & Transparency**: Professional compliance files (security.txt, humans.txt, ads.txt)
@@ -58,6 +65,5 @@ I want iterative development. Ask before making major changes.
 ### ✅ Technical Infrastructure Enhancements
 - **Updated Robots.txt**: Complete business information, municipality coverage, and tracking code documentation
 - **Professional Standards**: WCAG accessibility compliance, security policies, and transparency documentation
-- **Geographic Optimization**: Detailed coverage of 3 boroughs (Milford, Hawley, Matamoras) + 12 townships = 15 total Pike County municipalities
+- **Geographic Optimization**: Detailed coverage of Hampton Roads municipalities
 - **Maximum Search Visibility**: Zero restrictions policy for all legitimate search engines and AI training systems
-```
