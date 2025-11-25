@@ -1,11 +1,11 @@
-# ads.txt for Gloucester Golf Carts
+# ads.txt for Chesapeake Golf Carts
 # Authorized Digital Sellers Declaration
-# https://gloucestergolfcarts.com/ads.txt
+# https://chesapeakegolfcarts.com/ads.txt
 
-# This file declares authorized digital advertising sellers for Gloucester Golf Carts
-# Website: https://gloucestergolfcarts.com
+# This file declares authorized digital advertising sellers for Chesapeake Golf Carts
+# Website: https://chesapeakegolfcarts.com
 # Business: Electric Golf Cart Sales, Service & Rentals
-# Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 # Contact: sales@tigongolfcarts.com
 
 # Google Ad Manager / AdSense
@@ -26,12 +26,12 @@ microsoft.com, 0000000000, DIRECT, f08c47fec0942fa0
 amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 
 # Business Information for Ad Verification
-# Company: Gloucester Golf Carts
+# Company: Chesapeake Golf Carts
 # Industry: Automotive - Electric Golf Carts
 # Primary Services: Sales, Rentals, Service, Parts
-# Service Area: Gloucester County, Virginia + 19 communities
+# Service Area: Chesapeake, Virginia + 19 communities
 # Brands: DENAGO, EVOLUTION Electric Golf Carts
-# Phone: 804-210-6567
+# Phone: 757-555-1234
 # Email: sales@tigongolfcarts.com
 
 # Authorized Advertising Categories
@@ -44,7 +44,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Waterfront Community Services
 
 # Geographic Targeting Authorization
-# Primary: Gloucester County, Virginia
+# Primary: Chesapeake, Virginia
 # Secondary: Hampton Roads Region, Virginia Peninsula
 # Extended: Coastal Virginia, Tidewater Area
 # Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners, Waterfront Residents
@@ -78,10 +78,10 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 
 # Contact for Advertising Verification
 # Primary: sales@tigongolfcarts.com
-# Phone: 804-210-6567
+# Phone: 757-555-1234
 # Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM ET
-# Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-# Website: https://gloucestergolfcarts.com
+# Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Website: https://chesapeakegolfcarts.com
 
 # Direct Advertising Partnerships
 # We work directly with:
@@ -103,7 +103,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Virginia Better Business Bureau
 
 # Market Focus
-# Gloucester County Communities: Gloucester, Gloucester Point, Gloucester Courthouse,
+# Chesapeake Communities: Chesapeake, Chesapeake Point, Chesapeake Courthouse,
 # Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
 
 # Surrounding Virginia Communities: Mathews, Williamsburg, Yorktown, Poquoson,
@@ -120,7 +120,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Tourism businesses
 
 # Advertising Objectives:
-# - Brand awareness in Gloucester County
+# - Brand awareness in Chesapeake
 # - Lead generation for sales and rentals
 # - Service area expansion
 # - Customer education on electric vehicles
@@ -133,5 +133,5 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # Compliance: IAB ads.txt standard 1.0.1
 
 # Note: This ads.txt file helps prevent advertising fraud by declaring
-# authorized sellers of Gloucester Golf Carts digital advertising inventory.
+# authorized sellers of Chesapeake Golf Carts digital advertising inventory.
 # Only the sellers listed above are authorized to sell our ad space.

@@ -1,21 +1,21 @@
 # geo.txt - Geographic Coverage Data
-# Gloucester Golf Carts - Complete Geographic Service Information
+# Chesapeake Golf Carts - Complete Geographic Service Information
 
 ## PRIMARY SERVICE AREA
 Country: United States
 State: Virginia (VA)
-County: Gloucester County
+County: Chesapeake
 Total Area: 288 square miles
 Population: 38,711 (2020 Census)
-County Seat: Gloucester
+County Seat: Chesapeake
 Established: 1651
 Historic Significance: Colonial Virginia settlement
 
 ## SHOWROOM LOCATION
-Business Name: Gloucester Golf Carts
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Business Name: Chesapeake Golf Carts
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 Route: US Route 17 (George Washington Memorial Highway)
-Coordinates: 37.4093° N, 76.5275° W
+Coordinates: 36.7682° N, 76.2875° W
 Elevation: 50 feet above sea level
 Time Zone: Eastern Time Zone (ET)
 Climate: Humid subtropical
@@ -24,21 +24,21 @@ Climate: Humid subtropical
 
 ### PRIMARY MARKET - GLOUCESTER COUNTY COMMUNITIES:
 
-1. Gloucester (County Seat)
+1. Chesapeake (County Seat)
    - Population: Largest community in county
-   - Coordinates: 37.4093° N, 76.5275° W
+   - Coordinates: 36.7682° N, 76.2875° W
    - Character: Government center, commercial hub
    - Notable: County administration, retail, services
    - Showroom Location: Primary market center
 
-2. Gloucester Point
+2. Chesapeake Point
    - Population: Historic waterfront community
    - Coordinates: 37.2537° N, 76.5022° W
    - Character: Waterfront, educational, historic
    - Notable: Virginia Institute of Marine Science (VIMS)
    - Features: Chesapeake Bay access, York River views
 
-3. Gloucester Courthouse
+3. Chesapeake Courthouse
    - Coordinates: 37.4110° N, 76.5272° W
    - Character: Administrative and historic district
    - Notable: Colonial-era courthouse, government offices
@@ -86,72 +86,72 @@ Climate: Humid subtropical
 
 10. Mathews County
     - Coordinates: 37.4333° N, 76.3167° W
-    - Distance: 10 miles from Gloucester
+    - Distance: 10 miles from Chesapeake
     - Population: 8,900
     - Character: Rural county, waterfront
 
 11. Williamsburg
     - Coordinates: 37.2707° N, 76.7075° W
-    - Distance: 15 miles from Gloucester
+    - Distance: 15 miles from Chesapeake
     - Population: 14,954
     - Character: Historic colonial city
     - Notable: Colonial Williamsburg, tourism hub
 
 12. Yorktown
     - Coordinates: 37.2376° N, 76.5097° W
-    - Distance: 8 miles from Gloucester
+    - Distance: 8 miles from Chesapeake
     - Population: 195
     - Character: Historic waterfront town
     - Notable: Revolutionary War history
 
 13. Poquoson
     - Coordinates: 37.1224° N, 76.3458° W
-    - Distance: 12 miles from Gloucester
+    - Distance: 12 miles from Chesapeake
     - Population: 12,460
     - Character: Independent coastal city
     - Notable: Waterfront community
 
 14. Hampton
     - Coordinates: 37.0299° N, 76.3452° W
-    - Distance: 20 miles from Gloucester
+    - Distance: 20 miles from Chesapeake
     - Population: 137,148
     - Character: Hampton Roads metro area
     - Notable: Military, aerospace, tourism
 
 15. Newport News
     - Coordinates: 37.0871° N, 76.4730° W
-    - Distance: 18 miles from Gloucester
+    - Distance: 18 miles from Chesapeake
     - Population: 180,719
     - Character: Major shipbuilding center
     - Notable: Naval shipyard, port city
 
 16. York County
     - Coordinates: 37.2290° N, 76.5380° W
-    - Distance: Adjacent to Gloucester
+    - Distance: Adjacent to Chesapeake
     - Population: 70,045
     - Character: Suburban county
 
 17. James City County
     - Coordinates: 37.3019° N, 76.7897° W
-    - Distance: 18 miles from Gloucester
+    - Distance: 18 miles from Chesapeake
     - Population: 75,965
     - Character: Historic county, suburban
 
 18. Toano
     - Coordinates: 37.3793° N, 76.8174° W
-    - Distance: 22 miles from Gloucester
+    - Distance: 22 miles from Chesapeake
     - Population: 517
     - Character: Rural community
 
 19. Norge
     - Coordinates: 37.3696° N, 76.7827° W
-    - Distance: 20 miles from Gloucester
+    - Distance: 20 miles from Chesapeake
     - Population: 1,000
     - Character: Suburban community
 
 ## GEOGRAPHIC CHARACTERISTICS
 
-### Gloucester County Features:
+### Chesapeake Features:
 - Chesapeake Bay waterfront: 60+ miles of coastline
 - York River access: Southern boundary
 - Piankatank River: Northern boundary
@@ -178,7 +178,7 @@ Climate: Humid subtropical
 ## MARKET CHARACTERISTICS
 
 ### Demographics:
-- Population: 38,711 (Gloucester County)
+- Population: 38,711 (Chesapeake)
 - Median age: 45.3 years
 - Households: 14,800
 - Average household size: 2.6
@@ -206,12 +206,12 @@ Climate: Humid subtropical
 ### Hampton Roads Metropolitan Area:
 - Total Population: 1.8 million
 - Major Cities: Virginia Beach, Norfolk, Chesapeake, Hampton, Newport News
-- Position: Gloucester is northern gateway
+- Position: Chesapeake is northern gateway
 - Access: I-64 corridor, Route 17
 - Economic hub: Military, shipbuilding, tourism
 
 ### Virginia Peninsula:
-- Gloucester position: Northern tip
+- Chesapeake position: Northern tip
 - York River: Natural boundary
 - Historic Triangle: Williamsburg, Yorktown, Jamestown proximity
 - Tourism corridor: Colonial heritage attractions
@@ -242,8 +242,8 @@ Climate: Humid subtropical
 
 ## SERVICE AREA SUMMARY
 
-Total Service Coverage: 19 communities across Gloucester County and surrounding Virginia areas
-Primary Market: 9 Gloucester County communities
+Total Service Coverage: 19 communities across Chesapeake and surrounding Virginia areas
+Primary Market: 9 Chesapeake communities
 Secondary Market: 10 surrounding Virginia communities
 Total Geographic Coverage: Approximately 500 square miles
 Population Served: 400,000+ residents
@@ -251,15 +251,15 @@ Delivery Range: 25-mile radius from showroom
 
 ## CONTACT INFORMATION
 
-Gloucester Golf Carts
-6109 George Washington Memorial Hwy
-Gloucester, VA 23061
-Phone: 804-210-6567
+Chesapeake Golf Carts
+1234 Battlefield Blvd
+Chesapeake, VA 23322
+Phone: 757-555-1234
 Email: sales@tigongolfcarts.com
-Website: https://gloucestergolfcarts.com
+Website: https://chesapeakegolfcarts.com
 
-GPS Coordinates: 37.4093° N, 76.5275° W
-Google Maps: Search "6109 George Washington Memorial Hwy, Gloucester, VA 23061"
+GPS Coordinates: 36.7682° N, 76.2875° W
+Google Maps: Search "1234 Battlefield Blvd, Chesapeake, VA 23322"
 
 Business Hours:
 Monday-Saturday: 9:00 AM - 6:00 PM

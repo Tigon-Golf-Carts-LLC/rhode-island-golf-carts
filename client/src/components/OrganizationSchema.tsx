@@ -9,25 +9,25 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Gloucester Golf Carts",
-      "description": "Premier golf cart dealership in Gloucester, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
-      "url": "https://gloucestergolfcarts.com",
-      "logo": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "image": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "804-210-6567",
-      "email": "sales@tigongolfcarts.com",
+      "name": "Chesapeake Golf Carts",
+      "description": "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
+      "url": "https://chesapeakegolfcarts.com",
+      "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+      "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+      "telephone": "757-555-1234",
+      "email": "sales@chesapeakegolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "6109 George Washington Memorial Hwy",
-        "addressLocality": "Gloucester",
+        "streetAddress": "1234 Battlefield Blvd",
+        "addressLocality": "Chesapeake",
         "addressRegion": "VA",
-        "postalCode": "23061",
+        "postalCode": "23322",
         "addressCountry": "US"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "37.4093",
-        "longitude": "-76.5275"
+        "latitude": "36.7682",
+        "longitude": "-76.2875"
       },
       "openingHours": [
         "Mo-Fr 09:00-18:00",
@@ -35,7 +35,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "serviceArea": {
         "@type": "AdministrativeArea",
-        "name": "Gloucester County, Virginia"
+        "name": "City of Chesapeake, Virginia"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -99,20 +99,19 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
-        "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
-        "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/"
+        "https://www.facebook.com/ChesapeakeGolfCarts/",
+        "https://www.youtube.com/@ChesapeakeGolfCarts",
+        "https://www.pinterest.com/chesapeakegolfcarts/"
       ]
     };
 
-    // Add page-specific schema
     let structuredData = baseStructuredData;
 
     if (pageType === "about") {
       structuredData = {
         ...baseStructuredData,
         "@type": "Organization",
-        "foundingDate": "2015",
+        "foundingDate": "2008",
         "numberOfEmployees": "15-25"
       } as any;
     } else if (pageType === "contact") {
@@ -121,7 +120,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "804-210-6567",
+          "telephone": "757-555-1234",
           "contactType": "customer service",
           "availableLanguage": "English"
         }
@@ -132,7 +131,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "Gloucester Golf Carts"
+          "name": "Chesapeake Golf Carts"
         }
       } as any;
     }

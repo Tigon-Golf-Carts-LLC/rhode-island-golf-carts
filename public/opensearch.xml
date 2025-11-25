@@ -2,39 +2,39 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   
-  <ShortName>Gloucester Golf Carts</ShortName>
-  <Description>Search Gloucester Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Gloucester County, VA</Description>
+  <ShortName>Chesapeake Golf Carts</ShortName>
+  <Description>Search Chesapeake Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Chesapeake, VA</Description>
   
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
   
-  <Image width="16" height="16" type="image/x-icon">https://gloucestergolfcarts.com/favicon.ico</Image>
-  <Image width="64" height="64" type="image/png">https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png</Image>
+  <Image width="16" height="16" type="image/x-icon">https://chesapeakegolfcarts.com/favicon.ico</Image>
+  <Image width="64" height="64" type="image/png">https://chesapeakegolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png</Image>
   
   <Url type="text/html" 
        method="get" 
-       template="https://gloucestergolfcarts.com/search?q={searchTerms}"/>
+       template="https://chesapeakegolfcarts.com/search?q={searchTerms}"/>
   
   <Url type="application/x-suggestions+json"
        method="get"
-       template="https://gloucestergolfcarts.com/api/search/suggestions?q={searchTerms}"/>
+       template="https://chesapeakegolfcarts.com/api/search/suggestions?q={searchTerms}"/>
        
   <Language>en-US</Language>
   
-  <Contact>sales@tigongolfcarts.com</Contact>
+  <Contact>sales@chesapeakegolfcarts.com</Contact>
   
-  <Developer>Gloucester Golf Carts Web Development Team</Developer>
+  <Developer>Chesapeake Golf Carts Web Development Team</Developer>
   
-  <Attribution>Gloucester Golf Carts - Virginia's Premier Electric Golf Cart Dealership</Attribution>
+  <Attribution>Chesapeake Golf Carts - Virginia's Premier Electric Golf Cart Dealership</Attribution>
   
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
   
   <Query role="example" searchTerms="DENAGO EV CITY" />
-  <Query role="example" searchTerms="golf cart rental Gloucester VA" />
+  <Query role="example" searchTerms="golf cart rental Chesapeake VA" />
   <Query role="example" searchTerms="EVOLUTION D5 Maverick" />
   <Query role="example" searchTerms="electric golf cart service Virginia" />
   
-  <moz:SearchForm>https://gloucestergolfcarts.com/</moz:SearchForm>
+  <moz:SearchForm>https://chesapeakegolfcarts.com/</moz:SearchForm>
   
 </OpenSearchDescription>

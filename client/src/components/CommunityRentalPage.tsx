@@ -19,9 +19,9 @@ function CommunityRentalPage({
   slug 
 }: CommunityRentalPageProps) {
   const locationText = parentMunicipality ? `${communityName} (${parentMunicipality})` : communityName;
-  const pageTitle = `Golf Cart Rentals in ${communityName}, Gloucester County | Premium Rental Services`;
-  const pageDescription = `Rent premium golf carts in ${communityName}, Gloucester County, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
-  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, Gloucester County golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${communityName}, City of Chesapeake | Premium Rental Services`;
+  const pageDescription = `Rent premium golf carts in ${communityName}, City of Chesapeake, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
+  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, City of Chesapeake golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -147,10 +147,10 @@ function CommunityRentalPage({
           <p>{plan.renewal}</p>
           <p>{plan.delivery}</p>
         </div>
-        <a href="tel:804-210-6567">
+        <a href="tel:757-555-1234">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 804-210-6567
+            Call 757-555-1234
           </Button>
         </a>
       </CardContent>
@@ -183,7 +183,7 @@ function CommunityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://gloucestergolfcarts.com/${slug}`}
+        canonicalUrl={`https://chesapeakegolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -194,7 +194,6 @@ function CommunityRentalPage({
       />
 
       <div className="min-h-screen bg-gray-50">
-        {/* Breadcrumb */}
         <div className="bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto px-4 py-3">
             <nav className="text-sm">
@@ -209,10 +208,9 @@ function CommunityRentalPage({
           </div>
         </div>
 
-        {/* Hero Section */}
         <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
           <div className="max-w-7xl mx-auto text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800">Gloucester Golf Carts</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800">Chesapeake Golf Carts</Badge>
             <h1 className="text-5xl font-bold mb-6">
               Golf Cart Rentals in {locationText}
             </h1>
@@ -221,10 +219,10 @@ function CommunityRentalPage({
               Choose from our flexible daily, weekly, and monthly rental options.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="h-5 w-5" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
               <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 border-white">
@@ -237,7 +235,6 @@ function CommunityRentalPage({
           </div>
         </section>
 
-        {/* Features Section */}
         <section className="py-16 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
@@ -246,7 +243,7 @@ function CommunityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {communityName} 
-                and throughout Gloucester County, Virginia.
+                and throughout the City of Chesapeake, Virginia.
               </p>
             </div>
 
@@ -261,7 +258,6 @@ function CommunityRentalPage({
           </div>
         </section>
 
-        {/* 4 Seater Plans */}
         <RentalSection 
           title="4 Seater Golf Cart Rental Plans"
           icon={<Users className="w-8 h-8 text-blue-600" />}
@@ -269,7 +265,6 @@ function CommunityRentalPage({
           subtitle="Perfect for couples and small families"
         />
 
-        {/* 6 Seater Plans */}
         <RentalSection 
           title="6 Seater Golf Cart Rental Plans"
           icon={<Car className="w-8 h-8 text-green-600" />}
@@ -277,7 +272,6 @@ function CommunityRentalPage({
           subtitle="Ideal for larger groups and families"
         />
 
-        {/* Contact Section */}
         <section className="py-16 bg-gray-100">
           <div className="max-w-4xl mx-auto px-4 text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
@@ -292,8 +286,8 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Call Now</h3>
                 <p className="text-gray-600 mb-4">Speak with our rental specialists</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-2xl font-bold text-theme-orange">804-210-6567</span>
-                  <a href="tel:804-210-6567">
+                  <span className="text-2xl font-bold text-theme-orange">757-555-1234</span>
+                  <a href="tel:757-555-1234">
                     <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                       Call Now
                     </Button>
@@ -305,7 +299,7 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Email Us</h3>
                 <p className="text-gray-600 mb-4">Get rental information and quotes</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-lg font-semibold text-gray-700">info@gloucestergolfcarts.com</span>
+                  <span className="text-lg font-semibold text-gray-700">info@chesapeakegolfcarts.com</span>
                   <Link href="/contact">
                     <Button className="bg-blue-600 hover:bg-blue-700 text-white">
                       Contact Form

@@ -8,7 +8,6 @@ import SEOHead from "@/components/SEOHead";
 import VehicleCard from "@/components/VehicleCard";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
-// Import DENAGO vehicle images
 import denagoEvCityImage from "@assets/DENAGONEVCITY_1751893047472_1753135231313.jpg";
 import denagoEvNomadImage from "@assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg";
 import denagoEvNomadXLImage from "@assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg";
@@ -42,7 +41,6 @@ export default function DenagoPage() {
     queryKey: ["/api/vehicles"],
   });
 
-  // Filter DENAGO vehicles
   const denagoVehicles = vehicles?.filter(vehicle => 
     vehicle.brand.toLowerCase().includes('denago')
   ) || [];
@@ -83,10 +81,9 @@ export default function DenagoPage() {
     }
   ];
 
-  // Complete DENAGO vehicle lineup with specifications
   const allDenagoVehicles = [
     {
-      name: "DENAGO EV CITY",
+      name: "DENAGO EV CITY - Chesapeake Golf Cart",
       series: "EV CITY",
       image: denagoEvCityImage,
       price: "$15,000",
@@ -94,7 +91,7 @@ export default function DenagoPage() {
       specs: { seats: "2", range: "40 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV NOMAD",
+      name: "DENAGO EV NOMAD - Chesapeake Golf Cart",
       series: "EV NOMAD",
       image: denagoEvNomadImage,
       price: "$8,495",
@@ -102,7 +99,7 @@ export default function DenagoPage() {
       specs: { seats: "4", range: "45 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV NOMAD XL",
+      name: "DENAGO EV NOMAD XL - Chesapeake Golf Cart",
       series: "EV NOMAD",
       image: denagoEvNomadXLImage,
       price: "$8,495",
@@ -110,7 +107,7 @@ export default function DenagoPage() {
       specs: { seats: "4", range: "55 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV ROVER XL",
+      name: "DENAGO EV ROVER XL - Chesapeake Golf Cart",
       series: "EV ROVER",
       image: denagoEvRoverXLImage,
       price: "$9,995",
@@ -118,7 +115,7 @@ export default function DenagoPage() {
       specs: { seats: "6", range: "50 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV ROVER XL6",
+      name: "DENAGO EV ROVER XL6 - Chesapeake Golf Cart",
       series: "EV ROVER",
       image: denagoEvRoverXL6Image,
       price: "$11,995",
@@ -126,7 +123,7 @@ export default function DenagoPage() {
       specs: { seats: "6", range: "50 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV ROVER XXL",
+      name: "DENAGO EV ROVER XXL - Chesapeake Golf Cart",
       series: "EV ROVER",
       image: denagoEvRoverXXLImage,
       price: "$11,995",
@@ -138,10 +135,10 @@ export default function DenagoPage() {
   return (
     <>
       <SEOHead 
-        title="DENAGO®"
-        description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 804-210-6567."
-        keywords="DENAGO golf carts Gloucester, electric golf carts Virginia, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
-        canonicalUrl="https://gloucestergolfcarts.com/denago"
+        title="DENAGO® Golf Carts - Chesapeake Golf Carts"
+        description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 757-555-1234."
+        keywords="DENAGO golf carts Chesapeake, electric golf carts Virginia, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
+        canonicalUrl="https://chesapeakegolfcarts.com/denago"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg"
         ogType="product.group"
         ogImageWidth={1200}
@@ -163,13 +160,13 @@ export default function DenagoPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the ultimate in electric off-road performance. DENAGO vehicles combine cutting-edge 
-              technology with rugged durability for unmatched adventure capability in Gloucester County, Virginia.
+              technology with rugged durability for unmatched adventure capability in the City of Chesapeake, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
               <Link href="/inventory">
@@ -193,7 +190,7 @@ export default function DenagoPage() {
                   DENAGO represents the pinnacle of electric vehicle engineering, combining innovative 
                   all-wheel drive technology with premium comfort features. Each DENAGO is built to 
                   exceed expectations on any terrain while delivering exceptional reliability for 
-                  Gloucester County's diverse waterfront and suburban landscapes.
+                  Chesapeake's diverse waterfront and suburban landscapes.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {denagoFeatures.map((feature, index) => (
@@ -227,7 +224,7 @@ export default function DenagoPage() {
                 DENAGO Vehicle Series
               </h2>
               <p className="text-xl text-gray-600">
-                Discover the complete lineup of DENAGO electric vehicles available in Bucks County
+                Discover the complete lineup of DENAGO electric vehicles available in Chesapeake
               </p>
             </div>
 
@@ -283,7 +280,7 @@ export default function DenagoPage() {
                 Complete DENAGO Vehicle Lineup
               </h2>
               <p className="text-xl text-gray-600">
-                Explore all 6 DENAGO electric vehicle models available in Atlantic County
+                Explore all 6 DENAGO electric vehicle models available in the City of Chesapeake
               </p>
             </div>
 
@@ -334,7 +331,7 @@ export default function DenagoPage() {
                       ))}
                     </div>
                     <div className="flex flex-col gap-3">
-                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-')}`}>
+                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace(/ - chesapeake golf cart/g, '')}`}>
                         <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                           View Details
                         </Button>
@@ -375,7 +372,7 @@ export default function DenagoPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose DENAGO in Gloucester County?
+                Why Choose DENAGO in the City of Chesapeake?
               </h2>
             </div>
 
@@ -402,7 +399,7 @@ export default function DenagoPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Service</h3>
                 <p className="text-gray-600">
-                  Expert DENAGO service and support right here in Gloucester County with 
+                  Expert DENAGO service and support right here in the City of Chesapeake with 
                   genuine parts and factory-trained technicians.
                 </p>
               </div>
@@ -417,14 +414,14 @@ export default function DenagoPage() {
               Ready to Experience DENAGO?
             </h2>
             <p className="text-xl mb-8">
-              Contact Gloucester Golf Carts today to schedule a test drive or learn more 
+              Contact Chesapeake Golf Carts today to schedule a test drive or learn more 
               about DENAGO's revolutionary electric vehicle technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
               <Link href="/contact">

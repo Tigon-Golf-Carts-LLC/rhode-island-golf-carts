@@ -1,5 +1,5 @@
-// Background image utility for Gloucester Golf Carts
-// Uses the 8 professional images featuring Gloucester Golf Carts in Virginia
+// Background image utility for Chesapeake Golf Carts
+// Uses the 8 professional images featuring Chesapeake Golf Carts in Virginia
 
 const BACKGROUND_IMAGES = [
   '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts_1761674623462.jpeg',
@@ -12,30 +12,21 @@ const BACKGROUND_IMAGES = [
   '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 8_1761674623464.jpeg'
 ];
 
-// Simple hash function to ensure consistent randomization based on seed
 function simpleHash(str: string): number {
   let hash = 0;
   for (let i = 0; i < str.length; i++) {
     const char = str.charCodeAt(i);
     hash = ((hash << 5) - hash) + char;
-    hash = hash & hash; // Convert to 32-bit integer
+    hash = hash & hash;
   }
   return Math.abs(hash);
 }
 
-/**
- * Gets a consistent random background image based on a seed string
- * This ensures the same page always gets the same image, but different pages get different images
- */
 export function getRandomBackgroundImage(seed: string): string {
   const index = simpleHash(seed) % BACKGROUND_IMAGES.length;
   return BACKGROUND_IMAGES[index];
 }
 
-/**
- * Gets the background style object for hero sections
- * Includes overlay for text readability
- */
 export function getHeroBackgroundStyle(seed: string): React.CSSProperties {
   const image = getRandomBackgroundImage(seed);
   return {
@@ -46,9 +37,6 @@ export function getHeroBackgroundStyle(seed: string): React.CSSProperties {
   };
 }
 
-/**
- * Gets a lighter background style for vehicle pages and other content sections
- */
 export function getLightBackgroundStyle(seed: string): React.CSSProperties {
   const image = getRandomBackgroundImage(seed);
   return {
@@ -59,9 +47,6 @@ export function getLightBackgroundStyle(seed: string): React.CSSProperties {
   };
 }
 
-/**
- * Gets background style for call-to-action sections
- */
 export function getCTABackgroundStyle(seed: string): React.CSSProperties {
   const image = getRandomBackgroundImage(seed);
   return {

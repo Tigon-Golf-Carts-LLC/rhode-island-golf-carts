@@ -8,7 +8,6 @@ import SEOHead from "@/components/SEOHead";
 import VehicleCard from "@/components/VehicleCard";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
-// Import EVOLUTION vehicle images
 import evolutionD5Ranger6Image from "@assets/EVOLUTIOND5RANGER6_1751893159004_1753135350623.jpg";
 import evolutionD5Ranger4PlusImage from "@assets/EVOLUTIOND5RANGER4PLUS_1751893115782_1753135350622.jpg";
 import evolutionForester4PlusImage from "@assets/EVOLUTIONFORESTER4PLUS_1751893159005_1753135437836.jpg";
@@ -44,7 +43,6 @@ export default function EvolutionPage() {
     queryKey: ["/api/vehicles"],
   });
 
-  // Filter EVOLUTION vehicles
   const evolutionVehicles = vehicles?.filter(vehicle => 
     vehicle.brand.toLowerCase().includes('evolution')
   ) || [];
@@ -117,10 +115,9 @@ export default function EvolutionPage() {
     }
   ];
 
-  // All EVOLUTION vehicles for complete lineup section - matching DENAGO layout
   const allEvolutionVehicles = [
     {
-      name: "EVOLUTION D5 RANGER 4 PLUS",
+      name: "EVOLUTION D5 RANGER 4 PLUS - Chesapeake Golf Cart",
       series: "D5 RANGER",
       price: "$9,595",
       image: evolutionD5Ranger4PlusImage,
@@ -137,7 +134,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION D5 RANGER 6 PLUS",
+      name: "EVOLUTION D5 RANGER 6 PLUS - Chesapeake Golf Cart",
       series: "D5 RANGER", 
       price: "$11,595",
       image: evolutionD5Ranger6Image,
@@ -154,7 +151,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION D5 MAVERICK 4 PLUS",
+      name: "EVOLUTION D5 MAVERICK 4 PLUS - Chesapeake Golf Cart",
       series: "D5 MAVERICK",
       price: "$9,995", 
       image: evolutionD5Maverick4PlusImage,
@@ -171,7 +168,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION CLASSIC 4 PLUS",
+      name: "EVOLUTION CLASSIC 4 PLUS - Chesapeake Golf Cart",
       series: "CLASSIC",
       price: "$6,995",
       image: evolutionClassic4PlusImage,
@@ -188,7 +185,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION CARRIER 6 PLUS", 
+      name: "EVOLUTION CARRIER 6 PLUS - Chesapeake Golf Cart", 
       series: "CARRIER",
       price: "$9,595",
       image: evolutionCarrier6PlusImage,
@@ -205,7 +202,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION D6 MAX XT4",
+      name: "EVOLUTION D6 MAX XT4 - Chesapeake Golf Cart",
       series: "D6 MAX",
       price: "$15,595",
       image: evolutionD6MaxXT4Image,
@@ -226,10 +223,10 @@ export default function EvolutionPage() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION®"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Gloucester County, VA. Call 804-210-6567."
-        keywords="EVOLUTION golf carts Gloucester, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
-        canonicalUrl="https://gloucestergolfcarts.com/evolution"
+        title="EVOLUTION® Golf Carts - Chesapeake Golf Carts"
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Chesapeake, VA. Call 757-555-1234."
+        keywords="EVOLUTION golf carts Chesapeake, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
+        canonicalUrl="https://chesapeakegolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="product.group"
         ogImageWidth={1200}
@@ -251,13 +248,13 @@ export default function EvolutionPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the evolution of electric vehicle excellence. EVOLUTION golf carts deliver 
-              premium quality, innovative design, and reliable performance for Gloucester County, Virginia.
+              premium quality, innovative design, and reliable performance for the City of Chesapeake, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
               <Link href="/inventory">
@@ -281,7 +278,7 @@ export default function EvolutionPage() {
                   EVOLUTION represents the perfect balance of innovation, quality, and value in 
                   electric vehicle manufacturing. With a comprehensive lineup ranging from classic 
                   golf carts to high-performance utility vehicles, EVOLUTION delivers solutions 
-                  for every need in Gloucester County's diverse waterfront and suburban communities.
+                  for every need in Chesapeake's diverse waterfront and suburban communities.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {evolutionFeatures.map((feature, index) => (
@@ -315,7 +312,7 @@ export default function EvolutionPage() {
                 Complete EVOLUTION Lineup
               </h2>
               <p className="text-xl text-gray-600">
-                Discover the full range of EVOLUTION electric vehicles available in Atlantic County
+                Discover the full range of EVOLUTION electric vehicles available in the City of Chesapeake
               </p>
             </div>
 
@@ -381,7 +378,7 @@ export default function EvolutionPage() {
                 Complete EVOLUTION Vehicle Lineup  
               </h2>
               <p className="text-xl text-gray-600">
-                Explore all 6 EVOLUTION electric vehicle models available in Atlantic County
+                Explore all 6 EVOLUTION electric vehicle models available in the City of Chesapeake
               </p>
             </div>
 
@@ -432,7 +429,7 @@ export default function EvolutionPage() {
                       ))}
                     </div>
                     <div className="grid grid-cols-2 gap-2">
-                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace('evolution-', '')}`}>
+                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace('evolution-', '').replace(/ - chesapeake golf cart/g, '')}`}>
                         <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white text-sm">
                           View Details
                         </Button>
@@ -455,7 +452,7 @@ export default function EvolutionPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose EVOLUTION in Gloucester County?
+                Why Choose EVOLUTION in the City of Chesapeake?
               </h2>
             </div>
 
@@ -491,7 +488,7 @@ export default function EvolutionPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Support</h3>
                 <p className="text-gray-600">
-                  Expert EVOLUTION service and genuine parts support right here in Gloucester County 
+                  Expert EVOLUTION service and genuine parts support right here in the City of Chesapeake 
                   with factory-trained technicians and comprehensive warranties.
                 </p>
               </div>
@@ -506,14 +503,14 @@ export default function EvolutionPage() {
               Ready to Experience EVOLUTION?
             </h2>
             <p className="text-xl mb-8">
-              Contact Gloucester Golf Carts today to explore the complete EVOLUTION lineup 
+              Contact Chesapeake Golf Carts today to explore the complete EVOLUTION lineup 
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
               <Link href="/contact">

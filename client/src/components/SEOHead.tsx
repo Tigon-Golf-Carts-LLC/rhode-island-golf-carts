@@ -16,7 +16,7 @@ interface SEOHeadProps {
 export default function SEOHead({ 
   title, 
   description, 
-  keywords = "golf carts, Pike County, electric golf carts, golf cart sales, golf cart service", 
+  keywords = "golf carts, Chesapeake, electric golf carts, golf cart sales, golf cart service", 
   canonicalUrl,
   townName,
   ogImage,
@@ -26,7 +26,7 @@ export default function SEOHead({
   heroBackgroundImage
 }: SEOHeadProps) {
   // Use hero background image if provided, otherwise fallback to logo
-  const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Pike County Golf Carts (2)_1756138898367.png";
+  const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png";
   useEffect(() => {
     // Set page title
     document.title = title;
@@ -69,23 +69,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Pike County Golf Carts (2)_1756138898367.png");
+      existingFavicon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png";
+      favicon.href = "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Pike County Golf Carts (2)_1756138898367.png");
+      existingAppleIcon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Pike County Golf Carts (2)_1756138898367.png";
+      appleIcon.href = "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -105,10 +105,10 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://pikecountygolfcarts.com${finalOgImage}`);
+    updateOGTag("og:image", `https://chesapeakegolfcarts.com${finalOgImage}`);
     updateOGTag("og:image:width", ogImageWidth.toString());
     updateOGTag("og:image:height", ogImageHeight.toString());
-    updateOGTag("og:site_name", "Pike County Golf Carts");
+    updateOGTag("og:site_name", "Chesapeake Golf Carts");
     updateOGTag("og:locale", "en_US");
     if (canonicalUrl) {
       updateOGTag("og:url", canonicalUrl);
@@ -130,34 +130,34 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://pikecountygolfcarts.com${finalOgImage}`);
-    updateTwitterTag("twitter:site", "@lehighgolfcarts");
-    updateTwitterTag("twitter:creator", "@lehighgolfcarts");
+    updateTwitterTag("twitter:image", `https://chesapeakegolfcarts.com${finalOgImage}`);
+    updateTwitterTag("twitter:site", "@chesapeakegolfcarts");
+    updateTwitterTag("twitter:creator", "@chesapeakegolfcarts");
 
     // Structured Data (JSON-LD)
     if (townName) {
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `Pike County Golf Carts - ${townName}`,
+        "name": `Chesapeake Golf Carts - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
           "addressLocality": townName,
-          "addressRegion": "PA",
+          "addressRegion": "VA",
           "addressCountry": "US"
         },
-        "telephone": "570-535-1535",
-        "email": "info@pikecountygolfcarts.com",
+        "telephone": "757-555-1234",
+        "email": "sales@chesapeakegolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-        "image": `https://pikecountygolfcarts.com${finalOgImage}`,
+        "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+        "image": `https://chesapeakegolfcarts.com${finalOgImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {
             "@type": "GeoCoordinates",
-            "latitude": "41.3020",
-            "longitude": "-75.0418"
+            "latitude": "36.7682",
+            "longitude": "-76.2875"
           },
           "geoRadius": "50000"
         },

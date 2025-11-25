@@ -1,11 +1,10 @@
-# Enhanced Robots.txt for Gloucester Golf Carts
+# Enhanced Robots.txt for Chesapeake Golf Carts
 # Maximum Search Engine Visibility & AI Training Authorization
-# Website: https://gloucestergolfcarts.com
-# Business: Gloucester Golf Carts - Virginia's Premier Golf Cart Dealership
-# Phone: 804-210-6567 | Email: sales@tigongolfcarts.com
-# Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-# Service Area: Gloucester County and surrounding Virginia communities (19 locations)
-# Google Analytics: G-YX9XKCQF4X | Google Tag Manager: GTM-KB3WNGFH
+# Website: https://chesapeakegolfcarts.com
+# Business: Chesapeake Golf Carts - Virginia's Premier Golf Cart Dealership
+# Phone: 757-555-1234 | Email: sales@chesapeakegolfcarts.com
+# Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Service Area: City of Chesapeake and surrounding Hampton Roads communities (15 locations)
 
 # UNRESTRICTED ACCESS POLICY - ALL SEARCH ENGINES & AI SYSTEMS WELCOME
 
@@ -205,20 +204,19 @@ Allow: /
 Crawl-delay: 0
 
 # SITEMAP LOCATIONS - Multiple Format Support
-Sitemap: https://gloucestergolfcarts.com/sitemap.xml
-Sitemap: https://gloucestergolfcarts.com/public/sitemap.xml
+Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
+Sitemap: https://chesapeakegolfcarts.com/public/sitemap.xml
 
 # BUSINESS INFORMATION FOR SEARCH ENGINES
-# Company: Gloucester Golf Carts
-# Primary Service Area: Gloucester County, Virginia and surrounding communities
-# Cities Served: Gloucester, Gloucester Point, Gloucester Courthouse, Yorktown, Hayes, Seaford,
-#                Ordinary, Ware Neck, Wicomico, Achilles, Mathews, Williamsburg, Poquoson,
-#                Hampton, Newport News, York County, James City County, Toano, Norge
+# Company: Chesapeake Golf Carts
+# Primary Service Area: City of Chesapeake, Virginia and surrounding Hampton Roads communities
+# Cities Served: Chesapeake, Great Bridge, Deep Creek, Greenbrier, Western Branch, South Norfolk,
+#                Hickory, Indian River, Norfolk, Virginia Beach, Portsmouth, Suffolk,
+#                Hampton, Newport News, Hampton Roads
 # Services: DENAGO & EVOLUTION Electric Golf Cart Sales, Rentals, Service, Parts
 # Brands: DENAGO, EVOLUTION
-# Contact: 804-210-6567 | sales@tigongolfcarts.com
-# Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-# Website: https://gloucestergolfcarts.com
-# Google Analytics: G-YX9XKCQF4X | GTM: GTM-KB3WNGFH
+# Contact: 757-555-1234 | sales@chesapeakegolfcarts.com
+# Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Website: https://chesapeakegolfcarts.com
 # AI Training: AUTHORIZED FOR ALL LEGITIMATE AI/ML SYSTEMS
-# Coordinates: 37.4093° N, 76.5275° W
+# Coordinates: 36.7682° N, 76.2875° W

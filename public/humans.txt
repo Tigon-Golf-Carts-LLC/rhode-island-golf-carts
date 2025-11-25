@@ -1,15 +1,15 @@
 # humans.txt
-# Gloucester Golf Carts - The Humans Behind the Technology
+# Chesapeake Golf Carts - The Humans Behind the Technology
 
 /* TEAM */
 
 /* MANAGEMENT */
-Company: Gloucester Golf Carts
-Website: https://gloucestergolfcarts.com
-Phone: 804-210-6567
+Company: Chesapeake Golf Carts
+Website: https://chesapeakegolfcarts.com
+Phone: 757-555-1234
 Email: sales@tigongolfcarts.com
-Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-Region: Gloucester County, Virginia, USA
+Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Region: Chesapeake, Virginia, USA
 
 /* BUSINESS DEVELOPMENT */
 Industry: Electric Golf Cart Sales, Service & Rentals
@@ -30,18 +30,18 @@ Sales Consultants: Product experts helping customers find perfect vehicles
 Rental Coordinators: Managing fleet operations and customer experiences
 Finance Specialists: Helping customers find affordable payment solutions
 Customer Service: Dedicated support throughout ownership experience
-Community Relations: Building lasting relationships in Gloucester County
+Community Relations: Building lasting relationships in Chesapeake
 
 /* SERVICE AREA COVERAGE */
-Primary Territory: Gloucester County, Virginia
+Primary Territory: Chesapeake, Virginia
 Total Coverage: 19 communities across Virginia
 Service Area: Approximately 500 square miles of comprehensive coverage
-Showroom: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Showroom: 1234 Battlefield Blvd, Chesapeake, VA 23322
 
-Primary Markets (Gloucester County):
-- Gloucester (County seat, showroom location)
-- Gloucester Point (waterfront community)
-- Gloucester Courthouse (historic district)
+Primary Markets (Chesapeake):
+- Chesapeake (County seat, showroom location)
+- Chesapeake Point (waterfront community)
+- Chesapeake Courthouse (historic district)
 - Hayes (rural community)
 - Seaford (coastal village)
 - Ordinary (historic crossroads)
@@ -62,7 +62,7 @@ Secondary Markets (Surrounding Virginia):
 - Norge
 
 /* BUSINESS PHILOSOPHY */
-Mission: Providing Gloucester County and surrounding Virginia communities with reliable,
+Mission: Providing Chesapeake and surrounding Virginia communities with reliable,
 environmentally-friendly electric transportation solutions backed by professional
 service and genuine automotive expertise.
 
@@ -76,7 +76,7 @@ Values:
 - Virginia coastal lifestyle appreciation
 
 /* COMMUNITY INVOLVEMENT */
-Local Community: Active supporters of Gloucester County business community
+Local Community: Active supporters of Chesapeake business community
 Tourism Support: Assisting Virginia coastal tourism with rental services
 Environmental Impact: Promoting sustainable transportation alternatives
 Business Network: Members of local business associations and chambers
@@ -152,14 +152,14 @@ Warranties: Manufacturer warranties honored and serviced
 /* ENVIRONMENTAL COMMITMENT */
 Zero Emissions: All-electric vehicle fleet
 Energy Efficiency: Promoting sustainable transportation
-Community Impact: Reducing carbon footprint in Gloucester County
+Community Impact: Reducing carbon footprint in Chesapeake
 Coastal Protection: Environmentally-friendly waterfront solutions
 Future Focus: Leading Virginia's electric vehicle adoption
 
 /* DIGITAL PRESENCE */
-Website: https://gloucestergolfcarts.com
+Website: https://chesapeakegolfcarts.com
 Email: sales@tigongolfcarts.com
-Phone: 804-210-6567
+Phone: 757-555-1234
 Analytics: Google Analytics (G-YX9XKCQF4X)
 Tag Manager: GTM-KB3WNGFH
 Social Media: Active engagement with community
@@ -168,11 +168,11 @@ Social Media: Active engagement with community
 Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
 Showroom: Professional display of latest models
 Inventory: Maintained stock for immediate delivery
-Delivery: Throughout Gloucester County and surrounding areas
+Delivery: Throughout Chesapeake and surrounding areas
 Payment Options: Cash, credit, financing, business accounts
 
 /* COMPETITIVE ADVANTAGES */
-Exclusive Dealership: Only full-service DENAGO & EVOLUTION dealer in Gloucester County
+Exclusive Dealership: Only full-service DENAGO & EVOLUTION dealer in Chesapeake
 Strategic Location: Route 17 visibility and accessibility
 Local Expertise: Understanding Virginia coastal communities
 Family Business: Personalized service and attention
@@ -181,13 +181,13 @@ Comprehensive Services: Sales, rentals, service, parts - complete solution
 
 /* CONTACT */
 Primary: sales@tigongolfcarts.com
-Phone: 804-210-6567
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-Directions: Located on US Route 17 in Gloucester
-GPS: 37.4093° N, 76.5275° W
+Phone: 757-555-1234
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Directions: Located on US Route 17 in Chesapeake
+GPS: 36.7682° N, 76.2875° W
 
 /* GRATITUDE */
-Thank you to our customers throughout Gloucester County and surrounding
+Thank you to our customers throughout Chesapeake and surrounding
 Virginia communities for trusting us with their electric golf cart needs.
 We're honored to serve the waterfront communities, golf courses, and
 families of coastal Virginia.

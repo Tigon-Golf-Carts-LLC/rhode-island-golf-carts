@@ -5,57 +5,57 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://gloucestergolfcarts.com/</loc>
+    <loc>https://chesapeakegolfcarts.com/</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://gloucestergolfcarts.com/attached_assets/Gloucester%20Golf%20Carts%20-%20Transparent_1761674039270.png</image:loc>
-      <image:title>Gloucester Golf Carts - Premium Golf Cart Dealer Virginia</image:title>
-      <image:caption>Gloucester Golf Carts logo featuring lighthouse design for Virginia's premier golf cart dealership</image:caption>
-      <image:geo_location>Gloucester, Virginia</image:geo_location>
+      <image:loc>https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png</image:loc>
+      <image:title>Chesapeake Golf Carts - Premium Golf Cart Dealer Virginia</image:title>
+      <image:caption>Chesapeake Golf Carts logo for Virginia's premier golf cart dealership</image:caption>
+      <image:geo_location>Chesapeake, Virginia</image:geo_location>
     </image:image>
   </url>
 
   <!-- Main Pages -->
   <url>
-    <loc>https://gloucestergolfcarts.com/inventory</loc>
+    <loc>https://chesapeakegolfcarts.com/inventory</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/rentals</loc>
+    <loc>https://chesapeakegolfcarts.com/rentals</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/services</loc>
+    <loc>https://chesapeakegolfcarts.com/services</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/about</loc>
+    <loc>https://chesapeakegolfcarts.com/about</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/contact</loc>
+    <loc>https://chesapeakegolfcarts.com/contact</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/showroom</loc>
+    <loc>https://chesapeakegolfcarts.com/showroom</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/eco-impact</loc>
+    <loc>https://chesapeakegolfcarts.com/eco-impact</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -63,13 +63,13 @@
 
   <!-- Brand Pages -->
   <url>
-    <loc>https://gloucestergolfcarts.com/denago</loc>
+    <loc>https://chesapeakegolfcarts.com/denago</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/evolution</loc>
+    <loc>https://chesapeakegolfcarts.com/evolution</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -77,37 +77,37 @@
 
   <!-- Vehicle Model Pages - DENAGO Models -->
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/denago-ev-city</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-city</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/denago-ev-nomad</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/denago-ev-nomad-xl</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad-xl</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/denago-ev-rover-xl</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xl</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/denago-ev-rover-xl6</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xl6</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/denago-ev-rover-xxl</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xxl</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -115,233 +115,209 @@
 
   <!-- Vehicle Model Pages - Evolution Models -->
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/evolution-d5-ranger-4-plus</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d5-ranger-4-plus</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/evolution-d5-ranger-6-plus</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d5-ranger-6-plus</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/evolution-d5-maverick-4-plus</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-4-plus</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/evolution-classic-4-plus</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/evolution-classic-4-plus</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/evolution-carrier-6-plus</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/evolution-carrier-6-plus</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/vehicles/evolution-d6-max-xt4</loc>
+    <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d6-max-xt4</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Location Pages - All Gloucester Area Cities -->
+  <!-- Location Pages - All Chesapeake & Hampton Roads Cities -->
   <url>
-    <loc>https://gloucestergolfcarts.com/gloucester-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/chesapeake-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/gloucester-point-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/great-bridge-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/gloucester-courthouse-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/deep-creek-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/yorktown-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/greenbrier-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/hayes-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/western-branch-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/seaford-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/south-norfolk-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/ordinary-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/hickory-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/ware-neck-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/indian-river-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/wicomico-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gloucestergolfcarts.com/achilles-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gloucestergolfcarts.com/mathews-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gloucestergolfcarts.com/williamsburg-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/norfolk-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/poquoson-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gloucestergolfcarts.com/hampton-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/virginia-beach-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/newport-news-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/portsmouth-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/york-county-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/suffolk-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/james-city-county-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/hampton-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/toano-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/newport-news-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/norge-golf-carts</loc>
+    <loc>https://chesapeakegolfcarts.com/hampton-roads-golf-carts</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <!-- Policy Pages -->
   <url>
-    <loc>https://gloucestergolfcarts.com/privacy</loc>
+    <loc>https://chesapeakegolfcarts.com/privacy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/terms</loc>
+    <loc>https://chesapeakegolfcarts.com/terms</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/terms-conditions</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/terms-conditions</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/return-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/return-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/delivery-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/delivery-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/rental-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/rental-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/storage-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/storage-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/publishing-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/publishing-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/feedback-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/feedback-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/corrections-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/corrections-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/diversity-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/diversity-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/ethics-policy</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/ethics-policy</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://gloucestergolfcarts.com/policies/staffing-report</loc>
+    <loc>https://chesapeakegolfcarts.com/policies/staffing-report</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

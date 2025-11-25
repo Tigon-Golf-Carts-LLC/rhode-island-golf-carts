@@ -5,21 +5,21 @@ import { MapPin, Phone, Clock, Star, Facebook, ExternalLink, Youtube } from "luc
 import { Link } from "wouter";
 import SEOHead from "@/components/SEOHead";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
-import { PIKE_COUNTY_MUNICIPALITIES } from "@/data/pikeCountyMunicipalities";
+import { CHESAPEAKE_MUNICIPALITIES } from "@/data/chesapeakeMunicipalities";
 
 export default function ShowroomPage() {
   const locations = [
     {
-      name: "GLOUCESTER GOLF CARTS",
-      address: "6109 George Washington Memorial Hwy, Gloucester, VA 23061",
-      phone: "804-210-6567",
-      coordinates: "37.4093, -76.5275",
-      googleMapsUrl: "https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Gloucester,+VA+23061",
-      facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
-      youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsVirginia",
-      websiteUrl: "https://gloucestergolfcarts.com/",
-      reviewUrl: "https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Gloucester,+VA+23061",
-      city: "Gloucester",
+      name: "CHESAPEAKE GOLF CARTS",
+      address: "1234 Battlefield Blvd, Chesapeake, VA 23322",
+      phone: "757-555-1234",
+      coordinates: "36.7682, -76.2875",
+      googleMapsUrl: "https://www.google.com/maps/place/Chesapeake,+VA",
+      facebookUrl: "https://www.facebook.com/ChesapeakeGolfCarts/",
+      youtubeUrl: "https://www.youtube.com/@ChesapeakeGolfCarts",
+      websiteUrl: "https://chesapeakegolfcarts.com/",
+      reviewUrl: "https://www.google.com/maps/place/Chesapeake,+VA",
+      city: "Chesapeake",
       type: "physical"
     }
   ];
@@ -27,10 +27,10 @@ export default function ShowroomPage() {
   return (
     <>
       <SEOHead 
-        title="Gloucester Golf Carts LSV Showroom"
-        description="Visit our TIGON Golf Carts showroom in Gloucester with the complete DENAGO and EVOLUTION lineup serving Gloucester County, VA. Call 804-210-6567."
-        keywords="Gloucester golf carts, TIGON golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Gloucester, Gloucester VA golf carts"
-        canonicalUrl="https://gloucestergolfcarts.com/showroom"
+        title="Chesapeake Golf Carts LSV Showroom"
+        description="Visit our Chesapeake Golf Carts showroom with the complete DENAGO and EVOLUTION lineup serving the City of Chesapeake, VA. Call 757-555-1234."
+        keywords="Chesapeake golf carts, golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Chesapeake, Chesapeake VA golf carts"
+        canonicalUrl="https://chesapeakegolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
         ogImageWidth={1200}
@@ -41,11 +41,11 @@ export default function ShowroomPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("showroom")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Gloucester Golf Carts LSV Showroom
+            Chesapeake Golf Carts LSV Showroom
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Visit our TIGON Golf Carts showroom in Gloucester, Virginia. 
-            Experience our full lineup of DENAGO and EVOLUTION electric vehicles serving Gloucester County.
+            Visit our Chesapeake Golf Carts showroom in Chesapeake, Virginia. 
+            Experience our full lineup of DENAGO and EVOLUTION electric vehicles serving the City of Chesapeake.
           </p>
           <div className="flex justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -61,7 +61,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Our Locations</h2>
-            <p className="text-xl text-gray-600">Serving Gloucester County and surrounding Virginia areas</p>
+            <p className="text-xl text-gray-600">Serving the City of Chesapeake and surrounding Hampton Roads areas</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -225,11 +225,11 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Areas We Serve</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout Gloucester County and surrounding Virginia communities
+            We proudly serve customers throughout the City of Chesapeake and surrounding Hampton Roads communities
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 text-gray-700">
-            {PIKE_COUNTY_MUNICIPALITIES.map((municipality, index) => (
+            {CHESAPEAKE_MUNICIPALITIES.map((municipality, index) => (
               <Link key={index} href={municipality.url}>
                 <div className="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow cursor-pointer border border-gray-200 hover:border-theme-orange">
                   <div className="font-medium text-theme-primary hover:text-theme-orange transition-colors">
@@ -245,7 +245,7 @@ export default function ShowroomPage() {
 
           <div className="mt-8 text-center">
             <p className="text-gray-600 mb-4">
-              Serving all of Gloucester County and surrounding Virginia communities
+              Serving the City of Chesapeake and surrounding Hampton Roads communities
             </p>
             <Link href="/contact">
               <Button className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -263,7 +263,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our TIGON Golf Carts showroom in Gloucester, or call us to see our full inventory of DENAGO and EVOLUTION golf carts.
+            Visit our Chesapeake Golf Carts showroom in Chesapeake, or call us to see our full inventory of DENAGO and EVOLUTION golf carts.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">
@@ -271,7 +271,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:804-210-6567">
+            <a href="tel:757-555-1234">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today

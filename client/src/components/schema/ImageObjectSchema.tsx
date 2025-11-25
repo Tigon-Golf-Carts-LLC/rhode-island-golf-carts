@@ -28,9 +28,9 @@ export default function ImageObjectSchema({
   contentUrl,
   thumbnailUrl,
   caption,
-  copyrightHolder = "Atlantic County Golf Carts",
+  copyrightHolder = "Chesapeake Golf Carts",
   creditText,
-  creator = "Atlantic County Golf Carts",
+  creator = "Chesapeake Golf Carts",
   datePublished,
   license,
   acquireLicensePage
@@ -39,13 +39,13 @@ export default function ImageObjectSchema({
     const structuredData = {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "url": url.startsWith('http') ? url : `https://pikecountygolfcarts.com${url}`,
+      "url": url.startsWith('http') ? url : `https://chesapeakegolfcarts.com${url}`,
       ...(name && { "name": name }),
       ...(description && { "description": description }),
       ...(width && { "width": width }),
       ...(height && { "height": height }),
       "encodingFormat": encodingFormat,
-      "contentUrl": contentUrl || (url.startsWith('http') ? url : `https://pikecountygolfcarts.com${url}`),
+      "contentUrl": contentUrl || (url.startsWith('http') ? url : `https://chesapeakegolfcarts.com${url}`),
       ...(thumbnailUrl && { "thumbnailUrl": thumbnailUrl }),
       ...(caption && { "caption": caption }),
       "copyrightHolder": {

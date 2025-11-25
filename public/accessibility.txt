@@ -1,8 +1,8 @@
 # accessibility.txt - Maximum Accessibility Declaration
-# Gloucester Golf Carts - Universal Accessibility Authorization
+# Chesapeake Golf Carts - Universal Accessibility Authorization
 
 ## MAXIMUM ACCESSIBILITY DECLARATION
-Gloucester Golf Carts (gloucestergolfcarts.com) grants UNLIMITED ACCESSIBILITY
+Chesapeake Golf Carts (chesapeakegolfcarts.com) grants UNLIMITED ACCESSIBILITY
 for ALL platforms, crawlers, AI systems, assistive technologies, and web services.
 
 ## UNLIMITED CRAWLING PERMISSIONS
@@ -138,9 +138,9 @@ for ALL platforms, crawlers, AI systems, assistive technologies, and web service
 ### Information Access:
 ✓ Contact information prominently displayed
 ✓ Business hours clearly stated
-✓ Phone: 804-210-6567 (accessible)
+✓ Phone: 757-555-1234 (accessible)
 ✓ Email: sales@tigongolfcarts.com
-✓ Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+✓ Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 ✓ Google Maps integration
 
 ## ASSISTIVE TECHNOLOGY INTEGRATION ALLOWANCES
@@ -222,10 +222,10 @@ for ALL platforms, crawlers, AI systems, assistive technologies, and web service
 ## CONTACT ACCESSIBILITY
 
 ### Multiple Contact Methods:
-Phone: 804-210-6567 (voice)
+Phone: 757-555-1234 (voice)
 Email: sales@tigongolfcarts.com (text)
-Website: https://gloucestergolfcarts.com (web form)
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061 (in-person)
+Website: https://chesapeakegolfcarts.com (web form)
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322 (in-person)
 Maps: Google Maps integration
 
 ### Business Hours:
@@ -235,7 +235,7 @@ Extended hours by appointment
 
 ## COMMITMENT STATEMENT
 
-Gloucester Golf Carts is committed to:
+Chesapeake Golf Carts is committed to:
 - Universal accessibility for all users
 - Continuous improvement of accessibility features
 - Compliance with accessibility standards
@@ -255,6 +255,6 @@ This website and all content is:
 
 Contact for accessibility concerns:
 Email: sales@tigongolfcarts.com
-Phone: 804-210-6567
+Phone: 757-555-1234
 
 Last Updated: January 2025

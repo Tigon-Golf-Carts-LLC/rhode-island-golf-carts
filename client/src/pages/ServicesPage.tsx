@@ -87,23 +87,23 @@ export default function ServicesPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Gloucester Golf Cart Services - Expert Maintenance & Repair in VA"
-        description="Professional golf cart maintenance, repair, customization, and warranty services in Gloucester County, Virginia. Certified technicians, quality parts, and comprehensive care."
-        keywords="golf cart service Gloucester VA, golf cart repair Virginia, golf cart maintenance, battery service, customization"
-        canonicalUrl="https://gloucestergolfcarts.com/services"
+        title="Chesapeake Golf Cart Services - Expert Maintenance & Repair in VA"
+        description="Professional golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia. Certified technicians, quality parts, and comprehensive care."
+        keywords="golf cart service Chesapeake VA, golf cart repair Virginia, golf cart maintenance, battery service, customization"
+        canonicalUrl="https://chesapeakegolfcarts.com/services"
       />
       <AllSchemas 
         pageType="services" 
         pageData={{
-          title: "Gloucester Golf Cart Services",
-          description: "Professional golf cart maintenance, repair, customization, and warranty services in Gloucester County, Virginia. Certified technicians, quality parts, and comprehensive care.",
-          url: "https://gloucestergolfcarts.com/services",
+          title: "Chesapeake Golf Cart Services",
+          description: "Professional golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia. Certified technicians, quality parts, and comprehensive care.",
+          url: "https://chesapeakegolfcarts.com/services",
           breadcrumbs: [
-            { name: "Home", url: "https://gloucestergolfcarts.com/" },
-            { name: "Services", url: "https://gloucestergolfcarts.com/services" }
+            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
+            { name: "Services", url: "https://chesapeakegolfcarts.com/services" }
           ],
           serviceName: "Golf Cart Services",
-          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in Gloucester County, Virginia",
+          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia",
           serviceOffers: [
             { price: "Contact for pricing", description: "Maintenance & Repair Services" },
             { price: "Contact for pricing", description: "Battery Service & Replacement" },
@@ -117,10 +117,10 @@ export default function ServicesPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("services")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-              Golf Cart Services in Gloucester County
+              Golf Cart Services in the City of Chesapeake
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Professional maintenance, repair, and customization services for all golf cart brands throughout Gloucester County, Virginia.
+              Professional maintenance, repair, and customization services for all golf cart brands throughout the City of Chesapeake, Virginia.
             </p>
           <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
             Schedule Service
@@ -216,15 +216,15 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Service Areas</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout Gloucester County and surrounding Virginia areas
+            We proudly serve customers throughout the City of Chesapeake and surrounding Hampton Roads areas
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">
             {[
-              "Gloucester", "Gloucester Point", "Yorktown", "Hayes",
-              "Gloucester Courthouse", "Ordinary", "Achilles", "Seaford",
-              "Williamsburg", "Newport News", "Hampton", "Poquoson",
-              "James City County", "York County", "Mathews County", "Middlesex County"
+              "Chesapeake", "Great Bridge", "Deep Creek", "Greenbrier",
+              "Western Branch", "South Norfolk", "Hickory", "Indian River",
+              "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
+              "Hampton", "Newport News", "Hampton Roads", "Elizabeth City"
             ].map((town, index) => (
               <div key={index} className="bg-gray-50 p-3 rounded-lg">
                 {town}
@@ -244,9 +244,9 @@ export default function ServicesPage() {
             Keep your golf cart running smoothly with professional service
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:804-210-6567">
+            <a href="tel:757-555-1234">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 804-210-6567
+                Call 757-555-1234
               </Button>
             </a>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">

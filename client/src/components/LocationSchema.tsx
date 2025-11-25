@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 interface LocationSchemaProps {
   municipalityName: string;
-  municipalityType: 'Borough' | 'Township';
+  municipalityType: 'Borough' | 'Township' | 'City';
   pageType?: 'location' | 'rental';
   latitude?: string;
   longitude?: string;
@@ -12,26 +12,26 @@ export default function LocationSchema({
   municipalityName, 
   municipalityType, 
   pageType = 'location',
-  latitude = "37.4093",
-  longitude = "-76.5275"
+  latitude = "36.7682",
+  longitude = "-76.2875"
 }: LocationSchemaProps) {
   useEffect(() => {
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": `Gloucester Golf Carts - ${municipalityName}`,
-      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Gloucester, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
-      "url": `https://gloucestergolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
-      "logo": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "image": "https://gloucestergolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
-      "telephone": "804-210-6567",
-      "email": "sales@tigongolfcarts.com",
+      "name": `Chesapeake Golf Carts - ${municipalityName}`,
+      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Chesapeake, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
+      "url": `https://chesapeakegolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
+      "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+      "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+      "telephone": "757-555-1234",
+      "email": "sales@chesapeakegolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "6109 George Washington Memorial Hwy",
-        "addressLocality": "Gloucester",
+        "streetAddress": "1234 Battlefield Blvd",
+        "addressLocality": "Chesapeake",
         "addressRegion": "VA",
-        "postalCode": "23061",
+        "postalCode": "23322",
         "addressCountry": "US"
       },
       "geo": {
@@ -44,7 +44,7 @@ export default function LocationSchema({
         "name": municipalityName,
         "containedInPlace": {
           "@type": "AdministrativeArea",
-          "name": "Gloucester County",
+          "name": "City of Chesapeake",
           "containedInPlace": {
             "@type": "State",
             "name": "Virginia"
@@ -92,14 +92,13 @@ export default function LocationSchema({
       }
     };
 
-    // Add rental-specific schema for rental pages
     if (pageType === 'rental') {
       const rentalSchema = {
         ...baseStructuredData,
         "@type": ["LocalBusiness", "RentalCarAgency"],
         "name": `Golf Cart Rentals - ${municipalityName}`,
-        "description": `Professional golf cart rentals in ${municipalityName}, Gloucester, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
-        "url": `https://gloucestergolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
+        "description": `Professional golf cart rentals in ${municipalityName}, Chesapeake, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
+        "url": `https://chesapeakegolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
           "name": `Golf Cart Rental Services in ${municipalityName}`,

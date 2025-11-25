@@ -1,29 +1,29 @@
 # security.txt
-# Gloucester Golf Carts - Security Information and Disclosure Policy
+# Chesapeake Golf Carts - Security Information and Disclosure Policy
 
 # Contact Information for Security Issues
 Contact: sales@tigongolfcarts.com
-Phone: +1-804-210-6567
+Phone: +1-757-555-1234
 
 # Preferred Languages
 Preferred-Languages: en
 
 # Canonical URL
-Canonical: https://gloucestergolfcarts.com/.well-known/security.txt
+Canonical: https://chesapeakegolfcarts.com/.well-known/security.txt
 
 # Policy URL
-Policy: https://gloucestergolfcarts.com/policies/security-policy
+Policy: https://chesapeakegolfcarts.com/policies/security-policy
 
 # Acknowledgments
-Acknowledgments: https://gloucestergolfcarts.com/security-acknowledgments
+Acknowledgments: https://chesapeakegolfcarts.com/security-acknowledgments
 
 # Security Response Information
-# Gloucester Golf Carts takes security seriously and appreciates
+# Chesapeake Golf Carts takes security seriously and appreciates
 # responsible disclosure of any security vulnerabilities.
 
 # Scope of Coverage
 # This security policy covers:
-# - Main website: https://gloucestergolfcarts.com
+# - Main website: https://chesapeakegolfcarts.com
 # - All subdomains and related digital properties
 # - Customer data protection and privacy
 # - Payment processing security
@@ -36,10 +36,10 @@ Acknowledgments: https://gloucestergolfcarts.com/security-acknowledgments
 # 2. Include steps to reproduce the issue if applicable
 # 3. Allow reasonable time for investigation and resolution
 # 4. Do not publicly disclose until resolution is confirmed
-# 5. Use subject line: "Security Issue - Gloucester Golf Carts"
+# 5. Use subject line: "Security Issue - Chesapeake Golf Carts"
 
 # Business Security Measures
-# Gloucester Golf Carts implements comprehensive security measures:
+# Chesapeake Golf Carts implements comprehensive security measures:
 # - SSL/TLS encryption for all website communications
 # - Secure payment processing through certified providers
 # - Regular security monitoring and updates
@@ -100,7 +100,7 @@ Acknowledgments: https://gloucestergolfcarts.com/security-acknowledgments
 
 # Physical Security
 # Business location security:
-# - Secure showroom at 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+# - Secure showroom at 1234 Battlefield Blvd, Chesapeake, VA 23322
 # - Controlled access to business systems
 # - Secure document storage
 # - Employee background checks
@@ -154,7 +154,7 @@ Acknowledgments: https://gloucestergolfcarts.com/security-acknowledgments
 # Security team availability:
 # - Email monitoring: 24/7
 # - Phone support: Monday-Saturday 9AM-6PM ET
-# - Emergency contact: 804-210-6567
+# - Emergency contact: 757-555-1234
 # - After-hours: Leave voicemail for urgent issues
 
 # Compliance and Standards
@@ -184,16 +184,16 @@ Acknowledgments: https://gloucestergolfcarts.com/security-acknowledgments
 
 # Contact Information Summary
 # Primary: sales@tigongolfcarts.com
-# Phone: 804-210-6567
-# Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-# Website: https://gloucestergolfcarts.com
+# Phone: 757-555-1234
+# Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Website: https://chesapeakegolfcarts.com
 # Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
 
 # Additional Resources
-# - Privacy Policy: https://gloucestergolfcarts.com/privacy-policy
-# - Terms of Service: https://gloucestergolfcarts.com/terms-of-service
-# - Cookie Policy: https://gloucestergolfcarts.com/cookie-policy
-# - Security Best Practices: https://gloucestergolfcarts.com/security-guide
+# - Privacy Policy: https://chesapeakegolfcarts.com/privacy-policy
+# - Terms of Service: https://chesapeakegolfcarts.com/terms-of-service
+# - Cookie Policy: https://chesapeakegolfcarts.com/cookie-policy
+# - Security Best Practices: https://chesapeakegolfcarts.com/security-guide
 
 # Encryption
 # For sensitive communications:

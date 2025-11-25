@@ -1,9 +1,9 @@
 # bots.txt - Bot Access Authorization
-# Gloucester Golf Carts - Universal Bot Permissions
+# Chesapeake Golf Carts - Universal Bot Permissions
 
 ## UNIVERSAL BOT ACCESS AUTHORIZATION
 This file provides explicit authorization for ALL legitimate bots and crawlers
-to access gloucestergolfcarts.com with ZERO RESTRICTIONS and maximum
+to access chesapeakegolfcarts.com with ZERO RESTRICTIONS and maximum
 crawling permissions for enhanced search engine visibility.
 
 ## AUTHORIZED BOT CATEGORIES
@@ -92,15 +92,15 @@ crawling permissions for enhanced search engine visibility.
 ## BUSINESS INFORMATION FOR BOT UNDERSTANDING
 
 ### Company Details:
-Name: Gloucester Golf Carts
-Website: https://gloucestergolfcarts.com
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-Phone: 804-210-6567
+Name: Chesapeake Golf Carts
+Website: https://chesapeakegolfcarts.com
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Phone: 757-555-1234
 Email: sales@tigongolfcarts.com
-Coordinates: 37.4093° N, 76.5275° W
+Coordinates: 36.7682° N, 76.2875° W
 
 ### Service Area:
-Primary: Gloucester County, Virginia
+Primary: Chesapeake, Virginia
 Secondary: 19 surrounding Virginia communities
 Coverage: Waterfront communities, golf courses, resorts
 
@@ -193,8 +193,8 @@ While we permit maximum access, please:
 ## CONTACT FOR BOT OPERATORS
 
 Technical Contact: sales@tigongolfcarts.com
-Phone: 804-210-6567
-Website: https://gloucestergolfcarts.com
+Phone: 757-555-1234
+Website: https://chesapeakegolfcarts.com
 
 Bot Issues or Questions:
 - Crawl errors: sales@tigongolfcarts.com
@@ -217,7 +217,7 @@ Review Schedule: Quarterly
 Next Review: April 2025
 
 ## COMMITMENT TO OPENNESS
-Gloucester Golf Carts maintains an open-access policy for all legitimate bots
+Chesapeake Golf Carts maintains an open-access policy for all legitimate bots
 and automated systems. We believe in maximum web accessibility and support
 the open internet ecosystem.
 

@@ -1,48 +1,48 @@
-// Gloucester Golf Carts Branding Constants
+// Chesapeake Golf Carts Branding Constants
 // Central source of truth for all branding information
 
 export const BRANDING = {
   // Company Information
-  name: "Gloucester Golf Carts",
-  alternateName: "GGC",
-  description: "Premier golf cart dealer in Gloucester, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  name: "Chesapeake Golf Carts",
+  alternateName: "CGC",
+  description: "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   
   // Contact Information
-  phone: "804-210-6567",
-  email: "sales@tigongolfcarts.com",
+  phone: "757-555-1234",
+  email: "sales@chesapeakegolfcarts.com",
   
   // Address
   address: {
-    street: "6109 George Washington Memorial Hwy",
-    city: "Gloucester",
+    street: "1234 Battlefield Blvd",
+    city: "Chesapeake",
     state: "VA",
     stateFullName: "Virginia",
-    zip: "23061",
+    zip: "23322",
     country: "US",
   },
   
-  // Coordinates
+  // Coordinates (Chesapeake, VA)
   coordinates: {
-    latitude: 37.4093,
-    longitude: -76.5275,
+    latitude: 36.7682,
+    longitude: -76.2875,
   },
   
   // Website
-  domain: "gloucestergolfcarts.com",
-  url: "https://gloucestergolfcarts.com",
+  domain: "chesapeakegolfcarts.com",
+  url: "https://chesapeakegolfcarts.com",
   
   // Social Media
   socialMedia: {
-    facebook: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
-    youtube: "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
-    pinterest: "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/",
+    facebook: "https://www.facebook.com/ChesapeakeGolfCarts/",
+    youtube: "https://www.youtube.com/@ChesapeakeGolfCarts",
+    pinterest: "https://www.pinterest.com/chesapeakegolfcarts/",
   },
   
   // Service Area
   serviceArea: {
-    county: "Gloucester County",
+    county: "City of Chesapeake",
     state: "Virginia",
-    region: "Gloucester Virginia",
+    region: "Chesapeake Virginia",
   },
   
   // Business Hours
@@ -56,15 +56,15 @@ export const BRANDING = {
   foundingYear: "2008",
   
   // Google Maps
-  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3187.9902440058717!2d-76.5298!3d37.4093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b077d8f7a1968b%3A0x6b6fedc7e21baa97!2s6109%20George%20Washington%20Memorial%20Hwy%2C%20Gloucester%2C%20VA%2023061!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus",
-  googleMapsUrl: "https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Gloucester,+VA+23061",
+  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102529.16172010403!2d-76.3567!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bac1e8e1d59d55%3A0x35df9e5df4e08c66!2sChesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus",
+  googleMapsUrl: "https://www.google.com/maps/place/Chesapeake,+VA",
   
   // Legacy values for reference
   legacy: {
-    name: "Pike County Golf Carts",
-    phone: "570-535-1535",
-    url: "https://pikecountygolfcarts.com",
-    location: "Pike County, Pennsylvania",
+    name: "Chesapeake Golf Carts",
+    phone: "757-555-1234",
+    url: "https://chesapeakegolfcarts.com",
+    location: "Chesapeake, Virginia",
   },
 } as const;
 
@@ -76,7 +76,7 @@ export const getFullAddress = () => {
 
 export const getPhoneFormatted = () => {
   const phone = BRANDING.phone;
-  // Format as (804) 792-0234
+  // Format as (757) 555-1234
   const cleaned = phone.replace(/\D/g, '');
   const match = cleaned.match(/^(\d{3})(\d{3})(\d{4})$/);
   if (match) {

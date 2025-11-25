@@ -48,29 +48,29 @@ export default function InventoryPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://gloucestergolfcarts.com" },
-    { name: "Inventory", url: "https://gloucestergolfcarts.com/inventory" }
+    { name: "Home", url: "https://chesapeakegolfcarts.com" },
+    { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory" }
   ];
 
   return (
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Golf Cart Inventory - Gloucester Golf Carts | New Electric Golf Carts VA"
-        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Gloucester County, Virginia with expert service."
-        keywords="golf cart inventory Gloucester VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Virginia"
-        canonicalUrl="https://gloucestergolfcarts.com/inventory"
+        title="Golf Cart Inventory - Chesapeake Golf Carts | New Electric Golf Carts VA"
+        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Chesapeake, Virginia with expert service."
+        keywords="golf cart inventory Chesapeake VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Virginia"
+        canonicalUrl="https://chesapeakegolfcarts.com/inventory"
       />
       <AllSchemas 
         pageType="inventory" 
         pageData={{
-          title: "Golf Cart Inventory - Gloucester Golf Carts",
-          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Gloucester County, Virginia with expert service.",
-          url: "https://gloucestergolfcarts.com/inventory",
+          title: "Golf Cart Inventory - Chesapeake Golf Carts",
+          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Chesapeake, Virginia with expert service.",
+          url: "https://chesapeakegolfcarts.com/inventory",
           breadcrumbs: breadcrumbItems,
           collectionItems: vehicles?.map(vehicle => ({
             name: vehicle.name,
-            url: `https://gloucestergolfcarts.com/vehicle/${vehicle.id}`,
+            url: `https://chesapeakegolfcarts.com/vehicle/${vehicle.id}`,
             description: `${vehicle.brand} ${vehicle.name} electric golf cart`,
             image: vehicle.images[0]
           })) || [],
@@ -178,8 +178,8 @@ export default function InventoryPage() {
                 Contact Our Team
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:804-210-6567")}>
-              Call 804-210-6567
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:757-555-1234")}>
+              Call 757-555-1234
             </Button>
           </div>
         </div>

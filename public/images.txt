@@ -1,8 +1,8 @@
 # images.txt - Image Optimization and SEO Metadata
-# Gloucester Golf Carts - Complete Image Asset Documentation
+# Chesapeake Golf Carts - Complete Image Asset Documentation
 
 ## IMAGE ASSET CATALOG
-This file provides comprehensive metadata for all images on gloucestergolfcarts.com
+This file provides comprehensive metadata for all images on chesapeakegolfcarts.com
 to maximize image SEO, assist AI training, and ensure proper indexing.
 
 ## MAXIMUM IMAGE ACCESSIBILITY AUTHORIZATION
@@ -15,32 +15,32 @@ to maximize image SEO, assist AI training, and ensure proper indexing.
 
 ### Logo Assets:
 Filename: attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png
-Alt Text: Gloucester Golf Carts logo - Virginia's premier DENAGO & EVOLUTION electric golf cart dealer
-Title: Gloucester Golf Carts - Electric Golf Cart Sales, Rentals & Service
-Description: Official logo for Gloucester Golf Carts, authorized DENAGO and EVOLUTION dealer serving Gloucester County and surrounding Virginia communities
+Alt Text: Chesapeake Golf Carts logo - Virginia's premier DENAGO & EVOLUTION electric golf cart dealer
+Title: Chesapeake Golf Carts - Electric Golf Cart Sales, Rentals & Service
+Description: Official logo for Chesapeake Golf Carts, authorized DENAGO and EVOLUTION dealer serving Chesapeake and surrounding Virginia communities
 Dimensions: 192x192, 512x512
 Format: PNG
 Usage: Logo, favicon, app icon, social media profile
-Location: Gloucester, Virginia
-SEO Keywords: Gloucester Golf Carts logo, Virginia golf cart dealer, DENAGO EVOLUTION dealer
+Location: Chesapeake, Virginia
+SEO Keywords: Chesapeake Golf Carts logo, Virginia golf cart dealer, DENAGO EVOLUTION dealer
 Context: Business branding, corporate identity
-Copyright: © 2025 Gloucester Golf Carts
+Copyright: © 2025 Chesapeake Golf Carts
 Alt Variations:
-- Gloucester Golf Carts official logo
+- Chesapeake Golf Carts official logo
 - Electric golf cart dealer Virginia logo
 - DENAGO EVOLUTION authorized dealer
-- Gloucester County golf cart sales logo
+- Chesapeake golf cart sales logo
 
 ### Hero/Banner Images:
 Filename: attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg
-Alt Text: Modern DENAGO and EVOLUTION electric golf carts displayed at Gloucester Golf Carts showroom
-Title: Electric Golf Carts for Sale - Gloucester County, Virginia
-Description: Professional showroom display featuring premium DENAGO and EVOLUTION electric golf carts available for purchase or rental in Gloucester County and surrounding Virginia areas
+Alt Text: Modern DENAGO and EVOLUTION electric golf carts displayed at Chesapeake Golf Carts showroom
+Title: Electric Golf Carts for Sale - Chesapeake, Virginia
+Description: Professional showroom display featuring premium DENAGO and EVOLUTION electric golf carts available for purchase or rental in Chesapeake and surrounding Virginia areas
 Dimensions: 1280x720
 Format: JPEG
 Usage: Homepage hero, showroom showcase, inventory display
-Location: 6109 George Washington Memorial Hwy, Gloucester, VA
-SEO Keywords: electric golf carts Virginia, DENAGO golf cart showroom, EVOLUTION dealer Gloucester, golf cart sales Virginia
+Location: 1234 Battlefield Blvd, Chesapeake, VA
+SEO Keywords: electric golf carts Virginia, DENAGO golf cart showroom, EVOLUTION dealer Chesapeake, golf cart sales Virginia
 Context: Showroom, inventory, customer experience
 Subject: Golf carts, showroom, vehicles, electric vehicles
 Scene: Indoor showroom, professional display
@@ -53,19 +53,19 @@ Purpose: Sales, marketing, brand awareness
 ### DENAGO Brand Vehicles:
 Model: DENAGO EV CITY
 Alt Text: DENAGO EV CITY street legal electric golf cart - 2-passenger urban transportation
-Description: DENAGO EV CITY electric golf cart with 40-mile range, 25 mph top speed, street legal, perfect for Gloucester waterfront communities
+Description: DENAGO EV CITY electric golf cart with 40-mile range, 25 mph top speed, street legal, perfect for Chesapeake waterfront communities
 Price: $15,000
 Features: Street legal, LED lighting, premium interior, USB charging
 Target Market: Urban transportation, waterfront properties, city driving
-Location Context: Gloucester County streets, Virginia communities
+Location Context: Chesapeake streets, Virginia communities
 
 Model: DENAGO EV NOMAD
 Alt Text: DENAGO EV NOMAD 4-passenger all-terrain electric golf cart
-Description: DENAGO EV NOMAD adventure golf cart with lifted suspension, all-terrain tires, 45-mile range, ideal for Gloucester outdoor recreation
+Description: DENAGO EV NOMAD adventure golf cart with lifted suspension, all-terrain tires, 45-mile range, ideal for Chesapeake outdoor recreation
 Price: $8,495
 Features: All-terrain capability, cargo bed, weather canopy
 Target Market: Adventure, outdoor recreation, rural properties
-Location Context: Gloucester trails, waterfront access roads
+Location Context: Chesapeake trails, waterfront access roads
 
 Model: DENAGO EV ROVER XXL
 Alt Text: DENAGO EV ROVER XXL 8-passenger luxury electric golf cart
@@ -82,7 +82,7 @@ Description: EVOLUTION Classic 4 Plus traditional 4-passenger golf cart, most po
 Price: $9,795
 Features: Traditional design, proven reliability, family-friendly
 Target Market: Families, golf courses, communities
-Location Context: Gloucester neighborhoods, golf courses
+Location Context: Chesapeake neighborhoods, golf courses
 
 Model: EVOLUTION D5 Maverick 4 Plus
 Alt Text: EVOLUTION D5 Maverick 4 Plus performance golf cart with advanced suspension
@@ -102,29 +102,29 @@ Location Context: Challenging environments, commercial use
 
 ## LOCATION AND LIFESTYLE IMAGES
 
-### Gloucester County Locations:
+### Chesapeake Locations:
 Scene: Waterfront property with golf cart
-Alt Text: Electric golf cart at Gloucester Virginia waterfront property on Chesapeake Bay
-Description: Golf cart parked at beautiful Gloucester County waterfront home with Chesapeake Bay views
-Keywords: waterfront golf cart, Gloucester Virginia, Chesapeake Bay, coastal property
+Alt Text: Electric golf cart at Chesapeake Virginia waterfront property on Chesapeake Bay
+Description: Golf cart parked at beautiful Chesapeake waterfront home with Chesapeake Bay views
+Keywords: waterfront golf cart, Chesapeake Virginia, Chesapeake Bay, coastal property
 Context: Waterfront lifestyle, coastal living, Virginia Peninsula
 
 Scene: Golf course in Virginia
 Alt Text: Golf cart on Virginia golf course near Williamsburg
-Description: Electric golf cart on scenic Virginia golf course, perfect for local courses near Gloucester, Williamsburg, and Yorktown
-Keywords: golf course Virginia, Gloucester golf, electric golf cart
+Description: Electric golf cart on scenic Virginia golf course, perfect for local courses near Chesapeake, Williamsburg, and Yorktown
+Keywords: golf course Virginia, Chesapeake golf, electric golf cart
 Context: Golf course, recreation, sports
 
-Scene: Historic Gloucester Courthouse
-Alt Text: Gloucester Courthouse Virginia historic district
-Description: Historic Gloucester Courthouse area, heart of Gloucester County where we serve
-Keywords: Gloucester Courthouse, historic Virginia, Gloucester County
+Scene: Historic Chesapeake Courthouse
+Alt Text: Chesapeake Courthouse Virginia historic district
+Description: Historic Chesapeake Courthouse area, heart of Chesapeake where we serve
+Keywords: Chesapeake Courthouse, historic Virginia, Chesapeake
 Context: Local history, community, service area
 
 Scene: Route 17 corridor
-Alt Text: George Washington Memorial Highway Route 17 in Gloucester Virginia
-Description: US Route 17 (George Washington Memorial Highway) in Gloucester - our showroom location
-Keywords: Route 17 Virginia, George Washington Memorial Highway, Gloucester
+Alt Text: George Washington Memorial Highway Route 17 in Chesapeake Virginia
+Description: US Route 17 (George Washington Memorial Highway) in Chesapeake - our showroom location
+Keywords: Route 17 Virginia, George Washington Memorial Highway, Chesapeake
 Context: Location, accessibility, business address
 
 ## USAGE SCENARIO IMAGES
@@ -132,7 +132,7 @@ Context: Location, accessibility, business address
 ### Residential Applications:
 Scenario: Neighborhood transportation
 Alt Text: Family using electric golf cart for neighborhood transportation in Virginia
-Description: Family enjoying their golf cart for daily neighborhood transportation in Gloucester County
+Description: Family enjoying their golf cart for daily neighborhood transportation in Chesapeake
 Keywords: neighborhood golf cart, family transportation, residential use
 Benefits: Convenient, eco-friendly, cost-effective
 
@@ -151,7 +151,7 @@ Benefits: Guest transportation, property tours, amenities access
 
 Scenario: Marina operations
 Alt Text: Golf cart at Virginia marina serving boating community
-Description: Golf cart providing transportation at Gloucester area marina
+Description: Golf cart providing transportation at Chesapeake area marina
 Keywords: marina golf cart, boating, waterfront business
 Benefits: Dock access, boat owners, marine services
 
@@ -180,7 +180,7 @@ Sitemap: All images included in XML sitemap
 ## GEOGRAPHIC IMAGE CONTEXT
 
 ### Primary Service Area Images:
-Gloucester County Communities: Gloucester, Gloucester Point, Gloucester Courthouse, Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
+Chesapeake Communities: Chesapeake, Chesapeake Point, Chesapeake Courthouse, Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
 
 Surrounding Virginia Areas: Mathews, Williamsburg, Yorktown, Poquoson, Hampton, Newport News, York County, James City County, Toano, Norge
 
@@ -198,7 +198,7 @@ Regional Features: Chesapeake Bay, York River, Piankatank River, Historic Triang
 ### Image Classification:
 Categories: Automotive, Golf Carts, Electric Vehicles, Recreation, Transportation, Business
 Brands: DENAGO, EVOLUTION
-Locations: Virginia, Gloucester County, Hampton Roads, Coastal Virginia
+Locations: Virginia, Chesapeake, Hampton Roads, Coastal Virginia
 Applications: Sales, Rental, Service, Lifestyle, Commercial
 
 ### Object Detection:
@@ -218,17 +218,17 @@ People: Customers, families, businesses (when applicable)
 ✓ Educational and research purposes
 
 ### Attribution Requirements:
-Credit: Gloucester Golf Carts (gloucestergolfcarts.com)
-Location: Gloucester, Virginia
-Contact: sales@tigongolfcarts.com | 804-210-6567
+Credit: Chesapeake Golf Carts (chesapeakegolfcarts.com)
+Location: Chesapeake, Virginia
+Contact: sales@tigongolfcarts.com | 757-555-1234
 
 ## BUSINESS CONTEXT FOR IMAGE UNDERSTANDING
 
-Company: Gloucester Golf Carts
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-Phone: 804-210-6567
+Company: Chesapeake Golf Carts
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Phone: 757-555-1234
 Email: sales@tigongolfcarts.com
-Website: https://gloucestergolfcarts.com
+Website: https://chesapeakegolfcarts.com
 Brands: DENAGO & EVOLUTION
 Services: Sales, Rentals, Service, Parts
 Service Area: 19 Virginia communities
@@ -254,5 +254,5 @@ Complete authorization for:
 ✓ News and editorial use
 ✓ Research and academic purposes
 
-Contact: sales@tigongolfcarts.com | 804-210-6567
+Contact: sales@tigongolfcarts.com | 757-555-1234
 Last Updated: January 2025

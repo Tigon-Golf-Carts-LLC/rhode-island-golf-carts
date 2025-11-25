@@ -184,7 +184,7 @@ export default function RentalsPage() {
                   </div>
                 </div>
 
-                <a href="tel:804-210-6567">
+                <a href="tel:757-555-1234">
                   <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                     <Phone className="w-4 h-4 mr-2" />
                     RESERVE TODAY
@@ -201,10 +201,10 @@ export default function RentalsPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Rentals in Gloucester County"
-        description="Rent premium electric golf carts throughout Gloucester County, Virginia with daily, weekly, and monthly options, full insurance, and delivery service. Call 804-210-6567."
-        keywords="golf cart rental, Gloucester rentals, golf cart hire, Virginia golf cart rental"
-        canonicalUrl="https://gloucestergolfcarts.com/rentals"
+        title="Golf Cart Rentals in the City of Chesapeake"
+        description="Rent premium electric golf carts throughout the City of Chesapeake, Virginia with daily, weekly, and monthly options, full insurance, and delivery service. Call 757-555-1234."
+        keywords="golf cart rental, Chesapeake rentals, golf cart hire, Virginia golf cart rental"
+        canonicalUrl="https://chesapeakegolfcarts.com/rentals"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -216,14 +216,14 @@ export default function RentalsPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("rentals")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Golf Cart Rentals in Gloucester County
+              Golf Cart Rentals in the City of Chesapeake
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Rent premium electric golf carts throughout Gloucester County, Virginia. Perfect for events, vacations, and special occasions.
+              Rent premium electric golf carts throughout the City of Chesapeake, Virginia. Perfect for events, vacations, and special occasions.
             </p>
-            <a href="tel:804-210-6567">
+            <a href="tel:757-555-1234">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 804-210-6567
+                Call 757-555-1234
               </Button>
             </a>
           </div>
@@ -234,7 +234,7 @@ export default function RentalsPage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-8 text-gray-900">
-                Why Choose Gloucester Golf Cart Rentals?
+                Why Choose Chesapeake Golf Cart Rentals?
               </h2>
             </div>
 
@@ -282,9 +282,9 @@ export default function RentalsPage() {
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
               Our friendly team is here to help you select the perfect golf cart rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
             </p>
-            <a href="tel:804-210-6567">
+            <a href="tel:757-555-1234">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call Now 804-210-6567
+                Call Now 757-555-1234
               </Button>
             </a>
           </div>

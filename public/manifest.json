@@ -1,7 +1,7 @@
 {
-  "name": "Gloucester Golf Carts",
-  "short_name": "Gloucester Carts",
-  "description": "Gloucester Golf Carts - Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving Gloucester County and surrounding Virginia communities with sales, rentals, service and parts.",
+  "name": "Chesapeake Golf Carts",
+  "short_name": "Chesapeake Carts",
+  "description": "Chesapeake Golf Carts - Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving the City of Chesapeake and surrounding Hampton Roads communities with sales, rentals, service and parts.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -56,7 +56,7 @@
     {
       "name": "Golf Cart Rentals",
       "short_name": "Rentals", 
-      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Gloucester County",
+      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Chesapeake",
       "url": "/rentals",
       "icons": [
         {
@@ -82,7 +82,7 @@
     {
       "name": "Contact Us",
       "short_name": "Contact",
-      "description": "Get in touch for sales, service, or rental inquiries - Call 804-210-6567",
+      "description": "Get in touch for sales, service, or rental inquiries - Call 757-555-1234",
       "url": "/contact",
       "icons": [
         {
@@ -99,7 +99,7 @@
       "src": "/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg",
       "sizes": "1280x720",
       "type": "image/jpeg",
-      "label": "Gloucester Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts"
+      "label": "Chesapeake Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts"
     }
   ],
   
@@ -135,7 +135,7 @@
   
   "display_override": ["window-controls-overlay", "standalone", "minimal-ui", "browser"],
   
-  "id": "gloucestergolfcarts",
+  "id": "chesapeakegolfcarts",
   
   "note_taking": {
     "new_note_url": "/contact"

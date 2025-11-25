@@ -24,22 +24,22 @@ interface LocalBusinessSchemaProps {
 }
 
 export default function LocalBusinessSchema({
-  name = "Pike County Golf Carts",
-  description = "Premier golf cart dealership in Pike County, Pennsylvania specializing in electric golf carts, sales, service, rentals, and financing.",
+  name = "Chesapeake Golf Carts",
+  description = "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
-    streetAddress: "655 PA-739",
-    addressLocality: "Lords Valley",
-    addressRegion: "PA",
-    postalCode: "18428",
+    streetAddress: "1234 Battlefield Blvd",
+    addressLocality: "Chesapeake",
+    addressRegion: "VA",
+    postalCode: "23322",
     addressCountry: "US"
   },
   geo = {
-    latitude: "41.3020",
-    longitude: "-75.0418"
+    latitude: "36.7682",
+    longitude: "-76.2875"
   },
-  telephone = "570-535-1535",
-  email = "info@pikecountygolfcarts.com",
-  url = "https://pikecountygolfcarts.com",
+  telephone = "757-555-1234",
+  email = "sales@chesapeakegolfcarts.com",
+  url = "https://chesapeakegolfcarts.com",
   openingHours = [
     "Mo-Fr 09:00-18:00",
     "Sa 09:00-17:00",
@@ -47,7 +47,7 @@ export default function LocalBusinessSchema({
   ],
   paymentAccepted = ["Cash", "Credit Card", "Debit Card", "Check", "Financing"],
   businessType = "Golf Cart Dealership",
-  areaServed = "Pike County, PA"
+  areaServed = "City of Chesapeake, VA"
 }: LocalBusinessSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -57,13 +57,13 @@ export default function LocalBusinessSchema({
       "description": description,
       "image": {
         "@type": "ImageObject",
-        "url": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
         "width": 400,
         "height": 400
       },
       "logo": {
         "@type": "ImageObject",
-        "url": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png",
+        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
         "width": 400,
         "height": 400
       },
@@ -106,9 +106,9 @@ export default function LocalBusinessSchema({
         "name": areaServed
       },
       "sameAs": [
-        "https://www.facebook.com/lehighgolfcarts",
-        "https://twitter.com/lehighgolfcarts",
-        "https://www.instagram.com/lehighgolfcarts"
+        "https://www.facebook.com/ChesapeakeGolfCarts",
+        "https://twitter.com/chesapeakegolfcarts",
+        "https://www.instagram.com/chesapeakegolfcarts"
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",

@@ -10,7 +10,7 @@ import BrandsSection from "@/components/BrandsSection";
 import OrganizationSchema from "@/components/OrganizationSchema";
 import SEOHead from "@/components/SEOHead";
 import AllSchemas from "@/components/schema/AllSchemas";
-import { PIKE_COUNTY_MUNICIPALITIES, type Municipality } from "@/data/pikeCountyMunicipalities";
+import { CHESAPEAKE_MUNICIPALITIES, type Municipality } from "@/data/chesapeakeMunicipalities";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
 export default function HomePage() {
@@ -24,10 +24,10 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Gloucester Golf Carts - Premier Virginia Dealership"
-        description="Experience Gloucester Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 804-210-6567."
-        keywords="golf carts Gloucester VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
-        canonicalUrl="https://gloucestergolfcarts.com/"
+        title="Chesapeake Golf Carts - Premier Virginia Dealership"
+        description="Experience Chesapeake Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 757-555-1234."
+        keywords="golf carts Chesapeake VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
+        canonicalUrl="https://chesapeakegolfcarts.com/"
         ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -36,21 +36,21 @@ export default function HomePage() {
       <AllSchemas 
         pageType="home" 
         pageData={{
-          title: "Gloucester Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
-          description: "Discover premium electric golf carts from Denago and Evolution at Gloucester Golf Carts. Expert sales, service, rentals, and financing throughout Gloucester, VA.",
-          url: "https://gloucestergolfcarts.com/",
-          breadcrumbs: [{ name: "Home", url: "https://gloucestergolfcarts.com/" }],
+          title: "Chesapeake Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
+          description: "Discover premium electric golf carts from Denago and Evolution at Chesapeake Golf Carts. Expert sales, service, rentals, and financing throughout Chesapeake, VA.",
+          url: "https://chesapeakegolfcarts.com/",
+          breadcrumbs: [{ name: "Home", url: "https://chesapeakegolfcarts.com/" }],
           reviews: [
             {
               author: "John Smith",
-              reviewBody: "Excellent service and quality golf carts. The team at Gloucester Golf Carts helped me find the perfect cart for my needs.",
+              reviewBody: "Excellent service and quality golf carts. The team at Chesapeake Golf Carts helped me find the perfect cart for my needs.",
               reviewRating: 5,
               datePublished: "2025-01-15",
               headline: "Outstanding service and selection"
             },
             {
               author: "Maria Garcia",
-              reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Gloucester.",
+              reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Chesapeake.",
               reviewRating: 5,
               datePublished: "2025-01-20",
               headline: "Professional and affordable"
@@ -71,10 +71,10 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Gloucester Golf Carts - Premier Virginia Dealership
+                Chesapeake Golf Carts - Premier Virginia Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Gloucester communities in and around Gloucester, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to Gloucester County and surrounding Virginia areas.
+                Serving all 15 Chesapeake communities in and around Chesapeake, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Chesapeake and surrounding Hampton Roads areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -82,9 +82,9 @@ export default function HomePage() {
                     View Inventory
                   </Button>
                 </Link>
-                <a href="tel:804-210-6567">
+                <a href="tel:757-555-1234">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
-                    Call Now 804-210-6567
+                    Call Now 757-555-1234
                   </Button>
                 </a>
               </div>
@@ -104,7 +104,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose Gloucester Golf Carts?
+            Why Choose Chesapeake Golf Carts?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             We're more than just a dealership - we're your partner in golf cart ownership 
@@ -159,7 +159,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Gloucester Golf Carts - Top Golf Cart and LSV Brands
+            Chesapeake Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -233,7 +233,7 @@ export default function HomePage() {
               <div className="aspect-video bg-gray-200 relative overflow-hidden">
                 <img 
                   src="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg" 
-                  alt="Evolution D5 Maverick 4 Plus"
+                  alt="Evolution D5 Maverick 4 Plus - Chesapeake Golf Cart"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4">
@@ -241,7 +241,7 @@ export default function HomePage() {
                 </div>
               </div>
               <CardHeader className="pb-3">
-                <CardTitle className="text-xl font-semibold">Evolution D5 Maverick 4 Plus</CardTitle>
+                <CardTitle className="text-xl font-semibold">Evolution D5 Maverick 4 Plus - Chesapeake Golf Cart</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
                   Premium electric golf cart with advanced features and superior performance. Seats 4 passengers with extended range capability.
                 </CardDescription>
@@ -265,7 +265,7 @@ export default function HomePage() {
               <div className="aspect-video bg-gray-200 relative overflow-hidden">
                 <img 
                   src="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg" 
-                  alt="Evolution D6 Max XT4"
+                  alt="Evolution D6 Max XT4 - Chesapeake Golf Cart"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4">
@@ -273,7 +273,7 @@ export default function HomePage() {
                 </div>
               </div>
               <CardHeader className="pb-3">
-                <CardTitle className="text-xl font-semibold">Evolution D6 Max XT4</CardTitle>
+                <CardTitle className="text-xl font-semibold">Evolution D6 Max XT4 - Chesapeake Golf Cart</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
                   High-performance 4-passenger golf cart with cutting-edge technology and sporty design.
                 </CardDescription>
@@ -297,7 +297,7 @@ export default function HomePage() {
               <div className="aspect-video bg-gray-200 relative overflow-hidden">
                 <img 
                   src="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg" 
-                  alt="Denago EV City"
+                  alt="Denago EV City - Chesapeake Golf Cart"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4">
@@ -305,7 +305,7 @@ export default function HomePage() {
                 </div>
               </div>
               <CardHeader className="pb-3">
-                <CardTitle className="text-xl font-semibold">Denago EV City</CardTitle>
+                <CardTitle className="text-xl font-semibold">Denago EV City - Chesapeake Golf Cart</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
                   Urban mobility solution with street-legal capabilities and modern design for city transportation.
                 </CardDescription>
@@ -333,16 +333,16 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* About Gloucester Golf Carts Section */}
+      {/* About Chesapeake Golf Carts Section */}
       <section className="py-12 md:py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="order-2 lg:order-1">
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4 md:mb-6 text-gray-900">
-                About Gloucester Golf Carts
+                About Chesapeake Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Gloucester County and surrounding Virginia areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Chesapeake and surrounding Hampton Roads areas.
               </p>
               
               <div className="grid grid-cols-2 gap-4 md:gap-8 mb-6 md:mb-8">
@@ -366,13 +366,13 @@ export default function HomePage() {
             <div className="relative order-1 lg:order-2">
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3187.9902440058717!2d-76.5298!3d37.4093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b077d8f7a1968b%3A0x6b6fedc7e21baa97!2s6109%20George%20Washington%20Memorial%20Hwy%2C%20Gloucester%2C%20VA%2023061!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102529.16172010403!2d-76.3567!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bac1e8e1d59d55%3A0x35df9e5df4e08c66!2sChesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus" 
                   className="w-full h-64 md:h-80 lg:h-96"
                   style={{border: 0}} 
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Gloucester County, VA Map"
+                  title="Chesapeake, VA Map"
                 />
               </div>
             </div>
@@ -380,18 +380,18 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Gloucester Municipalities Section */}
+      {/* Chesapeake Municipalities Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Golf Carts for Gloucester and Surrounding Virginia Communities
+            Golf Carts for Chesapeake and Surrounding Hampton Roads Communities
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional golf cart services delivered to your community throughout Gloucester County and surrounding areas
+            Professional golf cart services delivered to your community throughout the City of Chesapeake and surrounding areas
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
-            {/* Complete Gloucester Municipality List - dynamically generated */}
-            {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality) => (
+            {/* Complete Chesapeake Municipality List - dynamically generated */}
+            {CHESAPEAKE_MUNICIPALITIES.map((municipality: Municipality) => (
               <Link 
                 key={municipality.slug} 
                 href={municipality.url} 
@@ -405,7 +405,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving {PIKE_COUNTY_MUNICIPALITIES.length} communities in and around Gloucester Virginia! Professional golf cart sales, service, and rentals delivered throughout the region.
+            Serving {CHESAPEAKE_MUNICIPALITIES.length} communities in and around Chesapeake Virginia! Professional golf cart sales, service, and rentals delivered throughout the region.
           </p>
         </div>
       </section>
@@ -423,17 +423,17 @@ export default function HomePage() {
           <div className="grid grid-cols-1 gap-6 mb-12 max-w-md mx-auto">
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
-              <h3 className="font-semibold text-gray-900 mb-2">Gloucester Golf Carts</h3>
-              <p className="text-sm text-gray-600 mb-2">6109 George Washington Memorial Hwy, Gloucester, VA 23061</p>
-              <p className="text-theme-orange font-semibold">804-210-6567</p>
+              <h3 className="font-semibold text-gray-900 mb-2">Chesapeake Golf Carts</h3>
+              <p className="text-sm text-gray-600 mb-2">1234 Battlefield Blvd, Chesapeake, VA 23322</p>
+              <p className="text-theme-orange font-semibold">757-555-1234</p>
             </div>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
-            <p className="text-gray-600 mb-4">For general inquiries and support throughout Gloucester County</p>
+            <p className="text-gray-600 mb-4">For general inquiries and support throughout the City of Chesapeake</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-              <a href="tel:804-210-6567" className="text-2xl font-bold text-theme-orange hover:underline">804-210-6567</a>
+              <a href="tel:757-555-1234" className="text-2xl font-bold text-theme-orange hover:underline">757-555-1234</a>
               <Link href="/contact">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact Us

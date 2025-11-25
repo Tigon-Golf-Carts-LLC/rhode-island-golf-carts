@@ -1,16 +1,16 @@
 # compliance.txt - Regulatory Compliance and Legal Information
-# Gloucester Golf Carts - Complete Compliance Documentation
+# Chesapeake Golf Carts - Complete Compliance Documentation
 
 ## COMPREHENSIVE COMPLIANCE DECLARATION
 This file documents all regulatory compliance, legal requirements, and industry standards
-for Gloucester Golf Carts (gloucestergolfcarts.com) to ensure transparency and legal operation.
+for Chesapeake Golf Carts (chesapeakegolfcarts.com) to ensure transparency and legal operation.
 
 ## BUSINESS COMPLIANCE
 
 ### Business Registration:
-Business Name: Gloucester Golf Carts
-Legal Entity: Gloucester Golf Carts LLC
-Operating Location: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Business Name: Chesapeake Golf Carts
+Legal Entity: Chesapeake Golf Carts LLC
+Operating Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 State: Virginia
 Business Type: Electric Golf Cart Dealership
 Industry: Automotive - Electric Vehicles
@@ -19,7 +19,7 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 ### Virginia Business Compliance:
 ✓ Virginia State Corporation Commission registration
 ✓ Virginia business license
-✓ Gloucester County business permits
+✓ Chesapeake business permits
 ✓ Virginia sales tax registration
 ✓ Virginia tax compliance
 ✓ Local zoning compliance
@@ -304,7 +304,7 @@ Google Tag Manager: GTM-KB3WNGFH
 
 ## LOCAL ORDINANCES COMPLIANCE
 
-### Gloucester County Regulations:
+### Chesapeake Regulations:
 ✓ Local business ordinances
 ✓ Zoning compliance
 ✓ Signage regulations
@@ -323,8 +323,8 @@ Google Tag Manager: GTM-KB3WNGFH
 
 ## GEOGRAPHIC SERVICE AREA COMPLIANCE
 
-### Primary Service Area (Gloucester County):
-Gloucester, Gloucester Point, Gloucester Courthouse, Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
+### Primary Service Area (Chesapeake):
+Chesapeake, Chesapeake Point, Chesapeake Courthouse, Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
 
 ### Secondary Service Area (Surrounding Virginia):
 Mathews, Williamsburg, Yorktown, Poquoson, Hampton, Newport News, York County, James City County, Toano, Norge
@@ -364,7 +364,7 @@ All operations comply with regulations in all service areas.
 ### Legal Compliance:
 ✓ Jurisdiction: Virginia
 ✓ Governing law: Virginia state law
-✓ Venue: Gloucester County
+✓ Venue: Chesapeake
 ✓ Alternative dispute resolution
 ✓ Legal representation rights
 
@@ -381,13 +381,13 @@ All operations comply with regulations in all service areas.
 
 ### Compliance Contacts:
 Primary: sales@tigongolfcarts.com
-Phone: 804-210-6567
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
-Website: https://gloucestergolfcarts.com
+Phone: 757-555-1234
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Website: https://chesapeakegolfcarts.com
 
 ## COMMITMENT TO COMPLIANCE
 
-Gloucester Golf Carts is committed to:
+Chesapeake Golf Carts is committed to:
 - Full legal compliance
 - Ethical business practices
 - Consumer protection
@@ -401,18 +401,18 @@ Gloucester Golf Carts is committed to:
 
 For compliance questions or concerns:
 Email: sales@tigongolfcarts.com
-Phone: 804-210-6567
+Phone: 757-555-1234
 Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
-Address: 6109 George Washington Memorial Hwy, Gloucester, VA 23061
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 
 ## ADDITIONAL RESOURCES
 
 Policies Available Online:
-- Privacy Policy: https://gloucestergolfcarts.com/privacy-policy
-- Terms of Service: https://gloucestergolfcarts.com/terms-of-service
-- Refund Policy: https://gloucestergolfcarts.com/refund-policy
-- Cookie Policy: https://gloucestergolfcarts.com/cookie-policy
-- Security Policy: https://gloucestergolfcarts.com/security-policy
+- Privacy Policy: https://chesapeakegolfcarts.com/privacy-policy
+- Terms of Service: https://chesapeakegolfcarts.com/terms-of-service
+- Refund Policy: https://chesapeakegolfcarts.com/refund-policy
+- Cookie Policy: https://chesapeakegolfcarts.com/cookie-policy
+- Security Policy: https://chesapeakegolfcarts.com/security-policy
 
 ## COMPLIANCE CERTIFICATION
 
@@ -426,5 +426,5 @@ Version: 1.0
 Contact us with any compliance questions or concerns.
 We maintain an open-door policy for regulatory inquiries.
 
-Gloucester Golf Carts
-Serving Gloucester County and Surrounding Virginia Communities Since 2024
+Chesapeake Golf Carts
+Serving Chesapeake and Surrounding Virginia Communities Since 2024

@@ -30,51 +30,51 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2008", event: "Pike County Golf Carts founded in Milford" },
+    { year: "2008", event: "Chesapeake Golf Carts founded in Chesapeake" },
     { year: "2010", event: "Became authorized EVOLUTION dealer" },
-    { year: "2013", event: "Expanded to serve all Pike County municipalities" },
+    { year: "2013", event: "Expanded to serve all Hampton Roads communities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
-    { year: "2019", event: "Opened service center in Hawley" },
-    { year: "2024", event: "Reached 750+ satisfied customers across Pennsylvania" }
+    { year: "2019", event: "Opened expanded service center" },
+    { year: "2024", event: "Reached 750+ satisfied customers across Virginia" }
   ];
 
   return (
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About Pike County Golf Carts - Premier Golf Cart Dealership Since 2008"
-        description="Learn about Pike County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
-        keywords="about Pike County Golf Carts, golf cart dealership Pennsylvania, Denago Evolution dealer, golf cart service team"
-        canonicalUrl="https://pikecountygolfcarts.com/about"
+        title="About Chesapeake Golf Carts - Premier Golf Cart Dealership Since 2008"
+        description="Learn about Chesapeake Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
+        keywords="about Chesapeake Golf Carts, golf cart dealership Virginia, Denago Evolution dealer, golf cart service team"
+        canonicalUrl="https://chesapeakegolfcarts.com/about"
       />
       <AllSchemas 
         pageType="about" 
         pageData={{
-          title: "About Pike County Golf Carts",
-          description: "Learn about Pike County Golf Carts, Pennsylvania's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
-          url: "https://pikecountygolfcarts.com/about",
+          title: "About Chesapeake Golf Carts",
+          description: "Learn about Chesapeake Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
+          url: "https://chesapeakegolfcarts.com/about",
           breadcrumbs: [
-            { name: "Home", url: "https://pikecountygolfcarts.com/" },
-            { name: "About", url: "https://pikecountygolfcarts.com/about" }
+            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
+            { name: "About", url: "https://chesapeakegolfcarts.com/about" }
           ],
           people: [
             {
               name: "Mike Johnson",
               jobTitle: "General Manager",
               description: "Leading our team with passion for customer service and golf cart expertise with 15+ years experience",
-              image: "/attached_assets/Pike County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png"
             },
             {
               name: "Sarah Davis",
               jobTitle: "Service Manager", 
               description: "Certified technician ensuring quality service and customer satisfaction with 12+ years experience",
-              image: "/attached_assets/Pike County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png"
             },
             {
               name: "Tom Wilson",
               jobTitle: "Sales Director",
               description: "Helping customers find the perfect golf cart for their needs with 10+ years experience",
-              image: "/attached_assets/Pike County Golf Carts_1753806477719.png"
+              image: "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png"
             }
           ]
         }}
@@ -84,12 +84,12 @@ export default function AboutPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("about")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            About Pike County Golf Carts
+            About Chesapeake Golf Carts
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Since 2008, we've been Pike County's premier destination for premium golf carts, 
-            exceptional service, and unmatched customer care. Serving all 39 municipalities 
-            across northeastern Pennsylvania with pride and professionalism.
+            Since 2008, we've been Chesapeake's premier destination for premium golf carts, 
+            exceptional service, and unmatched customer care. Serving all 15 communities 
+            across the Hampton Roads region with pride and professionalism.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -109,22 +109,22 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Pike County, Pennsylvania, Pike County Golf Carts began with a simple mission: 
-                to provide high-quality golf carts and exceptional service to customers throughout northeastern Pennsylvania.
+                Founded in 2008 in Chesapeake, Virginia, Chesapeake Golf Carts began with a simple mission: 
+                to provide high-quality golf carts and exceptional service to customers throughout the Hampton Roads region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Pike County is home to beautiful municipalities including Milford, Hawley, and Matamoras, along with scenic townships like 
-                Dingman, Delaware, and Blooming Grove. Our location in the heart of the Pocono Mountains region drives our commitment to excellence 
-                and serves the outdoor recreation and residential communities throughout this pristine area.
+                The City of Chesapeake is home to beautiful communities including Great Bridge, Deep Creek, and Greenbrier, along with scenic areas like 
+                Western Branch, South Norfolk, and Indian River. Our location in the heart of the Hampton Roads region drives our commitment to excellence 
+                and serves the outdoor recreation and residential communities throughout this vibrant area.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Our county is known for its pristine natural beauty, including the Delaware Water Gap National Recreation Area and numerous 
-                state parks and outdoor recreation areas. This tradition of natural excellence continues in our approach to golf cart sales and service, where we 
-                combine cutting-edge technology with personalized customer care perfect for Pike County's outdoor lifestyle.
+                Our city is known for its natural beauty, including the Great Dismal Swamp and numerous 
+                parks and waterways. This tradition of natural excellence continues in our approach to golf cart sales and service, where we 
+                combine cutting-edge technology with personalized customer care perfect for Chesapeake's outdoor lifestyle.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Today, we're proud to serve the diverse communities across Pike County's 15 municipalities, from Milford 
-                to Hawley, from Matamoras to the scenic townships, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
+                Today, we're proud to serve the diverse communities across Chesapeake's neighborhoods, from Great Bridge 
+                to Deep Creek, from Greenbrier to the surrounding Hampton Roads cities, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
                 Learn More About Our Services
@@ -143,7 +143,7 @@ export default function AboutPage() {
                   </div>
                   <div>
                     <div className="text-4xl font-bold text-theme-orange mb-2">15</div>
-                    <div className="text-gray-700">Municipalities Served</div>
+                    <div className="text-gray-700">Communities Served</div>
                   </div>
                   <div>
                     <div className="text-4xl font-bold text-theme-orange mb-2">100+</div>
@@ -256,24 +256,24 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div>
-              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Pike County</h2>
+              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Chesapeake</h2>
               <p className="text-lg text-gray-600 mb-6">
-                From our locations serving Pike County and beyond, we proudly serve customers throughout 
-                the Pocono Mountains region. Our commitment to quality service extends across our 
-                entire service area with multiple convenient locations.
+                From our location serving Chesapeake and beyond, we proudly serve customers throughout 
+                the Hampton Roads region. Our commitment to quality service extends across our 
+                entire service area with convenient locations.
               </p>
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Milford</span>
+                  <span className="text-gray-700 font-medium">Chesapeake Golf Carts - Great Bridge</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Hawley</span>
+                  <span className="text-gray-700 font-medium">Chesapeake Golf Carts - Greenbrier</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Pike County Golf Carts - Matamoras</span>
+                  <span className="text-gray-700 font-medium">Chesapeake Golf Carts - Western Branch</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 mb-6">
@@ -288,25 +288,25 @@ export default function AboutPage() {
             {/* Google Maps Embed - Mobile Responsive */}
             <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195876.91772958!2d-74.8021!3d41.3223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0a5b59ab6d6bd%3A0x1c7e1e8e8e8e8e8e!2sPike%20County%2C%20PA%2C%20USA!5e0!3m2!1sen!2sus!4v1756135600000!5m2!1sen!2sus" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102529.16172010403!2d-76.3567!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bac1e8e1d59d55%3A0x35df9e5df4e08c66!2sChesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1756135600000!5m2!1sen!2sus" 
                 className="w-full h-64 sm:h-80 md:h-96"
                 style={{border:0}}
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Pike County, PA Map"
+                title="Chesapeake, VA Map"
               />
             </div>
           </div>
 
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">Pike County Municipalities We Serve</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">Chesapeake & Hampton Roads Communities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
-                "Milford Borough", "Hawley Borough", "Matamoras Borough", "Blooming Grove Township", "Delaware Township", "Dingman Township",
-                "Greene Township", "Lackawaxen Township", "Lehman Township", "Milford Township", "Palmyra Township", "Porter Township",
-                "Shohola Township", "Westfall Township", "Middle Smithfield Township"
+                "Chesapeake", "Great Bridge", "Deep Creek", "Greenbrier", "Western Branch", "South Norfolk",
+                "Hickory", "Indian River", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
+                "Hampton", "Newport News", "Hampton Roads"
               ].map((town, index) => (
                 <div key={index} className="py-1">
                   {town}
@@ -324,15 +324,15 @@ export default function AboutPage() {
             Ready to Join Our Family?
           </h2>
           <p className="text-xl mb-8">
-            Experience the Pike County Golf Carts difference in the Pocono Mountains
+            Experience the Chesapeake Golf Carts difference in the Hampton Roads region
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Visit Our Showroom
             </Button>
-            <a href="tel:570-535-1535">
+            <a href="tel:757-555-1234">
               <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
-                Call 570-535-1535
+                Call 757-555-1234
               </Button>
             </a>
           </div>

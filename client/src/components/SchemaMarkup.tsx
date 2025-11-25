@@ -15,23 +15,23 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Gloucester Golf Carts",
-  "alternateName": "GGC",
-  "description": "Premier golf cart dealer in Gloucester, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
-  "url": "https://gloucestergolfcarts.com",
-  "logo": "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
+  "name": "Chesapeake Golf Carts",
+  "alternateName": "CGC",
+  "description": "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "url": "https://chesapeakegolfcarts.com",
+  "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
   "image": [
-    "https://gloucestergolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png",
-    "https://gloucestergolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+    "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+    "https://chesapeakegolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "804-210-6567",
-  "email": "sales@tigongolfcarts.com",
+  "telephone": "757-555-1234",
+  "email": "sales@chesapeakegolfcarts.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "6109 George Washington Memorial Hwy",
-    "addressLocality": "Gloucester",
+    "streetAddress": "1234 Battlefield Blvd",
+    "addressLocality": "Chesapeake",
     "addressRegion": "VA",
-    "postalCode": "23061",
+    "postalCode": "23322",
     "addressCountry": "US"
   },
   "areaServed": {
@@ -42,8 +42,8 @@ export const generateOrganizationSchema = () => ({
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 37.4093,
-      "longitude": -76.5275
+      "latitude": 36.7682,
+      "longitude": -76.2875
     },
     "geoRadius": "50000"
   },
@@ -52,9 +52,9 @@ export const generateOrganizationSchema = () => ({
   "slogan": "Professional golf cart services delivered to your community",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
-    "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
-    "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/"
+    "https://www.facebook.com/ChesapeakeGolfCarts/",
+    "https://www.youtube.com/@ChesapeakeGolfCarts",
+    "https://www.pinterest.com/chesapeakegolfcarts/"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -88,12 +88,12 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://gloucestergolfcarts.com/#localbusiness",
-  "name": "Gloucester Golf Carts",
-  "description": "Premier golf cart dealer serving Gloucester Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
-  "url": "https://gloucestergolfcarts.com",
-  "telephone": "804-210-6567",
-  "email": "sales@tigongolfcarts.com",
+  "@id": "https://chesapeakegolfcarts.com/#localbusiness",
+  "name": "Chesapeake Golf Carts",
+  "description": "Premier golf cart dealer serving Chesapeake Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
+  "url": "https://chesapeakegolfcarts.com",
+  "telephone": "757-555-1234",
+  "email": "sales@chesapeakegolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
   "paymentAccepted": "Cash, Credit Card, Financing",
@@ -103,21 +103,21 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "6109 George Washington Memorial Hwy",
-    "addressLocality": "Gloucester",
+    "streetAddress": "1234 Battlefield Blvd",
+    "addressLocality": "Chesapeake",
     "addressRegion": "VA",
-    "postalCode": "23061",
+    "postalCode": "23322",
     "addressCountry": "US"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 37.4093,
-    "longitude": -76.5275
+    "latitude": 36.7682,
+    "longitude": -76.2875
   },
   "areaServed": [
-    "Gloucester", "Gloucester Point", "Gloucester Courthouse", "Yorktown", "Hayes", "Seaford",
-    "Ordinary", "Ware Neck", "Wicomico", "Achilles", "Mathews", "Williamsburg",
-    "Poquoson", "Hampton", "Newport News", "York County"
+    "Chesapeake", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
+    "Hampton", "Newport News", "Hampton Roads", "Great Bridge", "Deep Creek",
+    "Greenbrier", "Western Branch", "South Norfolk", "Hickory", "Indian River"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -146,21 +146,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://gloucestergolfcarts.com/#website",
-  "name": "Gloucester Golf Carts",
-  "description": "Official website for Gloucester Golf Carts - Virginia's premier electric golf cart dealer",
-  "url": "https://gloucestergolfcarts.com",
+  "@id": "https://chesapeakegolfcarts.com/#website",
+  "name": "Chesapeake Golf Carts",
+  "description": "Official website for Chesapeake Golf Carts - Virginia's premier electric golf cart dealer",
+  "url": "https://chesapeakegolfcarts.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://gloucestergolfcarts.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://chesapeakegolfcarts.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Gloucester Golf Carts"
+    "name": "Chesapeake Golf Carts"
   }
 });
 
@@ -178,7 +178,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -186,7 +186,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://gloucestergolfcarts.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://chesapeakegolfcarts.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -194,11 +194,11 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "Gloucester Golf Carts",
-      "telephone": "804-210-6567",
-      "email": "sales@tigongolfcarts.com"
+      "name": "Chesapeake Golf Carts",
+      "telephone": "757-555-1234",
+      "email": "sales@chesapeakegolfcarts.com"
     },
-    "url": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}`
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -239,10 +239,10 @@ export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Gloucester, Virginia",
+  "description": "Comprehensive golf cart sales, service, repair, and rental services in Chesapeake, Virginia",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Gloucester Golf Carts"
+    "name": "Chesapeake Golf Carts"
   },
   "areaServed": {
     "@type": "State",
@@ -299,35 +299,35 @@ export const generateOfferCatalogSchema = (vehicles: any[]) => ({
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://gloucestergolfcarts.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://chesapeakegolfcarts.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://gloucestergolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}`
   }))
 });
 
 export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact Gloucester Golf Carts",
-  "description": "Get in touch with Gloucester Golf Carts for sales, service, rentals, and support",
-  "url": "https://gloucestergolfcarts.com/contact",
+  "name": "Contact Chesapeake Golf Carts",
+  "description": "Get in touch with Chesapeake Golf Carts for sales, service, rentals, and support",
+  "url": "https://chesapeakegolfcarts.com/contact",
   "mainEntity": {
     "@type": "Organization",
-    "name": "Gloucester Golf Carts",
+    "name": "Chesapeake Golf Carts",
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "804-210-6567",
+        "telephone": "757-555-1234",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"
       },
       {
         "@type": "ContactPoint",
-        "email": "sales@tigongolfcarts.com",
+        "email": "sales@chesapeakegolfcarts.com",
         "contactType": "sales",
         "areaServed": "US"
       }
@@ -339,17 +339,17 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Gloucester, Virginia`,
-  "url": `https://gloucestergolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Chesapeake, Virginia`,
+  "url": `https://chesapeakegolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "Gloucester Golf Carts",
+    "name": "Chesapeake Golf Carts",
     "areaServed": {
       "@type": "City",
       "name": townName,
       "containedInPlace": {
         "@type": "AdministrativeArea",
-        "name": "Gloucester County",
+        "name": "City of Chesapeake",
         "containedInPlace": {
           "@type": "State",
           "name": "Virginia"
@@ -364,13 +364,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://gloucestergolfcarts.com"
+        "item": "https://chesapeakegolfcarts.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://gloucestergolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
+        "item": `https://chesapeakegolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
       }
     ]
   }

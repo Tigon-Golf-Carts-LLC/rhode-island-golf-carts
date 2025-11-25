@@ -8,30 +8,25 @@ import AllSchemas from "@/components/schema/AllSchemas";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
 interface VehicleDetailPageProps {
-  // Vehicle Information
   vehicleName: string;
   brand: "DENAGO" | "EVOLUTION";
   series: string;
   price: string;
   image: string;
 
-  // SEO
   seoTitle: string;
   seoDescription: string;
   seoKeywords: string;
   canonicalUrl: string;
 
-  // Specifications
   seats: string;
   range: string;
   topSpeed: string;
   driveType: string;
 
-  // Features and Description
   features: string[];
   description: string;
 
-  // External Link
   tigoUrl: string;
 }
 
@@ -86,8 +81,8 @@ export default function VehicleDetailPage({
           description: seoDescription,
           url: canonicalUrl,
           breadcrumbs: [
-            { name: "Home", url: "https://gloucestergolfcarts.com/" },
-            { name: "Inventory", url: "https://gloucestergolfcarts.com/inventory" },
+            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
+            { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory" },
             { name: vehicleName, url: canonicalUrl }
           ],
           vehicleName,
@@ -107,7 +102,7 @@ export default function VehicleDetailPage({
             },
             {
               author: "Susan Rodriguez",
-              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Gloucester Golf Carts.`,
+              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Chesapeake Golf Carts.`,
               reviewRating: 5,
               datePublished: "2025-01-18",
               headline: "Excellent purchase experience"
@@ -124,7 +119,6 @@ export default function VehicleDetailPage({
       />
 
       <div className="min-h-screen bg-gray-50">
-        {/* Hero Section */}
         <section className={`relative py-20 px-4 bg-gradient-to-r ${brandColors[brand]} text-white overflow-hidden bg-cover bg-center bg-no-repeat`} style={getHeroBackgroundStyle("vehicle")}>
           <div className="relative max-w-7xl mx-auto z-10">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -148,10 +142,10 @@ export default function VehicleDetailPage({
                   </div>
                 </div>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="tel:804-210-6567">
+                  <a href="tel:757-555-1234">
                     <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                       <Phone className="w-5 h-5 mr-2" />
-                      Call 804-210-6567
+                      Call 757-555-1234
                     </Button>
                   </a>
                   <Link href="/contact">
@@ -177,7 +171,6 @@ export default function VehicleDetailPage({
           </div>
         </section>
 
-        {/* Specifications */}
         <section className="py-16 px-4 bg-white">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
@@ -221,7 +214,6 @@ export default function VehicleDetailPage({
           </div>
         </section>
 
-        {/* Features */}
         <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
@@ -244,7 +236,6 @@ export default function VehicleDetailPage({
           </div>
         </section>
 
-        {/* External Link Section */}
         <section className="py-16 px-4 bg-white">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6 text-gray-900">
@@ -269,12 +260,11 @@ export default function VehicleDetailPage({
           </div>
         </section>
 
-        {/* Why Choose Gloucester Golf Carts */}
         <section className="py-16 px-4 bg-theme-primary text-white">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4">
-                Why Choose Gloucester Golf Carts?
+                Why Choose Chesapeake Golf Carts?
               </h2>
             </div>
 
@@ -283,7 +273,7 @@ export default function VehicleDetailPage({
                 <Shield className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Expert Service</h3>
                 <p className="text-blue-100">
-                  Professional installation, maintenance, and warranty support for all {brand} vehicles in Gloucester County, Virginia.
+                  Professional installation, maintenance, and warranty support for all {brand} vehicles in the City of Chesapeake, Virginia.
                 </p>
               </div>
 
@@ -299,27 +289,26 @@ export default function VehicleDetailPage({
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Local Expertise</h3>
                 <p className="text-blue-100">
-                  Deep knowledge of Gloucester County's communities and terrain to help you choose the perfect vehicle for your needs.
+                  Deep knowledge of City of Chesapeake's communities and terrain to help you choose the perfect vehicle for your needs.
                 </p>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Contact CTA */}
         <section className="py-16 px-4 bg-gray-900 text-white">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">
               Ready to Experience the {vehicleName}?
             </h2>
             <p className="text-xl mb-8">
-              Contact Gloucester Golf Carts today for pricing, availability, and to schedule your test drive.
+              Contact Chesapeake Golf Carts today for pricing, availability, and to schedule your test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
               <Link href="/contact">

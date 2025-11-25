@@ -16,13 +16,10 @@ interface TownPageProps {
   townType: string; // "Township", "Borough", etc.
 }
 
-// Function to generate Google Maps embed URL for each town
 const getGoogleMapsEmbedUrl = (townName: string, townType: string): string => {
-  // Create town-specific Google Maps embed URLs
   const townKey = `${townName.toLowerCase().replace(/\s+/g, '')}_${townType.toLowerCase()}`;
   
-  // Return generic Gloucester County Virginia embed for all locations
-  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5275!3d37.4093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Gloucester%20County%2C%20VA!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
+  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.2875!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Chesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
 };
 
 export default function TownPage({ townName, townType }: TownPageProps) {
@@ -33,20 +30,18 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   const featuredVehicles = vehicles?.slice(0, 3) || [];
   const fullTownName = `${townName} ${townType}`;
   
-  // SEO optimization
-  const pageTitle = `${townName} Golf Carts - Gloucester's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}, Virginia. Gloucester Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
-  const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Gloucester County golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Virginia golf carts`;
-  const canonicalUrl = `https://gloucestergolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`;
+  const pageTitle = `${townName} Golf Carts - Chesapeake's Premier Dealership | Sales, Service & Rentals`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}, Virginia. Chesapeake Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
+  const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Chesapeake golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Virginia golf carts`;
+  const canonicalUrl = `https://chesapeakegolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`;
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://gloucestergolfcarts.com" },
+    { name: "Home", url: "https://chesapeakegolfcarts.com" },
     { name: `${townName} Golf Carts`, url: canonicalUrl }
   ];
 
   return (
     <div className="min-h-screen">
-      {/* Schema Markup */}
       <SchemaMarkup schema={generateLocalBusinessSchema()} />
       <SchemaMarkup schema={generateBreadcrumbSchema(breadcrumbItems)} />
       
@@ -57,13 +52,12 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         canonicalUrl={canonicalUrl}
         townName={fullTownName}
       />
-      {/* SEO Optimized Hero Section */}
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/Pike County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                {townName} Golf Carts - Gloucester's Premier Dealership
+                {townName} Golf Carts - Chesapeake's Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
                 Professional golf cart sales, service, and rentals in {fullTownName}. 
@@ -91,14 +85,13 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* Local Service Area */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
             Golf Cart Services in {fullTownName}
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            Gloucester Golf Carts proudly serves {townName} residents with comprehensive 
+            Chesapeake Golf Carts proudly serves {townName} residents with comprehensive 
             golf cart solutions including sales, maintenance, repairs, and rentals.
           </p>
           
@@ -146,11 +139,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* Brand Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Gloucester Golf Carts - Top Golf Cart and LSV Brands
+            Chesapeake Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -209,7 +201,6 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* Featured Golf Carts for Town */}
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
@@ -262,12 +253,11 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* Local Contact Information with Map */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-gray-900">
-              Contact Gloucester Golf Carts from {townName}
+              Contact Chesapeake Golf Carts from {townName}
             </h2>
             <p className="text-xl text-gray-600">
               Easy access to professional golf cart services for {townName} residents
@@ -275,7 +265,6 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           </div>
 
           <div className="grid lg:grid-cols-2 gap-12 mb-12">
-            {/* Contact Info */}
             <div className="grid md:grid-cols-1 gap-6">
               <Card className="text-center">
                 <CardHeader>
@@ -283,7 +272,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">804-210-6567</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">757-555-1234</p>
                   <p className="text-gray-600">Speak with our {townName} golf cart specialists</p>
                 </CardContent>
               </Card>
@@ -309,13 +298,12 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout {townName} and surrounding Gloucester County areas.
+                    Delivery and pickup available throughout {townName} and surrounding City of Chesapeake areas.
                   </p>
                 </CardContent>
               </Card>
             </div>
 
-            {/* Google Maps Embed for the specific town - Mobile Responsive */}
             <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg">
               <iframe 
                 src={getGoogleMapsEmbedUrl(townName, townType)}
@@ -331,16 +319,15 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* Local SEO Content */}
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                Why {townName} Chooses Gloucester Golf Carts
+                Why {townName} Chooses Chesapeake Golf Carts
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Residents of {townName} trust Gloucester Golf Carts for reliable, 
+                Residents of {townName} trust Chesapeake Golf Carts for reliable, 
                 high-quality golf cart solutions. Our local expertise and commitment to customer 
                 service make us the preferred choice for {townName} golf cart needs.
               </p>
@@ -390,18 +377,17 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* CTA Section */}
       <section className="py-16 px-4 bg-blue-600 text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">
             Ready to Get Your Golf Cart in {townName}?
           </h2>
           <p className="text-xl mb-8">
-            Contact Gloucester Golf Carts today for personalized service in {townName}
+            Contact Chesapeake Golf Carts today for personalized service in {townName}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-              Call 804-210-6567
+              Call 757-555-1234
             </Button>
             <Button size="lg" variant="outline" className="text-blue-600 bg-white border-white hover:bg-gray-100 hover:text-blue-600">
               Request Quote for {townName}

@@ -74,30 +74,30 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: MapPin,
-      label: "Gloucester Golf Carts",
-      value: "6109 George Washington Memorial Hwy, Gloucester, VA 23061",
-      phone: "804-210-6567",
+      label: "Chesapeake Golf Carts",
+      value: "1234 Battlefield Blvd, Chesapeake, VA 23322",
+      phone: "757-555-1234",
     },
     {
       icon: Phone,
       label: "Virginia Main Line",
-      value: "804-210-6567",
+      value: "757-555-1234",
     },
     {
       icon: Mail,
       label: "Primary Email",
-      value: "info@gloucestergolfcarts.com",
+      value: "info@chesapeakegolfcarts.com",
     },
     {
       icon: Mail,
-      label: "Secondary Email",
-      value: "sales@tigongolfcarts.com",
+      label: "Sales Email",
+      value: "sales@chesapeakegolfcarts.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "gloucestergolfcarts.com",
-      link: "https://gloucestergolfcarts.com",
+      value: "chesapeakegolfcarts.com",
+      link: "https://chesapeakegolfcarts.com",
     },
   ];
 
@@ -110,10 +110,10 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Gloucester Golf Carts"
-        description="Get expert golf cart sales, service, and support from Gloucester's premier dealership located at 6109 George Washington Memorial Hwy, Gloucester, VA 23061. Call 804-210-6567."
-        keywords="contact Gloucester golf carts, golf cart sales Virginia, Gloucester Point showroom, Williamsburg golf cart service VA"
-        canonicalUrl="https://gloucestergolfcarts.com/contact"
+        title="Contact Chesapeake Golf Carts"
+        description="Get expert golf cart sales, service, and support from Chesapeake's premier dealership located at 1234 Battlefield Blvd, Chesapeake, VA 23322. Call 757-555-1234."
+        keywords="contact Chesapeake golf carts, golf cart sales Virginia, Chesapeake showroom, Hampton Roads golf cart service VA"
+        canonicalUrl="https://chesapeakegolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -125,20 +125,20 @@ export default function ContactPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("contact")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Contact Gloucester Golf Carts
+              Contact Chesapeake Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Get in touch with our team for sales, service, and support throughout Gloucester County, Virginia. 
+              Get in touch with our team for sales, service, and support throughout the City of Chesapeake, Virginia. 
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-210-6567">
+              <a href="tel:757-555-1234">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-210-6567
+                  Call 757-555-1234
                 </Button>
               </a>
-              <a href="mailto:info@gloucestergolfcarts.com">
+              <a href="mailto:info@chesapeakegolfcarts.com">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Us

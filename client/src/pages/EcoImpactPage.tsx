@@ -67,21 +67,19 @@ export default function EcoImpactPage() {
     <>
       <SEOHead 
         title="Calculate Your Environmental Impact"
-        description="Discover how much CO₂, fuel, and money you save by choosing electric golf carts with our free environmental impact calculator. Call 804-210-6567."
-        keywords="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Gloucester, green golf carts Virginia"
-        canonicalUrl="https://gloucestergolfcarts.com/eco-impact"
+        description="Discover how much CO₂, fuel, and money you save by choosing electric golf carts with our free environmental impact calculator. Call 757-555-1234."
+        keywords="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Chesapeake, green golf carts Virginia"
+        canonicalUrl="https://chesapeakegolfcarts.com/eco-impact"
         ogType="website"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
 
-      {/* Schema Markup */}
       <AllSchemas 
         pageType="services"
       />
 
       <div className="min-h-screen bg-gradient-to-br from-green-50 via-blue-50 to-emerald-50">
-        {/* Hero Section */}
         <div className="py-20 px-4">
           <div className="max-w-4xl mx-auto text-center">
             <Badge className="bg-green-100 text-green-800 mb-6 px-4 py-2 text-sm">
@@ -98,12 +96,10 @@ export default function EcoImpactPage() {
           </div>
         </div>
 
-        {/* Calculator Section */}
         <div className="pb-12 px-4">
           <EcoImpactCalculator className="mb-16" />
         </div>
 
-        {/* Environmental Benefits */}
         <div className="py-16 px-4">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
@@ -136,7 +132,6 @@ export default function EcoImpactPage() {
           </div>
         </div>
 
-        {/* Environmental Facts */}
         <div className="py-16 px-4 bg-white">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
@@ -168,7 +163,6 @@ export default function EcoImpactPage() {
           </div>
         </div>
 
-        {/* Call to Action */}
         <div className="py-16 px-4 bg-gradient-to-r from-green-600 to-blue-600 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("eco-cta")}>
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
