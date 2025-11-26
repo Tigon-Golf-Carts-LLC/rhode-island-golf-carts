@@ -10,6 +10,7 @@ import SchemaMarkup, {
   generateLocalBusinessSchema,
   generateBreadcrumbSchema
 } from "@/components/SchemaMarkup";
+import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
 interface TownPageProps {
   townName: string;
@@ -52,7 +53,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         canonicalUrl={canonicalUrl}
         townName={fullTownName}
       />
-      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/Pike County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle(townName)}>
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
