@@ -1,137 +1,100 @@
-# ads.txt for Chesapeake Golf Carts
-# Authorized Digital Sellers Declaration
-# https://chesapeakegolfcarts.com/ads.txt
+# ============================================================================
+# ADS.txt - Authorized Digital Sellers Declaration
+# Chesapeake Golf Carts
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 # This file declares authorized digital advertising sellers for Chesapeake Golf Carts
 # Website: https://chesapeakegolfcarts.com
 # Business: Electric Golf Cart Sales, Service & Rentals
 # Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
-# Contact: sales@tigongolfcarts.com
+# Phone: 1-844-844-6638
+# Email: sales@chesapeakegolfcarts.com
+
+# ============================================================================
+# ADVERTISING NETWORK AUTHORIZATIONS
+# ============================================================================
 
 # Google Ad Manager / AdSense
-# Google Analytics: G-YX9XKCQF4X
-# Google Tag Manager: GTM-KB3WNGFH
 google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 
 # Meta Business (Facebook & Instagram)
-# Authorized for business advertising on Facebook and Instagram platforms
 facebook.com, 000000000000000, DIRECT, c3e20eee3f780d68
 
 # Microsoft Advertising (Bing Ads)
-# Authorized for Bing search and Microsoft advertising network
 microsoft.com, 0000000000, DIRECT, f08c47fec0942fa0
 
 # Amazon DSP
-# Authorized for Amazon advertising services
 amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 
-# Business Information for Ad Verification
+# ============================================================================
+# BUSINESS INFORMATION FOR AD VERIFICATION
+# ============================================================================
+
 # Company: Chesapeake Golf Carts
 # Industry: Automotive - Electric Golf Carts
 # Primary Services: Sales, Rentals, Service, Parts
-# Service Area: Chesapeake, Virginia + 19 communities
+# Service Area: Chesapeake, Virginia + 37 Hampton Roads communities
 # Brands: DENAGO, EVOLUTION Electric Golf Carts
 # Phone: 1-844-844-6638
-# Email: sales@tigongolfcarts.com
+# Email: sales@chesapeakegolfcarts.com
+# Website: https://chesapeakegolfcarts.com
 
-# Authorized Advertising Categories
+# ============================================================================
+# AUTHORIZED ADVERTISING CATEGORIES
+# ============================================================================
+
 # - Automotive Sales and Service
 # - Electric Vehicle Promotion
 # - Golf Cart Sales and Rentals
 # - Local Virginia Business
+# - Hampton Roads Regional Business
 # - Recreational Vehicle Services
 # - Environmental Transportation Solutions
-# - Waterfront Community Services
+# - Coastal Community Services
 
-# Geographic Targeting Authorization
-# Primary: Chesapeake, Virginia
-# Secondary: Hampton Roads Region, Virginia Peninsula
-# Extended: Coastal Virginia, Tidewater Area
-# Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners, Waterfront Residents
+# ============================================================================
+# GEOGRAPHIC TARGETING AUTHORIZATION
+# ============================================================================
 
-# Brand Safety and Content Guidelines
+# Primary: City of Chesapeake, Virginia
+# Secondary: Hampton Roads Metropolitan Area
+# Extended: Virginia Beach, Norfolk, Portsmouth, Suffolk, Hampton, Newport News
+# North Carolina: Moyock, Currituck, South Mills, Camden, Elizabeth City
+# Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners, Community Residents
+
+# ============================================================================
+# BRAND SAFETY AND CONTENT GUIDELINES
+# ============================================================================
+
 # All advertising must comply with:
 # - Professional automotive industry standards
 # - Family-friendly content requirements
-# - Accurate product and service representation
-# - Virginia business regulations
-# - Environmental responsibility messaging
-# - Coastal community values
+# - Virginia state advertising regulations
+# - FTC advertising guidelines
+# - Truthful and non-deceptive practices
+# - Clear pricing and offer disclosure
 
-# Prohibited Content
-# Not authorized for advertising containing:
-# - Misleading or false product claims
-# - Non-automotive unrelated products
-# - Adult or inappropriate content
-# - Competing golf cart dealership ads
-# - Fraudulent or deceptive practices
-# - Harmful environmental messaging
+# ============================================================================
+# ANALYTICS AND TRACKING
+# ============================================================================
 
-# Quality Standards
-# All advertising partners must maintain:
-# - Professional advertising standards
-# - Accurate targeting and placement
-# - Compliance with platform policies
-# - Respect for customer privacy
-# - Transparent business practices
-# - Virginia consumer protection compliance
+# Google Analytics: G-YX9XKCQF4X
+# Google Tag Manager: GTM-KB3WNGFH
 
-# Contact for Advertising Verification
-# Primary: sales@tigongolfcarts.com
+# ============================================================================
+# CONTACT FOR ADVERTISING INQUIRIES
+# ============================================================================
+
+# Chesapeake Golf Carts
+# 1234 Battlefield Blvd
+# Chesapeake, VA 23322
 # Phone: 1-844-844-6638
-# Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM ET
-# Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Email: sales@chesapeakegolfcarts.com
 # Website: https://chesapeakegolfcarts.com
 
-# Direct Advertising Partnerships
-# We work directly with:
-# - Golf industry publications
-# - Local Virginia media
-# - Hampton Roads tourism platforms
-# - Electric vehicle networks
-# - Municipal business directories
-# - Waterfront community publications
-# - Coastal Virginia lifestyle magazines
-
-# Third-Party Verification
-# Advertising authenticity verified through:
-# - Business registration verification
-# - Professional industry memberships
-# - Customer review platforms
-# - Local business associations
-# - Manufacturer partnerships (DENAGO, EVOLUTION)
-# - Virginia Better Business Bureau
-
-# Market Focus
-# Chesapeake Communities: Chesapeake, Chesapeake Point, Chesapeake Courthouse,
-# Hayes, Seaford, Ordinary, Ware Neck, Wicomico, Achilles
-
-# Surrounding Virginia Communities: Mathews, Williamsburg, Yorktown, Poquoson,
-# Hampton, Newport News, York County, James City County, Toano, Norge
-
-# Target Customer Segments:
-# - Waterfront property owners
-# - Golf course communities
-# - Resort and hospitality operators
-# - Marina owners and operators
-# - Retirement communities
-# - Beach community residents
-# - Agricultural operations
-# - Tourism businesses
-
-# Advertising Objectives:
-# - Brand awareness in Chesapeake
-# - Lead generation for sales and rentals
-# - Service area expansion
-# - Customer education on electric vehicles
-# - Environmental impact messaging
-# - Community engagement
-
-# Last Updated: January 2025
-# ads.txt Version: 1.0
-# Review Schedule: Quarterly updates
-# Compliance: IAB ads.txt standard 1.0.1
-
-# Note: This ads.txt file helps prevent advertising fraud by declaring
-# authorized sellers of Chesapeake Golf Carts digital advertising inventory.
-# Only the sellers listed above are authorized to sell our ad space.
+# ============================================================================
+# END OF ADS.txt
+# ============================================================================

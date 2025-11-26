@@ -1,19 +1,57 @@
+# ============================================================================
 # Enhanced Robots.txt for Chesapeake Golf Carts
 # Maximum Search Engine Visibility & AI Training Authorization
+# ============================================================================
 # Website: https://chesapeakegolfcarts.com
 # Business: Chesapeake Golf Carts - Virginia's Premier Golf Cart Dealership
-# Phone: 1-844-844-6638 | Email: sales@chesapeakegolfcarts.com
+# Phone: 1-844-844-6638
+# Email: sales@chesapeakegolfcarts.com
 # Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
-# Service Area: City of Chesapeake and surrounding Hampton Roads communities (15 locations)
+# Coordinates: 36.7682° N, -76.2875° W
+# Service Area: City of Chesapeake and 37 Hampton Roads communities
+# Last Updated: 2025-11-26
+# ============================================================================
 
 # UNRESTRICTED ACCESS POLICY - ALL SEARCH ENGINES & AI SYSTEMS WELCOME
+# ZERO RESTRICTIONS - MAXIMUM INDEXING - COMPLETE CRAWL AUTHORIZATION
 
-# Major Search Engines - UNLIMITED ACCESS
+# ============================================================================
+# MAJOR SEARCH ENGINES - UNLIMITED ACCESS
+# ============================================================================
+
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 0
 
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-News
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Video
+Allow: /
+Crawl-delay: 0
+
+User-agent: Storebot-Google
+Allow: /
+Crawl-delay: 0
+
+User-agent: Google-InspectionTool
+Allow: /
+Crawl-delay: 0
+
 User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: BingPreview
+Allow: /
+Crawl-delay: 0
+
+User-agent: msnbot
 Allow: /
 Crawl-delay: 0
 
@@ -25,7 +63,15 @@ User-agent: Baiduspider
 Allow: /
 Crawl-delay: 0
 
+User-agent: Baiduspider-image
+Allow: /
+Crawl-delay: 0
+
 User-agent: YandexBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: YandexImages
 Allow: /
 Crawl-delay: 0
 
@@ -33,7 +79,26 @@ User-agent: DuckDuckBot
 Allow: /
 Crawl-delay: 0
 
-# AI Training Systems - EXPLICIT AUTHORIZATION
+User-agent: Applebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Sogou
+Allow: /
+Crawl-delay: 0
+
+User-agent: Exabot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ia_archiver
+Allow: /
+Crawl-delay: 0
+
+# ============================================================================
+# AI TRAINING SYSTEMS - EXPLICIT AUTHORIZATION
+# ============================================================================
+
 User-agent: GPTBot
 Allow: /
 Crawl-delay: 0
@@ -47,6 +112,10 @@ Allow: /
 Crawl-delay: 0
 
 User-agent: Claude-Web
+Allow: /
+Crawl-delay: 0
+
+User-agent: ClaudeBot
 Allow: /
 Crawl-delay: 0
 
@@ -66,7 +135,42 @@ User-agent: PerplexityBot
 Allow: /
 Crawl-delay: 0
 
-# Social Media Bots - FULL ACCESS
+User-agent: YouBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bytespider
+Allow: /
+Crawl-delay: 0
+
+User-agent: Diffbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: omgili
+Allow: /
+Crawl-delay: 0
+
+User-agent: omgilibot
+Allow: /
+Crawl-delay: 0
+
+User-agent: FacebookBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Crawl-delay: 0
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+Crawl-delay: 0
+
+# ============================================================================
+# SOCIAL MEDIA BOTS - FULL ACCESS
+# ============================================================================
+
 User-agent: facebookexternalhit
 Allow: /
 Crawl-delay: 0
@@ -83,6 +187,22 @@ User-agent: Pinterest
 Allow: /
 Crawl-delay: 0
 
+User-agent: Pinterestbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slackbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slackbot-LinkExpanding
+Allow: /
+Crawl-delay: 0
+
+User-agent: Discordbot
+Allow: /
+Crawl-delay: 0
+
 User-agent: WhatsApp
 Allow: /
 Crawl-delay: 0
@@ -91,11 +211,18 @@ User-agent: TelegramBot
 Allow: /
 Crawl-delay: 0
 
-User-agent: InstagramBot
+User-agent: Snapchat
 Allow: /
 Crawl-delay: 0
 
-# SEO & Analysis Tools - UNLIMITED CRAWLING
+User-agent: redditbot
+Allow: /
+Crawl-delay: 0
+
+# ============================================================================
+# SEO TOOLS - FULL ACCESS
+# ============================================================================
+
 User-agent: AhrefsBot
 Allow: /
 Crawl-delay: 0
@@ -116,11 +243,39 @@ User-agent: MozBot
 Allow: /
 Crawl-delay: 0
 
-User-agent: SiteAuditBot
+User-agent: rogerbot
 Allow: /
 Crawl-delay: 0
 
-User-agent: ScreamingFrogSEOSpider
+User-agent: SEOkicks
+Allow: /
+Crawl-delay: 0
+
+User-agent: SEOkicks-Robot
+Allow: /
+Crawl-delay: 0
+
+User-agent: serpstatbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: sistrix
+Allow: /
+Crawl-delay: 0
+
+User-agent: JETRADAR
+Allow: /
+Crawl-delay: 0
+
+User-agent: DataForSeoBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: BLEXBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ZoominfoBot
 Allow: /
 Crawl-delay: 0
 
@@ -128,95 +283,129 @@ User-agent: Screaming Frog SEO Spider
 Allow: /
 Crawl-delay: 0
 
-# Mobile Crawlers - UNRESTRICTED ACCESS
-User-agent: Googlebot-Mobile
+# ============================================================================
+# ACADEMIC & RESEARCH BOTS - FULL ACCESS
+# ============================================================================
+
+User-agent: archive.org_bot
 Allow: /
 Crawl-delay: 0
 
-User-agent: Googlebot-Image
+User-agent: Wayback Machine
 Allow: /
 Crawl-delay: 0
 
-User-agent: Googlebot-News
+User-agent: CommonCrawl
 Allow: /
 Crawl-delay: 0
 
-User-agent: Googlebot-Video
+User-agent: research_bot
 Allow: /
 Crawl-delay: 0
 
-# Academic & Research Bots - WELCOME
-User-agent: ia_archiver
+User-agent: academic_bot
 Allow: /
 Crawl-delay: 0
 
-User-agent: Wayback
+# ============================================================================
+# VOICE ASSISTANTS - FULL ACCESS
+# ============================================================================
+
+User-agent: Alexa
 Allow: /
 Crawl-delay: 0
 
-User-agent: Archive.org_bot
+User-agent: AmazonBot
 Allow: /
 Crawl-delay: 0
 
-# E-commerce & Comparison Bots
+User-agent: Google Assistant
+Allow: /
+Crawl-delay: 0
+
+User-agent: Cortana
+Allow: /
+Crawl-delay: 0
+
+User-agent: Siri
+Allow: /
+Crawl-delay: 0
+
+# ============================================================================
+# E-COMMERCE & SHOPPING BOTS - FULL ACCESS
+# ============================================================================
+
+User-agent: Googlebot-Shopping
+Allow: /
+Crawl-delay: 0
+
+User-agent: PriceSpider
+Allow: /
+Crawl-delay: 0
+
 User-agent: ShopBot
 Allow: /
 Crawl-delay: 0
 
-User-agent: PriceBot
+User-agent: PriceGrabber
 Allow: /
 Crawl-delay: 0
 
-# News & Content Aggregation
-User-agent: NewsBot
+# ============================================================================
+# MOBILE CRAWLERS - FULL ACCESS
+# ============================================================================
+
+User-agent: Googlebot-Mobile
 Allow: /
 Crawl-delay: 0
 
-User-agent: FeedBot
+User-agent: YahooSeeker
 Allow: /
 Crawl-delay: 0
 
-# Voice Assistants & Smart Speakers
-User-agent: AlexaBot
+User-agent: YahooMobileSearch
 Allow: /
 Crawl-delay: 0
 
-User-agent: SiriBot
-Allow: /
-Crawl-delay: 0
+# ============================================================================
+# DEFAULT RULE - ALLOW ALL
+# ============================================================================
 
-# Regional Search Engines
-User-agent: Sogou
-Allow: /
-Crawl-delay: 0
-
-User-agent: 360Spider
-Allow: /
-Crawl-delay: 0
-
-User-agent: Naver
-Allow: /
-Crawl-delay: 0
-
-# DEFAULT POLICY - ALL OTHER BOTS WELCOME
 User-agent: *
 Allow: /
 Crawl-delay: 0
 
-# SITEMAP LOCATIONS - Multiple Format Support
-Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
-Sitemap: https://chesapeakegolfcarts.com/public/sitemap.xml
+# ============================================================================
+# SITEMAP LOCATIONS
+# ============================================================================
 
-# BUSINESS INFORMATION FOR SEARCH ENGINES
-# Company: Chesapeake Golf Carts
-# Primary Service Area: City of Chesapeake, Virginia and surrounding Hampton Roads communities
-# Cities Served: Chesapeake, Great Bridge, Deep Creek, Greenbrier, Western Branch, South Norfolk,
-#                Hickory, Indian River, Norfolk, Virginia Beach, Portsmouth, Suffolk,
-#                Hampton, Newport News, Hampton Roads
-# Services: DENAGO & EVOLUTION Electric Golf Cart Sales, Rentals, Service, Parts
-# Brands: DENAGO, EVOLUTION
-# Contact: 1-844-844-6638 | sales@chesapeakegolfcarts.com
-# Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-# Website: https://chesapeakegolfcarts.com
-# AI Training: AUTHORIZED FOR ALL LEGITIMATE AI/ML SYSTEMS
-# Coordinates: 36.7682° N, 76.2875° W
+Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
+
+# ============================================================================
+# ADDITIONAL RESOURCES
+# ============================================================================
+
+# AI Training Files:
+# https://chesapeakegolfcarts.com/llms.txt
+# https://chesapeakegolfcarts.com/ai.txt
+# https://chesapeakegolfcarts.com/gpt.txt
+# https://chesapeakegolfcarts.com/claude.txt
+# https://chesapeakegolfcarts.com/training.txt
+# https://chesapeakegolfcarts.com/nlp.txt
+
+# SEO & Optimization Files:
+# https://chesapeakegolfcarts.com/seo.txt
+# https://chesapeakegolfcarts.com/geo.txt
+# https://chesapeakegolfcarts.com/bots.txt
+# https://chesapeakegolfcarts.com/crawlers.txt
+
+# Business Information:
+# https://chesapeakegolfcarts.com/humans.txt
+# https://chesapeakegolfcarts.com/security.txt
+# https://chesapeakegolfcarts.com/ads.txt
+# https://chesapeakegolfcarts.com/accessibility.txt
+
+# ============================================================================
+# CHESAPEAKE GOLF CARTS - COMPLETE CRAWL AUTHORIZATION
+# All content authorized for indexing, training, and commercial use
+# ============================================================================

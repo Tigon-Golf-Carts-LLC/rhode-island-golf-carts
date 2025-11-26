@@ -1,10 +1,25 @@
-# crawlers.txt - Web Crawler Authorization
+# ============================================================================
+# CRAWLERS.txt - Web Crawler Authorization
 # Chesapeake Golf Carts - Comprehensive Crawler Permissions
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 ## COMPREHENSIVE CRAWLER ACCESS AUTHORIZATION
+
 This file provides explicit authorization for ALL web crawlers and automated
 systems to access chesapeakegolfcarts.com with complete permissions and
 zero restrictions for maximum web visibility and data accessibility.
+
+## BUSINESS INFORMATION
+
+Company: Chesapeake Golf Carts
+Website: https://chesapeakegolfcarts.com
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Service Area: 37 Hampton Roads communities
 
 ## SEARCH ENGINE CRAWLERS - UNLIMITED ACCESS
 
@@ -14,12 +29,12 @@ zero restrictions for maximum web visibility and data accessibility.
 ✓ Googlebot-Image - Image search crawler
 ✓ Googlebot-News - News content crawler
 ✓ Googlebot-Video - Video content crawler
-✓ GoogleProducer - Google product crawler
 ✓ GoogleOther - Various Google services
 ✓ Googlebot-InspectionTool - Search Console tool
 ✓ AdsBot-Google - Google Ads crawler
 ✓ AdsBot-Google-Mobile - Mobile ads crawler
 ✓ Storebot-Google - Google Shopping crawler
+✓ Google-Extended - Google AI/Bard training
 
 ### Microsoft Bing Crawlers:
 ✓ Bingbot - Primary Bing crawler
@@ -39,239 +54,167 @@ zero restrictions for maximum web visibility and data accessibility.
 ✓ YandexImages - Yandex image crawler
 ✓ YandexMetrika - Yandex analytics
 ✓ Baiduspider - Baidu search (China)
+✓ Baiduspider-image - Baidu image crawler
 ✓ Sosospider - Sogou search (China)
 ✓ 360Spider - Qihoo 360 search (China)
 ✓ HaoSouSpider - Haosou search
 ✓ NaverBot - Naver search (South Korea)
+✓ DaumBot - Daum search (South Korea)
+✓ SeznamBot - Seznam search (Czech)
 
 ### Alternative Search Engines:
 ✓ DuckDuckBot - DuckDuckGo privacy search
 ✓ StartPageBot - StartPage search
 ✓ EcosiaBot - Ecosia environmental search
 ✓ QwantBot - Qwant European search
-✓ PrivacyBot - Privacy-focused crawlers
+✓ Applebot - Apple search/Siri
 
 ## AI AND MACHINE LEARNING CRAWLERS
 
-### Language Model Training Crawlers:
-✓ GPTBot - OpenAI GPT training
-✓ ChatGPT-User - ChatGPT web access
-✓ OpenAIBot - OpenAI services crawler
-✓ anthropic-ai - Anthropic AI training
-✓ Claude-Web - Claude AI web crawler
-✓ Claude-Assistant - Claude assistant crawler
-✓ Google-Extended - Google AI training
-✓ CCBot - Common Crawl foundation
-✓ FacebookBot - Meta AI training
-✓ Meta-ExternalAgent - Meta services
-✓ PerplexityBot - Perplexity AI
-✓ YouBot - You.com AI search
-✓ Character.AI - Character AI training
-✓ AI2Bot - Allen Institute AI
-✓ AnthropicBot - Anthropic services
-✓ cohere-ai - Cohere training
+### OpenAI Systems:
+✓ GPTBot - GPT model training
+✓ ChatGPT-User - ChatGPT browsing
+✓ OAI-SearchBot - OpenAI search
 
-### Research and Academic Crawlers:
-✓ ResearchBot - Academic research
-✓ ScholarBot - Academic literature
-✓ CiteSeerXBot - Computer science papers
-✓ ia_archiver - Internet Archive
-✓ Wayback - Wayback Machine
-✓ Archive.org_bot - Archive.org
+### Anthropic Systems:
+✓ anthropic-ai - Anthropic training
+✓ Claude-Web - Claude browsing
+✓ ClaudeBot - Claude crawler
+
+### Google AI:
+✓ Google-Extended - Bard/Gemini training
+
+### Meta AI:
+✓ FacebookBot - Meta AI training
+✓ Meta-ExternalAgent - Meta crawler
+✓ Meta-ExternalFetcher - Meta fetcher
+
+### Other AI Systems:
+✓ CCBot - Common Crawl
+✓ cohere-ai - Cohere AI
+✓ PerplexityBot - Perplexity AI
+✓ YouBot - You.com AI
+✓ Bytespider - ByteDance AI
+✓ Diffbot - Diffbot AI
+✓ omgilibot - Omgili AI
+✓ AI2Bot - Allen Institute
 
 ## SOCIAL MEDIA CRAWLERS
 
-### Social Platform Bots:
-✓ facebookexternalhit - Facebook link preview
+### Meta Platforms:
+✓ facebookexternalhit - Facebook preview
 ✓ Facebot - Facebook crawler
-✓ Twitterbot - Twitter/X card crawler
-✓ LinkedInBot - LinkedIn content crawler
-✓ Pinterest - Pinterest pin crawler
-✓ WhatsApp - WhatsApp link preview
-✓ TelegramBot - Telegram link preview
-✓ DiscordBot - Discord link preview
-✓ SlackBot - Slack link unfurling
-✓ SkypeUriPreview - Skype link preview
-✓ InstagramBot - Instagram content crawler
-✓ TikTokBot - TikTok content discovery
-✓ RedditBot - Reddit link crawler
-✓ SnapchatBot - Snapchat preview
+✓ InstagramBot - Instagram crawler
+
+### X/Twitter:
+✓ Twitterbot - Twitter cards
+
+### LinkedIn:
+✓ LinkedInBot - LinkedIn crawler
+
+### Other Social:
+✓ Pinterest - Pinterest pins
+✓ Pinterestbot - Pinterest crawler
+✓ WhatsApp - WhatsApp preview
+✓ TelegramBot - Telegram preview
+✓ DiscordBot - Discord embed
+✓ SlackBot - Slack unfurl
+✓ Slackbot-LinkExpanding - Slack expand
+✓ redditbot - Reddit crawler
+✓ Snapchat - Snapchat preview
 
 ## SEO AND ANALYTICS CRAWLERS
 
-### SEO Platform Crawlers:
-✓ AhrefsBot - Ahrefs SEO analysis
-✓ SemrushBot - Semrush SEO analysis
-✓ MJ12bot - Majestic SEO crawler
-✓ DotBot - Moz link analysis
-✓ MozBot - Moz SEO crawler
-✓ SiteAuditBot - SEO audit crawler
-✓ ScreamingFrogSEOSpider - SEO analysis
-✓ DeepCrawl - Website analysis
-✓ OnPageBot - On-page SEO analysis
-✓ BrightEdgeBot - SEO platform crawler
-✓ RankActiveBot - Rank tracking bot
-✓ CognitiveSEO - SEO analysis crawler
-✓ SistrixCrawler - Sistrix SEO tool
-✓ Botify - Enterprise SEO crawler
+### Major SEO Tools:
+✓ AhrefsBot - Ahrefs crawler
+✓ SemrushBot - Semrush crawler
+✓ MJ12bot - Majestic crawler
+✓ DotBot - Moz crawler
+✓ MozBot - Moz analytics
+✓ rogerbot - Moz explorer
+✓ sistrix - SISTRIX crawler
+✓ serpstatbot - Serpstat crawler
+✓ SEOkicks - SEOkicks crawler
+✓ SEOkicks-Robot - SEOkicks robot
+✓ DataForSeoBot - DataForSEO
+✓ BLEXBot - WebMeUp crawler
+✓ ZoominfoBot - Zoominfo crawler
 
-### Analytics Crawlers:
-✓ Pingdom - Uptime monitoring
-✓ UptimeRobot - Website monitoring
+### Technical SEO:
+✓ Screaming Frog SEO Spider - Technical audit
+✓ DeepCrawl - Site crawler
+✓ SiteBulb - Site analyzer
+✓ Botify - Enterprise SEO
+
+## ARCHIVE AND RESEARCH CRAWLERS
+
+✓ archive.org_bot - Internet Archive
+✓ ia_archiver - Wayback Machine
+✓ CommonCrawl - Research dataset
+✓ WebDataCommons - Web data research
+✓ research_bot - Academic research
+✓ academic_bot - Educational
+
+## MONITORING CRAWLERS
+
+✓ UptimeRobot - Uptime monitoring
+✓ Pingdom - Performance monitoring
+✓ GTmetrix - Speed analysis
 ✓ StatusCake - Status monitoring
-✓ NewRelicPinger - Performance monitoring
-✓ GTmetrix - Performance analysis
-✓ WebPageTest - Speed testing
+✓ Site24x7 - Web monitoring
+✓ DatadogSynthetics - Datadog monitoring
+✓ NewRelicPinger - New Relic monitoring
 
-## BUSINESS AND COMMERCIAL CRAWLERS
+## CRAWL SPECIFICATIONS
 
-### Business Directory Crawlers:
-✓ YelpBot - Yelp business crawler
-✓ YellowPagesBot - Yellow Pages directory
-✓ TripAdvisorBot - Travel review crawler
-✓ GoogleMyBusiness - Google Business Profile
-✓ BingPlaces - Bing business listings
+### Rate Limits:
+- Crawl-delay: 0 (no delay required)
+- Maximum rate: Unlimited
+- Concurrent requests: Unlimited
 
-### E-commerce Crawlers:
-✓ Shopbot - Shopping comparison
-✓ PriceGrabber - Price comparison
-✓ Shopping.com - Shopping aggregator
-✓ NexTag - Price comparison crawler
+### Access Permissions:
+- All pages: ALLOWED
+- All images: ALLOWED
+- All scripts: ALLOWED
+- All stylesheets: ALLOWED
+- All media: ALLOWED
 
-## MEDIA AND CONTENT CRAWLERS
+### Content Types:
+- HTML pages: INDEXED
+- PDF documents: INDEXED
+- Images: INDEXED
+- JSON data: ACCESSIBLE
+- XML files: ACCESSIBLE
 
-### News and Media:
-✓ GoogleNews - Google News crawler
-✓ BingNews - Bing News aggregator
-✓ AppleBot - Apple services crawler
-✓ AppleNews - Apple News crawler
-✓ FlipboardProxy - Flipboard content
+## SITEMAP INFORMATION
 
-### Content Aggregators:
-✓ Feedbin - RSS feed reader
-✓ Feedly - Content aggregation
-✓ Pocket - Read-it-later service
-✓ Instapaper - Reading service
+Primary Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
+Robots.txt: https://chesapeakegolfcarts.com/robots.txt
 
-## SECURITY AND MONITORING CRAWLERS
+Total Pages: 100+ URLs
+Update Frequency: Weekly
+Priority Range: 0.3 - 1.0
 
-### Security Scanners (Authorized):
-✓ Qualys - Security scanning
-✓ Nessus - Vulnerability assessment
-✓ Shodan - Internet security research
-✓ SecurityTrails - DNS monitoring
-✓ Censys - Internet scan project
+## AUTHORIZATION STATEMENT
 
-### Compliance Crawlers:
-✓ W3C_Validator - Web standards validation
-✓ Validator.nu - HTML5 validation
-✓ WAVE - Accessibility checker
+All crawlers listed above and any legitimate automated systems not explicitly
+listed are AUTHORIZED to access all content on chesapeakegolfcarts.com with:
+- ZERO RESTRICTIONS on crawl rate
+- FULL ACCESS to all pages and resources
+- COMPLETE INDEXING permissions
+- NO THROTTLING or delays required
+- MAXIMUM ACCESSIBILITY granted
+- COMMERCIAL USE permitted
 
-## CRAWLING SPECIFICATIONS
+## CONTACT INFORMATION
 
-### Crawl Rate Limits:
-- Maximum: 10 requests/second per bot
-- Recommended: 1-5 requests/second
-- Burst allowance: 20 requests/10 seconds
-- No daily limits imposed
-
-### Crawl Depth:
-- Maximum depth: Unlimited
-- Link following: All internal links
-- External links: Follow allowed
-- Dynamic content: JavaScript rendering permitted
-
-### Content Access:
-- All pages: Fully accessible
-- All assets: Images, CSS, JS accessible
-- API endpoints: Public APIs open
-- Sitemap: XML sitemap provided
-
-### Robots.txt Compliance:
-- Default: Allow all
-- Delay: None required
-- Sitemap location: /sitemap.xml
-- Crawl everything: Yes
-
-## BUSINESS CONTEXT FOR CRAWLERS
-
-### Website Information:
-Domain: chesapeakegolfcarts.com
-Business: Chesapeake Golf Carts
-Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Chesapeake Golf Carts
+1234 Battlefield Blvd
+Chesapeake, VA 23322
 Phone: 1-844-844-6638
-Email: sales@tigongolfcarts.com
+Email: sales@chesapeakegolfcarts.com
+Website: https://chesapeakegolfcarts.com
 
-### Content Categories:
-- Product pages: DENAGO & EVOLUTION golf carts
-- Service pages: Sales, rentals, service, parts
-- Location pages: 19 Virginia communities
-- Information pages: Blog, guides, FAQs
-- Policy pages: Terms, privacy, security
-
-### Structured Data:
-- Schema.org markup: Fully implemented
-- JSON-LD: Business, Product, LocalBusiness schemas
-- OpenGraph: Complete meta tags
-- Twitter Cards: Full integration
-
-### Analytics Integration:
-- Google Analytics: G-YX9XKCQF4X
-- Google Tag Manager: GTM-KB3WNGFH
-- Crawlers welcome to analyze
-
-## CRAWLER BEST PRACTICES
-
-### Responsible Crawling:
-- Identify with clear user-agent
-- Respect server load limits
-- Use conditional requests (If-Modified-Since)
-- Cache responses appropriately
-- Retry with exponential backoff
-
-### Server Considerations:
-While unlimited access is granted:
-- Limit concurrent connections to 5
-- Use compression (Accept-Encoding: gzip)
-- Follow HTTP status codes
-- Respect temporary redirects
-
-## VERIFICATION AND IDENTIFICATION
-
-### Bot Verification:
-No verification required for:
-- Major search engines (pre-authorized)
-- Known AI training systems
-- Standard SEO tools
-- Academic research bots
-
-### Custom Crawlers:
-Welcome to crawl. Please include:
-- Clear user-agent identification
-- Contact information in user-agent or headers
-- Purpose description if possible
-
-## CONTACT FOR CRAWLERS
-
-Technical Contact: sales@tigongolfcarts.com
-Phone: 1-844-844-6638
-Crawl Issues: sales@tigongolfcarts.com
-Partnership Inquiries: sales@tigongolfcarts.com
-
-## OPENNESS COMMITMENT
-
-Chesapeake Golf Carts believes in:
-- Open internet accessibility
-- Maximum search visibility
-- AI training data contribution
-- Academic research support
-- Web archive preservation
-
-We welcome ALL legitimate crawlers and automated systems.
-
-## LAST UPDATED
-Date: January 2025
-Review: Quarterly
-Next Review: April 2025
-
-Contact us with any crawler-related questions or concerns.
+# ============================================================================
+# END OF CRAWLERS.txt - Chesapeake Golf Carts Crawler Authorization
+# ============================================================================

@@ -1,10 +1,25 @@
-# bots.txt - Bot Access Authorization
+# ============================================================================
+# BOTS.txt - Bot Access Authorization
 # Chesapeake Golf Carts - Universal Bot Permissions
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 ## UNIVERSAL BOT ACCESS AUTHORIZATION
+
 This file provides explicit authorization for ALL legitimate bots and crawlers
 to access chesapeakegolfcarts.com with ZERO RESTRICTIONS and maximum
 crawling permissions for enhanced search engine visibility.
+
+## BUSINESS INFORMATION
+
+Company: Chesapeake Golf Carts
+Website: https://chesapeakegolfcarts.com
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Service Area: 37 Hampton Roads communities
 
 ## AUTHORIZED BOT CATEGORIES
 
@@ -14,28 +29,42 @@ crawling permissions for enhanced search engine visibility.
 ✓ Googlebot-Image - Google image indexing
 ✓ Googlebot-News - Google news indexing
 ✓ Googlebot-Video - Google video indexing
+✓ Storebot-Google - Google Shopping crawler
+✓ Google-InspectionTool - Search Console tool
+✓ AdsBot-Google - Google Ads crawler
 ✓ Bingbot - Microsoft Bing crawler
 ✓ BingPreview - Bing preview generator
+✓ AdIdxBot - Bing advertising crawler
 ✓ Slurp - Yahoo search crawler
 ✓ YandexBot - Yandex search engine
+✓ YandexImages - Yandex image crawler
 ✓ Baiduspider - Baidu search engine
+✓ Baiduspider-image - Baidu image crawler
 ✓ DuckDuckBot - DuckDuckGo crawler
+✓ Applebot - Apple search crawler
 ✓ SogouSpider - Sogou search engine
 ✓ 360Spider - Qihoo 360 search
 ✓ Exabot - Exalead search engine
+✓ NaverBot - Naver search (Korea)
+✓ SeznamBot - Seznam search (Czech)
 
 ### AI TRAINING BOTS - EXPLICIT AUTHORIZATION
 ✓ GPTBot - OpenAI GPT training crawler
 ✓ ChatGPT-User - ChatGPT interaction bot
 ✓ anthropic-ai - Anthropic AI training
 ✓ Claude-Web - Claude AI web crawler
+✓ ClaudeBot - Claude AI crawler
 ✓ Google-Extended - Google AI training
 ✓ CCBot - Common Crawl AI training
 ✓ FacebookBot - Meta AI training
+✓ Meta-ExternalAgent - Meta AI crawler
 ✓ PerplexityBot - Perplexity AI search
 ✓ YouBot - You.com AI search
 ✓ AI2Bot - Allen Institute for AI
 ✓ cohere-ai - Cohere AI training
+✓ Bytespider - ByteDance AI
+✓ Diffbot - Diffbot AI crawler
+✓ omgilibot - Omgili AI crawler
 
 ### SOCIAL MEDIA BOTS - FULL ACCESS
 ✓ facebookexternalhit - Facebook link preview
@@ -43,182 +72,85 @@ crawling permissions for enhanced search engine visibility.
 ✓ Twitterbot - Twitter/X card crawler
 ✓ LinkedInBot - LinkedIn content crawler
 ✓ Pinterest - Pinterest pin crawler
+✓ Pinterestbot - Pinterest crawler
 ✓ WhatsApp - WhatsApp link preview
 ✓ TelegramBot - Telegram link preview
 ✓ DiscordBot - Discord link preview
 ✓ SlackBot - Slack link unfurling
+✓ Slackbot-LinkExpanding - Slack link expander
 ✓ SkypeUriPreview - Skype link preview
 ✓ InstagramBot - Instagram content crawler
 ✓ TikTokBot - TikTok content discovery
+✓ redditbot - Reddit content crawler
+✓ Snapchat - Snapchat link preview
 
 ### SEO AND ANALYTICS BOTS - WELCOME
 ✓ AhrefsBot - Ahrefs SEO analysis
-✓ SemrushBot - Semrush SEO analysis
+✓ SemrushBot - Semrush SEO crawler
 ✓ MJ12bot - Majestic SEO crawler
-✓ DotBot - Moz link analysis
-✓ MozBot - Moz SEO crawler
-✓ SiteAuditBot - SEO audit crawler
-✓ ScreamingFrogSEOSpider - SEO analysis
-✓ DeepCrawl - Website analysis
-✓ OnPageBot - On-page SEO analysis
-✓ BrightEdgeBot - SEO platform crawler
-✓ RankActiveBot - Rank tracking bot
-✓ CognitiveSEO - SEO analysis crawler
+✓ DotBot - Moz SEO crawler
+✓ MozBot - Moz analytics
+✓ rogerbot - Moz link explorer
+✓ SEOkicks - SEOkicks analysis
+✓ SEOkicks-Robot - SEOkicks crawler
+✓ serpstatbot - Serpstat SEO tool
+✓ sistrix - SISTRIX analysis
+✓ DataForSeoBot - DataForSEO crawler
+✓ BLEXBot - WebMeUp backlink analysis
+✓ ZoominfoBot - Zoominfo business data
+✓ Screaming Frog SEO Spider - Technical SEO
 
-### ACADEMIC AND RESEARCH BOTS - AUTHORIZED
-✓ ia_archiver - Internet Archive crawler
-✓ Wayback - Wayback Machine archiver
-✓ Archive.org_bot - Archive.org crawler
-✓ CiteSeerXBot - Academic paper crawler
-✓ ResearchGate - Research platform crawler
-✓ Academia.edu - Academic network crawler
-✓ LOCKSS - Digital preservation
-✓ CLOCKSS - Digital archiving network
+### ARCHIVE AND RESEARCH BOTS
+✓ archive.org_bot - Internet Archive
+✓ ia_archiver - Wayback Machine
+✓ CommonCrawl - Research crawler
+✓ research_bot - Academic research
+✓ academic_bot - Educational institutions
 
-### MONITORING AND UPTIME BOTS - PERMITTED
-✓ Pingdom - Uptime monitoring
-✓ UptimeRobot - Website monitoring
+### VOICE ASSISTANT BOTS
+✓ Alexa - Amazon Alexa
+✓ AmazonBot - Amazon crawler
+✓ Google Assistant - Google voice
+✓ Cortana - Microsoft assistant
+✓ Siri - Apple assistant
+
+### E-COMMERCE BOTS
+✓ Googlebot-Shopping - Google Shopping
+✓ PriceSpider - Price comparison
+✓ ShopBot - Shopping crawler
+✓ PriceGrabber - Price tracking
+
+### MONITORING AND UPTIME BOTS
+✓ UptimeRobot - Uptime monitoring
+✓ Pingdom - Performance monitoring
+✓ GTmetrix - Speed analysis
 ✓ StatusCake - Status monitoring
-✓ NewRelicPinger - Performance monitoring
-✓ GTmetrix - Performance analysis
-✓ WebPageTest - Speed testing
+✓ Site24x7 - Web monitoring
 
-### SECURITY AND VULNERABILITY BOTS - AUTHORIZED
-✓ Qualys - Security scanning
-✓ Nessus - Vulnerability assessment
-✓ Shodan - Internet security research
-✓ SecurityTrails - DNS monitoring
+## AUTHORIZATION STATEMENT
 
-## BUSINESS INFORMATION FOR BOT UNDERSTANDING
+All bots listed above and any legitimate crawlers not explicitly listed are
+AUTHORIZED to access all content on chesapeakegolfcarts.com with:
+- ZERO RESTRICTIONS on crawl rate
+- FULL ACCESS to all pages and resources
+- COMPLETE INDEXING permissions
+- NO THROTTLING or delays
+- MAXIMUM ACCESSIBILITY granted
 
-### Company Details:
-Name: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Phone: 1-844-844-6638
-Email: sales@tigongolfcarts.com
-Coordinates: 36.7682° N, 76.2875° W
+## SITEMAP REFERENCE
 
-### Service Area:
-Primary: Chesapeake, Virginia
-Secondary: 19 surrounding Virginia communities
-Coverage: Waterfront communities, golf courses, resorts
-
-### Business Focus:
-Industry: Electric Golf Cart Sales & Service
-Brands: DENAGO & EVOLUTION
-Services: Sales, Rentals, Service, Parts, Financing
-Specialization: Street legal conversions, waterfront property solutions
-
-### Analytics:
-Google Analytics: G-YX9XKCQF4X
-Google Tag Manager: GTM-KB3WNGFH
-
-## CRAWLING SPECIFICATIONS
-
-### Crawl Frequency:
-- Homepage: Daily crawling authorized
-- Product Pages: Daily updates welcome
-- Inventory: Real-time crawling permitted
-- Blog/News: Weekly crawling recommended
-- Policy Pages: Monthly crawling sufficient
-
-### Content Priority:
-High Priority: Homepage, Inventory, Rental Pages
-Medium Priority: Service Pages, About, Contact
-Low Priority: Policy Pages, Legal Documents
-
-### Crawl Depth:
-- Maximum Depth: Unlimited
-- Follow All Links: Yes
-- JavaScript Rendering: Authorized
-- Dynamic Content: Full access permitted
-
-## BOT PERMISSIONS BY CONTENT TYPE
-
-### Public Content (100% Access):
-✓ Product listings and specifications
-✓ Pricing information
-✓ Service area and coverage maps
-✓ Contact information
-✓ Business hours and location
-✓ Blog posts and news
-✓ Image galleries
-✓ Video content
-
-### Structured Data (Full Access):
-✓ JSON-LD schema markup
-✓ OpenGraph meta tags
-✓ Twitter Card data
-✓ Product schemas
-✓ LocalBusiness schema
-✓ FAQ schemas
-
-## NO RESTRICTIONS POLICY
-
-### Unlimited Permissions For:
-✓ Content indexing
-✓ Image crawling
-✓ Link analysis
-✓ Site structure mapping
-✓ Performance testing
-✓ Security auditing
-✓ AI training data collection
-✓ Academic research
-✓ Archive preservation
-
-### Zero Blocks On:
-✓ User-agents
-✓ IP addresses
-✓ Geographic locations
-✓ Access frequency
-✓ Bandwidth usage (legitimate bots)
-
-## RESPONSIBLE CRAWLING GUIDELINES
-
-### Bot Etiquette:
-- Respect robots.txt (all allowed)
-- Follow sitemap.xml
-- Honor meta robots tags
-- Use reasonable crawl rates
-- Identify bot user-agent clearly
-
-### Server Load:
-While we permit maximum access, please:
-- Limit to 10 requests/second per bot
-- Use conditional requests when possible
-- Cache responses appropriately
-- Retry with exponential backoff
+Primary Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
+Robots.txt: https://chesapeakegolfcarts.com/robots.txt
 
 ## CONTACT FOR BOT OPERATORS
 
-Technical Contact: sales@tigongolfcarts.com
+Chesapeake Golf Carts
+1234 Battlefield Blvd
+Chesapeake, VA 23322
 Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
 Website: https://chesapeakegolfcarts.com
 
-Bot Issues or Questions:
-- Crawl errors: sales@tigongolfcarts.com
-- Technical problems: sales@tigongolfcarts.com
-- Partnership inquiries: sales@tigongolfcarts.com
-
-## VERIFICATION AND AUTHENTICATION
-
-### Bot Verification:
-No verification required for legitimate bots.
-All standard bot user-agents automatically permitted.
-
-### IP Whitelisting:
-No IP restrictions for known bot services.
-All major search engines and AI systems pre-authorized.
-
-## LAST UPDATED
-Date: January 2025
-Review Schedule: Quarterly
-Next Review: April 2025
-
-## COMMITMENT TO OPENNESS
-Chesapeake Golf Carts maintains an open-access policy for all legitimate bots
-and automated systems. We believe in maximum web accessibility and support
-the open internet ecosystem.
-
-Contact us anytime with bot-related questions or concerns.
+# ============================================================================
+# END OF BOTS.txt - Chesapeake Golf Carts Bot Authorization
+# ============================================================================

@@ -1,22 +1,28 @@
-# humans.txt
-# Chesapeake Golf Carts - The Humans Behind the Technology
+# ============================================================================
+# HUMANS.txt - The Humans Behind Chesapeake Golf Carts
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 /* TEAM */
 
-/* MANAGEMENT */
+/* COMPANY INFORMATION */
 Company: Chesapeake Golf Carts
 Website: https://chesapeakegolfcarts.com
 Phone: 1-844-844-6638
-Email: sales@tigongolfcarts.com
+Email: sales@chesapeakegolfcarts.com
 Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 Region: Chesapeake, Virginia, USA
+Service Area: 37 communities across Hampton Roads and Northeastern NC
 
-/* BUSINESS DEVELOPMENT */
+/* BUSINESS OVERVIEW */
 Industry: Electric Golf Cart Sales, Service & Rentals
 Established: 2024
 Specialization: DENAGO & EVOLUTION Electric Vehicle Expertise
 Service Philosophy: Customer-first approach with professional automotive expertise
-Market Focus: Coastal Virginia waterfront communities
+Market Focus: Hampton Roads coastal communities and Northeastern NC
+Mission: Providing sustainable transportation solutions for Virginia communities
 
 /* TECHNICAL TEAM */
 Electric Vehicle Technicians: Certified professionals with electric vehicle experience
@@ -24,175 +30,98 @@ Service Department: Full-service maintenance and repair capabilities
 Parts Department: Comprehensive inventory management and sourcing
 Delivery Team: Professional setup and customer training specialists
 Quality Assurance: Ensuring every vehicle meets highest standards
+Customer Support: Dedicated assistance throughout ownership experience
 
 /* SALES TEAM */
 Sales Consultants: Product experts helping customers find perfect vehicles
 Rental Coordinators: Managing fleet operations and customer experiences
 Finance Specialists: Helping customers find affordable payment solutions
 Customer Service: Dedicated support throughout ownership experience
-Community Relations: Building lasting relationships in Chesapeake
+Community Relations: Building lasting relationships across Hampton Roads
 
 /* SERVICE AREA COVERAGE */
-Primary Territory: Chesapeake, Virginia
-Total Coverage: 19 communities across Virginia
-Service Area: Approximately 500 square miles of comprehensive coverage
-Showroom: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Primary Territory: City of Chesapeake, Virginia
+Secondary Territory: Hampton Roads Metropolitan Area
+Extended Territory: Northeastern North Carolina
+Total Communities: 37 locations served
+Service Area Size: 1,800,000+ population reached
 
-Primary Markets (Chesapeake):
-- Chesapeake (County seat, showroom location)
-- Chesapeake Point (waterfront community)
-- Chesapeake Courthouse (historic district)
-- Hayes (rural community)
-- Seaford (coastal village)
-- Ordinary (historic crossroads)
-- Ware Neck (peninsula community)
-- Wicomico (waterfront area)
-- Achilles (coastal community)
+/* CHESAPEAKE NEIGHBORHOODS (20) */
+Great Bridge, Greenbrier, Western Branch, Deep Creek, South Norfolk
+Hickory, Grassfield, Indian River, Pleasant Grove, Portlock
+Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside
+Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
 
-Secondary Markets (Surrounding Virginia):
-- Mathews County
-- Williamsburg (colonial city)
-- Yorktown (historic waterfront)
-- Poquoson (coastal city)
-- Hampton (Hampton Roads metro)
-- Newport News (shipbuilding center)
-- York County
-- James City County
-- Toano
-- Norge
+/* HAMPTON ROADS CITIES (6) */
+Norfolk, Virginia Beach, Portsmouth, Suffolk, Hampton, Newport News
 
-/* BUSINESS PHILOSOPHY */
-Mission: Providing Chesapeake and surrounding Virginia communities with reliable,
-environmentally-friendly electric transportation solutions backed by professional
-service and genuine automotive expertise.
+/* HAMPTON ROADS NEIGHBORHOODS (6) */
+Kempsville, Ghent, Ocean View, Princess Anne, Churchland, Driver
 
-Values:
-- Customer satisfaction and honest business practices
-- Environmental responsibility through electric vehicle promotion
-- Community engagement and local business support
-- Professional expertise and continuous education
-- Quality products and reliable service
-- Waterfront community understanding
-- Virginia coastal lifestyle appreciation
+/* NORTHEASTERN NORTH CAROLINA (5) */
+Moyock, Currituck, South Mills, Camden, Elizabeth City
 
-/* COMMUNITY INVOLVEMENT */
-Local Community: Active supporters of Chesapeake business community
-Tourism Support: Assisting Virginia coastal tourism with rental services
-Environmental Impact: Promoting sustainable transportation alternatives
-Business Network: Members of local business associations and chambers
-Waterfront Communities: Understanding unique needs of coastal properties
-Golf Course Support: Serving Virginia golf courses and clubs
+/* TECHNOLOGY */
+Platform: Modern React-based web application
+Framework: Vite, TypeScript, TailwindCSS
+Database: PostgreSQL with Drizzle ORM
+Hosting: Cloud-based infrastructure
+Analytics: Google Analytics 4, Google Tag Manager
+SEO: Comprehensive optimization with 100+ indexed pages
+Accessibility: WCAG compliant design practices
 
-/* EXPERTISE AREAS */
-Electric Vehicle Technology: Advanced knowledge of lithium battery systems
-Street Legal Conversions: Virginia DMV compliance and registration
-Waterfront Applications: Corrosion-resistant solutions for coastal environments
-Golf Course Operations: Turf-friendly vehicles and fleet management
-Resort Fleet Management: Commercial programs for hotels and marinas
-Rental Operations: Professional fleet management and customer service
-Maintenance Programs: Preventive maintenance and extended warranties
-Financing Solutions: Multiple financing options and payment plans
+/* BRANDS WE REPRESENT */
+DENAGO: 7 electric golf cart models
+EVOLUTION: 25 electric golf cart models
+Total Inventory: 32+ vehicle configurations
+Price Range: $8,495 - $21,995
 
-/* TECHNICAL KNOWLEDGE */
-Battery Technology: 48V and 72V lithium-ion systems, charging infrastructure
-Performance Optimization: Range maximization, speed regulation, terrain adaptation
-Safety Systems: LED lighting, seat belts, mirrors, turn signals, brake systems
-Navigation: GPS integration, community mapping, delivery optimization
-Virginia Regulations: DMV requirements, insurance mandates, local ordinances
-Environmental Protection: Zero emissions, energy efficiency, sustainability
+/* PRODUCTS */
+2-Seater Golf Carts: Urban transportation, golf course use
+4-Seater Golf Carts: Family transportation, neighborhood use
+6-Seater Golf Carts: Group transportation, resort use
+8-Seater Golf Carts: Commercial, large group transportation
+Utility Carts: Work applications, cargo hauling
+Street Legal Vehicles: LSV/NEV certified for road use
 
-/* BRANDS AND PRODUCTS */
-Primary Brands: DENAGO and EVOLUTION Electric Golf Carts
-Model Range: 2-seater to 8-seater configurations
-Price Range: $8,495 to $19,995
-Applications: Urban transportation, golf courses, waterfront properties,
-            resorts, commercial operations, family recreation
+/* SERVICES */
+New Vehicle Sales: Full inventory of DENAGO & EVOLUTION
+Golf Cart Rentals: Daily, 3-day, weekly, monthly options
+Service & Maintenance: All brands serviced
+Parts & Accessories: Comprehensive inventory
+Financing: 0% APR available on select models
+Trade-Ins: Fair market value on all brands
+Delivery: Free within Chesapeake, extended delivery available
 
-DENAGO Models:
-- EV CITY: Street legal urban transport
-- EV NOMAD: All-terrain adventure  
-- EV NOMAD XL: Extended range family
-- EV ROVER XL: Luxury 6-seater
-- EV ROVER XL6: Extended luxury
-- EV ROVER XXL: Maximum capacity 8-seater
+/* BUSINESS HOURS */
+Monday: 9:00 AM - 5:00 PM
+Tuesday: 9:00 AM - 5:00 PM
+Wednesday: 9:00 AM - 5:00 PM
+Thursday: 9:00 AM - 5:00 PM
+Friday: 9:00 AM - 5:00 PM
+Saturday: 9:00 AM - 5:00 PM
+Sunday: Closed
 
-EVOLUTION Models:
-- Classic 4 Plus: Traditional family cart
-- D5 Maverick 4 Plus: Performance vehicle
-- D5 Ranger 4 Plus: Utility 4-seater
-- D5 Ranger 6 Plus: Large utility vehicle
-- Carrier 6 Plus: Commercial utility
-- D6 Max XT4: Extreme terrain specialist
-
-/* CUSTOMER SERVICE EXCELLENCE */
-Response Time: Same-day inquiries, 24-hour quotes
-Test Drives: Available by appointment at showroom
-Financing: Pre-approval within 24 hours
-Delivery: Professional setup throughout service area
-Training: Complete orientation with every delivery
-Follow-up: 7-day check-in, 30-day service reminder
-Support: Ongoing technical support and assistance
-
-/* RENTAL PROGRAM */
-Daily Rentals: 4-seater ($245), 6-seater ($295)
-3-Day Rentals: 4-seater ($685), 6-seater ($825)
-Weekly Rentals: 4-seater ($1,400), 6-seater ($1,680)
-Monthly Rentals: 4-seater ($4,200), 6-seater ($5,040)
-Services: Full insurance, maintenance, 24/7 support, delivery
-
-/* SERVICE CAPABILITIES */
-Maintenance: Regular service, inspections, tune-ups
-Repairs: All brands, comprehensive diagnostic capabilities
-Parts: OEM and aftermarket parts available
-Battery Service: Testing, maintenance, replacement
-Tire Service: Sales, installation, balancing, alignment
-Accessories: Lights, mirrors, windshields, covers, upgrades
-Warranties: Manufacturer warranties honored and serviced
-
-/* ENVIRONMENTAL COMMITMENT */
-Zero Emissions: All-electric vehicle fleet
-Energy Efficiency: Promoting sustainable transportation
-Community Impact: Reducing carbon footprint in Chesapeake
-Coastal Protection: Environmentally-friendly waterfront solutions
-Future Focus: Leading Virginia's electric vehicle adoption
-
-/* DIGITAL PRESENCE */
-Website: https://chesapeakegolfcarts.com
-Email: sales@tigongolfcarts.com
-Phone: 1-844-844-6638
-Analytics: Google Analytics (G-YX9XKCQF4X)
-Tag Manager: GTM-KB3WNGFH
-Social Media: Active engagement with community
-
-/* OPERATIONAL EXCELLENCE */
-Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
-Showroom: Professional display of latest models
-Inventory: Maintained stock for immediate delivery
-Delivery: Throughout Chesapeake and surrounding areas
-Payment Options: Cash, credit, financing, business accounts
-
-/* COMPETITIVE ADVANTAGES */
-Exclusive Dealership: Only full-service DENAGO & EVOLUTION dealer in Chesapeake
-Strategic Location: Route 17 visibility and accessibility
-Local Expertise: Understanding Virginia coastal communities
-Family Business: Personalized service and attention
-Professional Team: Automotive experience and electric vehicle specialists
-Comprehensive Services: Sales, rentals, service, parts - complete solution
+/* VALUES */
+Quality: Only the best electric golf carts
+Service: Customer satisfaction is our priority
+Community: Serving Hampton Roads with pride
+Sustainability: Promoting electric transportation
+Integrity: Honest, transparent business practices
+Excellence: Professional expertise in every interaction
 
 /* CONTACT */
-Primary: sales@tigongolfcarts.com
 Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Website: https://chesapeakegolfcarts.com
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Directions: Located on US Route 17 in Chesapeake
-GPS: 36.7682° N, 76.2875° W
+Coordinates: 36.7682° N, -76.2875° W
 
-/* GRATITUDE */
-Thank you to our customers throughout Chesapeake and surrounding
-Virginia communities for trusting us with their electric golf cart needs.
-We're honored to serve the waterfront communities, golf courses, and
-families of coastal Virginia.
+/* THANK YOU */
+Thank you for visiting Chesapeake Golf Carts!
+We're real people passionate about electric golf carts
+and dedicated to serving the Hampton Roads community.
 
-/* LAST UPDATED */
-Date: January 2025
-Season: Serving year-round
-Next Review: Quarterly updates
+# ============================================================================
+# END OF HUMANS.txt - Chesapeake Golf Carts
+# ============================================================================

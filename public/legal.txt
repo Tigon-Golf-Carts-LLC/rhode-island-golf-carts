@@ -1,37 +1,43 @@
-# legal.txt - Legal Information and Business Compliance
-# Pike County Golf Carts - Legal Documentation and Regulatory Compliance
+# ============================================================================
+# LEGAL.txt - Legal Information and Business Compliance
+# Chesapeake Golf Carts - Legal Documentation
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 ## BUSINESS LEGAL INFORMATION
-Business Name: Pike County Golf Carts
-State of Incorporation: Pennsylvania
-Business Structure: Pennsylvania Business Entity
-Registration Status: Active and in good standing
-Registered Address: Pike County, Pennsylvania
+
+Business Name: Chesapeake Golf Carts
+Legal Entity: Chesapeake Golf Carts LLC
+State of Organization: Virginia
+Business Structure: Virginia Limited Liability Company
+Operating Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 Business License: Current and valid
-Federal EIN: [Business identification number on file]
+Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Website: https://chesapeakegolfcarts.com
 
 ## REGULATORY COMPLIANCE
 
-### Pennsylvania State Licensing
-Motor Vehicle Dealer License: Current and valid
-Pennsylvania Department of Transportation Authorization: Valid
-State Business Registration: Active status
-Pennsylvania Sales Tax License: Current
+### Virginia State Licensing
+Business Registration: Virginia State Corporation Commission
+Virginia Business License: Current and valid
+Chesapeake City Business Permit: Active
+Virginia Sales Tax License: Current
 Workers Compensation Coverage: Compliant
 
 ### Federal Compliance
-Federal Motor Carrier Safety Administration: Compliant
-Department of Transportation Regulations: Compliant
-Environmental Protection Agency Standards: Compliant
-Americans with Disabilities Act: Compliant
+Federal Trade Commission: Compliant with advertising standards
+Americans with Disabilities Act: Website accessibility awareness
 Equal Employment Opportunity: Compliant
+CAN-SPAM Act: Email marketing compliant
+TCPA: Telephone communication compliant
 
 ### Local Municipal Licenses
-Pike County Business License: Current
-Municipal Operating Permits: All 15 municipalities compliant
+Chesapeake Business License: Current
 Local Zoning Compliance: Approved for automotive sales/service
-Fire Department Inspections: Current certificates
-Health Department Permits: Where applicable
+Operating Permits: All required permits maintained
 
 ## PRODUCT LIABILITY AND WARRANTIES
 
@@ -40,257 +46,112 @@ DENAGO Vehicles: 2-year limited warranty coverage
 EVOLUTION Vehicles: 3-year comprehensive warranty coverage
 Battery Systems: Manufacturer-specific warranty terms
 Component Parts: Individual manufacturer warranties
-Labor Warranties: 90-day workmanship guarantee
+Labor Warranties: 90-day workmanship guarantee on service
 
-### Product Liability Coverage
-General Liability Insurance: $2,000,000 coverage
-Product Liability Insurance: $1,000,000 coverage  
-Professional Liability: $500,000 coverage
-Commercial Auto Insurance: $1,000,000 coverage
-Umbrella Policy: $3,000,000 additional coverage
+### Warranty Service
+All warranty work handled in-house
+Factory-trained technicians
+Genuine OEM parts used
+Documentation maintained for all warranty claims
 
-### Safety Compliance
-DOT Street Legal Certifications: Authorized provider
-Pennsylvania Vehicle Inspection: Licensed facility
-Safety Equipment Standards: FMVSS compliant
-Electrical System Certification: UL Listed components
-Battery Safety Compliance: UN38.3 certified systems
+## TERMS OF SERVICE
 
-## CONSUMER PROTECTION
+### Sales Terms
+All sales final unless otherwise specified in writing
+Trade-in values determined at time of transaction
+Financing subject to credit approval
+Prices subject to change without notice
+Delivery fees may apply outside primary service area
 
-### Pennsylvania Lemon Law
-Compliance: Full adherence to Pennsylvania Lemon Law
-Coverage Period: Manufacturer warranty period
-Consumer Rights: Clearly communicated to all customers
-Dispute Resolution: Formal process available
-Documentation: Comprehensive service records maintained
+### Rental Terms
+Minimum age: 21 years
+Valid driver's license required
+Credit card required for security deposit
+Insurance included in rental rate
+Renter responsible for damages beyond normal wear
 
-### Truth in Advertising
-Advertising Standards: FTC compliant advertising practices
-Price Accuracy: All prices clearly disclosed
-Feature Claims: Manufacturer-verified specifications  
-Availability Statements: Accurate inventory representation
-Financing Disclosure: Full APR and terms disclosed
-
-### Privacy Protection
-Customer Data Protection: Secure handling and storage
-Pennsylvania Privacy Laws: Full compliance
-Credit Information: Secure processing and disposal
-Marketing Communications: Opt-out options provided
-Data Breach Response: Formal incident response plan
-
-## ENVIRONMENTAL COMPLIANCE
-
-### Battery Disposal and Recycling
-EPA Compliance: Proper battery disposal procedures
-Pennsylvania DEP: State environmental compliance
-Recycling Programs: Certified battery recycling partners
-Lead-Acid Disposal: EPA-approved disposal methods
-Lithium Battery Recycling: Specialized certified processors
-
-### Hazardous Materials Handling
-OSHA Compliance: Workplace safety standards
-Hazmat Storage: Proper storage and handling procedures
-Waste Disposal: Certified waste management contractors
-Spill Response: Emergency response procedures
-Employee Training: Annual safety training programs
-
-### Clean Air Act Compliance
-Electric Vehicle Promotion: Supporting emission reduction goals
-Zero Emission Products: Primary product line focus
-Environmental Impact: Positive contribution to air quality
-Sustainability Practices: Environmentally conscious operations
-Carbon Footprint Reduction: Electric vehicle advocacy
-
-## EMPLOYMENT LAW COMPLIANCE
-
-### Pennsylvania Labor Laws
-Wage and Hour Laws: Full compliance
-Workers Compensation: Current coverage
-Unemployment Insurance: Current contributions
-Equal Employment Opportunity: Non-discrimination policies
-Workplace Safety: OSHA compliance program
-
-### Federal Employment Laws
-Fair Labor Standards Act: Full compliance
-Civil Rights Act: Non-discrimination policies
-Americans with Disabilities Act: Workplace accessibility
-Family Medical Leave Act: Employee benefits compliance
-Immigration Laws: I-9 verification procedures
-
-## FINANCIAL COMPLIANCE
-
-### Banking and Finance Regulations
-Truth in Lending Act: Financing disclosure compliance
-Equal Credit Opportunity Act: Non-discriminatory lending
-Fair Credit Reporting Act: Credit processing compliance
-Pennsylvania Banking Laws: State financial regulations
-Anti-Money Laundering: Customer identification procedures
-
-### Tax Compliance
-Pennsylvania Sales Tax: Current registration and compliance
-Federal Income Tax: Annual filing and compliance
-Employment Taxes: Quarterly filing and payments
-Property Taxes: Current on all business property
-Local Taxes: Municipal tax compliance where applicable
-
-### Accounting Standards
-Generally Accepted Accounting Principles: Financial reporting compliance
-Pennsylvania Business Records: Proper record keeping
-Customer Financial Records: Secure storage and disposal
-Audit Trail Requirements: Comprehensive documentation
-Financial Reporting: Annual statements prepared
+### Service Terms
+Estimates provided before major repairs
+Authorization required for repairs exceeding estimate
+Parts warranty varies by component
+Service appointments recommended
 
 ## INTELLECTUAL PROPERTY
 
-### Trademark Compliance
-Business Name Usage: Proper trademark protection
-Manufacturer Trademarks: Authorized use of DENAGO, EVOLUTION marks
-Marketing Materials: Trademark compliance in advertising
-Domain Name Rights: Proper registration and usage
-Brand Protection: Active monitoring and enforcement
+### Trademarks
+Chesapeake Golf Carts is a trademark of Chesapeake Golf Carts LLC
+DENAGO is a trademark of DENAGO Inc.
+EVOLUTION is a trademark of Evolution Electric Vehicles
 
-### Copyright Compliance  
-Website Content: Original content or properly licensed
-Marketing Materials: Copyright-compliant design and content
-Product Images: Licensed or authorized use only
-Educational Materials: Proper attribution and fair use
-Software Licensing: All business software properly licensed
+### Copyright
+Website content © 2025 Chesapeake Golf Carts LLC
+All rights reserved
+Unauthorized reproduction prohibited
 
-## INSURANCE AND BONDING
+### Licensed Content
+Product images provided by manufacturers
+Stock imagery licensed for commercial use
+Third-party logos used with permission
 
-### Commercial Insurance Coverage
-General Liability: $2,000,000 per occurrence
-Product Liability: $1,000,000 per occurrence
-Professional Liability: $500,000 per claim
-Commercial Property: Full replacement value
-Business Interruption: 12-month coverage
+## PRIVACY AND DATA PROTECTION
 
-### Bonding Requirements
-Dealer Bond: Pennsylvania required dealer bond
-Sales Tax Bond: State sales tax surety bond
-Municipal Bonds: Local bonding requirements where applicable
-Professional Bonds: Service and repair bonds
-Performance Bonds: Contract-specific bonding as required
+### Data Collection
+Customer information collected for transactions
+Contact information for service communications
+Website analytics for improvement purposes
+Cookies used for functionality and analytics
+
+### Data Protection
+SSL encryption for all data transmission
+Secure payment processing
+Limited data retention policies
+No sale of customer information to third parties
+
+### Customer Rights
+Right to access personal data
+Right to correction of inaccurate data
+Right to deletion upon request
+Right to opt-out of marketing communications
+
+## LIABILITY LIMITATIONS
+
+### General Liability
+Chesapeake Golf Carts maintains appropriate insurance coverage
+Liability limited to extent permitted by Virginia law
+Force majeure provisions apply to delivery delays
+Product liability covered by manufacturer warranties
+
+### Website Disclaimer
+Information provided for general purposes
+Specifications subject to change by manufacturers
+Pricing subject to change without notice
+Availability subject to inventory
 
 ## DISPUTE RESOLUTION
 
-### Customer Disputes
-Internal Resolution Process: Formal customer service procedures
-Mediation Services: Professional mediation when appropriate
-Arbitration Agreements: Fair and enforceable terms
-Legal Representation: Qualified legal counsel available
-Consumer Protection: Full compliance with consumer rights
+### Governing Law
+Virginia state law governs all agreements
+Chesapeake, VA courts have jurisdiction
+Alternative dispute resolution encouraged
+Mediation available before litigation
 
-### Business Disputes
-Contract Disputes: Professional legal representation
-Supplier Disputes: Formal dispute resolution procedures
-Insurance Claims: Experienced claims management
-Employment Disputes: HR compliance and legal support
-Regulatory Issues: Compliance officers and legal counsel
+### Customer Service Resolution
+Contact customer service for any concerns
+Management review for escalated issues
+Written complaints addressed within 5 business days
+Customer satisfaction priority
 
-## EMERGENCY RESPONSE PROCEDURES
+## CONTACT FOR LEGAL INQUIRIES
 
-### Business Continuity Planning
-Disaster Response: Comprehensive business continuity plan
-Data Backup: Secure off-site data protection
-Emergency Contacts: 24/7 emergency response capability
-Insurance Claims: Rapid response insurance procedures
-Customer Communication: Emergency notification systems
-
-### Legal Emergency Response
-Legal Counsel: 24/7 legal support availability
-Compliance Issues: Immediate response procedures
-Customer Incidents: Incident reporting and response
-Product Recalls: Manufacturer recall compliance procedures
-Regulatory Inquiries: Prompt and professional response
-
-## RECORD KEEPING REQUIREMENTS
-
-### Business Records Retention
-Financial Records: 7-year retention policy
-Customer Records: Privacy-compliant retention and disposal
-Service Records: Comprehensive maintenance documentation
-Warranty Claims: Full documentation and tracking
-Compliance Records: Regulatory requirement documentation
-
-### Legal Documentation
-Contracts: Secure storage and management
-Insurance Policies: Current coverage documentation
-Licenses and Permits: Active license management
-Correspondence: Professional communication records
-Legal Opinions: Confidential legal advice documentation
-
-## REGULATORY AGENCIES
-
-### State Regulatory Bodies
-Pennsylvania Department of Transportation: Vehicle dealer oversight
-Pennsylvania Department of Revenue: Tax compliance oversight
-Pennsylvania Department of Environmental Protection: Environmental compliance
-Pennsylvania Department of Labor: Employment law oversight
-Pennsylvania Attorney General: Consumer protection oversight
-
-### Federal Regulatory Bodies
-Federal Trade Commission: Consumer protection and advertising
-Environmental Protection Agency: Environmental compliance
-Occupational Safety and Health Administration: Workplace safety
-Department of Transportation: Vehicle safety standards
-Internal Revenue Service: Federal tax compliance
-
-## PROFESSIONAL SERVICES
-
-### Legal Counsel
-Business Law: Experienced business law attorneys
-Regulatory Compliance: Specialized compliance counsel
-Employment Law: HR and employment law specialists
-Consumer Protection: Customer rights and protection expertise
-Environmental Law: Environmental compliance specialists
-
-### Professional Services
-Certified Public Accountant: Financial reporting and tax compliance
-Insurance Broker: Comprehensive insurance coverage management
-Human Resources: Employment law and benefits compliance
-Environmental Consultant: Environmental compliance and monitoring
-Risk Management: Business risk assessment and mitigation
-
-## COMPLIANCE MONITORING
-
-### Regular Audits
-Financial Audits: Annual independent financial audit
-Compliance Audits: Regular regulatory compliance review
-Insurance Audits: Coverage adequacy and claims review
-Environmental Audits: Environmental compliance assessment
-Safety Audits: Workplace safety and customer safety review
-
-### Continuous Improvement
-Policy Updates: Regular policy review and updates
-Training Programs: Ongoing compliance training
-Best Practices: Industry best practice adoption
-Technology Updates: Compliance technology improvements
-Professional Development: Continuing education programs
-
-## CONTACT INFORMATION
-
-Legal Compliance Officer: Available through main business contact
+Chesapeake Golf Carts LLC
+1234 Battlefield Blvd
+Chesapeake, VA 23322
 Phone: 1-844-844-6638
-Email: info@pikecountygolfcarts.com
-Business Hours: Monday-Friday 9AM-6PM EST
-Emergency Legal Contact: Available through main contact
-Address: Pike County, Pennsylvania
+Email: sales@chesapeakegolfcarts.com
+Website: https://chesapeakegolfcarts.com
 
-## LEGAL DISCLAIMER
+For legal matters, please contact in writing.
 
-The information contained in this legal documentation is current as of the 
-last update date and is subject to change based on regulatory updates, 
-business changes, and legal requirements. For specific legal questions or 
-compliance issues, please contact qualified legal counsel or the appropriate 
-regulatory agencies.
-
-This document is provided for informational purposes and does not constitute 
-legal advice. Professional legal consultation should be sought for specific 
-legal matters and compliance questions.
-
-Last Updated: January 25, 2025
-Legal Documentation Version: 1.0
-Next Review Date: July 25, 2025
-Compliance Status: Current and maintained
+# ============================================================================
+# END OF LEGAL.txt - Chesapeake Golf Carts
+# ============================================================================

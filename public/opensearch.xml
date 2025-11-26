@@ -3,17 +3,17 @@
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   
   <ShortName>Chesapeake Golf Carts</ShortName>
-  <Description>Search Chesapeake Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Chesapeake, VA</Description>
+  <Description>Search Chesapeake Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Chesapeake, VA and Hampton Roads</Description>
   
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
   
-  <Image width="16" height="16" type="image/x-icon">https://chesapeakegolfcarts.com/favicon.ico</Image>
-  <Image width="64" height="64" type="image/png">https://chesapeakegolfcarts.com/attached_assets/Pike%20County%20Golf%20Carts%20(2)_1756138898367.png</Image>
+  <Image width="16" height="16" type="image/png">https://chesapeakegolfcarts.com/favicon.png</Image>
+  <Image width="64" height="64" type="image/png">https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png</Image>
   
   <Url type="text/html" 
        method="get" 
-       template="https://chesapeakegolfcarts.com/search?q={searchTerms}"/>
+       template="https://chesapeakegolfcarts.com/inventory?search={searchTerms}"/>
   
   <Url type="application/x-suggestions+json"
        method="get"
@@ -23,9 +23,9 @@
   
   <Contact>sales@chesapeakegolfcarts.com</Contact>
   
-  <Developer>Chesapeake Golf Carts Web Development Team</Developer>
+  <Developer>Chesapeake Golf Carts</Developer>
   
-  <Attribution>Chesapeake Golf Carts - Virginia's Premier Electric Golf Cart Dealership</Attribution>
+  <Attribution>Chesapeake Golf Carts - Virginia's Premier Electric Golf Cart Dealership serving Chesapeake and Hampton Roads</Attribution>
   
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
@@ -34,7 +34,11 @@
   <Query role="example" searchTerms="golf cart rental Chesapeake VA" />
   <Query role="example" searchTerms="EVOLUTION D5 Maverick" />
   <Query role="example" searchTerms="electric golf cart service Virginia" />
+  <Query role="example" searchTerms="golf cart Virginia Beach" />
+  <Query role="example" searchTerms="6 seater golf cart" />
   
-  <moz:SearchForm>https://chesapeakegolfcarts.com/</moz:SearchForm>
+  <moz:SearchForm>https://chesapeakegolfcarts.com/inventory</moz:SearchForm>
+  
+  <Tags>golf cart, electric golf cart, DENAGO, EVOLUTION, Chesapeake, Virginia, Hampton Roads, rentals, sales, service</Tags>
   
 </OpenSearchDescription>

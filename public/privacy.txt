@@ -1,16 +1,22 @@
-# privacy.txt - Privacy and Data Protection Information
-# Pike County Golf Carts - Comprehensive Privacy and Data Protection Compliance
+# ============================================================================
+# PRIVACY.txt - Privacy and Data Protection Information
+# Chesapeake Golf Carts - Privacy Policy Documentation
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 ## PRIVACY POLICY OVERVIEW
-Pike County Golf Carts is committed to protecting the privacy and personal information 
+
+Chesapeake Golf Carts is committed to protecting the privacy and personal information 
 of all website visitors, customers, and business contacts. This privacy documentation 
 outlines our data collection, processing, storage, and protection practices in compliance 
 with applicable privacy laws and regulations.
 
-Website: https://pikecountygolfcarts.com
-Business: Pike County Golf Carts - Electric Golf Cart Sales, Service & Rentals
-Contact: info@pikecountygolfcarts.com | 1-844-844-6638
-Location: Pike County, Pennsylvania, USA
+Website: https://chesapeakegolfcarts.com
+Business: Chesapeake Golf Carts - Electric Golf Cart Sales, Service & Rentals
+Contact: sales@chesapeakegolfcarts.com | 1-844-844-6638
+Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 
 ## DATA PROTECTION COMPLIANCE
 
@@ -21,435 +27,169 @@ Location: Pike County, Pennsylvania, USA
 ✓ CAN-SPAM Act - Email communication compliance
 ✓ Children's Online Privacy Protection Act (COPPA) - Minor protection
 
-### State Privacy Regulations
-✓ Pennsylvania Personal Information Protection Act
-✓ Pennsylvania Breach Notification Law
-✓ Pennsylvania Identity Theft Protection Act
-✓ Pennsylvania Consumer Protection Law
-✓ Pennsylvania Medical Records Privacy
+### Virginia State Privacy Regulations
+✓ Virginia Consumer Data Protection Act (VCDPA) awareness
+✓ Virginia Personal Information Protection Act
+✓ Virginia Breach Notification Law
+✓ Virginia Consumer Protection Act
 
 ### Industry Standards
-✓ PCI DSS Compliance - Payment card data protection
-✓ NIST Cybersecurity Framework - Data security standards
-✓ ISO 27001 Standards - Information security management
-✓ SOC 2 Type II - Service organization controls
-✓ Automotive Industry Privacy Standards
+✓ PCI DSS Awareness - Payment card data protection
+✓ SSL/TLS Encryption - Data transmission security
+✓ Secure Form Handling - Customer data protection
 
 ## PERSONAL INFORMATION COLLECTION
 
 ### Information We Collect
+
 Customer Contact Information:
 - Name, address, phone number, email address
 - Business information for commercial customers
-- Emergency contact information
 - Preferred communication methods
 
 Financial Information:
 - Credit application data (with consent)
 - Payment method information (processed securely)
 - Financing qualification information
-- Insurance verification data
 
 Vehicle and Service Information:
 - Golf cart specifications and preferences
 - Service history and maintenance records
-- Warranty registration information
 - Rental history and preferences
 
-Technical Information:
-- Website usage data and analytics
-- IP addresses and browser information
-- Cookie and tracking data
-- Mobile device information
+Website Usage Information:
+- Pages visited and time on site
+- Browser type and device information
+- IP address for analytics purposes
+- Cookie data for functionality
 
-### Information Collection Methods
-Direct Collection:
-- Sales consultation and inquiry forms
-- Service appointment scheduling
-- Rental reservation systems
-- Customer feedback and surveys
+### Information We Do NOT Collect
+- Social Security numbers (unless required for financing)
+- Unnecessary personal information
+- Information from children under 13
+- Sensitive health information
 
-Automatic Collection:
-- Website analytics and usage tracking
-- Cookie and session data
-- Email engagement tracking
-- Phone call logging (with consent)
+## HOW WE USE INFORMATION
 
-Third-Party Sources:
-- Credit reporting agencies (with consent)
-- Manufacturer warranty systems
-- Insurance verification services
-- Business directory services
+### Primary Uses:
+- Process sales transactions
+- Fulfill rental reservations
+- Schedule and perform service
+- Communicate about products and services
+- Process financing applications
+- Improve customer experience
 
-## DATA PROCESSING AND USE
+### Marketing Uses (with consent):
+- Send promotional offers
+- Notify about new products
+- Share service reminders
+- Provide relevant content
 
-### Legitimate Business Purposes
-Sales and Customer Service:
-- Processing vehicle sales and rentals
-- Providing customer support and service
-- Managing warranties and service records
-- Communication about products and services
+### Analytics Uses:
+- Improve website functionality
+- Understand customer preferences
+- Optimize marketing efforts
+- Enhance product offerings
 
-Business Operations:
-- Inventory management and planning
-- Financial accounting and reporting
-- Regulatory compliance and reporting
-- Business performance analysis
+## INFORMATION SHARING
 
-Marketing and Communications:
-- Promotional communications (with consent)
-- Customer satisfaction surveys
-- Product recall notifications
-- Safety and service updates
+### We DO Share With:
+- Payment processors (for transactions)
+- Financing partners (with customer consent)
+- Shipping/delivery services (for orders)
+- Service providers (as needed for operations)
 
-Legal and Compliance:
-- Meeting legal and regulatory requirements
-- Protecting business interests and assets
-- Preventing fraud and unauthorized access
-- Maintaining business records
+### We DO NOT Share With:
+- Third-party advertisers for their marketing
+- Data brokers
+- Anyone for purposes unrelated to our business
+- Anyone without appropriate legal basis
 
-### Data Processing Principles
-Lawfulness: All data processing has legal basis
-Fairness: Transparent and reasonable processing
-Purpose Limitation: Data used only for stated purposes
-Data Minimization: Only necessary data collected
-Accuracy: Data kept current and correct
-Storage Limitation: Data retained only as needed
-Security: Appropriate technical and organizational measures
-Accountability: Demonstrable compliance with principles
+## DATA SECURITY
 
-## CONSENT AND CHOICE
+### Security Measures:
+- SSL/TLS encryption for all data transmission
+- Secure server infrastructure
+- Access controls for employee access
+- Regular security monitoring
+- Secure payment processing
 
-### Consent Collection
-Explicit Consent:
-- Credit application and financial information
-- Marketing communications and promotional materials
-- Sharing information with third parties
-- Recording phone calls and conversations
+### Customer Responsibilities:
+- Protect account credentials
+- Use secure networks for transactions
+- Report suspected unauthorized access
+- Keep contact information current
 
-Implied Consent:
-- Basic business transaction processing
-- Service delivery and customer support
-- Legal compliance and regulatory reporting
-- Essential website functionality
+## CUSTOMER RIGHTS
 
-### Customer Choices
-Communication Preferences:
-- Email marketing opt-out available
-- Phone communication preferences
-- Mail communication opt-out
-- SMS/text message preferences
+### Your Rights Include:
+- Access to your personal data
+- Correction of inaccurate data
+- Deletion of data (where applicable)
+- Opt-out of marketing communications
+- Request information about data practices
 
-Data Access Rights:
-- Review personal information on file
-- Request corrections to inaccurate data
-- Request deletion of unnecessary data
-- Receive copy of personal information
+### How to Exercise Rights:
+Contact us at:
+- Email: sales@chesapeakegolfcarts.com
+- Phone: 1-844-844-6638
+- Mail: 1234 Battlefield Blvd, Chesapeake, VA 23322
 
-Marketing Controls:
-- Unsubscribe from email lists
-- Opt-out of promotional communications
-- Limit sharing with business partners
-- Control cookie and tracking preferences
-
-## DATA SHARING AND DISCLOSURE
-
-### Business Partners
-Authorized Dealers and Manufacturers:
-- DENAGO and EVOLUTION for warranty service
-- Parts suppliers for service fulfillment
-- Financing partners for credit applications
-- Insurance companies for coverage verification
-
-Service Providers:
-- IT service providers and hosting companies
-- Payment processors and financial institutions
-- Marketing service providers (with consent)
-- Professional service providers (legal, accounting)
-
-### Regulatory Disclosure
-Government Agencies:
-- Tax authorities for tax compliance
-- Environmental agencies for compliance
-- Transportation departments for licensing
-- Law enforcement with proper legal process
-
-Legal Requirements:
-- Court orders and subpoenas
-- Regulatory examinations and audits
-- Safety recall notifications
-- Fraud prevention and investigation
-
-### Third-Party Sharing Limitations
-No Sale of Personal Information:
-- Customer data is never sold to third parties
-- No sharing for others' marketing purposes
-- Strict contractual protection requirements
-- Limited to essential business purposes only
-
-## DATA SECURITY MEASURES
-
-### Technical Safeguards
-Encryption:
-- SSL/TLS encryption for all website communications
-- Encrypted data storage for sensitive information
-- Secure payment processing systems
-- Encrypted email communications for sensitive data
-
-Access Controls:
-- Multi-factor authentication for systems access
-- Role-based access controls for staff
-- Regular access review and updates
-- Automatic logoff for inactive sessions
-
-Network Security:
-- Firewall protection and monitoring
-- Intrusion detection and prevention systems
-- Regular security scanning and testing
-- Secure wireless network configurations
-
-### Physical Safeguards
-Facility Security:
-- Restricted access to business premises
-- Locked storage for paper records
-- Security cameras and alarm systems
-- Visitor access controls and monitoring
-
-Equipment Protection:
-- Secure storage for computers and devices
-- Screen locks and automatic logoffs
-- Secure disposal of old equipment
-- Regular inventory of security assets
-
-### Organizational Safeguards
-Staff Training:
-- Annual privacy and security training
-- Role-specific security procedures
-- Incident response training
-- Customer privacy awareness programs
-
-Policies and Procedures:
-- Written privacy and security policies
-- Regular policy review and updates
-- Clear incident response procedures
-- Vendor management and oversight
-
-## DATA RETENTION AND DISPOSAL
-
-### Retention Schedules
-Customer Records:
-- Active customer data: Retained during relationship + 7 years
-- Financial records: 7 years after last transaction
-- Service records: 10 years for warranty and safety purposes
-- Marketing data: Until opt-out or 5 years inactive
-
-Business Records:
-- Tax records: 7 years as required by law
-- Employment records: As required by law
-- Legal documents: Permanent or as legally required
-- Insurance records: As required by policy terms
-
-### Secure Disposal
-Electronic Data:
-- Secure deletion using DoD standards
-- Physical destruction of storage media
-- Certificate of destruction for sensitive data
-- Regular purging of temporary files
-
-Paper Records:
-- Shredding of confidential documents
-- Secure disposal through certified vendors
-- Employee training on proper disposal
-- Documentation of disposal activities
-
-## PRIVACY RIGHTS
-
-### Customer Rights Under Law
-Access Rights:
-- Right to know what personal information is collected
-- Right to access personal information on file
-- Right to receive copy of personal information
-- Right to know sources of personal information
-
-Correction Rights:
-- Right to correct inaccurate personal information
-- Right to update outdated information
-- Right to complete incomplete records
-- Right to dispute inaccurate information
-
-Deletion Rights:
-- Right to deletion of unnecessary personal information
-- Right to deletion after business relationship ends
-- Right to deletion of marketing data upon opt-out
-- Right to erasure of data processed unlawfully
-
-### Exercise of Rights Process
-Request Procedures:
-1. Contact privacy officer via email or phone
-2. Verify identity using secure authentication
-3. Specify nature and scope of request
-4. Receive response within 30 days
-5. Appeal process available if unsatisfied
-
-## PRIVACY COMPLAINTS
-
-### Internal Complaint Process
-Step 1: Contact customer service representative
-Step 2: Escalation to management if unresolved
-Step 3: Privacy officer review and investigation
-Step 4: Written response with resolution plan
-Step 5: Follow-up to ensure satisfaction
-
-### External Complaint Options
-Pennsylvania Attorney General:
-- Consumer Protection Division
-- Privacy complaint filing process
-- Investigation and enforcement authority
-- Public complaint database
-
-Federal Trade Commission:
-- Consumer privacy complaint process
-- Federal privacy law enforcement
-- Industry guidance and regulation
-- Consumer education resources
-
-Better Business Bureau:
-- Privacy complaint mediation
-- Business accreditation standards
-- Public complaint resolution
-- Consumer education programs
-
-## BREACH NOTIFICATION
-
-### Incident Response Plan
-Discovery and Assessment:
-- Immediate containment of security incident
-- Assessment of scope and impact
-- Documentation of incident details
-- Notification of appropriate authorities
-
-Customer Notification:
-- Notification within 72 hours of discovery
-- Clear description of incident and impact
-- Steps taken to address the incident
-- Recommendations for customer protection
-
-Regulatory Notification:
-- Notification to appropriate regulatory agencies
-- Cooperation with regulatory investigation
-- Implementation of corrective measures
-- Follow-up reporting as required
-
-### Breach Prevention
-Monitoring and Detection:
-- Continuous monitoring of systems and data
-- Intrusion detection and prevention systems
-- Regular security assessments and testing
-- Employee training on breach prevention
-
-Response Preparation:
-- Written incident response procedures
-- Regular testing of response procedures
-- Trained incident response team
-- Coordination with legal counsel and experts
+We will respond within 30 days.
 
 ## COOKIES AND TRACKING
 
-### Website Cookies
-Essential Cookies:
-- Session management and security
-- Website functionality and navigation
-- Shopping cart and form completion
-- User authentication and preferences
+### Cookies We Use:
+- Essential cookies (for website functionality)
+- Analytics cookies (for improvement)
+- Preference cookies (to remember settings)
 
-Analytics Cookies:
-- Website usage statistics and analysis
-- Performance monitoring and optimization
-- User behavior analysis for improvements
-- A/B testing and website optimization
+### Third-Party Analytics:
+- Google Analytics (G-YX9XKCQF4X)
+- Google Tag Manager (GTM-KB3WNGFH)
 
-Marketing Cookies:
-- Advertising effectiveness measurement
-- Personalized content delivery
-- Social media integration
-- Remarketing and targeted advertising
-
-### Cookie Control
-User Options:
-- Browser cookie settings and controls
-- Opt-out options for non-essential cookies
-- Cookie preference management tools
-- Clear information about cookie purposes
-
-Third-Party Tracking:
-- Google Analytics with privacy controls
-- Social media integration with user control
-- Advertising networks with opt-out options
-- Marketing platforms with unsubscribe options
-
-## INTERNATIONAL PRIVACY
-
-### Cross-Border Data Transfers
-Limited International Transfers:
-- Manufacturer warranty systems (DENAGO, EVOLUTION)
-- Cloud service providers with privacy safeguards
-- Professional service providers with contracts
-- Emergency service providers as needed
-
-Transfer Safeguards:
-- Contractual privacy protections
-- Adequacy decisions and certifications
-- Standard contractual clauses
-- Regular review of transfer arrangements
-
-## PRIVACY CONTACT INFORMATION
-
-Privacy Officer: Available through main business contact
-Phone: 1-844-844-6638
-Email: info@pikecountygolfcarts.com
-Address: Pike County, Pennsylvania
-Business Hours: Monday-Friday 9AM-6PM EST
-Response Time: Within 48 hours for privacy inquiries
-
-Website: https://pikecountygolfcarts.com/policies/privacy-policy
-Full Privacy Policy: Available on website
-Terms of Service: https://pikecountygolfcarts.com/policies/terms-conditions
-Security Information: https://pikecountygolfcarts.com/security
-
-## PRIVACY POLICY UPDATES
-
-Version Control:
-- Current Version: 1.0
-- Effective Date: January 25, 2025
-- Last Updated: January 25, 2025
-- Next Review: July 25, 2025
-
-Change Notification:
-- Email notification to customers for material changes
-- Website posting of updated privacy policy
-- 30-day notice before changes take effect
-- Continued consent implied by continued use
+### Controlling Cookies:
+- Browser settings can block cookies
+- This may affect website functionality
+- Essential cookies required for basic operation
 
 ## CHILDREN'S PRIVACY
 
-COPPA Compliance:
-- No intentional collection of children's information
-- Age verification for account creation
-- Parental consent process for minors
-- Special protection for children's data
-- Educational programs about online privacy
+We do not knowingly collect information from children under 13.
+If we learn we have collected such information, we will delete it.
+Parents may contact us regarding their children's information.
 
-Business Policy:
-- Minimum age 18 for vehicle purchases
-- Parental/guardian involvement for minors
-- Additional protections for family accounts
-- Clear communication about age requirements
+## DATA RETENTION
 
-This privacy documentation demonstrates Pike County Golf Carts' commitment 
-to protecting personal information and maintaining customer trust through 
-comprehensive privacy and data protection practices.
+### Retention Periods:
+- Transaction records: As required by law
+- Customer accounts: While active, plus 7 years
+- Marketing preferences: Until opt-out
+- Analytics data: 26 months (Google Analytics)
 
-Last Updated: January 25, 2025
-Privacy Documentation Version: 1.0
-Compliance Review: Quarterly updates
-Legal Authority: Pike County Golf Carts Management
+### Deletion:
+- Upon request (where permitted by law)
+- After retention period expiration
+- When no longer needed for business purposes
+
+## CHANGES TO PRIVACY POLICY
+
+We may update this policy periodically.
+Material changes will be communicated via website notice.
+Continued use constitutes acceptance of changes.
+Last updated: November 26, 2025
+
+## CONTACT FOR PRIVACY INQUIRIES
+
+Chesapeake Golf Carts
+1234 Battlefield Blvd
+Chesapeake, VA 23322
+Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Website: https://chesapeakegolfcarts.com
+
+For privacy-related questions, please include "Privacy Inquiry" in your subject line.
+
+# ============================================================================
+# END OF PRIVACY.txt - Chesapeake Golf Carts
+# ============================================================================

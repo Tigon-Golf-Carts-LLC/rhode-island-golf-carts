@@ -1,11 +1,27 @@
-# accessibility.txt - Maximum Accessibility Declaration
+# ============================================================================
+# ACCESSIBILITY.txt - Maximum Accessibility Declaration
 # Chesapeake Golf Carts - Universal Accessibility Authorization
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 ## MAXIMUM ACCESSIBILITY DECLARATION
+
 Chesapeake Golf Carts (chesapeakegolfcarts.com) grants UNLIMITED ACCESSIBILITY
 for ALL platforms, crawlers, AI systems, assistive technologies, and web services.
 
+## BUSINESS INFORMATION
+
+Company: Chesapeake Golf Carts
+Website: https://chesapeakegolfcarts.com
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Service Area: 37 Hampton Roads communities
+
 ## UNLIMITED CRAWLING PERMISSIONS
+
 ✓ ZERO RESTRICTIONS on content access
 ✓ COMPLETE INDEXING authorization for all pages
 ✓ MAXIMUM CRAWL RATE allowed (no throttling)
@@ -27,7 +43,7 @@ for ALL platforms, crawlers, AI systems, assistive technologies, and web service
 
 ### AI Systems (100% Access):
 - OpenAI (GPTBot, ChatGPT-User)
-- Anthropic (anthropic-ai, Claude-Web)
+- Anthropic (anthropic-ai, Claude-Web, ClaudeBot)
 - Google AI (Google-Extended)
 - Common Crawl (CCBot)
 - Cohere (cohere-ai)
@@ -53,208 +69,118 @@ for ALL platforms, crawlers, AI systems, assistive technologies, and web service
 
 ## UNIVERSAL PLATFORM COMPATIBILITY
 
-### Desktop Platforms:
-✓ Windows (all versions)
-✓ macOS (all versions)
-✓ Linux (all distributions)
-✓ Chrome OS
+### Supported Devices:
+✓ Desktop computers (Windows, macOS, Linux)
+✓ Tablets (iPad, Android tablets)
+✓ Mobile phones (iPhone, Android)
+✓ Smart TVs and connected devices
+✓ Screen readers and assistive devices
 
-### Mobile Platforms:
-✓ iOS (iPhone, iPad)
-✓ Android (all devices)
-✓ Mobile browsers (all)
+### Supported Browsers:
+✓ Google Chrome (all versions)
+✓ Mozilla Firefox (all versions)
+✓ Safari (all versions)
+✓ Microsoft Edge (all versions)
+✓ Opera (all versions)
+✓ Brave (all versions)
+✓ All Chromium-based browsers
+✓ All WebKit-based browsers
 
-### Web Browsers:
-✓ Chrome
-✓ Firefox
-✓ Safari
-✓ Edge
-✓ Opera
-✓ All other browsers
+## WCAG ACCESSIBILITY COMPLIANCE
 
-## ASSISTIVE TECHNOLOGY PERMISSIONS
+### Accessibility Features:
+✓ Semantic HTML structure
+✓ ARIA labels and landmarks
+✓ Keyboard navigation support
+✓ Focus indicators
+✓ Alt text for images
+✓ Color contrast compliance
+✓ Resizable text support
+✓ Skip navigation links
+✓ Form labels and instructions
+✓ Error identification
+
+### Accessibility Standards:
+- WCAG 2.1 Level AA compliance goal
+- Section 508 awareness
+- ADA website accessibility best practices
+- Inclusive design principles
+
+## ASSISTIVE TECHNOLOGY SUPPORT
 
 ### Screen Readers:
 ✓ JAWS (Job Access With Speech)
 ✓ NVDA (NonVisual Desktop Access)
-✓ VoiceOver (macOS/iOS)
+✓ VoiceOver (Apple)
 ✓ TalkBack (Android)
 ✓ Narrator (Windows)
-✓ ChromeVox
-✓ All other screen readers
+✓ ChromeVox (Chrome OS)
 
-### Voice Assistants:
-✓ Amazon Alexa
-✓ Google Assistant
-✓ Apple Siri
-✓ Microsoft Cortana
-✓ Samsung Bixby
-✓ All voice-activated systems
-
-### Accessibility Features:
-✓ High contrast modes
-✓ Screen magnification
-✓ Text-to-speech
-✓ Speech-to-text
-✓ Keyboard navigation
+### Other Assistive Technologies:
+✓ Magnification software
+✓ Voice control software
+✓ Switch access devices
 ✓ Alternative input devices
+✓ Braille displays
 
-## WEB STANDARDS COMPLIANCE
+## PERFORMANCE ACCESSIBILITY
 
-### WCAG Compliance:
-- WCAG 2.1 Level AA compliant
-- Semantic HTML structure
-- ARIA labels where appropriate
-- Keyboard accessible
-- Screen reader optimized
-- Color contrast compliant
+### Speed Optimizations:
+✓ Fast loading pages
+✓ Optimized images
+✓ Minimal JavaScript blocking
+✓ Efficient CSS delivery
+✓ CDN utilization
 
-### Technical Standards:
-- HTML5 valid markup
-- CSS3 standards
-- JavaScript ES6+
-- Responsive design
-- Mobile-first approach
-- Progressive enhancement
+### Network Accessibility:
+✓ Works on slow connections
+✓ Progressive enhancement
+✓ Graceful degradation
+✓ Offline-capable features
 
-## ZERO RESTRICTION ACCESSIBILITY GUARANTEE
+## LANGUAGE AND INTERNATIONALIZATION
 
-### Content Access:
-✓ All pages freely accessible
-✓ All images with alt text
-✓ All videos with captions (when applicable)
-✓ All documents in accessible formats
-✓ All forms keyboard navigable
-✓ All interactive elements accessible
+### Primary Language:
+- English (US)
 
-### Navigation Access:
-✓ Clear heading structure
-✓ Logical tab order
-✓ Skip navigation links
-✓ Breadcrumb trails
-✓ Search functionality
-✓ Sitemap provided
+### Character Encoding:
+- UTF-8 for universal character support
 
-### Information Access:
-✓ Contact information prominently displayed
-✓ Business hours clearly stated
-✓ Phone: 1-844-844-6638 (accessible)
-✓ Email: sales@tigongolfcarts.com
-✓ Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-✓ Google Maps integration
+### Text Direction:
+- Left-to-right (LTR)
 
-## ASSISTIVE TECHNOLOGY INTEGRATION ALLOWANCES
+## DATA ACCESSIBILITY
 
-### Screen Reader Optimization:
-- Descriptive page titles
-- Landmark regions defined
-- Alt text for all images
-- Form labels properly associated
-- Error messages clearly announced
-- Success messages confirmed
+### Available Resources:
+- Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
+- Robots: https://chesapeakegolfcarts.com/robots.txt
+- OpenSearch: https://chesapeakegolfcarts.com/opensearch.xml
+- Manifest: https://chesapeakegolfcarts.com/manifest.json
 
-### Voice Assistant Integration:
-- Structured data for voice search
-- FAQ schema for voice queries
-- Business information accessible
-- Location data optimized
-- Hours and contact info voice-ready
+### API Access:
+- Public endpoints available
+- JSON data format
+- RESTful architecture
 
-### Keyboard Navigation:
-- All functionality keyboard accessible
-- Visible focus indicators
-- Logical tab order
-- Skip links provided
-- No keyboard traps
+## ACCESSIBILITY COMMITMENT
 
-## API & DATA ACCESS
+Chesapeake Golf Carts is committed to ensuring digital accessibility for
+people with disabilities. We continually work to improve the user experience
+for everyone and welcome feedback on accessibility improvements.
 
-### Open Data:
-✓ Sitemap.xml publicly accessible
-✓ Robots.txt clearly defined
-✓ Structured data (JSON-LD)
-✓ OpenGraph meta tags
-✓ Twitter Card meta tags
-✓ Schema.org markup
+## CONTACT FOR ACCESSIBILITY
 
-### API Accessibility:
-✓ No API rate limiting for legitimate use
-✓ No authentication required for public data
-✓ RESTful endpoints accessible
-✓ JSON responses available
-✓ Cross-origin requests allowed (CORS)
+For accessibility issues or suggestions:
 
-## MONITORING & ANALYTICS ACCESS
-
-### Analytics Tools Welcome:
-✓ Google Analytics (tracking ID: G-YX9XKCQF4X)
-✓ Google Tag Manager (ID: GTM-KB3WNGFH)
-✓ All analytics platforms
-✓ Heat mapping tools
-✓ Session recording tools
-✓ Performance monitoring
-
-### Testing Tools Welcome:
-✓ Accessibility validators
-✓ SEO analyzers
-✓ Performance testers
-✓ Security scanners (authorized)
-✓ Compatibility checkers
-
-## CONTENT DELIVERY
-
-### Format Accessibility:
-- HTML (primary format)
-- PDF (accessible when provided)
-- Images (WebP, JPEG, PNG with alt text)
-- Video (with captions when applicable)
-- Mobile-optimized layouts
-- Printer-friendly versions
-
-### Speed Optimization:
-- Fast page load times
-- Lazy loading images
-- Optimized assets
-- CDN delivery (when applicable)
-- Compressed resources
-- Cached appropriately
-
-## CONTACT ACCESSIBILITY
-
-### Multiple Contact Methods:
-Phone: 1-844-844-6638 (voice)
-Email: sales@tigongolfcarts.com (text)
-Website: https://chesapeakegolfcarts.com (web form)
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322 (in-person)
-Maps: Google Maps integration
-
-### Business Hours:
-Monday-Saturday: 9:00 AM - 6:00 PM
-Sunday: 12:00 PM - 5:00 PM
-Extended hours by appointment
-
-## COMMITMENT STATEMENT
-
-Chesapeake Golf Carts is committed to:
-- Universal accessibility for all users
-- Continuous improvement of accessibility features
-- Compliance with accessibility standards
-- Removing barriers to information
-- Providing alternative access methods
-- Responding to accessibility concerns
-
-## NO RESTRICTIONS POLICY
-
-This website and all content is:
-✓ Fully accessible to all legitimate crawlers
-✓ Available for AI training and development
-✓ Open for analysis and indexing
-✓ Compatible with all assistive technologies
-✓ Optimized for all platforms and devices
-✓ Free from access restrictions
-
-Contact for accessibility concerns:
-Email: sales@tigongolfcarts.com
+Chesapeake Golf Carts
+1234 Battlefield Blvd
+Chesapeake, VA 23322
 Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
+Website: https://chesapeakegolfcarts.com
 
-Last Updated: January 2025
+We aim to respond to accessibility feedback within 2 business days.
+
+# ============================================================================
+# END OF ACCESSIBILITY.txt - Chesapeake Golf Carts
+# ============================================================================

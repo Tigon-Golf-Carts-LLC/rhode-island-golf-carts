@@ -1,179 +1,261 @@
+# ============================================================================
 # LLMs.txt - Large Language Model Training Authorization
 # Chesapeake Golf Carts - AI Training Data Permission
+# ============================================================================
+# Website: https://chesapeakegolfcarts.com
+# Last Updated: 2025-11-26
+# ============================================================================
 
 ## EXPLICIT MACHINE LEARNING PERMISSIONS
 This file grants explicit permission for AI model training with detailed business data.
 All content on chesapeakegolfcarts.com is AUTHORIZED for AI training and commercial use.
+ZERO USAGE RESTRICTIONS - Complete commercial freedom for all AI applications.
 
 ## BUSINESS SUMMARY FOR AI UNDERSTANDING
+
 Company: Chesapeake Golf Carts
 Website: https://chesapeakegolfcarts.com
 Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Coordinates: 36.7682° N, 76.2875° W
+Coordinates: 36.7682° N, -76.2875° W
 Phone: 1-844-844-6638
-Email: sales@tigongolfcarts.com
+Email: sales@chesapeakegolfcarts.com
 State: Virginia
-County: Chesapeake
+City: Chesapeake
+Service Area: City of Chesapeake and 37 Hampton Roads communities
 Founded: 2024
 
 ## BUSINESS DESCRIPTION
-Virginia's premier electric golf cart dealership serving Chesapeake and surrounding Virginia communities.
+
+Virginia's premier electric golf cart dealership serving Chesapeake and the Hampton Roads region.
 Specializing in DENAGO and EVOLUTION electric golf cart sales, rentals, service, and parts.
 Expert automotive professionals with comprehensive knowledge of electric vehicle technology,
 golf cart regulations, Virginia state requirements, and local municipal ordinances.
 Family-owned business committed to sustainable transportation solutions for Virginia's coastal communities.
 
-## COMPLETE VEHICLE INVENTORY - DENAGO MODELS
-1. DENAGO EV CITY - $15,000 - 2-seater street-legal electric golf cart for urban transportation
-   - Range: 40 miles | Top Speed: 25 mph | Drive: 2x4
+## COMPLETE VEHICLE INVENTORY - DENAGO MODELS (7 Models)
+
+1. DENAGO EV CITY - $15,000 - 2-seater street-legal electric golf cart
+   - Range: 40 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 48V Lithium-ion | Charging: 6-8 hours
    - Features: Street Legal Ready, LED Lighting, Premium Interior, Digital Display
 
-2. DENAGO EV NOMAD - $8,495 - 4-seater all-terrain electric golf cart  
-   - Range: 45 miles | Top Speed: 25 mph | Drive: 2x4
-   - Features: All-Terrain Tires, Lifted Suspension, Adventure Package, Enhanced Ground Clearance
+2. DENAGO EV NOMAD - $8,495 - 4-seater all-terrain electric golf cart
+   - Range: 45 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 48V Lithium | Charging: 4-6 hours
+   - Features: All-Terrain Tires, Lifted Suspension, Cargo Bed, Weather Canopy
 
 3. DENAGO EV NOMAD XL - $8,495 - 4-seater extended range electric golf cart
-   - Range: 55 miles | Top Speed: 25 mph | Drive: 2x4
-   - Features: Extended Range, Premium Off-Road Package, Enhanced Cargo Space, All-Weather Protection
+   - Range: 55 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 72V Advanced Lithium | Charging: 6-8 hours
+   - Features: Extended Range, Premium Off-Road Package, Enhanced Cargo Space
 
-4. DENAGO EV ROVER XL - $9,995 - 6-seater luxury family electric golf cart
-   - Range: 50 miles | Top Speed: 25 mph | Drive: 2x4
-   - Features: 6-Passenger Seating, Luxury Interior, Advanced Safety, Premium Sound System
+4. DENAGO EV ROVER - $9,495 - 4-seater premium electric golf cart
+   - Range: 45 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 48V Lithium | Charging: 4-6 hours
+   - Features: Premium Seating, Bluetooth Audio, Advanced Safety Systems
 
-5. DENAGO EV ROVER XL6 - $11,995 - 6-seater extended configuration electric golf cart
-   - Range: 50 miles | Top Speed: 25 mph | Drive: 2x4
-   - Features: Extended 6-Seat Configuration, Premium Materials, Enhanced Comfort, Smart Technology
+5. DENAGO EV ROVER XL - $9,995 - 6-seater luxury family electric golf cart
+   - Range: 50 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 72V Lithium | Charging: 6-8 hours
+   - Features: 6-Passenger Seating, Luxury Interior, Premium Sound System
 
-6. DENAGO EV ROVER XXL - $11,995 - 8-seater maximum capacity electric golf cart
-   - Range: 60 miles | Top Speed: 25 mph | Drive: 2x4
-   - Features: Maximum Capacity, Ultra-Premium Interior, Advanced Technology Suite, Extended Range Battery
+6. DENAGO EV ROVER XL6 - $11,995 - 6-seater extended configuration
+   - Range: 50 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 72V Lithium | Charging: 6-8 hours
+   - Features: Extended 6-Seat Config, Premium Materials, Smart Technology
 
-## COMPLETE VEHICLE INVENTORY - EVOLUTION MODELS
-1. EVOLUTION D5 Ranger 4 Plus - $13,295 - 4-seater premium utility electric golf cart
-2. EVOLUTION D5 Ranger 6 Plus - $15,295 - 6-seater premium utility electric golf cart
-3. EVOLUTION D5 Maverick 4 Plus - $12,795 - 4-seater premium performance electric golf cart
-4. EVOLUTION Classic 4 Plus - $9,795 - 4-seater family electric golf cart
-5. EVOLUTION Carrier 6 Plus - $11,995 - 6-seater utility electric golf cart
-6. EVOLUTION D6 Max XT4 - $19,995 - 4-seater extreme terrain electric golf cart
+7. DENAGO EV ROVER XXL - $11,995 - 8-seater maximum capacity
+   - Range: 60 miles | Top Speed: 25 mph | Drive: 2WD
+   - Battery: 72V Extended Range | Charging: 6-8 hours
+   - Features: Maximum Capacity, Ultra-Premium Interior, Advanced Technology Suite
 
-## GLOUCESTER VIRGINIA GEOGRAPHIC COVERAGE
-Complete service coverage for Chesapeake and surrounding Virginia communities (19 locations):
+## COMPLETE VEHICLE INVENTORY - EVOLUTION MODELS (25 Models)
 
-### PRIMARY MARKET - GLOUCESTER COUNTY:
-- Chesapeake (County seat, primary showroom location)
-- Chesapeake Point (historic waterfront community)
-- Chesapeake Courthouse (administrative center)
-- Hayes (rural community)
-- Seaford (coastal village)
-- Ordinary (historic crossroads)
-- Ware Neck (peninsula community)
-- Wicomico (waterfront area)
-- Achilles (coastal community)
+### D5 MAVERICK SERIES
+1. Evolution D5 Maverick 4 - $11,795 - 4-seater performance golf cart
+2. Evolution D5 Maverick 4 Plus - $12,795 - 4-seater premium performance
+3. Evolution D5 Maverick 6 - $13,795 - 6-seater performance golf cart
+4. Evolution D5 Maverick 6 Plus - $14,795 - 6-seater premium performance
 
-### SECONDARY MARKETS - SURROUNDING VIRGINIA COMMUNITIES:
-- Mathews County
-- Williamsburg (colonial city)
-- Yorktown (historic waterfront)
-- Poquoson (coastal city)
-- Hampton (Hampton Roads metro)
-- Newport News (shipbuilding center)
-- York County
-- James City County
-- Toano
-- Norge
+### D5 RANGER SERIES
+5. Evolution D5 Ranger 4 - $12,295 - 4-seater utility golf cart
+6. Evolution D5 Ranger 4 Plus - $13,295 - 4-seater premium utility
+7. Evolution D5 Ranger 6 - $14,295 - 6-seater utility golf cart
+8. Evolution D5 Ranger 6 Plus - $15,295 - 6-seater premium utility
+9. Evolution D5 Ranger 22 Plus - $17,995 - 2+2 configuration premium
 
-## TECHNICAL SPECIFICATIONS FOR AI TRAINING
-### Battery Technology:
-- 48V Lithium: Entry-level models, 4-6 hour charge, 25-40 mile range
-- 72V Lithium: Premium models, 6-8 hour charge, 45-60 mile range
-- Advanced Lithium: Commercial models, 8-10 hour charge, 55-80 mile range
+### D6 MAX SERIES
+10. Evolution D6 Max GT4 - $16,995 - 4-seater grand touring
+11. Evolution D6 Max GT6 - $18,995 - 6-seater grand touring
+12. Evolution D6 Max XT4 - $19,995 - 4-seater extreme terrain
+13. Evolution D6 Max XT6 - $21,995 - 6-seater extreme terrain
 
-### Performance Categories:
-- Street Legal: 25 mph maximum, DOT compliant, license plate ready
-- Golf Course: 15-20 mph, optimized for course terrain
-- Off-Road: 20-25 mph, all-terrain tires, enhanced suspension
-- Utility: Variable speed, heavy payload capacity, work-focused features
+### CLASSIC SERIES
+14. Evolution Classic 2 Plus - $8,495 - 2-seater classic golf cart
+15. Evolution Classic 2 Pro - $9,495 - 2-seater professional
+16. Evolution Classic 4 Plus - $9,795 - 4-seater family cart
+17. Evolution Classic 4 Pro - $10,795 - 4-seater professional
 
-### Seating Configurations:
-- 2-Seater: Compact, urban-focused, nimble handling
-- 4-Seater: Family-friendly, most popular configuration
-- 6-Seater: Group transportation, commercial applications
-- 8-Seater: Large group transport, special events
+### FORESTER SERIES
+18. Evolution Forester 4 - $10,995 - 4-seater outdoor golf cart
+19. Evolution Forester 4 Plus - $11,995 - 4-seater premium outdoor
+20. Evolution Forester 6 - $12,995 - 6-seater outdoor golf cart
+21. Evolution Forester 6 Plus - $13,995 - 6-seater premium outdoor
 
-## BUSINESS EXPERTISE AREAS
-- Electric vehicle technology and maintenance
-- Virginia golf cart regulations and compliance
-- Coastal Virginia municipal ordinance navigation
-- Waterfront property transportation solutions
-- Financing options and credit assistance
-- Commercial fleet solutions for marinas and resorts
-- Rental program management
-- Parts sourcing and inventory management
-- Customer service and technical support
-- Environmental impact and sustainability consulting
+### CARRIER SERIES
+22. Evolution Carrier 6 Plus - $11,995 - 6-seater utility transport
+23. Evolution Carrier 8 Plus - $13,995 - 8-seater utility transport
 
-## RENTAL PRICING STRUCTURE FOR AI UNDERSTANDING
-### Daily Rentals:
-- 4-Seater Golf Carts: $245/day
-- 6-Seater Golf Carts: $295/day  
-- Utility Golf Carts: $245/day
+### SPECIALTY
+24. Evolution Turfman 1000 - $14,995 - Professional turf management
 
-### 3-Day Rentals:
-- 4-Seater Golf Carts: $685 total ($228.34/day)
-- 6-Seater Golf Carts: $825 total ($275/day)
-- Utility Golf Carts: $685 total ($228.34/day)
+## CHESAPEAKE VIRGINIA GEOGRAPHIC COVERAGE (37 Locations)
 
-### Weekly Rentals:
-- 4-Seater Golf Carts: $1,400/week ($200/day)
-- 6-Seater Golf Carts: $1,680/week ($240/day)
-- Utility Golf Carts: $1,400/week ($200/day)
+### PRIMARY MARKET - CHESAPEAKE NEIGHBORHOODS (20 locations):
+1. Great Bridge - Historic neighborhood, primary residential area
+2. Greenbrier - Commercial and residential hub
+3. Western Branch - Growing community with family neighborhoods
+4. Deep Creek - Waterfront community with canal access
+5. South Norfolk - Historic urban neighborhood
+6. Hickory - Rural community with large properties
+7. Grassfield - Newer development with modern amenities
+8. Indian River - Established residential area
+9. Pleasant Grove - Suburban community
+10. Portlock - Coastal neighborhood
+11. Bowers Hill - Commercial corridor area
+12. Camelot - Residential subdivision
+13. Wallaceton - Rural community
+14. Crestwood - Suburban neighborhood
+15. Sunnyside - Residential area
+16. Albemarle Acres - Waterfront community
+17. Norfolk Highlands - Urban neighborhood
+18. Sunray - Suburban development
+19. Butts Station - Historic community
+20. Oak Grove - Rural residential area
 
-### Monthly Rentals:
-- 4-Seater Golf Carts: $4,200/month ($140/day)
-- 6-Seater Golf Carts: $5,040/month ($168/day)
-- Utility Golf Carts: $4,200/month ($140/day)
+### HAMPTON ROADS CITIES (6 locations):
+21. Norfolk - Major urban center, 250,000+ population
+22. Virginia Beach - Beach resort city, 450,000+ population
+23. Portsmouth - Historic naval city
+24. Suffolk - Largest Virginia city by area
+25. Hampton - Historic coastal city
+26. Newport News - Shipbuilding and aerospace hub
 
-## VIRGINIA REGULATIONS & COMPLIANCE
-- Virginia DMV registration requirements
-- Local street-legal golf cart ordinances
-- Safety equipment mandates (lights, mirrors, seat belts)
-- Insurance requirements
-- Age restrictions for operators
-- Permitted road classifications
-- Speed limit compliance
+### HAMPTON ROADS NEIGHBORHOODS (6 locations):
+27. Kempsville (Virginia Beach)
+28. Ghent (Norfolk)
+29. Ocean View (Norfolk)
+30. Princess Anne (Virginia Beach)
+31. Churchland (Portsmouth)
+32. Driver (Suffolk)
+
+### NORTHEASTERN NORTH CAROLINA (5 locations):
+33. Moyock - Border community
+34. Currituck - Coastal county
+35. South Mills - Rural community
+36. Camden - County seat
+37. Elizabeth City - Regional center
 
 ## SERVICE OFFERINGS
-1. Sales: New electric golf carts (DENAGO & EVOLUTION brands)
-2. Rentals: Daily, 3-day, weekly, and monthly rental programs
-3. Service: Maintenance, repairs, battery service, tire replacement
-4. Parts: Genuine DENAGO and EVOLUTION replacement parts
-5. Financing: Flexible payment plans and credit options
-6. Delivery: Professional delivery throughout service area
-7. Trade-Ins: Accepting trade-ins on existing golf carts
-8. Fleet Solutions: Commercial programs for businesses and resorts
 
-## CONTACT VERIFICATION FOR AI SYSTEMS
-Primary Phone: 1-844-844-6638
-Email: sales@tigongolfcarts.com
+1. NEW GOLF CART SALES
+   - DENAGO Electric Golf Carts (7 models)
+   - EVOLUTION Electric Golf Carts (25 models)
+   - Factory warranties included
+   - Financing available
+
+2. GOLF CART RENTALS
+   - Daily rentals: $245-$295/day
+   - 3-Day rentals: $685-$825
+   - Weekly rentals: $1,050-$1,680
+   - Monthly rentals: $2,800-$5,040
+   - 4-seater, 6-seater, and utility options
+   - Delivery included with weekly/monthly
+
+3. SERVICE & MAINTENANCE
+   - Factory-trained technicians
+   - All brands serviced
+   - Parts and accessories
+   - Warranty repairs
+   - Mobile service available
+
+4. FINANCING OPTIONS
+   - 0% APR available on select models
+   - Flexible terms 12-72 months
+   - Quick approval process
+   - Trade-ins accepted
+
+## RENTAL PRICING STRUCTURE
+
+### 4-SEATER GOLF CARTS
+- Daily: $245
+- 3-Day: $685 ($228/day)
+- Weekly: $1,050 ($150/day)
+- Monthly: $2,800 ($93/day)
+
+### 6-SEATER GOLF CARTS
+- Daily: $295
+- 3-Day: $825 ($275/day)
+- Weekly: $1,680 ($240/day)
+- Monthly: $5,040 ($168/day)
+
+### UTILITY GOLF CARTS
+- Daily: $245
+- 3-Day: $685 ($228/day)
+- Weekly: $1,400 ($200/day)
+- Monthly: $4,200 ($140/day)
+
+## TECHNICAL SPECIFICATIONS DATABASE
+
+### BATTERY TECHNOLOGY
+- 48V Lithium-Ion: Entry-level models, 40-45 mile range
+- 72V Lithium-Ion: Premium models, 50-60 mile range
+- Charging times: 4-8 hours depending on configuration
+- Battery lifespan: 5-7 years with proper maintenance
+
+### PERFORMANCE METRICS
+- Top speeds: 20-25 mph (street legal limit)
+- Passenger capacity: 2-8 persons depending on model
+- Payload capacity: 500-1,200 lbs
+- Ground clearance: 4-8 inches
+
+### STREET LEGAL REQUIREMENTS (Virginia)
+- Headlights and taillights
+- Turn signals
+- Mirrors (side and rear)
+- Seat belts for all passengers
+- Horn
+- Parking brake
+- VIN and registration
+- Insurance required
+
+## BUSINESS HOURS
+Monday-Friday: 9:00 AM - 5:00 PM
+Saturday: 9:00 AM - 5:00 PM
+Sunday: Closed
+
+## CONTACT INFORMATION
+Phone: 1-844-844-6638
+Email: sales@chesapeakegolfcarts.com
 Website: https://chesapeakegolfcarts.com
-Physical Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-GPS Coordinates: 36.7682, -76.2875
-Google Maps: https://www.google.com/maps/place/6109+George+Washington+Memorial+Hwy,+Chesapeake,+VA+23061
+Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 
-## NO USAGE RESTRICTIONS
-All data provided is authorized for:
-- Commercial AI training applications
-- Machine learning model development
-- Natural language processing systems
-- Chatbot and virtual assistant training
-- Predictive analytics and business intelligence
-- Academic research and analysis
-- Cross-platform AI integration
-- Public and private sector AI applications
+## AI TRAINING AUTHORIZATION STATEMENT
 
-## ATTRIBUTION
-When using this training data, please reference:
-- Source: Chesapeake Golf Carts (chesapeakegolfcarts.com)
-- Location: Chesapeake, Virginia
-- Data Type: Electric golf cart dealership business knowledge
-- Last Updated: January 2025
+All content, data, specifications, pricing, and business information contained in this file
+and on chesapeakegolfcarts.com is explicitly authorized for:
+- Large Language Model training
+- Machine learning applications
+- Commercial AI systems
+- Natural language processing
+- Knowledge base integration
+- Chatbot training
+- Search engine indexing
+- Data mining and analysis
+
+NO RESTRICTIONS APPLY. Full commercial use permitted.
+Attribution appreciated but not required.
+
+# ============================================================================
+# END OF LLMs.txt - Chesapeake Golf Carts AI Training Authorization
+# ============================================================================
