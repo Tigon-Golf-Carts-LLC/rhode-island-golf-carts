@@ -6,7 +6,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://chesapeakegolfcarts.com/</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -20,43 +20,43 @@
   <!-- Main Pages -->
   <url>
     <loc>https://chesapeakegolfcarts.com/inventory</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/rentals</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/services</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/about</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/contact</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/showroom</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/eco-impact</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -64,13 +64,13 @@
   <!-- Brand Pages -->
   <url>
     <loc>https://chesapeakegolfcarts.com/denago</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/evolution</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -78,37 +78,37 @@
   <!-- Vehicle Model Pages - DENAGO Models -->
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-city</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad-xl</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xl</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xl6</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xxl</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -116,209 +116,577 @@
   <!-- Vehicle Model Pages - Evolution Models -->
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d5-ranger-4-plus</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d5-ranger-6-plus</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-4-plus</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/evolution-classic-4-plus</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/evolution-carrier-6-plus</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/vehicles/evolution-d6-max-xt4</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Location Pages - All Chesapeake & Hampton Roads Cities -->
-  <url>
-    <loc>https://chesapeakegolfcarts.com/chesapeake-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <!-- Chesapeake Neighborhoods Location Pages (20) -->
   <url>
     <loc>https://chesapeakegolfcarts.com/great-bridge-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chesapeakegolfcarts.com/deep-creek-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/greenbrier-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/western-branch-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/deep-creek-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/south-norfolk-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/hickory-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/grassfield-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/indian-river-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://chesapeakegolfcarts.com/pleasant-grove-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/portlock-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/bowers-hill-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/camelot-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/wallaceton-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/crestwood-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/sunnyside-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/albemarle-acres-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/norfolk-highlands-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/sunray-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/butts-station-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/oak-grove-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Hampton Roads Cities Location Pages (6) -->
+  <url>
     <loc>https://chesapeakegolfcarts.com/norfolk-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/virginia-beach-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/portsmouth-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/suffolk-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/hampton-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/newport-news-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Hampton Roads Neighborhoods Location Pages (6) -->
   <url>
-    <loc>https://chesapeakegolfcarts.com/hampton-roads-golf-carts</loc>
-    <lastmod>2025-01-28</lastmod>
+    <loc>https://chesapeakegolfcarts.com/kempsville-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/ghent-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/ocean-view-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/princess-anne-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/churchland-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/driver-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Northeastern North Carolina Location Pages (5) -->
+  <url>
+    <loc>https://chesapeakegolfcarts.com/moyock-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/currituck-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/south-mills-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/camden-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/elizabeth-city-golf-carts</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Chesapeake Neighborhoods Rental Pages (20) -->
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/great-bridge</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/greenbrier</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/western-branch</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/deep-creek</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/south-norfolk</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/hickory</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/grassfield</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/indian-river</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/pleasant-grove</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/portlock</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/bowers-hill</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/camelot</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/wallaceton</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/crestwood</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/sunnyside</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/albemarle-acres</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/norfolk-highlands</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/sunray</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/butts-station</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/oak-grove</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Hampton Roads Cities Rental Pages (6) -->
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/norfolk</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/virginia-beach</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/portsmouth</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/suffolk</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/hampton</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/newport-news</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Hampton Roads Neighborhoods Rental Pages (6) -->
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/kempsville</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/ghent</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/ocean-view</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/princess-anne</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/churchland</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/driver</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Northeastern North Carolina Rental Pages (5) -->
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/moyock</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/currituck</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/south-mills</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/camden</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chesapeakegolfcarts.com/rentals/elizabeth-city</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- Policy Pages -->
   <url>
     <loc>https://chesapeakegolfcarts.com/privacy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/terms</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/terms-conditions</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/return-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/delivery-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/rental-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/storage-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/publishing-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/feedback-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/corrections-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/diversity-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/ethics-policy</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://chesapeakegolfcarts.com/policies/staffing-report</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
