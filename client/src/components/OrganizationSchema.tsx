@@ -12,8 +12,8 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "name": "Chesapeake Golf Carts",
       "description": "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
       "url": "https://chesapeakegolfcarts.com",
-      "logo": "https://chesapeakegolfcarts.com/logo.png",
-      "image": "https://chesapeakegolfcarts.com/logo.png",
+      "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
       "telephone": "1-844-844-6638",
       "email": "sales@chesapeakegolfcarts.com",
       "address": {
