@@ -8,7 +8,7 @@ import { Link } from "wouter";
 
 interface MunicipalityRentalPageProps {
   municipalityName: string;
-  municipalityType: 'City' | 'Borough' | 'Township';
+  municipalityType: 'City' | 'Borough' | 'Township' | 'Neighborhood' | 'Community' | 'Town';
   slug: string;
 }
 
