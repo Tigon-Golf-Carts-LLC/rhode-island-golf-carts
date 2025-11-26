@@ -26,7 +26,7 @@ export default function SEOHead({
   heroBackgroundImage
 }: SEOHeadProps) {
   // Use hero background image if provided, otherwise fallback to logo
-  const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png";
+  const finalOgImage = ogImage || heroBackgroundImage || "/logo.png";
   useEffect(() => {
     // Set page title
     document.title = title;
@@ -69,23 +69,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png");
+      existingFavicon.setAttribute("href", "/logo.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png";
+      favicon.href = "/logo.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png");
+      existingAppleIcon.setAttribute("href", "/logo.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png";
+      appleIcon.href = "/logo.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -150,7 +150,7 @@ export default function SEOHead({
         "telephone": "1-844-844-6638",
         "email": "sales@chesapeakegolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+        "logo": "https://chesapeakegolfcarts.com/logo.png",
         "image": `https://chesapeakegolfcarts.com${finalOgImage}`,
         "serviceArea": {
           "@type": "GeoCircle",

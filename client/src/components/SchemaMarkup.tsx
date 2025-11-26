@@ -19,9 +19,9 @@ export const generateOrganizationSchema = () => ({
   "alternateName": "CGC",
   "description": "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   "url": "https://chesapeakegolfcarts.com",
-  "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+  "logo": "https://chesapeakegolfcarts.com/logo.png",
   "image": [
-    "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+    "https://chesapeakegolfcarts.com/logo.png",
     "https://chesapeakegolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
   "telephone": "1-844-844-6638",

@@ -22,8 +22,8 @@ export default function LocationSchema({
       "name": `Chesapeake Golf Carts - ${municipalityName}`,
       "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Chesapeake, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
       "url": `https://chesapeakegolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
-      "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
-      "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
+      "logo": "https://chesapeakegolfcarts.com/logo.png",
+      "image": "https://chesapeakegolfcarts.com/logo.png",
       "telephone": "1-844-844-6638",
       "email": "sales@chesapeakegolfcarts.com",
       "address": {

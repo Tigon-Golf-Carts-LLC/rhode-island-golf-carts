@@ -8,7 +8,7 @@ export default function Footer() {
         {/* Logo Section */}
         <div className="flex justify-center mb-8">
           <img 
-            src="/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png" 
+            src="/logo.png" 
             alt="Chesapeake Golf Carts Logo" 
             className="h-24 w-24 object-contain"
           />
