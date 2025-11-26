@@ -6,7 +6,7 @@
 /* MANAGEMENT */
 Company: Chesapeake Golf Carts
 Website: https://chesapeakegolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Email: sales@tigongolfcarts.com
 Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 Region: Chesapeake, Virginia, USA
@@ -159,7 +159,7 @@ Future Focus: Leading Virginia's electric vehicle adoption
 /* DIGITAL PRESENCE */
 Website: https://chesapeakegolfcarts.com
 Email: sales@tigongolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Analytics: Google Analytics (G-YX9XKCQF4X)
 Tag Manager: GTM-KB3WNGFH
 Social Media: Active engagement with community
@@ -181,7 +181,7 @@ Comprehensive Services: Sales, rentals, service, parts - complete solution
 
 /* CONTACT */
 Primary: sales@tigongolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 Directions: Located on US Route 17 in Chesapeake
 GPS: 36.7682° N, 76.2875° W

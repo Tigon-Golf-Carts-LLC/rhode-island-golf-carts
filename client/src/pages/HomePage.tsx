@@ -25,7 +25,7 @@ export default function HomePage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="Chesapeake Golf Carts - Premier Virginia Dealership"
-        description="Experience Chesapeake Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 757-555-1234."
+        description="Experience Chesapeake Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 1-844-844-6638."
         keywords="golf carts Chesapeake VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
         canonicalUrl="https://chesapeakegolfcarts.com/"
         ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
@@ -82,9 +82,9 @@ export default function HomePage() {
                     View Inventory
                   </Button>
                 </Link>
-                <a href="tel:757-555-1234">
+                <a href="tel:1-844-844-6638">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
-                    Call Now 757-555-1234
+                    Call Now 1-844-844-6638
                   </Button>
                 </a>
               </div>
@@ -425,7 +425,7 @@ export default function HomePage() {
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Chesapeake Golf Carts</h3>
               <p className="text-sm text-gray-600 mb-2">1234 Battlefield Blvd, Chesapeake, VA 23322</p>
-              <p className="text-theme-orange font-semibold">757-555-1234</p>
+              <p className="text-theme-orange font-semibold">1-844-844-6638</p>
             </div>
           </div>
 
@@ -433,7 +433,7 @@ export default function HomePage() {
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
             <p className="text-gray-600 mb-4">For general inquiries and support throughout the City of Chesapeake</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-              <a href="tel:757-555-1234" className="text-2xl font-bold text-theme-orange hover:underline">757-555-1234</a>
+              <a href="tel:1-844-844-6638" className="text-2xl font-bold text-theme-orange hover:underline">1-844-844-6638</a>
               <Link href="/contact">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact Us

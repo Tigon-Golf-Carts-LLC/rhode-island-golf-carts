@@ -244,9 +244,9 @@ export default function ServicesPage() {
             Keep your golf cart running smoothly with professional service
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:757-555-1234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 757-555-1234
+                Call 1-844-844-6638
               </Button>
             </a>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">

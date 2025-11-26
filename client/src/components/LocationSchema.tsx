@@ -24,7 +24,7 @@ export default function LocationSchema({
       "url": `https://chesapeakegolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
       "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
       "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
-      "telephone": "757-555-1234",
+      "telephone": "1-844-844-6638",
       "email": "sales@chesapeakegolfcarts.com",
       "address": {
         "@type": "PostalAddress",

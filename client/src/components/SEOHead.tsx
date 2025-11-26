@@ -147,7 +147,7 @@ export default function SEOHead({
           "addressRegion": "VA",
           "addressCountry": "US"
         },
-        "telephone": "757-555-1234",
+        "telephone": "1-844-844-6638",
         "email": "sales@chesapeakegolfcarts.com",
         "url": canonicalUrl,
         "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",

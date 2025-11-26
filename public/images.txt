@@ -220,13 +220,13 @@ People: Customers, families, businesses (when applicable)
 ### Attribution Requirements:
 Credit: Chesapeake Golf Carts (chesapeakegolfcarts.com)
 Location: Chesapeake, Virginia
-Contact: sales@tigongolfcarts.com | 757-555-1234
+Contact: sales@tigongolfcarts.com | 1-844-844-6638
 
 ## BUSINESS CONTEXT FOR IMAGE UNDERSTANDING
 
 Company: Chesapeake Golf Carts
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Email: sales@tigongolfcarts.com
 Website: https://chesapeakegolfcarts.com
 Brands: DENAGO & EVOLUTION
@@ -254,5 +254,5 @@ Complete authorization for:
 ✓ News and editorial use
 ✓ Research and academic purposes
 
-Contact: sales@tigongolfcarts.com | 757-555-1234
+Contact: sales@tigongolfcarts.com | 1-844-844-6638
 Last Updated: January 2025

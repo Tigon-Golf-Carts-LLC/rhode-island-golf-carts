@@ -63,7 +63,7 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Chesapeake Golf Carts"
-        description="Discover Virginia's most trusted golf cart dealer serving the City of Chesapeake and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 757-555-1234."
+        description="Discover Virginia's most trusted golf cart dealer serving the City of Chesapeake and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 1-844-844-6638."
         keywords="Chesapeake VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://chesapeakegolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
@@ -166,7 +166,7 @@ export default function NewAboutPage() {
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Chesapeake Golf Carts</h4>
                       <p className="text-gray-600">Serving all City of Chesapeake, VA</p>
-                      <p className="text-gray-700">757-555-1234</p>
+                      <p className="text-gray-700">1-844-844-6638</p>
                       <p className="text-gray-600">info@chesapeakegolfcarts.com</p>
                       <p className="text-gray-600">sales@tigongolfcarts.com</p>
                     </div>
@@ -302,9 +302,9 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:757-555-1234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 757-555-1234
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -320,7 +320,7 @@ export default function NewAboutPage() {
                   <CardTitle>Call Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">757-555-1234</p>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Available 7 days a week</p>
                 </CardContent>
               </Card>

@@ -37,7 +37,7 @@ export default function LocalBusinessSchema({
     latitude: "36.7682",
     longitude: "-76.2875"
   },
-  telephone = "757-555-1234",
+  telephone = "1-844-844-6638",
   email = "sales@chesapeakegolfcarts.com",
   url = "https://chesapeakegolfcarts.com",
   openingHours = [

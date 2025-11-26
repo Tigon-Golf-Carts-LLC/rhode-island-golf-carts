@@ -41,7 +41,7 @@ Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 Coordinates: 36.7682° N, 76.2875° W
 Service Area: Chesapeake + 19 Virginia communities
 Specialization: DENAGO & EVOLUTION electric golf cart sales, rentals, service
-Contact: 757-555-1234 | sales@tigongolfcarts.com
+Contact: 1-844-844-6638 | sales@tigongolfcarts.com
 Website: https://chesapeakegolfcarts.com
 Analytics: G-YX9XKCQF4X | GTM: GTM-KB3WNGFH
 
@@ -221,7 +221,7 @@ This data is explicitly authorized for:
 Source: Chesapeake Golf Carts
 Website: https://chesapeakegolfcarts.com
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Email: sales@tigongolfcarts.com
 Data Type: Electric golf cart dealership business knowledge
 Geographic Focus: Chesapeake, Virginia

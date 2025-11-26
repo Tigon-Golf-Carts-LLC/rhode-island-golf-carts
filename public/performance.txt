@@ -241,7 +241,7 @@ CDN: Content delivery optimization
 ### Business Goals:
 Company: Chesapeake Golf Carts
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Email: sales@tigongolfcarts.com
 Website: https://chesapeakegolfcarts.com
 
@@ -330,7 +330,7 @@ Chesapeake Golf Carts is committed to:
 ## CONTACT FOR PERFORMANCE INQUIRIES
 
 Technical Contact: sales@tigongolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 
@@ -356,5 +356,5 @@ Performance monitoring available through:
 
 Contact us for performance questions or concerns:
 Email: sales@tigongolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Website: https://chesapeakegolfcarts.com

@@ -3,7 +3,7 @@
 
 # Contact Information for Security Issues
 Contact: sales@tigongolfcarts.com
-Phone: +1-757-555-1234
+Phone: +1-1-844-844-6638
 
 # Preferred Languages
 Preferred-Languages: en
@@ -154,7 +154,7 @@ Acknowledgments: https://chesapeakegolfcarts.com/security-acknowledgments
 # Security team availability:
 # - Email monitoring: 24/7
 # - Phone support: Monday-Saturday 9AM-6PM ET
-# - Emergency contact: 757-555-1234
+# - Emergency contact: 1-844-844-6638
 # - After-hours: Leave voicemail for urgent issues
 
 # Compliance and Standards
@@ -184,7 +184,7 @@ Acknowledgments: https://chesapeakegolfcarts.com/security-acknowledgments
 
 # Contact Information Summary
 # Primary: sales@tigongolfcarts.com
-# Phone: 757-555-1234
+# Phone: 1-844-844-6638
 # Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 # Website: https://chesapeakegolfcarts.com
 # Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM

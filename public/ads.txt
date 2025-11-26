@@ -31,7 +31,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # Primary Services: Sales, Rentals, Service, Parts
 # Service Area: Chesapeake, Virginia + 19 communities
 # Brands: DENAGO, EVOLUTION Electric Golf Carts
-# Phone: 757-555-1234
+# Phone: 1-844-844-6638
 # Email: sales@tigongolfcarts.com
 
 # Authorized Advertising Categories
@@ -78,7 +78,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 
 # Contact for Advertising Verification
 # Primary: sales@tigongolfcarts.com
-# Phone: 757-555-1234
+# Phone: 1-844-844-6638
 # Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM ET
 # Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 # Website: https://chesapeakegolfcarts.com

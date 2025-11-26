@@ -12,7 +12,7 @@ export default function ShowroomPage() {
     {
       name: "CHESAPEAKE GOLF CARTS",
       address: "1234 Battlefield Blvd, Chesapeake, VA 23322",
-      phone: "757-555-1234",
+      phone: "1-844-844-6638",
       coordinates: "36.7682, -76.2875",
       googleMapsUrl: "https://www.google.com/maps/place/Chesapeake,+VA",
       facebookUrl: "https://www.facebook.com/ChesapeakeGolfCarts/",
@@ -28,7 +28,7 @@ export default function ShowroomPage() {
     <>
       <SEOHead 
         title="Chesapeake Golf Carts LSV Showroom"
-        description="Visit our Chesapeake Golf Carts showroom with the complete DENAGO and EVOLUTION lineup serving the City of Chesapeake, VA. Call 757-555-1234."
+        description="Visit our Chesapeake Golf Carts showroom with the complete DENAGO and EVOLUTION lineup serving the City of Chesapeake, VA. Call 1-844-844-6638."
         keywords="Chesapeake golf carts, golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION Chesapeake, Chesapeake VA golf carts"
         canonicalUrl="https://chesapeakegolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
@@ -271,7 +271,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:757-555-1234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today

@@ -142,10 +142,10 @@ export default function VehicleDetailPage({
                   </div>
                 </div>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="tel:757-555-1234">
+                  <a href="tel:1-844-844-6638">
                     <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                       <Phone className="w-5 h-5 mr-2" />
-                      Call 757-555-1234
+                      Call 1-844-844-6638
                     </Button>
                   </a>
                   <Link href="/contact">
@@ -305,10 +305,10 @@ export default function VehicleDetailPage({
               Contact Chesapeake Golf Carts today for pricing, availability, and to schedule your test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:757-555-1234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 757-555-1234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <Link href="/contact">

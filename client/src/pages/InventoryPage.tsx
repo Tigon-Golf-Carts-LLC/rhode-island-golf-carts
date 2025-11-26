@@ -178,8 +178,8 @@ export default function InventoryPage() {
                 Contact Our Team
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:757-555-1234")}>
-              Call 757-555-1234
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:1-844-844-6638")}>
+              Call 1-844-844-6638
             </Button>
           </div>
         </div>

@@ -9,7 +9,7 @@ I want iterative development. Ask before making major changes.
 ## Business Information
 - **Business Name**: Chesapeake Golf Carts
 - **Domain**: chesapeakegolfcarts.com
-- **Phone**: 757-555-1234
+- **Phone**: 1-844-844-6638
 - **Address**: 1234 Battlefield Blvd, Chesapeake, VA 23322
 - **Coordinates**: 36.7682° N, -76.2875° W
 - **Service Area**: City of Chesapeake and surrounding Hampton Roads communities (Virginia Beach, Norfolk, Portsmouth, Suffolk)
@@ -47,7 +47,7 @@ I want iterative development. Ask before making major changes.
 ### ✅ Complete Chesapeake Conversion (November 2025)
 - **New Brand Identity**: Chesapeake Golf Carts branding across all pages and components
 - **Domain Migration**: Complete transition to chesapeakegolfcarts.com
-- **Contact Information Update**: New phone (757-555-1234), address (1234 Battlefield Blvd, Chesapeake, VA 23322)
+- **Contact Information Update**: New phone (1-844-844-6638), address (1234 Battlefield Blvd, Chesapeake, VA 23322)
 - **Geographic Update**: Coordinates updated to 36.7682° N, -76.2875° W (Chesapeake, VA)
 - **Vehicle Titles**: All vehicle product titles now include "Chesapeake Golf Cart" suffix
 

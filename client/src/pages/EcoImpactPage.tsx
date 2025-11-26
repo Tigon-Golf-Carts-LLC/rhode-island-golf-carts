@@ -67,7 +67,7 @@ export default function EcoImpactPage() {
     <>
       <SEOHead 
         title="Calculate Your Environmental Impact"
-        description="Discover how much CO₂, fuel, and money you save by choosing electric golf carts with our free environmental impact calculator. Call 757-555-1234."
+        description="Discover how much CO₂, fuel, and money you save by choosing electric golf carts with our free environmental impact calculator. Call 1-844-844-6638."
         keywords="eco impact calculator, electric golf cart environmental benefits, carbon footprint reduction, CO2 savings, sustainable transportation Chesapeake, green golf carts Virginia"
         canonicalUrl="https://chesapeakegolfcarts.com/eco-impact"
         ogType="website"

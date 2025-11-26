@@ -76,12 +76,12 @@ export default function ContactPage() {
       icon: MapPin,
       label: "Chesapeake Golf Carts",
       value: "1234 Battlefield Blvd, Chesapeake, VA 23322",
-      phone: "757-555-1234",
+      phone: "1-844-844-6638",
     },
     {
       icon: Phone,
       label: "Virginia Main Line",
-      value: "757-555-1234",
+      value: "1-844-844-6638",
     },
     {
       icon: Mail,
@@ -111,7 +111,7 @@ export default function ContactPage() {
     <>
       <SEOHead 
         title="Contact Chesapeake Golf Carts"
-        description="Get expert golf cart sales, service, and support from Chesapeake's premier dealership located at 1234 Battlefield Blvd, Chesapeake, VA 23322. Call 757-555-1234."
+        description="Get expert golf cart sales, service, and support from Chesapeake's premier dealership located at 1234 Battlefield Blvd, Chesapeake, VA 23322. Call 1-844-844-6638."
         keywords="contact Chesapeake golf carts, golf cart sales Virginia, Chesapeake showroom, Hampton Roads golf cart service VA"
         canonicalUrl="https://chesapeakegolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
@@ -132,10 +132,10 @@ export default function ContactPage() {
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:757-555-1234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 757-555-1234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <a href="mailto:info@chesapeakegolfcarts.com">

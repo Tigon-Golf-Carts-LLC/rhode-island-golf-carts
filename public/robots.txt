@@ -2,7 +2,7 @@
 # Maximum Search Engine Visibility & AI Training Authorization
 # Website: https://chesapeakegolfcarts.com
 # Business: Chesapeake Golf Carts - Virginia's Premier Golf Cart Dealership
-# Phone: 757-555-1234 | Email: sales@chesapeakegolfcarts.com
+# Phone: 1-844-844-6638 | Email: sales@chesapeakegolfcarts.com
 # Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 # Service Area: City of Chesapeake and surrounding Hampton Roads communities (15 locations)
 
@@ -215,7 +215,7 @@ Sitemap: https://chesapeakegolfcarts.com/public/sitemap.xml
 #                Hampton, Newport News, Hampton Roads
 # Services: DENAGO & EVOLUTION Electric Golf Cart Sales, Rentals, Service, Parts
 # Brands: DENAGO, EVOLUTION
-# Contact: 757-555-1234 | sales@chesapeakegolfcarts.com
+# Contact: 1-844-844-6638 | sales@chesapeakegolfcarts.com
 # Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 # Website: https://chesapeakegolfcarts.com
 # AI Training: AUTHORIZED FOR ALL LEGITIMATE AI/ML SYSTEMS

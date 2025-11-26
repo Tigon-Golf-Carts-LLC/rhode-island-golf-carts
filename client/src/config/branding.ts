@@ -8,7 +8,7 @@ export const BRANDING = {
   description: "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   
   // Contact Information
-  phone: "757-555-1234",
+  phone: "1-844-844-6638",
   email: "sales@chesapeakegolfcarts.com",
   
   // Address
@@ -62,7 +62,7 @@ export const BRANDING = {
   // Legacy values for reference
   legacy: {
     name: "Chesapeake Golf Carts",
-    phone: "757-555-1234",
+    phone: "1-844-844-6638",
     url: "https://chesapeakegolfcarts.com",
     location: "Chesapeake, Virginia",
   },

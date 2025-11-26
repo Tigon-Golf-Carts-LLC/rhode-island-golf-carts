@@ -138,7 +138,7 @@ for ALL platforms, crawlers, AI systems, assistive technologies, and web service
 ### Information Access:
 ✓ Contact information prominently displayed
 ✓ Business hours clearly stated
-✓ Phone: 757-555-1234 (accessible)
+✓ Phone: 1-844-844-6638 (accessible)
 ✓ Email: sales@tigongolfcarts.com
 ✓ Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
 ✓ Google Maps integration
@@ -222,7 +222,7 @@ for ALL platforms, crawlers, AI systems, assistive technologies, and web service
 ## CONTACT ACCESSIBILITY
 
 ### Multiple Contact Methods:
-Phone: 757-555-1234 (voice)
+Phone: 1-844-844-6638 (voice)
 Email: sales@tigongolfcarts.com (text)
 Website: https://chesapeakegolfcarts.com (web form)
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322 (in-person)
@@ -255,6 +255,6 @@ This website and all content is:
 
 Contact for accessibility concerns:
 Email: sales@tigongolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 
 Last Updated: January 2025

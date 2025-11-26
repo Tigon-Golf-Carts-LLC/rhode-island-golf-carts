@@ -95,7 +95,7 @@ crawling permissions for enhanced search engine visibility.
 Name: Chesapeake Golf Carts
 Website: https://chesapeakegolfcarts.com
 Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Email: sales@tigongolfcarts.com
 Coordinates: 36.7682° N, 76.2875° W
 
@@ -193,7 +193,7 @@ While we permit maximum access, please:
 ## CONTACT FOR BOT OPERATORS
 
 Technical Contact: sales@tigongolfcarts.com
-Phone: 757-555-1234
+Phone: 1-844-844-6638
 Website: https://chesapeakegolfcarts.com
 
 Bot Issues or Questions:

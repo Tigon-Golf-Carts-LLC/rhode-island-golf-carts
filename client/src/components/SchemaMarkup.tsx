@@ -24,7 +24,7 @@ export const generateOrganizationSchema = () => ({
     "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts%20Logo.png",
     "https://chesapeakegolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "757-555-1234",
+  "telephone": "1-844-844-6638",
   "email": "sales@chesapeakegolfcarts.com",
   "address": {
     "@type": "PostalAddress",
@@ -92,7 +92,7 @@ export const generateLocalBusinessSchema = () => ({
   "name": "Chesapeake Golf Carts",
   "description": "Premier golf cart dealer serving Chesapeake Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
   "url": "https://chesapeakegolfcarts.com",
-  "telephone": "757-555-1234",
+  "telephone": "1-844-844-6638",
   "email": "sales@chesapeakegolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -195,7 +195,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "seller": {
       "@type": "Organization",
       "name": "Chesapeake Golf Carts",
-      "telephone": "757-555-1234",
+      "telephone": "1-844-844-6638",
       "email": "sales@chesapeakegolfcarts.com"
     },
     "url": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}`
@@ -320,7 +320,7 @@ export const generateContactPageSchema = () => ({
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "757-555-1234",
+        "telephone": "1-844-844-6638",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"
