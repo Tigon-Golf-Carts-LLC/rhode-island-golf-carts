@@ -1,15 +1,17 @@
 // Background image utility for Chesapeake Golf Carts
-// Uses the 8 professional images featuring Chesapeake Golf Carts in Virginia
+// Uses the 10 professional showroom images featuring Chesapeake Golf Carts in Virginia
 
 const BACKGROUND_IMAGES = [
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts_1761674623462.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 2_1761674623462.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 3_1761674623463.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 4_1761674623463.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 5_1761674623463.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 6_1761674623463.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 7_1761674623464.jpeg',
-  '/attached_assets/Gloucester Golf Carts - Virginia Golf Carts 8_1761674623464.jpeg'
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%201_1764175757942.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%202_1764175757942.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%203_1764175757943.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%204_1764175757943.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%205_1764175757943.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%206_1764175757943.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%207_1764175757944.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%208_1764175757944.jpeg',
+  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%209_1764175757944.jpeg'
 ];
 
 function simpleHash(str: string): number {
@@ -30,7 +32,7 @@ export function getRandomBackgroundImage(seed: string): string {
 export function getHeroBackgroundStyle(seed: string): React.CSSProperties {
   const image = getRandomBackgroundImage(seed);
   return {
-    backgroundImage: `linear-gradient(rgba(14, 46, 85, 0.8), rgba(14, 46, 85, 0.6)), url('${image}')`,
+    backgroundImage: `linear-gradient(rgba(14, 46, 85, 0.75), rgba(14, 46, 85, 0.6)), url('${image}')`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat'

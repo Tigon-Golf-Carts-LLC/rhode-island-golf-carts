@@ -39,8 +39,8 @@ localPort = 5000
 externalPort = 80
 
 [[ports]]
-localPort = 44727
-externalPort = 3001
+localPort = 44713
+externalPort = 3000
 
 [agent]
 integrations = ["javascript_google_analytics==1.0.0"]
