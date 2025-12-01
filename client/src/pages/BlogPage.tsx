@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import { Calendar, ArrowRight, BookOpen, ImageIcon } from "lucide-react";
+import { Calendar, ArrowRight, BookOpen } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import SEOHead from "@/components/SEOHead";
@@ -73,18 +73,13 @@ export default function BlogPage() {
                 className="overflow-hidden hover:shadow-lg transition-shadow duration-300 flex flex-col"
                 data-testid={`blog-card-${post.id}`}
               >
-                <div 
-                  className="h-48 bg-gradient-to-br from-[#0e2e55] to-blue-700 relative overflow-hidden"
-                  role="img"
-                  aria-label={post.heroImageAlt}
-                  title={post.heroImageAlt}
-                >
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="text-center px-4">
-                      <ImageIcon className="w-10 h-10 text-white/40 mx-auto mb-2" />
-                      <p className="text-white/60 text-xs line-clamp-2">{post.heroImageAlt}</p>
-                    </div>
-                  </div>
+                <div className="h-48 relative overflow-hidden">
+                  <img
+                    src={post.heroImage}
+                    alt={post.heroImageAlt}
+                    className="w-full h-full object-cover"
+                    data-testid={`blog-image-${post.id}`}
+                  />
                   <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4">
                     <Badge className="bg-[#ff6100] text-white text-xs">
                       Golf Cart Guide

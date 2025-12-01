@@ -1,5 +1,5 @@
 import { useParams, Link } from "wouter";
-import { Calendar, ArrowLeft, MapPin, Phone, Mail, BookOpen, ChevronRight, ImageIcon } from "lucide-react";
+import { Calendar, ArrowLeft, MapPin, Phone, Mail, BookOpen, ChevronRight } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import SEOHead from "@/components/SEOHead";
@@ -97,21 +97,13 @@ export default function BlogPostPage() {
 
       <section className="py-8 px-4 bg-white border-b">
         <div className="max-w-4xl mx-auto">
-          <div 
-            className="bg-gradient-to-br from-[#0e2e55] to-blue-700 rounded-xl p-8 text-center"
-            role="img"
-            aria-label={post.heroImageAlt}
-          >
-            <ImageIcon className="w-16 h-16 text-white/40 mx-auto mb-4" />
-            <p className="text-white/80 text-sm font-medium mb-2">Hero Image</p>
-            <p className="text-white text-base max-w-2xl mx-auto" data-testid="hero-image-alt">
-              {post.heroImageAlt}
-            </p>
-            <div className="mt-4 pt-4 border-t border-white/20">
-              <p className="text-white/60 text-xs">
-                <strong>AI Image Prompt:</strong> {post.heroImagePrompt}
-              </p>
-            </div>
+          <div className="rounded-xl overflow-hidden shadow-lg">
+            <img
+              src={post.heroImage}
+              alt={post.heroImageAlt}
+              className="w-full h-auto object-cover"
+              data-testid="blog-hero-image"
+            />
           </div>
         </div>
       </section>
