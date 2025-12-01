@@ -12,8 +12,8 @@ export default function EvolutionD5Maverick4Plus() {
       <SEOHead 
         title="Maverick 4 Plus"
         description="Experience the premium EVOLUTION® D5 Maverick 4 Plus four-passenger golf cart with advanced features, superior comfort, and extended range capability. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4 Plus, premium golf cart, 4-passenger, advanced features, extended range, EVOLUTION dealer Pike County"
-        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
+        keywords="EVOLUTION D5 Maverick 4 Plus, premium golf cart, 4-passenger, advanced features, extended range, EVOLUTION dealer Chesapeake"
+        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
         ogImage="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -76,12 +76,12 @@ export default function EvolutionD5Maverick4Plus() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </a>
-                  <a href="https://tigongolfcarts.com/evolution/d5-maverick/4-plus/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/evolution/d5-maverick/4-plus/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       View More Details
                     </Button>
@@ -235,7 +235,7 @@ export default function EvolutionD5Maverick4Plus() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

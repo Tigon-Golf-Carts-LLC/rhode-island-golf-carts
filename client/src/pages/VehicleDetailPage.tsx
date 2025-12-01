@@ -89,26 +89,26 @@ export default function VehicleDetailPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://pikecountygolfcarts.com" },
-    { name: "Inventory", url: "https://pikecountygolfcarts.com/inventory" },
-    { name: vehicle.name, url: `https://pikecountygolfcarts.com/vehicle/${vehicle.id}` }
+    { name: "Home", url: "https://chesapeakegolfcarts.com" },
+    { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory" },
+    { name: vehicle.name, url: `https://chesapeakegolfcarts.com/vehicle/${vehicle.id}` }
   ];
 
   return (
     <>
       {/* Dynamic SEO Head */}
       <Helmet>
-        <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Pike County Golf Carts</title>
-        <meta name="description" content={`${vehicle.name} for sale at Pike County Golf Carts. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now.`} />
-        <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Pike County golf carts, TIGON dealer Pennsylvania, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
-        <link rel="canonical" href={`https://pikecountygolfcarts.com/vehicle/${vehicle.id}`} />
+        <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Chesapeake Golf Carts</title>
+        <meta name="description" content={`${vehicle.name} for sale at Chesapeake Golf Carts. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now.`} />
+        <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Chesapeake golf carts, TIGON dealer Pennsylvania, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
+        <link rel="canonical" href={`https://chesapeakegolfcarts.com/vehicle/${vehicle.id}`} />
         
         {/* Open Graph */}
-        <meta property="og:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()} | Pike County Golf Carts`} />
-        <meta property="og:description" content={`${vehicle.description} Available now at Pike County Golf Carts. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart with ${vehicle.specifications.range} range.`} />
-        <meta property="og:url" content={`https://pikecountygolfcarts.com/vehicle/${vehicle.id}`} />
+        <meta property="og:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()} | Chesapeake Golf Carts`} />
+        <meta property="og:description" content={`${vehicle.description} Available now at Chesapeake Golf Carts. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart with ${vehicle.specifications.range} range.`} />
+        <meta property="og:url" content={`https://chesapeakegolfcarts.com/vehicle/${vehicle.id}`} />
         <meta property="og:type" content="product" />
-        <meta property="og:image" content={`https://pikecountygolfcarts.com${vehicle.images[0]}`} />
+        <meta property="og:image" content={`https://chesapeakegolfcarts.com${vehicle.images[0]}`} />
         <meta property="product:price:amount" content={vehicle.price.toString()} />
         <meta property="product:price:currency" content="USD" />
         <meta property="product:availability" content={vehicle.inStock ? "in stock" : "out of stock"} />
@@ -118,7 +118,7 @@ export default function VehicleDetailPage() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()}`} />
         <meta name="twitter:description" content={vehicle.description} />
-        <meta name="twitter:image" content={`https://pikecountygolfcarts.com${vehicle.images[0]}`} />
+        <meta name="twitter:image" content={`https://chesapeakegolfcarts.com${vehicle.images[0]}`} />
       </Helmet>
 
       {/* Schema Markup */}
@@ -179,13 +179,13 @@ export default function VehicleDetailPage() {
 
           {/* Action Buttons */}
           <div className="space-y-4">
-            <a href="tel:570-535-1535">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Schedule Test Drive
               </Button>
             </a>
-            <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+            <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="w-full border-theme-orange text-theme-orange hover:bg-theme-orange hover:text-white">
                 <MessageCircle className="w-4 h-4 mr-2" />
                 Get Financing Quote
@@ -250,7 +250,7 @@ export default function VehicleDetailPage() {
             Contact our sales team to schedule a test drive, discuss financing options, or get more information about this {vehicle.name}.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="tel:570-535-1535">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Contact Sales Team

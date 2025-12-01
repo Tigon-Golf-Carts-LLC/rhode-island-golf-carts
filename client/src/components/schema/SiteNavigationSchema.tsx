@@ -12,13 +12,13 @@ interface SiteNavigationSchemaProps {
 
 export default function SiteNavigationSchema({ 
   navigationItems = [
-    { name: "Home", url: "https://pikecountygolfcarts.com/", description: "Pike County Golf Carts homepage" },
-    { name: "Inventory", url: "https://pikecountygolfcarts.com/inventory", description: "Browse our golf cart inventory" },
-    { name: "Rentals", url: "https://pikecountygolfcarts.com/rentals", description: "Golf cart rental services" },
-    { name: "Services", url: "https://pikecountygolfcarts.com/services", description: "Golf cart maintenance and repair services" },
-    { name: "Showroom", url: "https://pikecountygolfcarts.com/showroom", description: "Visit our showroom locations" },
-    { name: "About", url: "https://pikecountygolfcarts.com/about", description: "About Pike County Golf Carts" },
-    { name: "Contact", url: "https://pikecountygolfcarts.com/contact", description: "Contact information and locations" }
+    { name: "Home", url: "https://chesapeakegolfcarts.com/", description: "Chesapeake Golf Carts homepage" },
+    { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory", description: "Browse our golf cart inventory" },
+    { name: "Rentals", url: "https://chesapeakegolfcarts.com/rentals", description: "Golf cart rental services" },
+    { name: "Services", url: "https://chesapeakegolfcarts.com/services", description: "Golf cart maintenance and repair services" },
+    { name: "Showroom", url: "https://chesapeakegolfcarts.com/showroom", description: "Visit our Chesapeake showroom" },
+    { name: "About", url: "https://chesapeakegolfcarts.com/about", description: "About Chesapeake Golf Carts" },
+    { name: "Contact", url: "https://chesapeakegolfcarts.com/contact", description: "Contact information and location" }
   ]
 }: SiteNavigationSchemaProps) {
   useEffect(() => {
@@ -28,8 +28,8 @@ export default function SiteNavigationSchema({
       "name": "Main Navigation",
       "about": {
         "@type": "WebSite",
-        "name": "Atlantic County Golf Carts",
-        "url": "https://pikecountygolfcarts.com"
+        "name": "Chesapeake Golf Carts",
+        "url": "https://chesapeakegolfcarts.com"
       },
       "hasPart": navigationItems.map((item, index) => ({
         "@type": "WebPageElement",

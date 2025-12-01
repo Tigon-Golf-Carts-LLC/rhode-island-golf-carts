@@ -13,8 +13,8 @@ export default function DenagoEvNomad() {
       <SEOHead 
         title="EV NOMAD"
         description="Discover the adventure-ready DENAGO® EV NOMAD designed for outdoor adventures and off-road capability, perfect for camping, hunting, and exploration. Call 1-844-844-6638."
-        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Pike County"
-        canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-nomad"
+        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Chesapeake"
+        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -81,12 +81,12 @@ export default function DenagoEvNomad() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </a>
-                  <a href="https://tigongolfcarts.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       View More Details
                     </Button>
@@ -260,9 +260,9 @@ export default function DenagoEvNomad() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -279,7 +279,7 @@ export default function DenagoEvNomad() {
                   <CardTitle>Adventure Sales</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our adventure vehicle specialists</p>
                 </CardContent>
               </Card>

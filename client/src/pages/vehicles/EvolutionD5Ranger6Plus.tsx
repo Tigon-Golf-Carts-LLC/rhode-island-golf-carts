@@ -10,9 +10,9 @@ export default function EvolutionD5Ranger6Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 RANGER 6 PLUS - Premium Electric Golf Cart | Pike County Golf Carts"
-        description="Discover the EVOLUTION® D5 RANGER 6 PLUS - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Pike County Golf Carts."
-        keywords="EVOLUTION D5 RANGER 6 PLUS, electric golf cart, premium electric vehicle, EVOLUTION dealer Pike County"
+        title="EVOLUTION® D5 RANGER 6 PLUS - Premium Electric Golf Cart | Chesapeake Golf Carts"
+        description="Discover the EVOLUTION® D5 RANGER 6 PLUS - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Chesapeake Golf Carts."
+        keywords="EVOLUTION D5 RANGER 6 PLUS, electric golf cart, premium electric vehicle, EVOLUTION dealer Chesapeake"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -291,9 +291,9 @@ export default function EvolutionD5Ranger6Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -310,7 +310,7 @@ export default function EvolutionD5Ranger6Plus() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>

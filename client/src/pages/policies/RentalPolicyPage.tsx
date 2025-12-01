@@ -6,9 +6,9 @@ export default function RentalPolicyPage() {
     <>
       <SEOHead 
         title="Rental Policy"
-        description="Complete golf cart rental terms, requirements, and responsibilities for Pike County, Pennsylvania including age requirements, deposits, and operating guidelines. Call 1-844-844-6638."
-        keywords="rental policy, golf cart rental, Pike County rentals, Pennsylvania golf cart rental policy"
-        canonicalUrl="https://pikecountygolfcarts.com/policies/rental-policy"
+        description="Complete golf cart rental terms, requirements, and responsibilities for Hampton Roads, Virginia including age requirements, deposits, and operating guidelines. Call 1-844-844-6638."
+        keywords="rental policy, golf cart rental, Chesapeake rentals, Pennsylvania golf cart rental policy"
+        canonicalUrl="https://chesapeakegolfcarts.com/policies/rental-policy"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -20,7 +20,7 @@ export default function RentalPolicyPage() {
             Rental Policy
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Complete golf cart rental terms, requirements, and responsibilities for Pike County, Pennsylvania.
+            Complete golf cart rental terms, requirements, and responsibilities for Hampton Roads, Virginia.
           </p>
         </div>
       </section>
@@ -149,14 +149,14 @@ export default function RentalPolicyPage() {
                 <li>Cancellations within 24 hours: 50% refund</li>
                 <li>No-shows: No refund</li>
                 <li>Weather cancellations: Full refund or rescheduling available</li>
-                <li>Pike County Golf Carts may cancel due to vehicle unavailability with full refund</li>
+                <li>Chesapeake Golf Carts may cancel due to vehicle unavailability with full refund</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Emergency Procedures</h2>
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Accidents</h3>
               <ul className="list-disc pl-6 mb-6">
                 <li>Contact 911 if anyone is injured</li>
-                <li>Call Pike County Golf Carts immediately: 1-844-844-6638</li>
+                <li>Call Chesapeake Golf Carts immediately: 1-844-844-6638</li>
                 <li>Do not admit fault or make statements about the incident</li>
                 <li>Take photos of damage and scene if safe to do so</li>
                 <li>Obtain contact information from other parties involved</li>
@@ -175,11 +175,11 @@ export default function RentalPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Rental Department</strong></p>
-                <p className="mb-2">Pike County Golf Carts</p>
-                <p className="mb-2">Email: info@pikecountygolfcarts.com</p>
+                <p className="mb-2">Chesapeake Golf Carts</p>
+                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638 (24/7 Support)</p>
-                <p className="mb-2">Serving Pike County, Pennsylvania</p>
-                <p>Website: pikecountygolfcarts.com</p>
+                <p className="mb-2">Serving Hampton Roads, Virginia</p>
+                <p>Website: chesapeakegolfcarts.com</p>
               </div>
             </div>
           </div>

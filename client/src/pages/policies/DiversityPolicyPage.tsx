@@ -5,9 +5,9 @@ export default function DiversityPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Diversity Policy | Pike County Golf Carts"
-        description="Learn about Pike County Golf Carts' commitment to diversity, equity, and inclusion in our Pennsylvania workplace and customer service practices."
-        keywords="diversity policy, equity inclusion, Pike County golf carts, workplace diversity Pennsylvania"
+        title="Diversity Policy | Chesapeake Golf Carts"
+        description="Learn about Chesapeake Golf Carts' commitment to diversity, equity, and inclusion in our Pennsylvania workplace and customer service practices."
+        keywords="diversity policy, equity inclusion, Chesapeake golf carts, workplace diversity Pennsylvania"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function DiversityPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Our Commitment to Diversity</h2>
               <p className="mb-6">
-                Pike County Golf Carts is committed to fostering a diverse, equitable, and inclusive 
+                Chesapeake Golf Carts is committed to fostering a diverse, equitable, and inclusive 
                 environment for all employees, customers, and business partners. We believe that 
                 diversity strengthens our organization and enhances our ability to serve the 
                 Pennsylvania community effectively.
@@ -59,7 +59,7 @@ export default function DiversityPolicyPage() {
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Protected Characteristics</h2>
-              <p className="mb-4">Pike County Golf Carts prohibits discrimination based on:</p>
+              <p className="mb-4">Chesapeake Golf Carts prohibits discrimination based on:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Race, color, and ethnicity</li>
                 <li>National origin and ancestry</li>
@@ -211,7 +211,7 @@ export default function DiversityPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Leadership Commitment</h2>
               <p className="mb-6">
                 Our leadership team is personally committed to advancing diversity, equity, and 
-                inclusion throughout Pike County Golf Carts. This commitment is demonstrated 
+                inclusion throughout Chesapeake Golf Carts. This commitment is demonstrated 
                 through resource allocation, policy development, and personal accountability 
                 for creating an inclusive workplace culture.
               </p>
@@ -219,11 +219,11 @@ export default function DiversityPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Human Resources Department</strong></p>
-                <p className="mb-2">Pike County Golf Carts</p>
-                <p className="mb-2">Email: info@pikecountygolfcarts.com</p>
+                <p className="mb-2">Chesapeake Golf Carts</p>
+                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Pike County, Pennsylvania</p>
-                <p className="mb-2">Website: pikecountygolfcarts.com</p>
+                <p className="mb-2">Serving Hampton Roads, Virginia</p>
+                <p className="mb-2">Website: chesapeakegolfcarts.com</p>
                 <p>Confidential reporting and support available</p>
               </div>
             </div>

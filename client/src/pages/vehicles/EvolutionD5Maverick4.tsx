@@ -12,8 +12,8 @@ export default function EvolutionD5Maverick4() {
       <SEOHead 
         title="Maverick 4"
         description="Discover the EVOLUTION® D5 Maverick 4 with reliable performance and essential features, perfect for standard 4-passenger transportation needs. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4, 4-passenger golf cart, standard features, reliable performance, EVOLUTION dealer Pike County"
-        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-d5-maverick-4"
+        keywords="EVOLUTION D5 Maverick 4, 4-passenger golf cart, standard features, reliable performance, EVOLUTION dealer Chesapeake"
+        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-4"
         ogImage="/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -76,7 +76,7 @@ export default function EvolutionD5Maverick4() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -230,7 +230,7 @@ export default function EvolutionD5Maverick4() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

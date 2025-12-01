@@ -10,9 +10,9 @@ export default function EvolutionD5Ranger4PlusPage() {
       price="$9,595"
       image={evolutionD5Ranger4PlusImage}
       seoTitle="EVOLUTION D5 RANGER 4 PLUS"
-      seoDescription="Discover the EVOLUTION D5 RANGER 4 PLUS electric golf cart - a premium 4-passenger vehicle with enhanced comfort and performance features in Pike County, PA. Call 1-844-844-6638."
-      seoKeywords="EVOLUTION D5 RANGER 4 PLUS, 4-seat golf cart, premium electric vehicle, Pike County, Pennsylvania"
-      canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-d5-ranger-4-plus"
+      seoDescription="Discover the EVOLUTION D5 RANGER 4 PLUS electric golf cart - a premium 4-passenger vehicle with enhanced comfort and performance features in Chesapeake, VA. Call 1-844-844-6638."
+      seoKeywords="EVOLUTION D5 RANGER 4 PLUS, 4-seat golf cart, premium electric vehicle, Hampton Roads, Virginia"
+      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-ranger-4-plus"
       seats="4"
       range="45 miles"
       topSpeed="25 mph"
@@ -27,8 +27,8 @@ export default function EvolutionD5Ranger4PlusPage() {
         "Weather Protection",
         "Quality Materials"
       ]}
-      description="Premium 4-passenger golf cart with enhanced comfort and performance features. The EVOLUTION D5 RANGER 4 PLUS delivers reliable performance with premium appointments for Pike County families."
-      tigoUrl="https://tigongolfcarts.com/evolution/d5-ranger/4-plus/"
+      description="Premium 4-passenger golf cart with enhanced comfort and performance features. The EVOLUTION D5 RANGER 4 PLUS delivers reliable performance with premium appointments for Chesapeake families."
+      tigoUrl="https://chesapeakegolfcarts.com/evolution/d5-ranger/4-plus/"
     />
   );
 }

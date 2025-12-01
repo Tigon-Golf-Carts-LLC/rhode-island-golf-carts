@@ -21,8 +21,8 @@ export default function VideoObjectSchema({
   contentUrl, 
   embedUrl, 
   publisher = {
-    name: "Pike County Golf Carts",
-    logo: "/logo.png"
+    name: "Chesapeake Golf Carts",
+    logo: "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
   }
 }: VideoObjectSchemaProps) {
   const videoSchema = {

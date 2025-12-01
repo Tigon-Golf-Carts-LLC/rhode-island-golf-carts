@@ -12,8 +12,8 @@ export default function EvolutionD6MaxXT6() {
       <SEOHead 
         title="Max XT6"
         description="Experience the EVOLUTION® D6 Max XT6 with maximum off-road capability, six-passenger extreme terrain golf cart with adventure features. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max XT6, extreme terrain golf cart, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer Pike County"
-        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-d6-max-xt6"
+        keywords="EVOLUTION D6 Max XT6, extreme terrain golf cart, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer Chesapeake"
+        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d6-max-xt6"
         ogImage="/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -76,7 +76,7 @@ export default function EvolutionD6MaxXT6() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -230,7 +230,7 @@ export default function EvolutionD6MaxXT6() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

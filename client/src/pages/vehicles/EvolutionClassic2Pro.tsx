@@ -10,9 +10,9 @@ export default function EvolutionClassic2Pro() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® Classic 2 Pro - Professional Golf Cart | Pike County Golf Carts"
+        title="EVOLUTION® Classic 2 Pro - Professional Golf Cart | Chesapeake Golf Carts"
         description="Experience the EVOLUTION® Classic 2 Pro with enhanced features and performance. Professional grade 2-passenger golf cart with premium reliability."
-        keywords="EVOLUTION Classic 2 Pro, professional golf cart, 2-passenger, enhanced performance, EVOLUTION dealer Pike County"
+        keywords="EVOLUTION Classic 2 Pro, professional golf cart, 2-passenger, enhanced performance, EVOLUTION dealer Chesapeake"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -71,7 +71,7 @@ export default function EvolutionClassic2Pro() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -225,7 +225,7 @@ export default function EvolutionClassic2Pro() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

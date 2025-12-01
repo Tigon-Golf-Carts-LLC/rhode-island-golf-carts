@@ -10,9 +10,9 @@ export default function EvolutionTurfman1000() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® TURFMAN 1000 - Commercial Utility Vehicle | Pike County Golf Carts"
+        title="EVOLUTION® TURFMAN 1000 - Commercial Utility Vehicle | Chesapeake Golf Carts"
         description="Discover the EVOLUTION® TURFMAN 1000 lineup and its unique features. Heavy-duty commercial utility vehicle for landscaping and maintenance work."
-        keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer Pike County"
+        keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer Chesapeake"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -249,9 +249,9 @@ export default function EvolutionTurfman1000() {
                   Get Commercial Quote
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -268,7 +268,7 @@ export default function EvolutionTurfman1000() {
                   <CardTitle>Commercial Sales</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our commercial specialists</p>
                 </CardContent>
               </Card>

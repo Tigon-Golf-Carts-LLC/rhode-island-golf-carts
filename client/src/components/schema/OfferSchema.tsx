@@ -34,11 +34,11 @@ export default function OfferSchema({
   validFrom,
   validThrough,
   seller = {
-    name: "Atlantic County Golf Carts",
-    telephone: "570-535-1535",
-    email: "info@pikecountygolfcarts.com"
+    name: "Chesapeake Golf Carts",
+    telephone: "1-844-844-6638",
+    email: "sales@chesapeakegolfcarts.com"
   },
-  eligibleRegion = "Atlantic County, PA",
+  eligibleRegion = "Hampton Roads, VA",
   priceSpecification = []
 }: OfferSchemaProps) {
   useEffect(() => {
@@ -63,8 +63,10 @@ export default function OfferSchema({
         ...(seller.email && { "email": seller.email }),
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Atlantic City",
-          "addressRegion": "NJ",
+          "streetAddress": "1234 Battlefield Blvd",
+          "addressLocality": "Chesapeake",
+          "addressRegion": "VA",
+          "postalCode": "23322",
           "addressCountry": "US"
         }
       },

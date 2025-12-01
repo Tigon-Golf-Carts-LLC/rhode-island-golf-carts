@@ -9,10 +9,10 @@ export default function EvolutionCarrier6PlusPage() {
       series="CARRIER"
       price="$9,595"
       image={evolutionCarrier6PlusImage}
-      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Pike County Golf Carts"
-      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Pike County, PA. 6-passenger utility vehicle with enhanced cargo capacity and work features."
-      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Pike County, Pennsylvania"
-      canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-carrier-6-plus"
+      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Chesapeake Golf Carts"
+      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Chesapeake, VA. 6-passenger utility vehicle with enhanced cargo capacity and work features."
+      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Hampton Roads, Virginia"
+      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-carrier-6-plus"
       seats="6"
       range="38 miles"
       topSpeed="25 mph"
@@ -27,8 +27,8 @@ export default function EvolutionCarrier6PlusPage() {
         "Commercial Grade",
         "Reliable Power"
       ]}
-      description="6-passenger utility vehicle with enhanced cargo capacity and work features. The EVOLUTION CARRIER 6 PLUS is designed for both passenger transport and utility work in Pike County communities."
-      tigoUrl="https://tigongolfcarts.com/evolution/carrier/6-plus/"
+      description="6-passenger utility vehicle with enhanced cargo capacity and work features. The EVOLUTION CARRIER 6 PLUS is designed for both passenger transport and utility work in Chesapeake communities."
+      tigoUrl="https://chesapeakegolfcarts.com/evolution/carrier/6-plus/"
     />
   );
 }

@@ -48,8 +48,8 @@ export default function NewInventoryPage() {
       <SEOHead 
         title="Golf Cart Inventory"
         description="Discover our extensive selection of premium new and used golf carts from DENAGO and EVOLUTION, with flexible financing and expert service. Call 1-844-844-6638."
-        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Pike County golf carts"
-        canonicalUrl="https://pikecountygolfcarts.com/inventory"
+        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Chesapeake golf carts"
+        canonicalUrl="https://chesapeakegolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -248,9 +248,9 @@ export default function NewInventoryPage() {
                   Contact Our Team
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -267,7 +267,7 @@ export default function NewInventoryPage() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our golf cart specialists</p>
                 </CardContent>
               </Card>
@@ -289,11 +289,11 @@ export default function NewInventoryPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Pike County Service</CardTitle>
+                  <CardTitle>Chesapeake Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Pike County and surrounding areas.
+                    Delivery and pickup available throughout Chesapeake and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

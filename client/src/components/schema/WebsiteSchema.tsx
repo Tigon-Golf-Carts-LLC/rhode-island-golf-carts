@@ -7,9 +7,9 @@ interface WebsiteSchemaProps {
 }
 
 export default function WebsiteSchema({ 
-  url = "https://pikecountygolfcarts.com",
-  name = "Pike County Golf Carts",
-  description = "Premier golf cart dealership in Pike County, Pennsylvania"
+  url = "https://chesapeakegolfcarts.com",
+  name = "Chesapeake Golf Carts",
+  description = "Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving Chesapeake and Hampton Roads"
 }: WebsiteSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -20,12 +20,12 @@ export default function WebsiteSchema({
       "url": url,
       "publisher": {
         "@type": "Organization",
-        "name": "Pike County Golf Carts",
+        "name": "Chesapeake Golf Carts",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://pikecountygolfcarts.com/logo.png",
-          "width": 400,
-          "height": 400
+          "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+          "width": 512,
+          "height": 512
         }
       },
       "potentialAction": {
@@ -35,12 +35,7 @@ export default function WebsiteSchema({
           "urlTemplate": `${url}/inventory?search={search_term_string}`
         },
         "query-input": "required name=search_term_string"
-      },
-      "sameAs": [
-        "https://www.facebook.com/carbongolfcarts",
-        "https://twitter.com/carbongolfcarts",
-        "https://www.instagram.com/carbongolfcarts"
-      ]
+      }
     };
     
     const existingScript = document.querySelector('script[type="application/ld+json"][data-website]');

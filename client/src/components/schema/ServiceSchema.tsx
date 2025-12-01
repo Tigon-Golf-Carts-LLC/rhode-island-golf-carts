@@ -18,8 +18,8 @@ export default function ServiceSchema({
   serviceName,
   description,
   serviceType = "Golf Cart Service",
-  provider = "Pike County Golf Carts",
-  areaServed = "Pike County, PA",
+  provider = "Chesapeake Golf Carts",
+  areaServed = "Hampton Roads, VA",
   availableChannel = ["https://schema.org/OnlineChannel", "https://schema.org/InStoreChannel"],
   offers = []
 }: ServiceSchemaProps) {
@@ -33,17 +33,19 @@ export default function ServiceSchema({
       "provider": {
         "@type": "LocalBusiness",
         "name": provider,
-        "telephone": "570-535-1535",
-        "email": "info@pikecountygolfcarts.com",
+        "telephone": "1-844-844-6638",
+        "email": "sales@chesapeakegolfcarts.com",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Lords Valley",
-          "addressRegion": "PA",
+          "streetAddress": "1234 Battlefield Blvd",
+          "addressLocality": "Chesapeake",
+          "addressRegion": "VA",
+          "postalCode": "23322",
           "addressCountry": "US"
         },
         "logo": {
           "@type": "ImageObject",
-          "url": "https://pikecountygolfcarts.com/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
+          "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
         }
       },
       "areaServed": {
@@ -52,7 +54,7 @@ export default function ServiceSchema({
       },
       "availableChannel": availableChannel.map(channel => ({
         "@type": "ServiceChannel",
-        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://pikecountygolfcarts.com" : undefined,
+        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://chesapeakegolfcarts.com" : undefined,
         "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "1-844-844-6638" : undefined
       })),
       ...(offers.length > 0 && {

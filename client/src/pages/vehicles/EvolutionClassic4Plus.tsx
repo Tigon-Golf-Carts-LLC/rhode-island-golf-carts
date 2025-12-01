@@ -13,8 +13,8 @@ export default function EvolutionClassic4Plus() {
       <SEOHead 
         title="CLASSIC 4 PLUS"
         description="Experience the EVOLUTION® CLASSIC 4 PLUS with timeless design and modern electric performance where classic styling meets contemporary technology. Call 1-844-844-6638."
-        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Pike County"
-        canonicalUrl="https://pikecountygolfcarts.com/vehicles/evolution-classic-4-plus"
+        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Chesapeake"
+        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-classic-4-plus"
         ogImage="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -255,9 +255,9 @@ export default function EvolutionClassic4Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -274,7 +274,7 @@ export default function EvolutionClassic4Plus() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>

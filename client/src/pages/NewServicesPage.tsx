@@ -42,9 +42,9 @@ export default function NewServicesPage() {
     <>
       <SEOHead 
         title="Professional Golf Cart Services"
-        description="Keep your golf cart running smoothly with comprehensive maintenance, repair, battery service, and custom modifications from Pike County's certified technicians. Call 1-844-844-6638."
-        keywords="golf cart service, golf cart repair, battery replacement, maintenance, Pike County"
-        canonicalUrl="https://pikecountygolfcarts.com/services"
+        description="Keep your golf cart running smoothly with comprehensive maintenance, repair, battery service, and custom modifications from Chesapeake's certified technicians. Call 1-844-844-6638."
+        keywords="golf cart service, golf cart repair, battery replacement, maintenance, Chesapeake"
+        canonicalUrl="https://chesapeakegolfcarts.com/services"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_Th3nwXNXQ2CQPoVdYBg6Jg_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -69,7 +69,7 @@ export default function NewServicesPage() {
                     Schedule Service
                   </Button>
                 </Link>
-                <a href="tel:570-535-1535">
+                <a href="tel:1-844-844-6638">
                   <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                     Call for Emergency Service
                   </Button>
@@ -172,9 +172,9 @@ export default function NewServicesPage() {
                   Schedule Service Online
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -191,7 +191,7 @@ export default function NewServicesPage() {
                   <CardTitle>Service Department</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-green-600 mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-green-600 mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Direct line to our service team</p>
                 </CardContent>
               </Card>
@@ -217,7 +217,7 @@ export default function NewServicesPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    On-site service available throughout Pike County for major repairs and maintenance.
+                    On-site service available throughout Chesapeake for major repairs and maintenance.
                   </p>
                 </CardContent>
               </Card>

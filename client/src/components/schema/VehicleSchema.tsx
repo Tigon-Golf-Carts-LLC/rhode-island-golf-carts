@@ -91,8 +91,8 @@ export default function VehicleSchema({
       "availability": `https://schema.org/${offers?.availability || availability}`,
       "seller": offers?.seller || {
         "@type": "Organization",
-        "name": "Pike County Golf Carts",
-        "url": "https://pikecountygolfcarts.com"
+        "name": "Chesapeake Golf Carts",
+        "url": "https://chesapeakegolfcarts.com"
       }
     }
   };

@@ -125,10 +125,10 @@ interface AllSchemasProps {
 
 export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps) {
   const {
-    title = "Pike County Golf Carts",
-    description = "Premier golf cart dealership in Pike County, Pennsylvania",
-    url = "https://pikecountygolfcarts.com",
-    breadcrumbs = [{ name: "Home", url: "https://pikecountygolfcarts.com/" }],
+    title = "Chesapeake Golf Carts",
+    description = "Premier golf cart dealership in Hampton Roads, Virginia",
+    url = "https://chesapeakegolfcarts.com",
+    breadcrumbs = [{ name: "Home", url: "https://chesapeakegolfcarts.com/" }],
     vehicleName,
     vehicleBrand,
     vehicleModel,
@@ -166,18 +166,18 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Auto Dealer Schema for all pages */}
       <AutoDealerSchema
-        name="Pike County Golf Carts"
-        description="Premier electric golf cart dealership serving Pike County, Pennsylvania with sales, service, rentals, and financing"
-        url="https://pikecountygolfcarts.com"
+        name="Chesapeake Golf Carts"
+        description="Premier electric golf cart dealership serving Hampton Roads, Virginia with sales, service, rentals, and financing"
+        url="https://chesapeakegolfcarts.com"
         address={{
           streetAddress: "Various Locations",
-          addressLocality: "Pike County",
-          addressRegion: "PA",
-          postalCode: "18101",
+          addressLocality: "Chesapeake",
+          addressRegion: "VA",
+          postalCode: "23322",
           addressCountry: "US"
         }}
-        telephone="570-535-1535"
-        email="info@pikecountygolfcarts.com"
+        telephone="1-844-844-6638"
+        email="info@chesapeakegolfcarts.com"
         brands={["DENAGO", "EVOLUTION"]}
         services={["Golf Cart Sales", "Golf Cart Service", "Golf Cart Rentals", "Financing", "Parts & Accessories"]}
         openingHours={[
@@ -194,9 +194,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {/* Contact Point Schema */}
       <ContactPointSchema
         contactType="customer service"
-        telephone="570-535-1535"
-        email="info@pikecountygolfcarts.com"
-        areaServed="Pike County, Pennsylvania"
+        telephone="1-844-844-6638"
+        email="info@chesapeakegolfcarts.com"
+        areaServed="Hampton Roads, Virginia"
         availableLanguage={["English"]}
         hoursAvailable={[
           { dayOfWeek: "Monday", opens: "09:00", closes: "18:00" },
@@ -211,7 +211,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Menu Schema for site navigation */}
       <MenuSchema
-        name="Pike County Golf Carts Navigation"
+        name="Chesapeake Golf Carts Navigation"
         description="Main website navigation menu"
         hasMenuSection={[
           {
@@ -251,7 +251,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             name={vehicleName}
             brand={vehicleBrand}
             model={vehicleModel}
-            description={`${vehicleBrand} ${vehicleModel} electric golf cart available at Pike County Golf Carts`}
+            description={`${vehicleBrand} ${vehicleModel} electric golf cart available at Chesapeake Golf Carts`}
             image={vehicleImage}
             price={vehiclePrice}
             features={vehicleFeatures}
@@ -277,7 +277,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             features={vehicleFeatures}
             manufacturer={{
               name: vehicleBrand,
-              url: `https://pikecountygolfcarts.com/${vehicleBrand.toLowerCase()}`
+              url: `https://chesapeakegolfcarts.com/${vehicleBrand.toLowerCase()}`
             }}
           />
           <VehicleSchemaOld
@@ -306,8 +306,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <BrandSchema
             name={vehicleBrand}
-            description={`${vehicleBrand} electric golf carts available at Pike County Golf Carts`}
-            url={`https://pikecountygolfcarts.com/${vehicleBrand.toLowerCase()}`}
+            description={`${vehicleBrand} electric golf carts available at Chesapeake Golf Carts`}
+            url={`https://chesapeakegolfcarts.com/${vehicleBrand.toLowerCase()}`}
             manufacturer={vehicleBrand}
             products={[{
               name: vehicleName,
@@ -322,7 +322,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "inventory" && (
         <>
           <CollectionPageSchema
-            name="Golf Cart Inventory - Pike County Golf Carts"
+            name="Golf Cart Inventory - Chesapeake Golf Carts"
             description="Browse our complete inventory of electric golf carts from DENAGO and EVOLUTION"
             url={url}
             mainEntity={collectionItems.length > 0 ? collectionItems : [
@@ -347,7 +347,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               },
               {
                 question: "Do you provide delivery service?",
-                answer: "Yes, we provide delivery service throughout Pike County and surrounding areas in Pennsylvania."
+                answer: "Yes, we provide delivery service throughout Chesapeake and surrounding areas in Pennsylvania."
               }
             ]}
           />
@@ -365,41 +365,41 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <PlaceSchema
             name={`${locationName} ${locationType}`}
-            description={`Golf cart sales and service in ${locationName} ${locationType}, Pike County, Pennsylvania`}
+            description={`Golf cart sales and service in ${locationName} ${locationType}, Hampton Roads, Virginia`}
             address={{
               addressLocality: locationName,
-              addressRegion: "PA",
+              addressRegion: "VA",
               addressCountry: "US"
             }}
             geo={locationLatitude && locationLongitude ? {
               latitude: locationLatitude,
               longitude: locationLongitude
             } : undefined}
-            telephone="570-535-1535"
+            telephone="1-844-844-6638"
             url={url}
             containedInPlace={{
-              name: "Pike County",
+              name: "Chesapeake",
               type: "AdministrativeArea"
             }}
           />
           <ServiceSchema
             serviceName={`Golf Cart Services in ${locationName} ${locationType}`}
-            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Pike County, PA`}
-            areaServed={`${locationName} ${locationType}, Pike County, PA`}
+            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Chesapeake, VA`}
+            areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
           />
           <AutoDealerSchema
-            name={`Pike County Golf Carts - ${locationName} Service`}
+            name={`Chesapeake Golf Carts - ${locationName} Service`}
             description={`Premier golf cart dealership serving ${locationName} ${locationType} and surrounding areas`}
             url={url}
             address={{
               streetAddress: "Service Area",
               addressLocality: locationName,
-              addressRegion: "PA",
-              postalCode: "18000",
+              addressRegion: "VA",
+              postalCode: "23322",
               addressCountry: "US"
             }}
-            telephone="570-535-1535"
-            email="info@pikecountygolfcarts.com"
+            telephone="1-844-844-6638"
+            email="info@chesapeakegolfcarts.com"
             brands={["DENAGO", "EVOLUTION"]}
             services={["Golf Cart Sales", "Service & Repair", "Rentals", "Parts & Accessories"]}
           />
@@ -416,30 +416,30 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             longitude={locationLongitude}
           />
           <RentalCarAgencySchema
-            name={`Pike County Golf Carts - ${locationName} Rentals`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Pike County, Pennsylvania`}
+            name={`Chesapeake Golf Carts - ${locationName} Rentals`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Hampton Roads, Virginia`}
             url={url}
             address={{
               streetAddress: "Service Area",
               addressLocality: locationName,
-              addressRegion: "PA",
-              postalCode: "18000",
+              addressRegion: "VA",
+              postalCode: "23322",
               addressCountry: "US"
             }}
-            telephone="570-535-1535"
-            email="info@pikecountygolfcarts.com"
-            areaServed={`${locationName} ${locationType}, Pike County, PA`}
+            telephone="1-844-844-6638"
+            email="info@chesapeakegolfcarts.com"
+            areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater from $245/day, 6-Seater from $295/day, Utility from $245/day" },
-              { type: "Delivery", description: "Professional delivery within Pike County" },
+              { type: "Delivery", description: "Professional delivery within Chesapeake" },
               { type: "Insurance", description: "Full coverage included with all rentals" }
             ]}
           />
           <ServiceSchema
             serviceName={`Golf Cart Rentals in ${locationName} ${locationType}`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Pike County, Pennsylvania`}
-            areaServed={`${locationName} ${locationType}, Pike County, PA`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Hampton Roads, Virginia`}
+            areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -463,7 +463,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             faqs={[
               {
                 question: `Do you deliver golf cart rentals to ${locationName}?`,
-                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Pike County, Pennsylvania.`
+                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Hampton Roads, Virginia.`
               },
               {
                 question: "What types of golf carts are available for rent?",
@@ -486,7 +486,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Services"
-            description="Comprehensive golf cart sales, service, repair, and maintenance in Pike County, Pennsylvania"
+            description="Comprehensive golf cart sales, service, repair, and maintenance in Hampton Roads, Virginia"
             offers={serviceOffers}
           />
           <OfferSchema
@@ -504,7 +504,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Sales"
-            description="New and used electric golf cart sales in Pike County, Pennsylvania"
+            description="New and used electric golf cart sales in Hampton Roads, Virginia"
           />
           <OfferSchema
             itemOffered={{
@@ -521,7 +521,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Rentals"
-            description="Golf cart rental services throughout Pike County, Pennsylvania"
+            description="Golf cart rental services throughout Hampton Roads, Virginia"
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -529,25 +529,25 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             ]}
           />
           <RentalCarAgencySchema
-            name="Pike County Golf Carts - Rental Services"
-            description="Professional golf cart rental services throughout Pike County, Pennsylvania"
-            url="https://pikecountygolfcarts.com/rentals"
+            name="Chesapeake Golf Carts - Rental Services"
+            description="Professional golf cart rental services throughout Hampton Roads, Virginia"
+            url="https://chesapeakegolfcarts.com/rentals"
             address={{
               streetAddress: "Service Area",
-              addressLocality: "Pike County",
-              addressRegion: "PA",
-              postalCode: "18101",
+              addressLocality: "Chesapeake",
+              addressRegion: "VA",
+              postalCode: "23322",
               addressCountry: "US"
             }}
-            telephone="570-535-1535"
-            email="info@pikecountygolfcarts.com"
-            areaServed="Pike County, Pennsylvania"
+            telephone="1-844-844-6638"
+            email="info@chesapeakegolfcarts.com"
+            areaServed="Hampton Roads, Virginia"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater and Utility from $245/day, 6-Seater from $295/day" },
               { type: "Weekly Rental", description: "Save with weekly rates starting at $1,400/week" },
               { type: "Monthly Rental", description: "Best value with monthly rates starting at $4,200/month" },
-              { type: "Delivery", description: "Professional delivery throughout Pike County" },
+              { type: "Delivery", description: "Professional delivery throughout Chesapeake" },
               { type: "Insurance", description: "Full coverage included with all rentals" }
             ]}
           />
@@ -555,7 +555,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             itemOffered={{
               name: "Golf Cart Rental",
               type: "Service",
-              description: "Daily, weekly, and monthly golf cart rentals in Pike County",
+              description: "Daily, weekly, and monthly golf cart rentals in Chesapeake",
               category: "Rental Service"
             }}
             priceSpecification={[
@@ -605,9 +605,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Always include main company image */}
       <ImageObjectSchema
-        url="/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
-        name="Pike County Golf Carts Logo"
-        description="Pike County Golf Carts company logo featuring professional golf cart branding"
+        url="/attached_assets/Chesapeake Golf Carts (2)_1756138898367.png"
+        name="Chesapeake Golf Carts Logo"
+        description="Chesapeake Golf Carts company logo featuring professional golf cart branding"
         width={400}
         height={400}
       />
@@ -628,8 +628,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               endDate={event.endDate}
               location={event.location}
               organizer={{
-                name: "Pike County Golf Carts",
-                url: "https://pikecountygolfcarts.com"
+                name: "Chesapeake Golf Carts",
+                url: "https://chesapeakegolfcarts.com"
               }}
             />
           ))}
@@ -639,9 +639,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "brand" && brandName && (
         <BrandSchema
           name={brandName}
-          description={brandDescription || `${brandName} electric golf carts available at Pike County Golf Carts`}
+          description={brandDescription || `${brandName} electric golf carts available at Chesapeake Golf Carts`}
           url={url}
-          logo="/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
+          logo="/attached_assets/Chesapeake Golf Carts (2)_1756138898367.png"
           manufacturer={brandName}
           products={brandProducts}
         />
@@ -650,7 +650,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "home" && (
         <>
           <HowToSchema
-            name="How to Buy a Golf Cart from Pike County Golf Carts"
+            name="How to Buy a Golf Cart from Chesapeake Golf Carts"
             description="Step-by-step guide to purchasing your perfect electric golf cart"
             steps={[
               {
@@ -677,15 +677,15 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           {/* VideoObjectSchema temporarily disabled due to props issue */}
           {/* <VideoObjectSchema
-            name="Pike County Golf Carts - Electric Vehicle Showcase"
+            name="Chesapeake Golf Carts - Electric Vehicle Showcase"
             description="Watch our showcase of premium electric golf carts from DENAGO and EVOLUTION brands"
             thumbnailUrl="/attached_assets/image_1753728346042.png"
             embedUrl={`${url}#video-showcase`}
             duration="PT3M45S"
             uploadDate="2024-12-01"
             publisher={{
-              name: "Pike County Golf Carts",
-              logo: "/attached_assets/Pike County Golf Carts (2)_1756138898367.png"
+              name: "Chesapeake Golf Carts",
+              logo: "/attached_assets/Chesapeake Golf Carts (2)_1756138898367.png"
             }}
           /> */}
         </>

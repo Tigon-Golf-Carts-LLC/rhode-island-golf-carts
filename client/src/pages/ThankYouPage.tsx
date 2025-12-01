@@ -10,9 +10,9 @@ export default function ThankYouPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Thank You!"
-        description="Thank you for contacting Pike County Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 1-844-844-6638."
-        keywords="thank you, contact confirmation, Pike County Golf Carts, TIGON Golf Carts"
-        canonicalUrl="https://pikecountygolfcarts.com/thank-you"
+        description="Thank you for contacting Chesapeake Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 1-844-844-6638."
+        keywords="thank you, contact confirmation, Chesapeake Golf Carts, TIGON Golf Carts"
+        canonicalUrl="https://chesapeakegolfcarts.com/thank-you"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -27,7 +27,7 @@ export default function ThankYouPage() {
             Thank You!
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            We've received your message and appreciate your interest in Pike County Golf Carts.
+            We've received your message and appreciate your interest in Chesapeake Golf Carts.
             Our team will respond to your inquiry soon.
           </p>
         </div>
@@ -64,10 +64,10 @@ export default function ThankYouPage() {
                 </p>
                 <div className="space-y-3">
                   <a 
-                    href="tel:570-535-1535" 
+                    href="tel:1-844-844-6638" 
                     className="block text-2xl font-bold text-theme-orange hover:text-orange-300 transition-colors"
                   >
-                    570-535-1535
+                    1-844-844-6638
                   </a>
                   <div className="text-sm text-gray-300">
                     <p>Monday-Friday: 9:00 AM - 5:00 PM</p>

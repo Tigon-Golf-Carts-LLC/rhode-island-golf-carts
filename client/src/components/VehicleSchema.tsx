@@ -29,7 +29,7 @@ export default function VehicleSchema({
         "name": brand
       },
       "description": description,
-      "image": `https://pikecountygolfcarts.com/attached_assets/${image}`,
+      "image": `https://chesapeakegolfcarts.com/attached_assets/${image}`,
       "url": url,
       "category": "Golf Cart",
       "manufacturer": {
@@ -43,12 +43,15 @@ export default function VehicleSchema({
         "priceCurrency": "USD",
         "seller": {
           "@type": "Organization",
-          "name": "Pike County Golf Carts",
-          "telephone": "570-535-1535",
-          "email": "info@pikecountygolfcarts.com",
+          "name": "Chesapeake Golf Carts",
+          "telephone": "1-844-844-6638",
+          "email": "sales@chesapeakegolfcarts.com",
           "address": {
             "@type": "PostalAddress",
-            "addressRegion": "PA",
+            "streetAddress": "1234 Battlefield Blvd",
+            "addressLocality": "Chesapeake",
+            "addressRegion": "VA",
+            "postalCode": "23322",
             "addressCountry": "US"
           }
         }

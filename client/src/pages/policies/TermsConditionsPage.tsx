@@ -5,9 +5,9 @@ export default function TermsConditionsPage() {
   return (
     <>
       <SEOHead 
-        title="Terms & Conditions | Pike County Golf Carts"
-        description="Read the complete terms and conditions for Pike County Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Pennsylvania."
-        keywords="terms conditions, Pike County golf carts, Pennsylvania golf cart terms, legal agreement"
+        title="Terms & Conditions | Chesapeake Golf Carts"
+        description="Read the complete terms and conditions for Chesapeake Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Pennsylvania."
+        keywords="terms conditions, Chesapeake golf carts, Pennsylvania golf cart terms, legal agreement"
       />
       
       {/* Hero Section */}
@@ -17,7 +17,7 @@ export default function TermsConditionsPage() {
             Terms & Conditions
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Our comprehensive terms and conditions for golf cart sales, rentals, and services in Pike County, Pennsylvania.
+            Our comprehensive terms and conditions for golf cart sales, rentals, and services in Hampton Roads, Virginia.
           </p>
         </div>
       </section>
@@ -33,7 +33,7 @@ export default function TermsConditionsPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Agreement Overview</h2>
               <p className="mb-6">
-                These Terms & Conditions ("Terms") govern your use of services provided by Pike County Golf Carts, 
+                These Terms & Conditions ("Terms") govern your use of services provided by Chesapeake Golf Carts, 
                 including golf cart sales, rentals, service, and related products. By engaging with our services, 
                 you agree to be bound by these Terms.
               </p>
@@ -86,7 +86,7 @@ export default function TermsConditionsPage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the maximum extent permitted by Pennsylvania law, Pike County Golf Carts shall not be 
+                To the maximum extent permitted by Pennsylvania law, Chesapeake Golf Carts shall not be 
                 liable for any indirect, incidental, special, or consequential damages. Our total liability 
                 shall not exceed the amount paid for the specific product or service in question.
               </p>
@@ -94,16 +94,16 @@ export default function TermsConditionsPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
                 These Terms are governed by Pennsylvania state law. Any disputes shall be resolved in 
-                the courts of Pike County, Pennsylvania.
+                the courts of Hampton Roads, Virginia.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>Pike County Golf Carts</strong></p>
-                <p className="mb-2">Email: info@pikecountygolfcarts.com</p>
+                <p className="mb-2"><strong>Chesapeake Golf Carts</strong></p>
+                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Pike County, Pennsylvania</p>
-                <p>Website: pikecountygolfcarts.com</p>
+                <p className="mb-2">Serving Hampton Roads, Virginia</p>
+                <p>Website: chesapeakegolfcarts.com</p>
               </div>
             </div>
           </div>

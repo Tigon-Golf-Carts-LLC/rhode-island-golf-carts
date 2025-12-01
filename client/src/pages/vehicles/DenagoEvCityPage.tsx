@@ -10,9 +10,9 @@ export default function DenagoEvCityPage() {
       price="$15,000"
       image={denagoEvCityImage}
       seoTitle="DENAGO EV CITY"
-      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Pike County, PA. Call 1-844-844-6638."
-      seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Pike County, Pennsylvania, electric vehicle"
-      canonicalUrl="https://pikecountygolfcarts.com/vehicles/denago-ev-city"
+      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Chesapeake, VA. Call 1-844-844-6638."
+      seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Hampton Roads, Virginia, electric vehicle"
+      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-city"
       seats="2"
       range="40 miles"
       topSpeed="25 mph"
@@ -27,8 +27,8 @@ export default function DenagoEvCityPage() {
         "Digital Display",
         "Comfortable Seating"
       ]}
-      description="Urban mobility redefined with sleek design and efficient performance. The DENAGO EV CITY is built for street legal operation with premium features perfect for Pike County's urban environments."
-      tigoUrl="https://tigongolfcarts.com/denago-ev/city/"
+      description="Urban mobility redefined with sleek design and efficient performance. The DENAGO EV CITY is built for street legal operation with premium features perfect for Chesapeake's urban environments."
+      tigoUrl="https://chesapeakegolfcarts.com/denago-ev/city/"
     />
   );
 }

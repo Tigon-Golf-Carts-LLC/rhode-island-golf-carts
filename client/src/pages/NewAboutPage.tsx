@@ -168,7 +168,7 @@ export default function NewAboutPage() {
                       <p className="text-gray-600">Serving all City of Chesapeake, VA</p>
                       <p className="text-gray-700">1-844-844-6638</p>
                       <p className="text-gray-600">info@chesapeakegolfcarts.com</p>
-                      <p className="text-gray-600">sales@tigongolfcarts.com</p>
+                      <p className="text-gray-600">sales@chesapeakegolfcarts.com</p>
                     </div>
                   </div>
                 </div>
@@ -332,7 +332,7 @@ export default function NewAboutPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg font-medium text-theme-orange mb-2">info@chesapeakegolfcarts.com</p>
-                  <p className="text-lg font-medium text-theme-orange mb-2">sales@tigongolfcarts.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">sales@chesapeakegolfcarts.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>

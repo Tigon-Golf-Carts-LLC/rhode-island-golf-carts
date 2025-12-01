@@ -10,9 +10,9 @@ export default function EvolutionForester4Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® FORESTER 4 PLUS - Premium Utility Golf Cart | Pike County Golf Carts"
+        title="EVOLUTION® FORESTER 4 PLUS - Premium Utility Golf Cart | Chesapeake Golf Carts"
         description="Discover the EVOLUTION® FORESTER 4 PLUS lineup and its unique features. Premium electric utility vehicle designed for rugged terrain and heavy-duty work."
-        keywords="EVOLUTION FORESTER 4 PLUS, utility golf cart, electric utility vehicle, work cart, EVOLUTION dealer Pike County"
+        keywords="EVOLUTION FORESTER 4 PLUS, utility golf cart, electric utility vehicle, work cart, EVOLUTION dealer Chesapeake"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -249,9 +249,9 @@ export default function EvolutionForester4Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:570-535-1535">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 570-535-1535
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -268,7 +268,7 @@ export default function EvolutionForester4Plus() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">570-535-1535</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>

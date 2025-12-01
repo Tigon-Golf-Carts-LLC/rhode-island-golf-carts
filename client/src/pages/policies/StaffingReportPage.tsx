@@ -5,9 +5,9 @@ export default function StaffingReportPage() {
   return (
     <>
       <SEOHead 
-        title="Staffing Report | Pike County Golf Carts"
-        description="Learn about Pike County Golf Carts' staffing structure, employment practices, and workforce development in Pennsylvania."
-        keywords="staffing report, employment, Pike County golf carts, workforce Pennsylvania"
+        title="Staffing Report | Chesapeake Golf Carts"
+        description="Learn about Chesapeake Golf Carts' staffing structure, employment practices, and workforce development in Pennsylvania."
+        keywords="staffing report, employment, Chesapeake golf carts, workforce Pennsylvania"
       />
       
       {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function StaffingReportPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Executive Summary</h2>
               <p className="mb-6">
-                Pike County Golf Carts maintains a dedicated workforce committed to providing 
+                Chesapeake Golf Carts maintains a dedicated workforce committed to providing 
                 exceptional golf cart sales, rental, and service throughout Pennsylvania. This 
                 annual staffing report provides transparency on our employment practices, 
                 workforce composition, and professional development initiatives.
@@ -219,7 +219,7 @@ export default function StaffingReportPage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Community Impact</h2>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Local Hiring:</strong> 85% of employees are Pike County residents</li>
+                <li><strong>Local Hiring:</strong> 85% of employees are Chesapeake residents</li>
                 <li><strong>Economic Impact:</strong> $2.1 million in local payroll annually</li>
                 <li><strong>Volunteer Hours:</strong> 240 hours of community service by employees</li>
                 <li><strong>Educational Partnerships:</strong> Internship programs with 3 local schools</li>
@@ -229,11 +229,11 @@ export default function StaffingReportPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Human Resources</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Human Resources Department</strong></p>
-                <p className="mb-2">Pike County Golf Carts</p>
-                <p className="mb-2">Email: info@pikecountygolfcarts.com</p>
+                <p className="mb-2">Chesapeake Golf Carts</p>
+                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p className="mb-2">Serving Pike County, Pennsylvania</p>
-                <p className="mb-2">Website: pikecountygolfcarts.com</p>
+                <p className="mb-2">Serving Hampton Roads, Virginia</p>
+                <p className="mb-2">Website: chesapeakegolfcarts.com</p>
                 <p>Career opportunities and employment inquiries welcome</p>
               </div>
             </div>
