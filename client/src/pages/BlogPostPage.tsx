@@ -1,9 +1,10 @@
 import { useParams, Link } from "wouter";
-import { Calendar, ArrowLeft, MapPin, Phone, Mail, BookOpen, ChevronRight } from "lucide-react";
+import { Calendar, ArrowLeft, MapPin, Phone, Mail, BookOpen, ChevronRight, ImageIcon } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import SEOHead from "@/components/SEOHead";
-import AllSchemas from "@/components/schema/AllSchemas";
+import BlogPostSchema from "@/components/schema/BlogPostSchema";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import { getBlogPostBySlug, blogPosts, type BlogPost } from "@/data/blogPosts";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
@@ -51,18 +52,20 @@ export default function BlogPostPage() {
         canonicalUrl={post.canonicalUrl}
         ogType="article"
       />
-      <AllSchemas
-        pageType="home"
-        pageData={{
-          title: post.seoTitle,
-          description: post.metaDescription,
-          url: post.canonicalUrl,
-          breadcrumbs: [
-            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-            { name: "Blog", url: "https://chesapeakegolfcarts.com/blog" },
-            { name: post.h1, url: post.canonicalUrl }
-          ]
-        }}
+      <BlogPostSchema
+        title={post.seoTitle}
+        description={post.metaDescription}
+        url={post.canonicalUrl}
+        publishDate={post.publishDate}
+        imageAlt={post.heroImageAlt}
+        keywords={post.keywords}
+      />
+      <BreadcrumbSchema
+        items={[
+          { name: "Home", url: "https://chesapeakegolfcarts.com/" },
+          { name: "Blog", url: "https://chesapeakegolfcarts.com/blog" },
+          { name: post.h1.split("|")[0].trim(), url: post.canonicalUrl }
+        ]}
       />
 
       <section
@@ -88,6 +91,27 @@ export default function BlogPostPage() {
           <div className="flex items-center text-gray-200">
             <Calendar className="w-4 h-4 mr-2" />
             <time dateTime={post.publishDate}>{formatDate(post.publishDate)}</time>
+          </div>
+        </div>
+      </section>
+
+      <section className="py-8 px-4 bg-white border-b">
+        <div className="max-w-4xl mx-auto">
+          <div 
+            className="bg-gradient-to-br from-[#0e2e55] to-blue-700 rounded-xl p-8 text-center"
+            role="img"
+            aria-label={post.heroImageAlt}
+          >
+            <ImageIcon className="w-16 h-16 text-white/40 mx-auto mb-4" />
+            <p className="text-white/80 text-sm font-medium mb-2">Hero Image</p>
+            <p className="text-white text-base max-w-2xl mx-auto" data-testid="hero-image-alt">
+              {post.heroImageAlt}
+            </p>
+            <div className="mt-4 pt-4 border-t border-white/20">
+              <p className="text-white/60 text-xs">
+                <strong>AI Image Prompt:</strong> {post.heroImagePrompt}
+              </p>
+            </div>
           </div>
         </div>
       </section>

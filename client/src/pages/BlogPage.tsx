@@ -1,9 +1,10 @@
 import { Link } from "wouter";
-import { Calendar, ArrowRight, BookOpen } from "lucide-react";
+import { Calendar, ArrowRight, BookOpen, ImageIcon } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import SEOHead from "@/components/SEOHead";
-import AllSchemas from "@/components/schema/AllSchemas";
+import BlogSchema from "@/components/schema/BlogSchema";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import { blogPosts } from "@/data/blogPosts";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
@@ -26,17 +27,21 @@ export default function BlogPage() {
         canonicalUrl="https://chesapeakegolfcarts.com/blog"
         ogType="website"
       />
-      <AllSchemas
-        pageType="home"
-        pageData={{
-          title: "Golf Cart Blog | Chesapeake Golf Carts",
-          description: "Expert golf cart news, buying guides, and tips from Chesapeake's premier golf cart dealer.",
-          url: "https://chesapeakegolfcarts.com/blog",
-          breadcrumbs: [
-            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-            { name: "Blog", url: "https://chesapeakegolfcarts.com/blog" }
-          ]
-        }}
+      <BlogSchema
+        name="Chesapeake Golf Carts Blog"
+        description="Expert golf cart news, buying guides, tips, and insights from Chesapeake's premier golf cart dealer serving Hampton Roads, Virginia."
+        url="https://chesapeakegolfcarts.com/blog"
+        posts={blogPosts.map(post => ({
+          title: post.h1,
+          url: post.canonicalUrl,
+          publishDate: post.publishDate
+        }))}
+      />
+      <BreadcrumbSchema
+        items={[
+          { name: "Home", url: "https://chesapeakegolfcarts.com/" },
+          { name: "Blog", url: "https://chesapeakegolfcarts.com/blog" }
+        ]}
       />
 
       <section
@@ -68,9 +73,17 @@ export default function BlogPage() {
                 className="overflow-hidden hover:shadow-lg transition-shadow duration-300 flex flex-col"
                 data-testid={`blog-card-${post.id}`}
               >
-                <div className="h-48 bg-gradient-to-br from-[#0e2e55] to-blue-700 relative overflow-hidden">
+                <div 
+                  className="h-48 bg-gradient-to-br from-[#0e2e55] to-blue-700 relative overflow-hidden"
+                  role="img"
+                  aria-label={post.heroImageAlt}
+                  title={post.heroImageAlt}
+                >
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <BookOpen className="w-16 h-16 text-white/30" />
+                    <div className="text-center px-4">
+                      <ImageIcon className="w-10 h-10 text-white/40 mx-auto mb-2" />
+                      <p className="text-white/60 text-xs line-clamp-2">{post.heroImageAlt}</p>
+                    </div>
                   </div>
                   <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4">
                     <Badge className="bg-[#ff6100] text-white text-xs">

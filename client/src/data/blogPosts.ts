@@ -84,7 +84,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Test Drive Before You Buy",
-              content: "Visit our showroom on Battlefield Boulevard to test drive any model in our inventory. Experience the smooth acceleration, comfortable seating, and premium features before making your decision."
+              content: "Visit our showroom on Battlefield Boulevard to test drive any model in our inventory. Experience the smooth acceleration, comfortable seating, and premium features before making your decision.",
+              details: [
+                {
+                  h4: "Extensive Test Drive Routes",
+                  content: "Our Chesapeake facility offers dedicated test drive areas to experience cart performance in real conditions.",
+                  points: [
+                    {
+                      h5: "Side-by-Side Comparisons",
+                      content: "Compare multiple models back-to-back to find your perfect match.",
+                      subpoints: [
+                        {
+                          h6: "No-Obligation Experience",
+                          content: "Test drive as many carts as you like with absolutely no purchase pressure."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -94,17 +112,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "New Golf Cart Specials",
-              content: "Our new DENAGO and EVOLUTION models come with full manufacturer warranties and the latest features including lithium batteries, premium sound systems, and street-legal packages."
+              content: "Our new DENAGO and EVOLUTION models come with full manufacturer warranties and the latest features including lithium batteries, premium sound systems, and street-legal packages.",
+              details: [
+                {
+                  h4: "Seasonal Promotions",
+                  content: "We offer rotating seasonal deals throughout the year on select new inventory.",
+                  points: [
+                    {
+                      h5: "Manufacturer Incentives",
+                      content: "Take advantage of factory rebates and special financing offers.",
+                      subpoints: [
+                        {
+                          h6: "Limited-Time Package Deals",
+                          content: "Bundle accessories and upgrades at discounted prices during promotional periods."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Certified Pre-Owned Options",
-              content: "Every pre-owned cart undergoes a comprehensive inspection and reconditioning process before being offered for sale, giving you peace of mind with your purchase."
+              content: "Every pre-owned cart undergoes a comprehensive inspection and reconditioning process before being offered for sale, giving you peace of mind with your purchase.",
+              details: [
+                {
+                  h4: "Multi-Point Inspection",
+                  content: "Our technicians inspect every component before certifying a pre-owned cart.",
+                  points: [
+                    {
+                      h5: "Battery Health Testing",
+                      content: "We verify battery capacity and performance meets our standards.",
+                      subpoints: [
+                        {
+                          h6: "Full Reconditioning",
+                          content: "Any worn components are replaced before the cart goes on sale."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Serving All Chesapeake Neighborhoods",
-          content: "From Great Bridge to Western Branch, Greenbrier to Deep Creek, we deliver golf carts throughout the City of Chesapeake. Our local delivery team knows every neighborhood and can have your new cart delivered and ready to drive in no time."
+          content: "From Great Bridge to Western Branch, Greenbrier to Deep Creek, we deliver golf carts throughout the City of Chesapeake. Our local delivery team knows every neighborhood and can have your new cart delivered and ready to drive in no time.",
+          subsections: [
+            {
+              h3: "Free Local Delivery",
+              content: "We provide complimentary delivery throughout Chesapeake and most Hampton Roads communities.",
+              details: [
+                {
+                  h4: "Professional Setup Included",
+                  content: "Our delivery team handles complete setup and provides a thorough orientation.",
+                  points: [
+                    {
+                      h5: "Same-Day Options",
+                      content: "For in-stock carts, same-day delivery is often available.",
+                      subpoints: [
+                        {
+                          h6: "White Glove Service",
+                          content: "We treat every delivery with care, ensuring your new cart arrives in perfect condition."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Ready to find your perfect golf cart? Visit Chesapeake Golf Carts at 1234 Battlefield Blvd or call us at 1-844-844-6638. Our friendly team is here to help you find the best local deals on premium electric golf carts in Chesapeake, Virginia."
@@ -166,17 +244,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Our Certification Process",
-              content: "Each pre-owned cart is inspected by our factory-trained technicians, with all necessary repairs and maintenance completed before sale."
+              content: "Each pre-owned cart is inspected by our factory-trained technicians, with all necessary repairs and maintenance completed before sale.",
+              details: [
+                {
+                  h4: "Comprehensive Inspection",
+                  content: "We check every mechanical and electrical system to ensure reliability.",
+                  points: [
+                    {
+                      h5: "Documentation Provided",
+                      content: "Receive a complete inspection report with your certified pre-owned purchase.",
+                      subpoints: [
+                        {
+                          h6: "Service History",
+                          content: "When available, we provide the cart's complete service records."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Pre-Owned Warranty Options",
-              content: "We offer extended warranty coverage on qualified pre-owned units, giving you added peace of mind with your purchase."
+              content: "We offer extended warranty coverage on qualified pre-owned units, giving you added peace of mind with your purchase.",
+              details: [
+                {
+                  h4: "Coverage Plans Available",
+                  content: "Choose from multiple warranty tiers to match your needs and budget.",
+                  points: [
+                    {
+                      h5: "Transferable Coverage",
+                      content: "Many warranty plans transfer to new owners if you sell the cart.",
+                      subpoints: [
+                        {
+                          h6: "Local Warranty Service",
+                          content: "All warranty work performed right here at our Chesapeake facility."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Why Shop Local in Chesapeake",
-          content: "When you buy from Chesapeake Golf Carts, you're supporting a local business that's invested in the Hampton Roads community. We provide ongoing service, parts, and support right here in your neighborhood."
+          content: "When you buy from Chesapeake Golf Carts, you're supporting a local business that's invested in the Hampton Roads community. We provide ongoing service, parts, and support right here in your neighborhood.",
+          subsections: [
+            {
+              h3: "Community Investment",
+              content: "As a local business, we're committed to the Chesapeake and Hampton Roads communities we serve.",
+              details: [
+                {
+                  h4: "Local Jobs and Economy",
+                  content: "Your purchase supports local employment and keeps dollars in our community.",
+                  points: [
+                    {
+                      h5: "Neighborhood Expertise",
+                      content: "Our team knows the unique needs of Chesapeake neighborhoods and communities.",
+                      subpoints: [
+                        {
+                          h6: "Personalized Relationships",
+                          content: "Build a lasting relationship with a dealer who knows you by name."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Explore our complete selection of new and used golf carts at our Battlefield Boulevard location. Call 1-844-844-6638 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
@@ -231,7 +369,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "EVOLUTION Electric Golf Carts",
-              content: "EVOLUTION carts are known for their rugged construction and innovative features, perfect for both recreation and utility use."
+              content: "EVOLUTION carts are known for their rugged construction and innovative features, perfect for both recreation and utility use.",
+              details: [
+                {
+                  h4: "EVOLUTION Forester Line",
+                  content: "Built for durability and performance, the Forester series handles any terrain.",
+                  points: [
+                    {
+                      h5: "All-Terrain Capability",
+                      content: "Enhanced suspension and ground clearance for off-road adventures.",
+                      subpoints: [
+                        {
+                          h6: "Premium Build Quality",
+                          content: "Heavy-duty construction ensures years of reliable performance."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -241,17 +397,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Same-Day Delivery Available",
-              content: "Many in-stock carts can be delivered to your Chesapeake home the same day you purchase."
+              content: "Many in-stock carts can be delivered to your Chesapeake home the same day you purchase.",
+              details: [
+                {
+                  h4: "Efficient Delivery Process",
+                  content: "Our dedicated delivery team ensures quick turnaround on all orders.",
+                  points: [
+                    {
+                      h5: "Delivery Scheduling",
+                      content: "Choose a time that works for your schedule.",
+                      subpoints: [
+                        {
+                          h6: "Setup Included",
+                          content: "We handle all setup before we leave your property."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Professional Setup and Training",
-              content: "Every purchase includes complete setup and a thorough orientation to help you get the most from your new cart."
+              content: "Every purchase includes complete setup and a thorough orientation to help you get the most from your new cart.",
+              details: [
+                {
+                  h4: "Comprehensive Orientation",
+                  content: "Learn all features and maintenance requirements before we leave.",
+                  points: [
+                    {
+                      h5: "Operating Instructions",
+                      content: "Complete walkthrough of all controls and features.",
+                      subpoints: [
+                        {
+                          h6: "Maintenance Tips",
+                          content: "Essential care guidelines to maximize your cart's lifespan."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Conveniently Located on Battlefield Blvd",
-          content: "Our superstore is easily accessible from all Chesapeake neighborhoods and surrounding Hampton Roads cities. With ample parking and comfortable showroom facilities, shopping for your next cart is a pleasant experience."
+          content: "Our superstore is easily accessible from all Chesapeake neighborhoods and surrounding Hampton Roads cities. With ample parking and comfortable showroom facilities, shopping for your next cart is a pleasant experience.",
+          subsections: [
+            {
+              h3: "Easy Access Location",
+              content: "Central location in Chesapeake with convenient access from major roads.",
+              details: [
+                {
+                  h4: "Ample Parking",
+                  content: "Large parking lot accommodates trailers and multiple vehicles.",
+                  points: [
+                    {
+                      h5: "Comfortable Facilities",
+                      content: "Climate-controlled showroom for year-round comfort.",
+                      subpoints: [
+                        {
+                          h6: "Refreshments Available",
+                          content: "Complimentary beverages while you browse our selection."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Visit Chesapeake's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 1234 Battlefield Blvd, Chesapeake, VA. Call 1-844-844-6638 for more information."
@@ -307,7 +523,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Environmental Benefits",
-              content: "Zero-emission electric carts help reduce your carbon footprint while providing quiet, clean transportation around your community."
+              content: "Zero-emission electric carts help reduce your carbon footprint while providing quiet, clean transportation around your community.",
+              details: [
+                {
+                  h4: "Zero Direct Emissions",
+                  content: "Electric carts produce no exhaust or emissions during operation.",
+                  points: [
+                    {
+                      h5: "Quiet Operation",
+                      content: "Nearly silent motors won't disturb neighbors or wildlife.",
+                      subpoints: [
+                        {
+                          h6: "Clean Energy Ready",
+                          content: "Charge from solar panels for truly green transportation."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -317,17 +551,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Same-Day Delivery Options",
-              content: "For in-stock models, we often can deliver your new cart the same day you purchase, getting you on the road immediately."
+              content: "For in-stock models, we often can deliver your new cart the same day you purchase, getting you on the road immediately.",
+              details: [
+                {
+                  h4: "Priority Scheduling",
+                  content: "Same-day requests are prioritized for fastest fulfillment.",
+                  points: [
+                    {
+                      h5: "Flexible Windows",
+                      content: "Choose morning or afternoon delivery times.",
+                      subpoints: [
+                        {
+                          h6: "Confirmation Calls",
+                          content: "We'll call 30 minutes before arrival for your convenience."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Professional Setup Included",
-              content: "Our delivery team will set up your cart and provide a complete orientation before leaving your home."
+              content: "Our delivery team will set up your cart and provide a complete orientation before leaving your home.",
+              details: [
+                {
+                  h4: "Full Configuration",
+                  content: "All settings adjusted to your preferences during setup.",
+                  points: [
+                    {
+                      h5: "Feature Demonstration",
+                      content: "Complete walkthrough of every feature and control.",
+                      subpoints: [
+                        {
+                          h6: "Written Materials",
+                          content: "Receive owner's manual and quick-start guide."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Electric Cart Selection",
-          content: "Browse our extensive selection of electric golf carts from DENAGO and EVOLUTION, featuring various sizes, styles, and feature packages to match your lifestyle."
+          content: "Browse our extensive selection of electric golf carts from DENAGO and EVOLUTION, featuring various sizes, styles, and feature packages to match your lifestyle.",
+          subsections: [
+            {
+              h3: "Full Model Range",
+              content: "From compact 2-seaters to spacious 6-passenger models, we have every configuration.",
+              details: [
+                {
+                  h4: "Feature Packages",
+                  content: "Choose from basic, premium, and luxury trim levels.",
+                  points: [
+                    {
+                      h5: "Customization Options",
+                      content: "Add accessories and upgrades to personalize your cart.",
+                      subpoints: [
+                        {
+                          h6: "Color Selection",
+                          content: "Multiple color options available across all models."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Experience the electric advantage with a new golf cart from Chesapeake Golf Carts. Visit our showroom at 1234 Battlefield Blvd or call 1-844-844-6638 to learn about our fast local delivery options."
@@ -383,7 +677,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Registration and Titling",
-              content: "We can assist with the registration and titling process to ensure your street-legal cart is properly documented for Virginia roads."
+              content: "We can assist with the registration and titling process to ensure your street-legal cart is properly documented for Virginia roads.",
+              details: [
+                {
+                  h4: "Virginia DMV Requirements",
+                  content: "Street-legal golf carts must be registered with the Virginia DMV and display proper license plates for legal road operation.",
+                  points: [
+                    {
+                      h5: "Title and Registration Assistance",
+                      content: "Our team guides you through the entire DMV process, helping with all required paperwork and documentation.",
+                      subpoints: [
+                        {
+                          h6: "Insurance Requirements",
+                          content: "We can recommend insurance providers familiar with LSV coverage requirements in Hampton Roads."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -393,17 +705,99 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Save on Fuel and Parking",
-              content: "Electric street-legal carts cost pennies to operate and often can park in spots too small for regular vehicles."
+              content: "Electric street-legal carts cost pennies to operate and often can park in spots too small for regular vehicles.",
+              details: [
+                {
+                  h4: "Cost Per Mile Savings",
+                  content: "Electric golf carts cost just pennies per mile compared to dollars for gas-powered vehicles.",
+                  points: [
+                    {
+                      h5: "Reduced Maintenance Costs",
+                      content: "Fewer moving parts mean lower maintenance expenses compared to traditional automobiles.",
+                      subpoints: [
+                        {
+                          h6: "No Gas Station Trips",
+                          content: "Charge at home overnight and never visit a gas station for your local errands again."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Reduce Your Carbon Footprint",
-              content: "Choose eco-friendly transportation for local errands while enjoying the open air."
+              content: "Choose eco-friendly transportation for local errands while enjoying the open air.",
+              details: [
+                {
+                  h4: "Zero Emissions Transportation",
+                  content: "Electric golf carts produce no direct emissions, helping keep Chesapeake's air clean.",
+                  points: [
+                    {
+                      h5: "Sustainable Living Choice",
+                      content: "Make an environmentally conscious choice for local transportation in Hampton Roads.",
+                      subpoints: [
+                        {
+                          h6: "Solar Charging Compatible",
+                          content: "Pair with home solar panels for truly carbon-neutral transportation around Chesapeake."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Street-Legal Models in Stock",
-          content: "Browse our selection of fully equipped street-legal golf carts from DENAGO and EVOLUTION, ready for Virginia registration and road use."
+          content: "Browse our selection of fully equipped street-legal golf carts from DENAGO and EVOLUTION, ready for Virginia registration and road use.",
+          subsections: [
+            {
+              h3: "DENAGO Street-Legal Options",
+              content: "The DENAGO lineup includes several LSV-ready models with all required safety equipment pre-installed.",
+              details: [
+                {
+                  h4: "Factory LSV Packages",
+                  content: "DENAGO offers complete LSV packages that meet Virginia requirements straight from the factory.",
+                  points: [
+                    {
+                      h5: "Complete Safety Equipment",
+                      content: "Headlights, turn signals, mirrors, seatbelts, and all DOT-required components included.",
+                      subpoints: [
+                        {
+                          h6: "Immediate Road Ready",
+                          content: "Drive your new DENAGO off our lot and onto Chesapeake streets the same day."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "EVOLUTION Street-Legal Models",
+              content: "EVOLUTION's street-legal variants combine their renowned durability with complete DOT compliance.",
+              details: [
+                {
+                  h4: "Premium LSV Features",
+                  content: "EVOLUTION street-legal models include enhanced safety features beyond minimum requirements.",
+                  points: [
+                    {
+                      h5: "Advanced Lighting Systems",
+                      content: "LED lighting packages provide superior visibility for day and night operation.",
+                      subpoints: [
+                        {
+                          h6: "Enhanced Braking Systems",
+                          content: "Premium brake systems ensure safe stopping power on Chesapeake roads."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Ready to go street-legal? Visit Chesapeake Golf Carts to see our complete selection of DOT-approved golf carts. Call 1-844-844-6638 or stop by 1234 Battlefield Blvd today."
@@ -459,7 +853,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Transparent Pricing",
-              content: "We display all prices clearly and explain every cost upfront. No hidden fees or surprise charges."
+              content: "We display all prices clearly and explain every cost upfront. No hidden fees or surprise charges.",
+              details: [
+                {
+                  h4: "Upfront Cost Breakdown",
+                  content: "Every quote includes itemized pricing for the cart, accessories, delivery, and any applicable fees.",
+                  points: [
+                    {
+                      h5: "Written Price Guarantees",
+                      content: "Get your quote in writing so you know exactly what to expect at purchase time.",
+                      subpoints: [
+                        {
+                          h6: "Price Match Commitment",
+                          content: "We'll match local competitor pricing on identical models and configurations."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -469,17 +881,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Customer Favorite: DENAGO Rover",
-              content: "The DENAGO Rover series consistently receives top marks for value, comfort, and reliability."
+              content: "The DENAGO Rover series consistently receives top marks for value, comfort, and reliability.",
+              details: [
+                {
+                  h4: "Award-Winning Design",
+                  content: "The Rover series has earned recognition for its combination of style, functionality, and value.",
+                  points: [
+                    {
+                      h5: "Reliability Ratings",
+                      content: "Industry-leading reliability scores make the Rover a top choice for Chesapeake families.",
+                      subpoints: [
+                        {
+                          h6: "Owner Satisfaction",
+                          content: "DENAGO Rover owners report exceptional satisfaction with their purchase experience."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Premium Choice: EVOLUTION D5",
-              content: "EVOLUTION's flagship models offer premium features and rugged construction that customers love."
+              content: "EVOLUTION's flagship models offer premium features and rugged construction that customers love.",
+              details: [
+                {
+                  h4: "Build Quality Excellence",
+                  content: "EVOLUTION carts are built to last with heavy-duty components and meticulous assembly.",
+                  points: [
+                    {
+                      h5: "Performance Reviews",
+                      content: "Owners consistently praise the D5's smooth ride and responsive handling.",
+                      subpoints: [
+                        {
+                          h6: "Long-Term Value",
+                          content: "EVOLUTION carts maintain their value exceptionally well in the Hampton Roads market."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Competitive Local Pricing",
-          content: "Our Chesapeake-based operation allows us to offer competitive pricing without the overhead of larger metropolitan dealers. Get more cart for your money when you shop local."
+          content: "Our Chesapeake-based operation allows us to offer competitive pricing without the overhead of larger metropolitan dealers. Get more cart for your money when you shop local.",
+          subsections: [
+            {
+              h3: "Volume Purchasing Power",
+              content: "As an authorized dealer, we leverage our buying power to pass savings directly to Chesapeake customers.",
+              details: [
+                {
+                  h4: "Direct Factory Relationships",
+                  content: "Our partnerships with DENAGO and EVOLUTION mean competitive wholesale pricing on all models.",
+                  points: [
+                    {
+                      h5: "No Middleman Markups",
+                      content: "Buy direct from an authorized dealer and avoid unnecessary price increases.",
+                      subpoints: [
+                        {
+                          h6: "Seasonal Incentives",
+                          content: "Factory promotions and rebates are passed directly to Hampton Roads customers."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Join thousands of satisfied Chesapeake customers who've chosen Chesapeake Golf Carts. Visit us at 1234 Battlefield Blvd or call 1-844-844-6638 to experience our top-rated service."
@@ -535,7 +1007,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Entry-Level New Carts",
-              content: "New golf carts start at surprisingly affordable prices, with basic models offering all the essential features you need."
+              content: "New golf carts start at surprisingly affordable prices, with basic models offering all the essential features you need.",
+              details: [
+                {
+                  h4: "Essential Features Included",
+                  content: "Even entry-level models include comfortable seating, reliable batteries, and smooth operation.",
+                  points: [
+                    {
+                      h5: "Full Manufacturer Warranty",
+                      content: "All new carts come with complete manufacturer warranty coverage for peace of mind.",
+                      subpoints: [
+                        {
+                          h6: "Upgrade Path Available",
+                          content: "Start basic and add accessories over time as your budget allows."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -545,17 +1035,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Easy Approval Process",
-              content: "Our financing partners work with all credit situations to find approval options that work for you."
+              content: "Our financing partners work with all credit situations to find approval options that work for you.",
+              details: [
+                {
+                  h4: "Multiple Lender Options",
+                  content: "We work with several lenders to find the best terms for your credit situation.",
+                  points: [
+                    {
+                      h5: "Same-Day Decisions",
+                      content: "Most applications receive credit decisions within minutes, not days.",
+                      subpoints: [
+                        {
+                          h6: "Confidential Processing",
+                          content: "Your financial information is handled securely and confidentially throughout the process."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Low Monthly Payments",
-              content: "Spread your purchase over comfortable monthly payments that fit your budget."
+              content: "Spread your purchase over comfortable monthly payments that fit your budget.",
+              details: [
+                {
+                  h4: "Flexible Term Lengths",
+                  content: "Choose from various term options to find the monthly payment that works for your budget.",
+                  points: [
+                    {
+                      h5: "No Prepayment Penalties",
+                      content: "Pay off your loan early without any additional fees or penalties.",
+                      subpoints: [
+                        {
+                          h6: "Automatic Payment Options",
+                          content: "Set up automatic payments for convenient, worry-free loan management."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Best Deals in Hampton Roads",
-          content: "We regularly offer special promotions, seasonal sales, and package deals that provide exceptional value on quality golf carts."
+          content: "We regularly offer special promotions, seasonal sales, and package deals that provide exceptional value on quality golf carts.",
+          subsections: [
+            {
+              h3: "Seasonal Promotions",
+              content: "Watch for seasonal sales events offering significant savings on select inventory.",
+              details: [
+                {
+                  h4: "Holiday Sales Events",
+                  content: "Major holiday weekends bring special pricing and exclusive package deals.",
+                  points: [
+                    {
+                      h5: "Email Subscriber Specials",
+                      content: "Join our email list for early access to sales and subscriber-only discounts.",
+                      subpoints: [
+                        {
+                          h6: "Limited-Time Offers",
+                          content: "Act fast on limited-time deals that offer the best value in Chesapeake."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Affordable golf cart ownership starts at Chesapeake Golf Carts. Visit us at 1234 Battlefield Blvd or call 1-844-844-6638 to explore your budget-friendly options today."
@@ -611,7 +1161,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Seating Configurations",
-              content: "From 2-seat commuter carts to 6-passenger family models, choose the size that fits your typical usage."
+              content: "From 2-seat commuter carts to 6-passenger family models, choose the size that fits your typical usage.",
+              details: [
+                {
+                  h4: "Family Size Considerations",
+                  content: "Think about who will ride regularly and any additional passengers you may occasionally transport.",
+                  points: [
+                    {
+                      h5: "Growth Planning",
+                      content: "Consider future needs when selecting seating capacity for your Chesapeake home.",
+                      subpoints: [
+                        {
+                          h6: "Resale Value",
+                          content: "Larger capacity carts often maintain better resale value in the Hampton Roads market."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -621,11 +1189,47 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Street-Legal Requirements",
-              content: "If you plan to drive on Chesapeake streets, ensure your cart includes all required DOT safety equipment."
+              content: "If you plan to drive on Chesapeake streets, ensure your cart includes all required DOT safety equipment.",
+              details: [
+                {
+                  h4: "LSV Equipment Checklist",
+                  content: "Street-legal carts need headlights, taillights, turn signals, mirrors, seatbelts, and more.",
+                  points: [
+                    {
+                      h5: "Pre-Equipped Options",
+                      content: "Many models come street-legal ready, saving you the cost of aftermarket additions.",
+                      subpoints: [
+                        {
+                          h6: "Certification Documentation",
+                          content: "Ensure your cart includes proper LSV certification for Virginia DMV registration."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Comfort and Convenience",
-              content: "Consider features like premium seating, sound systems, cup holders, and storage space."
+              content: "Consider features like premium seating, sound systems, cup holders, and storage space.",
+              details: [
+                {
+                  h4: "Must-Have Amenities",
+                  content: "Prioritize features that enhance your daily driving experience in Chesapeake neighborhoods.",
+                  points: [
+                    {
+                      h5: "Climate Considerations",
+                      content: "Features like fans, heaters, and weather enclosures matter in Virginia's varied seasons.",
+                      subpoints: [
+                        {
+                          h6: "USB Charging Ports",
+                          content: "Keep devices charged on the go with convenient onboard power options."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -635,11 +1239,47 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Where You Can Drive",
-              content: "Street-legal carts can operate on roads with speed limits of 35 mph or less in Virginia."
+              content: "Street-legal carts can operate on roads with speed limits of 35 mph or less in Virginia.",
+              details: [
+                {
+                  h4: "Chesapeake Street Access",
+                  content: "Many Chesapeake residential streets qualify for golf cart use under Virginia law.",
+                  points: [
+                    {
+                      h5: "Neighborhood Routes",
+                      content: "Plan routes that stay on qualifying roads throughout your Chesapeake community.",
+                      subpoints: [
+                        {
+                          h6: "Crossing Major Roads",
+                          content: "Virginia law allows crossing higher-speed roads at designated intersections."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Insurance Requirements",
-              content: "Virginia requires liability insurance for street-legal golf carts operated on public roads."
+              content: "Virginia requires liability insurance for street-legal golf carts operated on public roads.",
+              details: [
+                {
+                  h4: "Coverage Minimums",
+                  content: "Virginia law specifies minimum liability coverage amounts for LSV operation.",
+                  points: [
+                    {
+                      h5: "Policy Options",
+                      content: "Many insurance providers offer golf cart policies or add-ons to existing auto policies.",
+                      subpoints: [
+                        {
+                          h6: "Local Insurance Agents",
+                          content: "We can recommend Hampton Roads insurance agents familiar with golf cart coverage."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -697,7 +1337,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Advanced Technology",
-              content: "Premium carts include features like touchscreen displays, GPS navigation, Bluetooth audio, and smartphone integration."
+              content: "Premium carts include features like touchscreen displays, GPS navigation, Bluetooth audio, and smartphone integration.",
+              details: [
+                {
+                  h4: "Smart Connectivity Features",
+                  content: "Stay connected with integrated technology that rivals modern automobiles.",
+                  points: [
+                    {
+                      h5: "Mobile App Integration",
+                      content: "Control and monitor your cart from your smartphone with compatible mobile applications.",
+                      subpoints: [
+                        {
+                          h6: "Remote Diagnostics",
+                          content: "Monitor battery status, range, and maintenance alerts from anywhere."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -707,7 +1365,47 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "DENAGO Cruiser Platinum",
-              content: "The flagship Cruiser Platinum includes all premium features standard, with elegant styling and commanding presence."
+              content: "The flagship Cruiser Platinum includes all premium features standard, with elegant styling and commanding presence.",
+              details: [
+                {
+                  h4: "Standard Luxury Equipment",
+                  content: "Every Cruiser Platinum comes fully loaded with premium amenities.",
+                  points: [
+                    {
+                      h5: "Premium Sound System",
+                      content: "Built-in marine-grade speakers deliver exceptional audio quality.",
+                      subpoints: [
+                        {
+                          h6: "Bluetooth and USB Connectivity",
+                          content: "Stream music wirelessly or connect devices directly to the premium audio system."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "DENAGO EV Nomad XL Premium",
+              content: "The Nomad XL Premium offers expanded capacity with luxury appointments throughout.",
+              details: [
+                {
+                  h4: "Extended Passenger Comfort",
+                  content: "Premium seating and climate features ensure comfort for all passengers.",
+                  points: [
+                    {
+                      h5: "Premium Suspension System",
+                      content: "Enhanced suspension provides a smooth ride across Chesapeake's varied terrain.",
+                      subpoints: [
+                        {
+                          h6: "Adjustable Comfort Settings",
+                          content: "Fine-tune ride quality to match passenger preferences and road conditions."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -717,7 +1415,47 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "EVOLUTION Forester",
-              content: "The Forester line delivers premium features with enhanced utility and off-road capability."
+              content: "The Forester line delivers premium features with enhanced utility and off-road capability.",
+              details: [
+                {
+                  h4: "Trail-Ready Luxury",
+                  content: "Experience premium comfort even on the most challenging terrain around Hampton Roads.",
+                  points: [
+                    {
+                      h5: "Heavy-Duty Construction",
+                      content: "Reinforced chassis and premium components handle demanding conditions.",
+                      subpoints: [
+                        {
+                          h6: "All-Weather Capability",
+                          content: "Premium weather protection features keep you comfortable in Virginia's varied climate."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "EVOLUTION D6 Max Series",
+              content: "The D6 Max represents EVOLUTION's pinnacle of premium golf cart engineering.",
+              details: [
+                {
+                  h4: "Flagship Performance",
+                  content: "Maximum power and range combined with ultimate comfort and technology.",
+                  points: [
+                    {
+                      h5: "Premium Battery System",
+                      content: "Extended-range lithium batteries provide industry-leading performance.",
+                      subpoints: [
+                        {
+                          h6: "Rapid Charging Technology",
+                          content: "Get back on the road quickly with fast-charging capability."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -775,7 +1513,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Transparent Business Practices",
-              content: "We believe in clear communication, honest pricing, and delivering on our promises."
+              content: "We believe in clear communication, honest pricing, and delivering on our promises.",
+              details: [
+                {
+                  h4: "No Hidden Fees",
+                  content: "Every quote includes all costs so you know exactly what you'll pay.",
+                  points: [
+                    {
+                      h5: "Clear Documentation",
+                      content: "Receive detailed paperwork explaining every aspect of your purchase.",
+                      subpoints: [
+                        {
+                          h6: "Open Communication",
+                          content: "Our team answers your questions honestly and completely at every step."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -785,17 +1541,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Factory-Authorized Service",
-              content: "We're authorized to perform warranty work for both DENAGO and EVOLUTION, ensuring your coverage is honored locally."
+              content: "We're authorized to perform warranty work for both DENAGO and EVOLUTION, ensuring your coverage is honored locally.",
+              details: [
+                {
+                  h4: "Certified Technicians",
+                  content: "Our service team maintains factory certifications and ongoing training.",
+                  points: [
+                    {
+                      h5: "Warranty Processing",
+                      content: "We handle all warranty claims directly with manufacturers on your behalf.",
+                      subpoints: [
+                        {
+                          h6: "Fast Turnaround",
+                          content: "Most warranty repairs are completed within days, not weeks."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Genuine Parts Only",
-              content: "We use only genuine OEM parts in our service work, maintaining the quality and value of your investment."
+              content: "We use only genuine OEM parts in our service work, maintaining the quality and value of your investment.",
+              details: [
+                {
+                  h4: "Parts Inventory",
+                  content: "We stock commonly needed parts for quick repairs and maintenance.",
+                  points: [
+                    {
+                      h5: "Quality Assurance",
+                      content: "OEM parts ensure your cart performs as designed with full compatibility.",
+                      subpoints: [
+                        {
+                          h6: "Parts Warranty",
+                          content: "All replacement parts come with manufacturer warranty coverage."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Serving All of Hampton Roads",
-          content: "From Chesapeake to Virginia Beach, Norfolk to Suffolk, we serve customers throughout the Hampton Roads region with the same level of care and commitment."
+          content: "From Chesapeake to Virginia Beach, Norfolk to Suffolk, we serve customers throughout the Hampton Roads region with the same level of care and commitment.",
+          subsections: [
+            {
+              h3: "Regional Delivery Coverage",
+              content: "We deliver golf carts throughout Hampton Roads and surrounding Virginia communities.",
+              details: [
+                {
+                  h4: "Free Local Delivery",
+                  content: "Complimentary delivery within our primary service area.",
+                  points: [
+                    {
+                      h5: "Extended Delivery Available",
+                      content: "We can arrange delivery to locations beyond our standard area for a fee.",
+                      subpoints: [
+                        {
+                          h6: "White Glove Setup",
+                          content: "Every delivery includes complete setup and customer orientation."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Experience the difference of working with a trusted local dealer. Visit Chesapeake Golf Carts at 1234 Battlefield Blvd or call 1-844-844-6638."
@@ -851,7 +1667,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Aggressive Styling",
-              content: "Lifted carts make a statement with their commanding presence and custom appearance."
+              content: "Lifted carts make a statement with their commanding presence and custom appearance.",
+              details: [
+                {
+                  h4: "Head-Turning Presence",
+                  content: "A lifted golf cart stands out in any Chesapeake neighborhood with its commanding stance.",
+                  points: [
+                    {
+                      h5: "Custom Wheel Packages",
+                      content: "Complement your lift with custom wheels that enhance the aggressive appearance.",
+                      subpoints: [
+                        {
+                          h6: "Coordinated Accessories",
+                          content: "Match your lifted cart with bumpers, lights, and trim for a complete custom look."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -861,17 +1695,99 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "DENAGO Lifted Options",
-              content: "The DENAGO lineup includes lifted variants with coordinated suspension, tires, and styling."
+              content: "The DENAGO lineup includes lifted variants with coordinated suspension, tires, and styling.",
+              details: [
+                {
+                  h4: "Factory-Engineered Lifts",
+                  content: "DENAGO's lifted models are designed from the ground up for elevated performance.",
+                  points: [
+                    {
+                      h5: "Integrated Suspension",
+                      content: "Suspension components are specifically tuned for the lifted platform.",
+                      subpoints: [
+                        {
+                          h6: "Full Warranty Coverage",
+                          content: "Factory lifts maintain complete manufacturer warranty protection."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "EVOLUTION Off-Road Models",
-              content: "EVOLUTION's rugged design translates perfectly to lifted configurations with enhanced capability."
+              content: "EVOLUTION's rugged design translates perfectly to lifted configurations with enhanced capability.",
+              details: [
+                {
+                  h4: "Built for Adventure",
+                  content: "EVOLUTION lifted models are ready for trails and rough terrain around Hampton Roads.",
+                  points: [
+                    {
+                      h5: "Heavy-Duty Components",
+                      content: "Reinforced axles and suspension handle the demands of off-road use.",
+                      subpoints: [
+                        {
+                          h6: "Trail-Ready Packages",
+                          content: "Complete off-road packages include skid plates, bumpers, and enhanced lighting."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Custom Lift Kit Installation",
-          content: "Our service team can professionally install lift kits on existing carts, transforming your current ride into a lifted machine."
+          content: "Our service team can professionally install lift kits on existing carts, transforming your current ride into a lifted machine.",
+          subsections: [
+            {
+              h3: "Professional Installation",
+              content: "Our technicians have extensive experience installing lift kits on all makes and models.",
+              details: [
+                {
+                  h4: "Quality Lift Kits",
+                  content: "We use premium lift kit brands known for quality and durability.",
+                  points: [
+                    {
+                      h5: "Proper Alignment",
+                      content: "Every lift installation includes proper alignment to ensure safe handling.",
+                      subpoints: [
+                        {
+                          h6: "Post-Installation Inspection",
+                          content: "Complete safety inspection after every lift kit installation."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "Upgrade Packages",
+              content: "Combine your lift with tire upgrades, wheels, and accessories for a complete transformation.",
+              details: [
+                {
+                  h4: "Complete Lift Packages",
+                  content: "Bundle lift kits with tires and wheels for the best value.",
+                  points: [
+                    {
+                      h5: "Customized Recommendations",
+                      content: "Our team helps you choose the right lift height and components for your needs.",
+                      subpoints: [
+                        {
+                          h6: "Financing Available",
+                          content: "Finance your lift kit installation along with your golf cart purchase."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "See our selection of lifted golf carts at Chesapeake Golf Carts. Located at 1234 Battlefield Blvd, or call 1-844-844-6638 to discuss your lifting options."
@@ -927,7 +1843,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Performance Upgrades",
-              content: "Enhance your cart's capabilities with lift kits, upgraded motors, performance tires, and suspension improvements."
+              content: "Enhance your cart's capabilities with lift kits, upgraded motors, performance tires, and suspension improvements.",
+              details: [
+                {
+                  h4: "Motor and Controller Upgrades",
+                  content: "Increase power and speed with upgraded electric motors and performance controllers.",
+                  points: [
+                    {
+                      h5: "Speed Enhancements",
+                      content: "Legal speed modifications for improved performance on private property.",
+                      subpoints: [
+                        {
+                          h6: "Torque Improvements",
+                          content: "Enhanced torque for better hill climbing and acceleration around Chesapeake."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -937,17 +1871,99 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Premium Seating",
-              content: "Choose from various seat styles, materials, and colors to create the perfect interior."
+              content: "Choose from various seat styles, materials, and colors to create the perfect interior.",
+              details: [
+                {
+                  h4: "Custom Upholstery Options",
+                  content: "Select from leather, marine-grade vinyl, or custom fabrics in any color.",
+                  points: [
+                    {
+                      h5: "Ergonomic Designs",
+                      content: "Premium seats offer enhanced comfort for extended rides around Hampton Roads.",
+                      subpoints: [
+                        {
+                          h6: "Weather-Resistant Materials",
+                          content: "All upholstery is designed to withstand Virginia's climate and weather."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Audio and Entertainment",
-              content: "Add premium sound systems, Bluetooth capability, and even screen displays."
+              content: "Add premium sound systems, Bluetooth capability, and even screen displays.",
+              details: [
+                {
+                  h4: "Marine-Grade Audio Systems",
+                  content: "High-quality speakers and amplifiers built to withstand outdoor conditions.",
+                  points: [
+                    {
+                      h5: "Bluetooth Integration",
+                      content: "Stream music wirelessly from any smartphone or device.",
+                      subpoints: [
+                        {
+                          h6: "Subwoofer Options",
+                          content: "Add bass for a complete audio experience in your custom cart."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Accessories and Add-Ons",
-          content: "Complete your custom build with practical accessories like enclosures, storage solutions, lighting packages, and utility features."
+          content: "Complete your custom build with practical accessories like enclosures, storage solutions, lighting packages, and utility features.",
+          subsections: [
+            {
+              h3: "Weather Protection",
+              content: "Enclosures, roofs, and windshields keep you comfortable in any Chesapeake weather.",
+              details: [
+                {
+                  h4: "Full Enclosure Systems",
+                  content: "Complete weather protection with doors and windows for year-round comfort.",
+                  points: [
+                    {
+                      h5: "Removable Options",
+                      content: "Many enclosures can be easily removed for open-air driving.",
+                      subpoints: [
+                        {
+                          h6: "Climate Control Add-Ons",
+                          content: "Heaters and fans extend your comfortable driving season."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "Lighting Packages",
+              content: "Enhance visibility and style with custom LED lighting throughout your cart.",
+              details: [
+                {
+                  h4: "LED Light Bars",
+                  content: "Powerful lighting for night driving and off-road adventures.",
+                  points: [
+                    {
+                      h5: "Underbody Lighting",
+                      content: "Custom accent lighting adds style and visibility to your cart.",
+                      subpoints: [
+                        {
+                          h6: "Color-Changing Options",
+                          content: "RGB lighting systems let you customize colors to match your mood."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Start designing your custom golf cart today at Chesapeake Golf Carts. Visit our showroom at 1234 Battlefield Blvd or call 1-844-844-6638 to discuss your vision."
@@ -1003,7 +2019,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Visibility and Lighting",
-              content: "LED lighting packages ensure your cart is visible during dawn, dusk, and evening hours when families are often out."
+              content: "LED lighting packages ensure your cart is visible during dawn, dusk, and evening hours when families are often out.",
+              details: [
+                {
+                  h4: "Comprehensive Lighting Systems",
+                  content: "Complete lighting includes headlights, taillights, and turn signals for maximum visibility.",
+                  points: [
+                    {
+                      h5: "Reflective Elements",
+                      content: "Additional reflective components enhance visibility in low-light conditions.",
+                      subpoints: [
+                        {
+                          h6: "LED Efficiency",
+                          content: "Energy-efficient LED lights provide bright illumination without draining batteries."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1013,17 +2047,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "4-Passenger Family Models",
-              content: "Perfect for smaller families or when you want extra cargo space behind the seats."
+              content: "Perfect for smaller families or when you want extra cargo space behind the seats.",
+              details: [
+                {
+                  h4: "Compact Yet Spacious",
+                  content: "4-passenger models offer the ideal balance of seating and maneuverability.",
+                  points: [
+                    {
+                      h5: "Storage Options",
+                      content: "Rear cargo areas accommodate groceries, sports equipment, and beach supplies.",
+                      subpoints: [
+                        {
+                          h6: "Easy Parking",
+                          content: "Smaller footprint makes parking and storage in your Chesapeake garage easier."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "6-Passenger Extended Models",
-              content: "Bring the whole family plus friends with spacious 6-seat configurations."
+              content: "Bring the whole family plus friends with spacious 6-seat configurations.",
+              details: [
+                {
+                  h4: "Maximum Seating Capacity",
+                  content: "Transport the entire family to community events, pools, and neighborhood gatherings.",
+                  points: [
+                    {
+                      h5: "Rear-Facing Bench Seats",
+                      content: "Many 6-passenger models feature forward and rear-facing seating arrangements.",
+                      subpoints: [
+                        {
+                          h6: "Convertible Configurations",
+                          content: "Some models convert rear seats to cargo space when full capacity isn't needed."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Neighborhood and Community Use",
-          content: "Our family carts are ideal for trips to the pool, visiting neighbors, community events, and exploring your Chesapeake neighborhood safely."
+          content: "Our family carts are ideal for trips to the pool, visiting neighbors, community events, and exploring your Chesapeake neighborhood safely.",
+          subsections: [
+            {
+              h3: "Community Amenity Access",
+              content: "Easily reach community pools, parks, clubhouses, and recreational facilities.",
+              details: [
+                {
+                  h4: "Perfect for Community Events",
+                  content: "Transport your family to neighborhood gatherings, block parties, and local activities.",
+                  points: [
+                    {
+                      h5: "Social Connection",
+                      content: "Golf carts encourage interaction with neighbors and community involvement.",
+                      subpoints: [
+                        {
+                          h6: "Kid-Friendly Transport",
+                          content: "Children love riding in golf carts to visit friends and attend activities."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Find the perfect family golf cart at Chesapeake Golf Carts. Visit us at 1234 Battlefield Blvd or call 1-844-844-6638 to see our family-friendly selection."
@@ -1079,7 +2173,47 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Greenbrier Community",
-              content: "Greenbrier's planned community layout is ideal for golf cart transportation, with easy access to shopping, dining, and recreation."
+              content: "Greenbrier's planned community layout is ideal for golf cart transportation, with easy access to shopping, dining, and recreation.",
+              details: [
+                {
+                  h4: "Shopping and Dining Access",
+                  content: "Golf carts provide convenient transportation to Greenbrier Mall and surrounding restaurants.",
+                  points: [
+                    {
+                      h5: "Designated Paths",
+                      content: "Many Greenbrier developments include paths suitable for golf cart travel.",
+                      subpoints: [
+                        {
+                          h6: "Community Integration",
+                          content: "Greenbrier's family-friendly atmosphere welcomes golf cart use for neighborhood connectivity."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "Western Branch Area",
+              content: "Western Branch offers excellent golf cart-friendly neighborhoods with wide streets and community amenities.",
+              details: [
+                {
+                  h4: "Suburban Connectivity",
+                  content: "Connect to parks, schools, and community centers via golf cart-friendly routes.",
+                  points: [
+                    {
+                      h5: "New Development Access",
+                      content: "Newer Western Branch communities often include golf cart considerations in their design.",
+                      subpoints: [
+                        {
+                          h6: "Growing Golf Cart Culture",
+                          content: "More Western Branch families are discovering the convenience of golf cart ownership."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1089,17 +2223,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Convenience and Accessibility",
-              content: "Quick trips to the mailbox, pool, neighbor's house, or nearby stores become effortless with a golf cart."
+              content: "Quick trips to the mailbox, pool, neighbor's house, or nearby stores become effortless with a golf cart.",
+              details: [
+                {
+                  h4: "Daily Errand Convenience",
+                  content: "Handle routine neighborhood tasks without the hassle of a full-size vehicle.",
+                  points: [
+                    {
+                      h5: "Quick Start and Go",
+                      content: "No warm-up needed - simply turn the key and go.",
+                      subpoints: [
+                        {
+                          h6: "Easy Parking Anywhere",
+                          content: "Park closer to destinations without searching for parking spaces."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Environmental Benefits",
-              content: "Electric carts produce zero emissions, helping keep Chesapeake's air clean and neighborhoods quiet."
+              content: "Electric carts produce zero emissions, helping keep Chesapeake's air clean and neighborhoods quiet.",
+              details: [
+                {
+                  h4: "Zero Local Emissions",
+                  content: "Electric carts produce no exhaust, making them ideal for neighborhood use.",
+                  points: [
+                    {
+                      h5: "Quiet Operation",
+                      content: "Near-silent electric motors won't disturb neighbors or disrupt the peaceful environment.",
+                      subpoints: [
+                        {
+                          h6: "Low Energy Footprint",
+                          content: "Charging costs a fraction of gasoline, reducing both expense and environmental impact."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Serving All Chesapeake Neighborhoods",
-          content: "From Deep Creek to South Norfolk, Hickory to Indian River, we deliver golf carts to every corner of Chesapeake."
+          content: "From Deep Creek to South Norfolk, Hickory to Indian River, we deliver golf carts to every corner of Chesapeake.",
+          subsections: [
+            {
+              h3: "Complete Chesapeake Coverage",
+              content: "No matter where you live in Chesapeake, we can deliver and service your golf cart.",
+              details: [
+                {
+                  h4: "Free Delivery Available",
+                  content: "We offer complimentary delivery throughout Chesapeake city limits.",
+                  points: [
+                    {
+                      h5: "White Glove Service",
+                      content: "Every delivery includes complete setup and customer orientation.",
+                      subpoints: [
+                        {
+                          h6: "Ongoing Local Support",
+                          content: "Our Battlefield Boulevard location provides convenient access for service and support."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Find your perfect neighborhood golf cart at Chesapeake Golf Carts. Visit 1234 Battlefield Blvd or call 1-844-844-6638 today."
@@ -1155,7 +2349,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Same Great Service",
-              content: "Outlet pricing doesn't mean outlet service. You still get our full support, warranty service, and customer care."
+              content: "Outlet pricing doesn't mean outlet service. You still get our full support, warranty service, and customer care.",
+              details: [
+                {
+                  h4: "Full Warranty Coverage",
+                  content: "All outlet-priced carts include the same manufacturer warranty as regular inventory.",
+                  points: [
+                    {
+                      h5: "Complete Support",
+                      content: "Access to our service department for maintenance, repairs, and questions.",
+                      subpoints: [
+                        {
+                          h6: "After-Sale Care",
+                          content: "We stand behind every sale with ongoing customer support."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1165,17 +2377,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "New Cart Specials",
-              content: "Last year's models, demos, and overstocked inventory at reduced prices."
+              content: "Last year's models, demos, and overstocked inventory at reduced prices.",
+              details: [
+                {
+                  h4: "Demo and Display Units",
+                  content: "Showroom models with minimal use available at significant discounts.",
+                  points: [
+                    {
+                      h5: "Like-New Condition",
+                      content: "Demo units have full warranty and are thoroughly inspected before sale.",
+                      subpoints: [
+                        {
+                          h6: "Model Year Closeouts",
+                          content: "Previous model year carts offer exceptional savings with the same quality."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Pre-Owned Values",
-              content: "Quality pre-owned carts at outlet prices offer exceptional value for budget-conscious buyers."
+              content: "Quality pre-owned carts at outlet prices offer exceptional value for budget-conscious buyers.",
+              details: [
+                {
+                  h4: "Certified Pre-Owned Program",
+                  content: "Our pre-owned carts undergo thorough inspection and reconditioning.",
+                  points: [
+                    {
+                      h5: "Quality Standards",
+                      content: "We only sell pre-owned carts that meet our strict quality requirements.",
+                      subpoints: [
+                        {
+                          h6: "Included Warranty Options",
+                          content: "Select pre-owned carts include limited warranty coverage for added confidence."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Limited Time Availability",
-          content: "Outlet-priced inventory moves quickly. When you see a deal you like, act fast as these carts don't last long."
+          content: "Outlet-priced inventory moves quickly. When you see a deal you like, act fast as these carts don't last long.",
+          subsections: [
+            {
+              h3: "First-Come, First-Served",
+              content: "Outlet deals are offered on available inventory and cannot be rain-checked.",
+              details: [
+                {
+                  h4: "Real-Time Inventory",
+                  content: "Contact us for the most current outlet inventory availability.",
+                  points: [
+                    {
+                      h5: "Reserve Your Cart",
+                      content: "Place a deposit to hold an outlet-priced cart while completing financing.",
+                      subpoints: [
+                        {
+                          h6: "Priority Notifications",
+                          content: "Sign up to receive alerts when new outlet deals become available."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Shop outlet prices at Chesapeake Golf Carts. Visit 1234 Battlefield Blvd or call 1-844-844-6638 to see current specials."
@@ -1231,7 +2503,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Suspension and Handling",
-              content: "Performance suspension packages improve handling, reduce body roll, and enhance the driving experience."
+              content: "Performance suspension packages improve handling, reduce body roll, and enhance the driving experience.",
+              details: [
+                {
+                  h4: "Sport-Tuned Suspension",
+                  content: "Upgraded shocks and springs provide better control and a more engaging ride.",
+                  points: [
+                    {
+                      h5: "Cornering Performance",
+                      content: "Reduced body roll allows for more confident handling at higher speeds.",
+                      subpoints: [
+                        {
+                          h6: "Adjustable Components",
+                          content: "Some suspension upgrades offer adjustable settings for personalized performance."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1241,13 +2531,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Performance Warranty Coverage",
-              content: "Factory performance models maintain full warranty coverage, unlike some aftermarket modifications."
+              content: "Factory performance models maintain full warranty coverage, unlike some aftermarket modifications.",
+              details: [
+                {
+                  h4: "Manufacturer-Backed Performance",
+                  content: "All factory performance components are covered under the standard manufacturer warranty.",
+                  points: [
+                    {
+                      h5: "Reliable Upgrades",
+                      content: "Factory performance parts are tested and validated for reliability and durability.",
+                      subpoints: [
+                        {
+                          h6: "Integrated Systems",
+                          content: "Factory performance components are designed to work together seamlessly."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "DENAGO Performance Line",
+              content: "DENAGO offers enhanced performance variants across their popular model range.",
+              details: [
+                {
+                  h4: "Enhanced Power Output",
+                  content: "Performance DENAGO models feature upgraded motors for improved acceleration.",
+                  points: [
+                    {
+                      h5: "Sport Styling",
+                      content: "Distinctive styling elements identify performance models at a glance.",
+                      subpoints: [
+                        {
+                          h6: "Performance Wheels",
+                          content: "Upgraded wheels and tires complete the performance package."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Test Drive Experience",
-          content: "Schedule a test ride at our facility to experience high-performance golf carts firsthand. Feel the difference that performance upgrades make."
+          content: "Schedule a test ride at our facility to experience high-performance golf carts firsthand. Feel the difference that performance upgrades make.",
+          subsections: [
+            {
+              h3: "Compare Performance Models",
+              content: "Test drive multiple performance carts to find the one that matches your driving style.",
+              details: [
+                {
+                  h4: "Side-by-Side Comparisons",
+                  content: "Experience the differences between performance models back-to-back.",
+                  points: [
+                    {
+                      h5: "Expert Guidance",
+                      content: "Our team explains the features and benefits of each performance option.",
+                      subpoints: [
+                        {
+                          h6: "No-Pressure Experience",
+                          content: "Take your time testing carts without sales pressure - we want you to find the perfect fit."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Experience high-performance golf carts at Chesapeake Golf Carts. Call 1-844-844-6638 to schedule your test ride today."
@@ -1303,7 +2657,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "In-Store Financing",
-              content: "Complete your application in person with our finance team for personalized assistance."
+              content: "Complete your application in person with our finance team for personalized assistance.",
+              details: [
+                {
+                  h4: "Face-to-Face Support",
+                  content: "Our finance team walks you through every step of the application process.",
+                  points: [
+                    {
+                      h5: "Document Guidance",
+                      content: "We help you gather and organize all required documentation.",
+                      subpoints: [
+                        {
+                          h6: "Same-Day Processing",
+                          content: "Many applications are processed and approved during your visit."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1313,17 +2685,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Low Monthly Payments",
-              content: "Extended terms spread your purchase over comfortable monthly payments."
+              content: "Extended terms spread your purchase over comfortable monthly payments.",
+              details: [
+                {
+                  h4: "Custom Payment Structures",
+                  content: "Choose the term length that creates a payment you're comfortable with.",
+                  points: [
+                    {
+                      h5: "Budget Planning",
+                      content: "Our team helps you find the sweet spot between term length and monthly cost.",
+                      subpoints: [
+                        {
+                          h6: "Payment Calculators",
+                          content: "Estimate your monthly payments before applying using our online tools."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Competitive Interest Rates",
-              content: "Our lender relationships help secure competitive rates for qualified buyers."
+              content: "Our lender relationships help secure competitive rates for qualified buyers.",
+              details: [
+                {
+                  h4: "Multiple Lender Options",
+                  content: "We work with several lenders to find the best rates for your credit profile.",
+                  points: [
+                    {
+                      h5: "Rate Comparisons",
+                      content: "We present multiple options so you can choose the best terms for your situation.",
+                      subpoints: [
+                        {
+                          h6: "Special Rate Programs",
+                          content: "Seasonal promotions and manufacturer incentives may offer additional rate reductions."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "All Credit Situations Welcome",
-          content: "Whether you have excellent credit, challenged credit, or are building credit, we work to find financing solutions."
+          content: "Whether you have excellent credit, challenged credit, or are building credit, we work to find financing solutions.",
+          subsections: [
+            {
+              h3: "Credit Rebuilding Options",
+              content: "Golf cart financing can be an excellent way to rebuild or establish credit.",
+              details: [
+                {
+                  h4: "Specialized Programs",
+                  content: "Our lender network includes programs specifically designed for credit challenges.",
+                  points: [
+                    {
+                      h5: "Fresh Start Financing",
+                      content: "Special programs for those rebuilding credit after past difficulties.",
+                      subpoints: [
+                        {
+                          h6: "Positive Credit Reporting",
+                          content: "On-time payments help build positive credit history for future needs."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Apply for golf cart financing today at Chesapeake Golf Carts. Visit 1234 Battlefield Blvd or call 1-844-844-6638 to get started."
@@ -1379,7 +2811,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Retirement Communities",
-              content: "Golf carts are particularly popular in retirement communities where they provide easy, accessible transportation."
+              content: "Golf carts are particularly popular in retirement communities where they provide easy, accessible transportation.",
+              details: [
+                {
+                  h4: "Accessibility Features",
+                  content: "Many models offer features that accommodate mobility needs and accessibility requirements.",
+                  points: [
+                    {
+                      h5: "Easy Entry and Exit",
+                      content: "Low step-in heights and grab handles make boarding and exiting simple.",
+                      subpoints: [
+                        {
+                          h6: "Senior-Friendly Controls",
+                          content: "Simple, intuitive controls ensure safe operation for all age groups."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1389,17 +2839,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Campground Transportation",
-              content: "Navigate campgrounds, RV parks, and outdoor recreation areas comfortably and quietly."
+              content: "Navigate campgrounds, RV parks, and outdoor recreation areas comfortably and quietly.",
+              details: [
+                {
+                  h4: "Quiet Enjoyment",
+                  content: "Electric carts operate silently, preserving the peaceful atmosphere of outdoor environments.",
+                  points: [
+                    {
+                      h5: "Trail Navigation",
+                      content: "Navigate campground paths and trails with ease using compact, maneuverable carts.",
+                      subpoints: [
+                        {
+                          h6: "Gear and Supply Transport",
+                          content: "Carry camping gear, supplies, and equipment around your campsite effortlessly."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Facility Operations",
-              content: "Golf carts are essential for maintenance, security, and operational needs at recreational facilities."
+              content: "Golf carts are essential for maintenance, security, and operational needs at recreational facilities.",
+              details: [
+                {
+                  h4: "Utility Cart Options",
+                  content: "Work-oriented carts with cargo beds and utility features support facility operations.",
+                  points: [
+                    {
+                      h5: "Maintenance Use",
+                      content: "Transport tools, equipment, and supplies throughout your facility.",
+                      subpoints: [
+                        {
+                          h6: "Security Patrols",
+                          content: "Efficient, quiet transportation for security personnel monitoring large properties."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Fleet and Multi-Unit Options",
-          content: "We offer fleet pricing and support for communities, facilities, and organizations needing multiple carts."
+          content: "We offer fleet pricing and support for communities, facilities, and organizations needing multiple carts.",
+          subsections: [
+            {
+              h3: "Volume Pricing Programs",
+              content: "Significant savings on multi-unit purchases for HOAs, facilities, and commercial buyers.",
+              details: [
+                {
+                  h4: "Customized Fleet Solutions",
+                  content: "We help design fleet packages that meet your organization's specific needs.",
+                  points: [
+                    {
+                      h5: "Fleet Service Agreements",
+                      content: "Maintenance and service programs for fleet customers ensure reliable operation.",
+                      subpoints: [
+                        {
+                          h6: "Replacement and Rotation",
+                          content: "Fleet management support including replacement planning and rotation schedules."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Explore recreational and community golf cart options at Chesapeake Golf Carts. Call 1-844-844-6638 or visit 1234 Battlefield Blvd."
@@ -1455,7 +2965,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Advanced Technology",
-              content: "Touchscreen displays, GPS navigation, premium audio, and smart connectivity enhance every ride."
+              content: "Touchscreen displays, GPS navigation, premium audio, and smart connectivity enhance every ride.",
+              details: [
+                {
+                  h4: "Premium Audio Systems",
+                  content: "Concert-quality sound from marine-grade speakers and premium amplification.",
+                  points: [
+                    {
+                      h5: "Wireless Connectivity",
+                      content: "Bluetooth, Apple CarPlay, and Android Auto integration for seamless entertainment.",
+                      subpoints: [
+                        {
+                          h6: "Voice Control",
+                          content: "Control audio and navigation hands-free for a safer, more convenient experience."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1465,17 +2993,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Exclusive Features",
-              content: "Luxury models include features like climate control seating, ambient lighting, and custom wheel packages."
+              content: "Luxury models include features like climate control seating, ambient lighting, and custom wheel packages.",
+              details: [
+                {
+                  h4: "Heated and Cooled Seating",
+                  content: "Experience comfort in any season with climate-controlled premium seating.",
+                  points: [
+                    {
+                      h5: "Ambient Interior Lighting",
+                      content: "Customizable mood lighting creates the perfect atmosphere for evening drives.",
+                      subpoints: [
+                        {
+                          h6: "Premium Wheel Options",
+                          content: "Choose from exclusive wheel designs that complement the luxury aesthetic."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               h3: "Limited Production Models",
-              content: "Some luxury variants are produced in limited numbers, adding exclusivity to ownership."
+              content: "Some luxury variants are produced in limited numbers, adding exclusivity to ownership.",
+              details: [
+                {
+                  h4: "Collector-Grade Quality",
+                  content: "Limited editions feature unique touches that make each cart special.",
+                  points: [
+                    {
+                      h5: "Numbered Editions",
+                      content: "Some models include serialized plates indicating production numbers.",
+                      subpoints: [
+                        {
+                          h6: "Investment Value",
+                          content: "Limited production models may appreciate in value over time."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "VIP Purchase Experience",
-          content: "Luxury cart buyers receive VIP treatment with personalized consultations, home delivery, and white-glove service."
+          content: "Luxury cart buyers receive VIP treatment with personalized consultations, home delivery, and white-glove service.",
+          subsections: [
+            {
+              h3: "Private Showings",
+              content: "Schedule private, after-hours showings for an exclusive shopping experience.",
+              details: [
+                {
+                  h4: "Personalized Consultation",
+                  content: "Our luxury specialists provide one-on-one guidance tailored to your preferences.",
+                  points: [
+                    {
+                      h5: "Custom Configuration",
+                      content: "Work with our team to specify every detail of your luxury cart.",
+                      subpoints: [
+                        {
+                          h6: "Home Delivery Presentation",
+                          content: "Experience white-glove delivery with full orientation at your Chesapeake residence."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Experience luxury golf cart ownership at Chesapeake Golf Carts. Schedule a private showing by calling 1-844-844-6638."
@@ -1531,7 +3119,25 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Service Department",
-              content: "Our factory-trained technicians provide warranty work, maintenance, and repairs for all makes and models."
+              content: "Our factory-trained technicians provide warranty work, maintenance, and repairs for all makes and models.",
+              details: [
+                {
+                  h4: "Comprehensive Service Capabilities",
+                  content: "From routine maintenance to complex repairs, our shop handles it all.",
+                  points: [
+                    {
+                      h5: "Factory-Authorized Repairs",
+                      content: "Warranty work performed to manufacturer specifications.",
+                      subpoints: [
+                        {
+                          h6: "Genuine OEM Parts",
+                          content: "We use only original manufacturer parts for quality repairs."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1541,13 +3147,77 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Short and Long Term Rentals",
-              content: "Daily, weekly, and monthly rental options available to suit any need."
+              content: "Daily, weekly, and monthly rental options available to suit any need.",
+              details: [
+                {
+                  h4: "Flexible Rental Programs",
+                  content: "Whether you need a cart for a day or a season, we have options.",
+                  points: [
+                    {
+                      h5: "Event Rentals",
+                      content: "Rent carts for weddings, parties, and special events in Hampton Roads.",
+                      subpoints: [
+                        {
+                          h6: "Try Before You Buy",
+                          content: "Extended rentals let you experience a model before making a purchase decision."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              h3: "Rental Fleet Options",
+              content: "Multiple cart rentals available for communities, events, and business needs.",
+              details: [
+                {
+                  h4: "Group Rental Packages",
+                  content: "Special pricing for multiple cart rentals for events and gatherings.",
+                  points: [
+                    {
+                      h5: "Delivery and Pickup",
+                      content: "We deliver and pick up rental carts throughout Chesapeake and Hampton Roads.",
+                      subpoints: [
+                        {
+                          h6: "Full Support Included",
+                          content: "All rentals include orientation, support, and 24/7 emergency contact."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           h2: "Serving All Hampton Roads",
-          content: "From our Chesapeake location, we serve Virginia Beach, Norfolk, Portsmouth, Suffolk, and surrounding communities with sales, delivery, and service."
+          content: "From our Chesapeake location, we serve Virginia Beach, Norfolk, Portsmouth, Suffolk, and surrounding communities with sales, delivery, and service.",
+          subsections: [
+            {
+              h3: "Regional Delivery Coverage",
+              content: "We deliver golf carts throughout Hampton Roads and the Virginia Tidewater region.",
+              details: [
+                {
+                  h4: "Free Local Delivery",
+                  content: "Complimentary delivery within our primary service area around Chesapeake.",
+                  points: [
+                    {
+                      h5: "White Glove Setup",
+                      content: "Every delivery includes complete setup, orientation, and demonstration.",
+                      subpoints: [
+                        {
+                          h6: "Ongoing Local Support",
+                          content: "Our Battlefield Boulevard location means convenient service is always nearby."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       conclusion: "Visit your local golf cart source today. Chesapeake Golf Carts at 1234 Battlefield Blvd—call 1-844-844-6638."
