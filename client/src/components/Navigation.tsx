@@ -82,6 +82,11 @@ export default function Navigation() {
                       Eco-Impact Calculator
                     </Link>
                   </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link href="/blog" className="w-full" data-testid="nav-blog-link">
+                      Blog
+                    </Link>
+                  </DropdownMenuItem>
                 </DropdownMenuContent>
               </DropdownMenu>
             </div>
@@ -139,6 +144,14 @@ export default function Navigation() {
                       onClick={() => setIsMobileMenuOpen(false)}
                     >
                       Eco-Impact Calculator
+                    </Link>
+                    <Link
+                      href="/blog"
+                      className="block px-3 py-2 text-base font-medium text-gray-700 hover:text-gray-900"
+                      onClick={() => setIsMobileMenuOpen(false)}
+                      data-testid="nav-blog-link-mobile"
+                    >
+                      Blog
                     </Link>
                   </div>
                   
