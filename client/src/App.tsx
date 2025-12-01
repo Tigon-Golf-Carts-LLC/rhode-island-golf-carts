@@ -21,6 +21,8 @@ import NewInventoryPage from "@/pages/NewInventoryPage";
 import NewServicesPage from "@/pages/NewServicesPage";
 import NewAboutPage from "@/pages/NewAboutPage";
 import EcoImpactPage from "@/pages/EcoImpactPage";
+import BlogPage from "@/pages/BlogPage";
+import BlogPostPage from "@/pages/BlogPostPage";
 
 import { PrivacyPolicyPage } from "@/pages/PrivacyPolicyPage";
 import { TermsOfServicePage } from "@/pages/TermsOfServicePage";
@@ -102,6 +104,8 @@ export default function App() {
             <Route path="/thank-you" component={ThankYouPage} />
             <Route path="/showroom" component={ShowroomPage} />
             <Route path="/eco-impact" component={EcoImpactPage} />
+            <Route path="/blog" component={BlogPage} />
+            <Route path="/blog/:slug" component={BlogPostPage} />
             <Route path="/privacy" component={PrivacyPolicyPage} />
             <Route path="/terms" component={TermsOfServicePage} />
 

@@ -39,6 +39,7 @@ export default function Footer() {
                 <li><Link href="/contact" className="text-gray-600 hover:text-gray-900 text-sm">Contact</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">Evolution Golf Carts</Link></li>
                 <li><Link href="/denago" className="text-gray-600 hover:text-gray-900 text-sm">Denago Golf Carts</Link></li>
+                <li><Link href="/blog" className="text-gray-600 hover:text-gray-900 text-sm" data-testid="footer-blog-link">Blog</Link></li>
               </ul>
             </div>
 
@@ -93,6 +94,7 @@ export default function Footer() {
                 <li><Link href="/contact" className="text-gray-600 hover:text-gray-900 text-sm">Contact</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">Evolution</Link></li>
                 <li><Link href="/denago" className="text-gray-600 hover:text-gray-900 text-sm">Denago</Link></li>
+                <li><Link href="/blog" className="text-gray-600 hover:text-gray-900 text-sm" data-testid="footer-blog-link-desktop">Blog</Link></li>
               </ul>
             </div>
 
