@@ -11,7 +11,7 @@ export default function EvolutionD6MaxXT6() {
     <>
       <SEOHead 
         title="Max XT6"
-        description="Experience the EVOLUTION® D6 Max XT6 with maximum off-road capability, six-passenger extreme terrain golf cart with adventure features. Call 1-844-844-6638."
+        description="Experience the EVOLUTION® D6 Max XT6 with maximum off-road capability, six-passenger extreme terrain golf cart with adventure features. Call 804-792-0234."
         keywords="EVOLUTION D6 Max XT6, extreme terrain golf cart, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer Chesapeake"
         canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d6-max-xt6"
         ogImage="/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg"

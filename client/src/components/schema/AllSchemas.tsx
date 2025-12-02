@@ -173,10 +173,10 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           streetAddress: "Various Locations",
           addressLocality: "Chesapeake",
           addressRegion: "VA",
-          postalCode: "23322",
+          postalCode: "23072",
           addressCountry: "US"
         }}
-        telephone="1-844-844-6638"
+        telephone="804-792-0234"
         email="info@chesapeakegolfcarts.com"
         brands={["DENAGO", "EVOLUTION"]}
         services={["Golf Cart Sales", "Golf Cart Service", "Golf Cart Rentals", "Financing", "Parts & Accessories"]}
@@ -194,7 +194,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {/* Contact Point Schema */}
       <ContactPointSchema
         contactType="customer service"
-        telephone="1-844-844-6638"
+        telephone="804-792-0234"
         email="info@chesapeakegolfcarts.com"
         areaServed="Hampton Roads, Virginia"
         availableLanguage={["English"]}
@@ -375,7 +375,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               latitude: locationLatitude,
               longitude: locationLongitude
             } : undefined}
-            telephone="1-844-844-6638"
+            telephone="804-792-0234"
             url={url}
             containedInPlace={{
               name: "Chesapeake",
@@ -395,10 +395,10 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               streetAddress: "Service Area",
               addressLocality: locationName,
               addressRegion: "VA",
-              postalCode: "23322",
+              postalCode: "23072",
               addressCountry: "US"
             }}
-            telephone="1-844-844-6638"
+            telephone="804-792-0234"
             email="info@chesapeakegolfcarts.com"
             brands={["DENAGO", "EVOLUTION"]}
             services={["Golf Cart Sales", "Service & Repair", "Rentals", "Parts & Accessories"]}
@@ -423,10 +423,10 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               streetAddress: "Service Area",
               addressLocality: locationName,
               addressRegion: "VA",
-              postalCode: "23322",
+              postalCode: "23072",
               addressCountry: "US"
             }}
-            telephone="1-844-844-6638"
+            telephone="804-792-0234"
             email="info@chesapeakegolfcarts.com"
             areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
@@ -536,10 +536,10 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               streetAddress: "Service Area",
               addressLocality: "Chesapeake",
               addressRegion: "VA",
-              postalCode: "23322",
+              postalCode: "23072",
               addressCountry: "US"
             }}
-            telephone="1-844-844-6638"
+            telephone="804-792-0234"
             email="info@chesapeakegolfcarts.com"
             areaServed="Hampton Roads, Virginia"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}

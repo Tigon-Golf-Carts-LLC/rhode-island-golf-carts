@@ -6,7 +6,7 @@ export default function ReturnPolicyPage() {
     <>
       <SEOHead 
         title="Return Policy"
-        description="Learn about our comprehensive return policy for golf cart purchases, accessories, and parts with clear conditions, timelines, and procedures. Call 1-844-844-6638."
+        description="Learn about our comprehensive return policy for golf cart purchases, accessories, and parts with clear conditions, timelines, and procedures. Call 804-792-0234."
         keywords="return policy, golf cart returns, Chesapeake golf carts, refund policy Pennsylvania"
         canonicalUrl="https://chesapeakegolfcarts.com/policies/return-policy"
         ogImageWidth={1200}
@@ -84,7 +84,7 @@ export default function ReturnPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Authorization Required</h3>
               <p className="mb-4">All returns must be pre-authorized. To initiate a return:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>Contact us at info@chesapeakegolfcarts.com or 1-844-844-6638</li>
+                <li>Contact us at info@chesapeakegolfcarts.com or 804-792-0234</li>
                 <li>Provide order number and reason for return</li>
                 <li>Receive return authorization number (RMA)</li>
                 <li>Include RMA number with returned item</li>
@@ -130,7 +130,7 @@ export default function ReturnPolicyPage() {
                 <p className="mb-2"><strong>Returns Department</strong></p>
                 <p className="mb-2">Chesapeake Golf Carts</p>
                 <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Phone: 804-792-0234</p>
                 <p className="mb-2">Serving Hampton Roads, Virginia</p>
                 <p>Website: chesapeakegolfcarts.com</p>
               </div>

@@ -11,7 +11,7 @@ export default function EvolutionD5Maverick4Plus() {
     <>
       <SEOHead 
         title="Maverick 4 Plus"
-        description="Experience the premium EVOLUTION® D5 Maverick 4 Plus four-passenger golf cart with advanced features, superior comfort, and extended range capability. Call 1-844-844-6638."
+        description="Experience the premium EVOLUTION® D5 Maverick 4 Plus four-passenger golf cart with advanced features, superior comfort, and extended range capability. Call 804-792-0234."
         keywords="EVOLUTION D5 Maverick 4 Plus, premium golf cart, 4-passenger, advanced features, extended range, EVOLUTION dealer Chesapeake"
         canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
         ogImage="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"

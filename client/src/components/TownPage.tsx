@@ -20,7 +20,7 @@ interface TownPageProps {
 const getGoogleMapsEmbedUrl = (townName: string, townType: string): string => {
   const townKey = `${townName.toLowerCase().replace(/\s+/g, '')}_${townType.toLowerCase()}`;
   
-  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.2875!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Chesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
+  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Virginia!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
 };
 
 export default function TownPage({ townName, townType }: TownPageProps) {
@@ -273,7 +273,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">804-792-0234</p>
                   <p className="text-gray-600">Speak with our {townName} golf cart specialists</p>
                 </CardContent>
               </Card>
@@ -388,7 +388,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-              Call 1-844-844-6638
+              Call 804-792-0234
             </Button>
             <Button size="lg" variant="outline" className="text-blue-600 bg-white border-white hover:bg-gray-100 hover:text-blue-600">
               Request Quote for {townName}

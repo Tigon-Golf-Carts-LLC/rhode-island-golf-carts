@@ -33,14 +33,14 @@ export default function ServiceSchema({
       "provider": {
         "@type": "LocalBusiness",
         "name": provider,
-        "telephone": "1-844-844-6638",
+        "telephone": "804-792-0234",
         "email": "sales@chesapeakegolfcarts.com",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "1234 Battlefield Blvd",
-          "addressLocality": "Chesapeake",
+          "streetAddress": "2810 George Washington Memorial Hwy",
+          "addressLocality": "Gloucester Point",
           "addressRegion": "VA",
-          "postalCode": "23322",
+          "postalCode": "23072",
           "addressCountry": "US"
         },
         "logo": {
@@ -55,7 +55,7 @@ export default function ServiceSchema({
       "availableChannel": availableChannel.map(channel => ({
         "@type": "ServiceChannel",
         "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://chesapeakegolfcarts.com" : undefined,
-        "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "1-844-844-6638" : undefined
+        "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "804-792-0234" : undefined
       })),
       ...(offers.length > 0 && {
         "offers": offers.map(offer => ({

@@ -195,7 +195,7 @@ export default function StoragePolicyPage() {
                 <p className="mb-2"><strong>Storage Services</strong></p>
                 <p className="mb-2">Chesapeake Golf Carts</p>
                 <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Phone: 804-792-0234</p>
                 <p className="mb-2">Serving Hampton Roads, Virginia</p>
                 <p>Website: chesapeakegolfcarts.com</p>
               </div>

@@ -24,14 +24,14 @@ export const generateOrganizationSchema = () => ({
     "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
     "https://chesapeakegolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "1-844-844-6638",
+  "telephone": "804-792-0234",
   "email": "sales@chesapeakegolfcarts.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "1234 Battlefield Blvd",
-    "addressLocality": "Chesapeake",
+    "streetAddress": "2810 George Washington Memorial Hwy",
+    "addressLocality": "Gloucester Point",
     "addressRegion": "VA",
-    "postalCode": "23322",
+    "postalCode": "23072",
     "addressCountry": "US"
   },
   "areaServed": {
@@ -42,8 +42,8 @@ export const generateOrganizationSchema = () => ({
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 36.7682,
-      "longitude": -76.2875
+      "latitude": 37.2850625,
+      "longitude": -76.5074161
     },
     "geoRadius": "50000"
   },
@@ -92,7 +92,7 @@ export const generateLocalBusinessSchema = () => ({
   "name": "Chesapeake Golf Carts",
   "description": "Premier golf cart dealer serving Chesapeake Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
   "url": "https://chesapeakegolfcarts.com",
-  "telephone": "1-844-844-6638",
+  "telephone": "804-792-0234",
   "email": "sales@chesapeakegolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -103,16 +103,16 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "1234 Battlefield Blvd",
-    "addressLocality": "Chesapeake",
+    "streetAddress": "2810 George Washington Memorial Hwy",
+    "addressLocality": "Gloucester Point",
     "addressRegion": "VA",
-    "postalCode": "23322",
+    "postalCode": "23072",
     "addressCountry": "US"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 36.7682,
-    "longitude": -76.2875
+    "latitude": 37.2850625,
+    "longitude": -76.5074161
   },
   "areaServed": [
     "Chesapeake", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
@@ -195,7 +195,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "seller": {
       "@type": "Organization",
       "name": "Chesapeake Golf Carts",
-      "telephone": "1-844-844-6638",
+      "telephone": "804-792-0234",
       "email": "sales@chesapeakegolfcarts.com"
     },
     "url": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}`
@@ -320,7 +320,7 @@ export const generateContactPageSchema = () => ({
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "1-844-844-6638",
+        "telephone": "804-792-0234",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"

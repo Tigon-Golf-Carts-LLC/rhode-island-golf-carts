@@ -31,13 +31,13 @@ export default function BlogSchema({
       },
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1234 Battlefield Blvd",
-        "addressLocality": "Chesapeake",
+        "streetAddress": "2810 George Washington Memorial Hwy",
+        "addressLocality": "Gloucester Point",
         "addressRegion": "VA",
-        "postalCode": "23322",
+        "postalCode": "23072",
         "addressCountry": "US"
       },
-      "telephone": "1-844-844-6638",
+      "telephone": "804-792-0234",
       "email": "sales@chesapeakegolfcarts.com"
     },
     "inLanguage": "en-US",
@@ -64,8 +64,8 @@ export default function BlogSchema({
       "name": "Chesapeake, Virginia",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "36.7682",
-        "longitude": "-76.2875"
+        "latitude": "37.2850625",
+        "longitude": "-76.5074161"
       }
     }
   };

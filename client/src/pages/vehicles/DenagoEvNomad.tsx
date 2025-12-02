@@ -12,7 +12,7 @@ export default function DenagoEvNomad() {
     <>
       <SEOHead 
         title="EV NOMAD"
-        description="Discover the adventure-ready DENAGO® EV NOMAD designed for outdoor adventures and off-road capability, perfect for camping, hunting, and exploration. Call 1-844-844-6638."
+        description="Discover the adventure-ready DENAGO® EV NOMAD designed for outdoor adventures and off-road capability, perfect for camping, hunting, and exploration. Call 804-792-0234."
         keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Chesapeake"
         canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
@@ -260,9 +260,9 @@ export default function DenagoEvNomad() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:804-792-0234">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 1-844-844-6638
+                  Call 804-792-0234
                 </Button>
               </a>
             </div>
@@ -279,7 +279,7 @@ export default function DenagoEvNomad() {
                   <CardTitle>Adventure Sales</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">804-792-0234</p>
                   <p className="text-gray-600">Speak with our adventure vehicle specialists</p>
                 </CardContent>
               </Card>

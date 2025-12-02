@@ -147,7 +147,7 @@ export default function SEOHead({
           "addressRegion": "VA",
           "addressCountry": "US"
         },
-        "telephone": "1-844-844-6638",
+        "telephone": "804-792-0234",
         "email": "sales@chesapeakegolfcarts.com",
         "url": canonicalUrl,
         "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
@@ -156,8 +156,8 @@ export default function SEOHead({
           "@type": "GeoCircle",
           "geoMidpoint": {
             "@type": "GeoCoordinates",
-            "latitude": "36.7682",
-            "longitude": "-76.2875"
+            "latitude": "37.2850625",
+            "longitude": "-76.5074161"
           },
           "geoRadius": "50000"
         },

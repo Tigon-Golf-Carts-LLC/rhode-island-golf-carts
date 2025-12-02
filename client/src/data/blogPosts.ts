@@ -46,7 +46,7 @@ export const blogPosts: BlogPost[] = [
     id: 1,
     slug: "chesapeake-golf-carts-for-sale-best-local-deals",
     seoTitle: "Chesapeake Golf Carts for Sale | Best Local Deals in Chesapeake VA",
-    metaDescription: "Find the best golf carts for sale in Chesapeake VA. Local inventory of DENAGO and EVOLUTION electric golf carts with competitive pricing. Visit our Battlefield Blvd showroom today!",
+    metaDescription: "Find the best golf carts for sale in Chesapeake VA. Local inventory of DENAGO and EVOLUTION electric golf carts with competitive pricing. Visit our George Washington Memorial Hwy showroom today!",
     h1: "Chesapeake Golf Carts for Sale | Best Local Deals in Chesapeake VA",
     publishDate: "2025-11-15",
     excerpt: "Discover the best golf cart deals in Chesapeake, Virginia. Our local dealership offers premium DENAGO and EVOLUTION electric golf carts with unbeatable prices and exceptional service.",
@@ -56,7 +56,7 @@ export const blogPosts: BlogPost[] = [
     keywords: "golf carts for sale Chesapeake VA, Chesapeake golf cart deals, buy golf cart Chesapeake Virginia, local golf cart dealer, electric golf carts Chesapeake",
     canonicalUrl: "https://chesapeakegolfcarts.com/blog/chesapeake-golf-carts-for-sale-best-local-deals",
     content: {
-      intro: "Looking for the best golf carts for sale in Chesapeake, Virginia? You've come to the right place. At Chesapeake Golf Carts, we pride ourselves on offering Hampton Roads residents the finest selection of electric golf carts at competitive local prices. Our Battlefield Boulevard showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
+      intro: "Looking for the best golf carts for sale in Chesapeake, Virginia? You've come to the right place. At Chesapeake Golf Carts, we pride ourselves on offering Hampton Roads residents the finest selection of electric golf carts at competitive local prices. Our George Washington Memorial Hwy showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
       sections: [
         {
           h2: "Why Buy Your Golf Cart Locally in Chesapeake VA",
@@ -86,7 +86,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Test Drive Before You Buy",
-              content: "Visit our showroom on Battlefield Boulevard to test drive any model in our inventory. Experience the smooth acceleration, comfortable seating, and premium features before making your decision.",
+              content: "Visit our showroom on George Washington Memorial Hwy to test drive any model in our inventory. Experience the smooth acceleration, comfortable seating, and premium features before making your decision.",
               details: [
                 {
                   h4: "Extensive Test Drive Routes",
@@ -187,7 +187,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to find your perfect golf cart? Visit Chesapeake Golf Carts at 1234 Battlefield Blvd or call us at 1-844-844-6638. Our friendly team is here to help you find the best local deals on premium electric golf carts in Chesapeake, Virginia."
+      conclusion: "Ready to find your perfect golf cart? Visit Chesapeake Golf Carts at 2810 George Washington Memorial Hwy or call us at 804-792-0234. Our friendly team is here to help you find the best local deals on premium electric golf carts in Chesapeake, Virginia."
     },
     internalLinks: [
       { text: "View Our Full Inventory", url: "/inventory" },
@@ -320,7 +320,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Explore our complete selection of new and used golf carts at our Battlefield Boulevard location. Call 1-844-844-6638 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
+      conclusion: "Explore our complete selection of new and used golf carts at our George Washington Memorial Hwy location. Call 804-792-0234 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
     },
     internalLinks: [
       { text: "Browse All Inventory", url: "/inventory" },
@@ -333,17 +333,17 @@ export const blogPosts: BlogPost[] = [
     id: 3,
     slug: "chesapeake-va-golf-cart-superstore-find-next-cart",
     seoTitle: "Chesapeake VA Golf Cart Superstore | Find Your Next Cart Today",
-    metaDescription: "Visit Chesapeake's largest golf cart superstore on Battlefield Blvd. Huge selection of DENAGO and EVOLUTION electric golf carts. Test drive your next cart today!",
+    metaDescription: "Visit Chesapeake's largest golf cart superstore on George Washington Memorial Hwy. Huge selection of DENAGO and EVOLUTION electric golf carts. Test drive your next cart today!",
     h1: "Chesapeake VA Golf Cart Superstore | Find Your Next Cart Today",
     publishDate: "2025-11-13",
-    excerpt: "Chesapeake's premier golf cart superstore offers the region's largest selection of electric golf carts. Find your perfect DENAGO or EVOLUTION model at our Battlefield Blvd location.",
+    excerpt: "Chesapeake's premier golf cart superstore offers the region's largest selection of electric golf carts. Find your perfect DENAGO or EVOLUTION model at our George Washington Memorial Hwy location.",
     heroImage: "/attached_assets/generated_images/golf_cart_superstore_aerial.png",
     heroImagePrompt: "Aerial view of a large golf cart superstore in Chesapeake Virginia with rows of colorful electric golf carts, spacious showroom, large parking lot, American flag flying, professional dealership appearance, sunny Virginia weather",
-    heroImageAlt: "Chesapeake VA golf cart superstore on Battlefield Blvd with largest selection of DENAGO and EVOLUTION electric golf carts",
-    keywords: "golf cart superstore Chesapeake VA, large golf cart selection, Chesapeake golf cart dealer, Battlefield Blvd golf carts, Hampton Roads golf cart superstore",
+    heroImageAlt: "Chesapeake VA golf cart superstore on George Washington Memorial Hwy with largest selection of DENAGO and EVOLUTION electric golf carts",
+    keywords: "golf cart superstore Chesapeake VA, large golf cart selection, Chesapeake golf cart dealer, George Washington Memorial Hwy golf carts, Hampton Roads golf cart superstore",
     canonicalUrl: "https://chesapeakegolfcarts.com/blog/chesapeake-va-golf-cart-superstore-find-next-cart",
     content: {
-      intro: "Welcome to Chesapeake Golf Carts, the premier golf cart superstore serving Hampton Roads and beyond. Our expansive showroom on Battlefield Boulevard features the region's largest selection of electric golf carts, making it easy to find exactly what you're looking for. From compact 2-seaters to spacious 6-passenger models, we have the perfect cart for every need.",
+      intro: "Welcome to Chesapeake Golf Carts, the premier golf cart superstore serving Hampton Roads and beyond. Our expansive showroom on George Washington Memorial Hwy features the region's largest selection of electric golf carts, making it easy to find exactly what you're looking for. From compact 2-seaters to spacious 6-passenger models, we have the perfect cart for every need.",
       sections: [
         {
           h2: "The Largest Selection in Hampton Roads",
@@ -446,7 +446,7 @@ export const blogPosts: BlogPost[] = [
           ]
         },
         {
-          h2: "Conveniently Located on Battlefield Blvd",
+          h2: "Conveniently Located on George Washington Memorial Hwy",
           content: "Our superstore is easily accessible from all Chesapeake neighborhoods and surrounding Hampton Roads cities. With ample parking and comfortable showroom facilities, shopping for your next cart is a pleasant experience.",
           subsections: [
             {
@@ -474,7 +474,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Visit Chesapeake's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 1234 Battlefield Blvd, Chesapeake, VA. Call 1-844-844-6638 for more information."
+      conclusion: "Visit Chesapeake's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Chesapeake, VA. Call 804-792-0234 for more information."
     },
     internalLinks: [
       { text: "View Complete Inventory", url: "/inventory" },
@@ -629,7 +629,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience the electric advantage with a new golf cart from Chesapeake Golf Carts. Visit our showroom at 1234 Battlefield Blvd or call 1-844-844-6638 to learn about our fast local delivery options."
+      conclusion: "Experience the electric advantage with a new golf cart from Chesapeake Golf Carts. Visit our showroom at 2810 George Washington Memorial Hwy or call 804-792-0234 to learn about our fast local delivery options."
     },
     internalLinks: [
       { text: "Shop Electric Inventory", url: "/inventory" },
@@ -806,7 +806,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to go street-legal? Visit Chesapeake Golf Carts to see our complete selection of DOT-approved golf carts. Call 1-844-844-6638 or stop by 1234 Battlefield Blvd today."
+      conclusion: "Ready to go street-legal? Visit Chesapeake Golf Carts to see our complete selection of DOT-approved golf carts. Call 804-792-0234 or stop by 2810 George Washington Memorial Hwy today."
     },
     internalLinks: [
       { text: "View Street-Legal Inventory", url: "/inventory" },
@@ -961,7 +961,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Join thousands of satisfied Chesapeake customers who've chosen Chesapeake Golf Carts. Visit us at 1234 Battlefield Blvd or call 1-844-844-6638 to experience our top-rated service."
+      conclusion: "Join thousands of satisfied Chesapeake customers who've chosen Chesapeake Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to experience our top-rated service."
     },
     internalLinks: [
       { text: "See Our Inventory", url: "/inventory" },
@@ -1116,7 +1116,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Affordable golf cart ownership starts at Chesapeake Golf Carts. Visit us at 1234 Battlefield Blvd or call 1-844-844-6638 to explore your budget-friendly options today."
+      conclusion: "Affordable golf cart ownership starts at Chesapeake Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to explore your budget-friendly options today."
     },
     internalLinks: [
       { text: "Browse Affordable Inventory", url: "/inventory" },
@@ -1293,7 +1293,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to put your knowledge to use? Visit Chesapeake Golf Carts at 1234 Battlefield Blvd where our experts can answer all your questions. Call 1-844-844-6638 for personalized guidance."
+      conclusion: "Ready to put your knowledge to use? Visit Chesapeake Golf Carts at 2810 George Washington Memorial Hwy where our experts can answer all your questions. Call 804-792-0234 for personalized guidance."
     },
     internalLinks: [
       { text: "View Our Inventory", url: "/inventory" },
@@ -1470,7 +1470,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience premium golf cart ownership at Chesapeake Golf Carts. Schedule a VIP showing at our Battlefield Blvd showroom by calling 1-844-844-6638."
+      conclusion: "Experience premium golf cart ownership at Chesapeake Golf Carts. Schedule a VIP showing at our George Washington Memorial Hwy showroom by calling 804-792-0234."
     },
     internalLinks: [
       { text: "View Premium Inventory", url: "/inventory" },
@@ -1484,13 +1484,13 @@ export const blogPosts: BlogPost[] = [
     id: 10,
     slug: "chesapeake-virginia-golf-cart-sales-trusted-dealer",
     seoTitle: "Chesapeake Virginia Golf Cart Sales | Trusted Local Dealer",
-    metaDescription: "Chesapeake Virginia's trusted golf cart dealer since our founding. Expert sales, service, and support from your neighbors. Visit our Battlefield Blvd showroom today!",
+    metaDescription: "Chesapeake Virginia's trusted golf cart dealer since our founding. Expert sales, service, and support from your neighbors. Visit our George Washington Memorial Hwy showroom today!",
     h1: "Chesapeake Virginia Golf Cart Sales | Trusted Local Dealer",
     publishDate: "2025-11-06",
     excerpt: "Trust Chesapeake's established golf cart dealer for your next purchase. As a local family business, we're committed to serving our Hampton Roads neighbors with integrity.",
     heroImage: "/attached_assets/generated_images/family_golf_cart_dealership.png",
     heroImagePrompt: "Trusted family-owned golf cart dealership in Chesapeake Virginia with staff and owner shaking hands with customers, community awards visible, professional but welcoming atmosphere, established business appearance",
-    heroImageAlt: "Trusted local golf cart dealer in Chesapeake Virginia with professional staff and community commitment at Battlefield Blvd showroom",
+    heroImageAlt: "Trusted local golf cart dealer in Chesapeake Virginia with professional staff and community commitment at George Washington Memorial Hwy showroom",
     keywords: "trusted golf cart dealer Chesapeake VA, reliable golf cart sales Virginia, local golf cart business, Chesapeake dealership, Hampton Roads golf cart dealer",
     canonicalUrl: "https://chesapeakegolfcarts.com/blog/chesapeake-virginia-golf-cart-sales-trusted-dealer",
     content: {
@@ -1625,7 +1625,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience the difference of working with a trusted local dealer. Visit Chesapeake Golf Carts at 1234 Battlefield Blvd or call 1-844-844-6638."
+      conclusion: "Experience the difference of working with a trusted local dealer. Visit Chesapeake Golf Carts at 2810 George Washington Memorial Hwy or call 804-792-0234."
     },
     internalLinks: [
       { text: "About Our Dealership", url: "/about" },
@@ -1802,7 +1802,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "See our selection of lifted golf carts at Chesapeake Golf Carts. Located at 1234 Battlefield Blvd, or call 1-844-844-6638 to discuss your lifting options."
+      conclusion: "See our selection of lifted golf carts at Chesapeake Golf Carts. Located at 2810 George Washington Memorial Hwy, or call 804-792-0234 to discuss your lifting options."
     },
     internalLinks: [
       { text: "Shop Lifted Inventory", url: "/inventory" },
@@ -1979,7 +1979,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Start designing your custom golf cart today at Chesapeake Golf Carts. Visit our showroom at 1234 Battlefield Blvd or call 1-844-844-6638 to discuss your vision."
+      conclusion: "Start designing your custom golf cart today at Chesapeake Golf Carts. Visit our showroom at 2810 George Washington Memorial Hwy or call 804-792-0234 to discuss your vision."
     },
     internalLinks: [
       { text: "View Base Models", url: "/inventory" },
@@ -2134,7 +2134,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Find the perfect family golf cart at Chesapeake Golf Carts. Visit us at 1234 Battlefield Blvd or call 1-844-844-6638 to see our family-friendly selection."
+      conclusion: "Find the perfect family golf cart at Chesapeake Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to see our family-friendly selection."
     },
     internalLinks: [
       { text: "Shop Family Models", url: "/inventory" },
@@ -2300,7 +2300,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Ongoing Local Support",
-                          content: "Our Battlefield Boulevard location provides convenient access for service and support."
+                          content: "Our George Washington Memorial Hwy location provides convenient access for service and support."
                         }
                       ]
                     }
@@ -2311,7 +2311,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Find your perfect neighborhood golf cart at Chesapeake Golf Carts. Visit 1234 Battlefield Blvd or call 1-844-844-6638 today."
+      conclusion: "Find your perfect neighborhood golf cart at Chesapeake Golf Carts. Visit 2810 George Washington Memorial Hwy or call 804-792-0234 today."
     },
     internalLinks: [
       { text: "View Neighborhood Models", url: "/inventory" },
@@ -2466,7 +2466,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Shop outlet prices at Chesapeake Golf Carts. Visit 1234 Battlefield Blvd or call 1-844-844-6638 to see current specials."
+      conclusion: "Shop outlet prices at Chesapeake Golf Carts. Visit 2810 George Washington Memorial Hwy or call 804-792-0234 to see current specials."
     },
     internalLinks: [
       { text: "View Current Inventory", url: "/inventory" },
@@ -2480,7 +2480,7 @@ export const blogPosts: BlogPost[] = [
     id: 16,
     slug: "high-performance-golf-carts-chesapeake-va",
     seoTitle: "High-Performance Golf Carts Chesapeake VA | Local Test Rides",
-    metaDescription: "Experience high-performance golf carts in Chesapeake VA. Upgraded motors, enhanced speed, superior handling. Schedule your test ride at our Battlefield Blvd showroom!",
+    metaDescription: "Experience high-performance golf carts in Chesapeake VA. Upgraded motors, enhanced speed, superior handling. Schedule your test ride at our George Washington Memorial Hwy showroom!",
     h1: "High-Performance Golf Carts Chesapeake VA | Local Test Rides",
     publishDate: "2025-10-31",
     excerpt: "Feel the power of high-performance golf carts at Chesapeake Golf Carts. Enhanced motors, improved handling, and superior acceleration for drivers who demand more.",
@@ -2490,7 +2490,7 @@ export const blogPosts: BlogPost[] = [
     keywords: "high performance golf carts Chesapeake VA, fast golf carts Virginia, upgraded golf cart motors, speed golf carts, performance upgrades Hampton Roads",
     canonicalUrl: "https://chesapeakegolfcarts.com/blog/high-performance-golf-carts-chesapeake-va",
     content: {
-      intro: "For golf cart enthusiasts who want more than standard performance, Chesapeake Golf Carts offers high-performance models and upgrade packages that deliver enhanced speed, acceleration, and handling. Experience the thrill of a performance cart with a test ride at our Battlefield Boulevard location.",
+      intro: "For golf cart enthusiasts who want more than standard performance, Chesapeake Golf Carts offers high-performance models and upgrade packages that deliver enhanced speed, acceleration, and handling. Experience the thrill of a performance cart with a test ride at our George Washington Memorial Hwy location.",
       sections: [
         {
           h2: "Performance Upgrades Available",
@@ -2621,7 +2621,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience high-performance golf carts at Chesapeake Golf Carts. Call 1-844-844-6638 to schedule your test ride today."
+      conclusion: "Experience high-performance golf carts at Chesapeake Golf Carts. Call 804-792-0234 to schedule your test ride today."
     },
     internalLinks: [
       { text: "Performance Inventory", url: "/inventory" },
@@ -2649,7 +2649,7 @@ export const blogPosts: BlogPost[] = [
       sections: [
         {
           h2: "Easy Application Process",
-          content: "Getting started with financing is simple. Apply online, over the phone, or in-person at our Battlefield Boulevard showroom.",
+          content: "Getting started with financing is simple. Apply online, over the phone, or in-person at our George Washington Memorial Hwy showroom.",
           subsections: [
             {
               h3: "Quick Credit Decisions",
@@ -2776,7 +2776,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Apply for golf cart financing today at Chesapeake Golf Carts. Visit 1234 Battlefield Blvd or call 1-844-844-6638 to get started."
+      conclusion: "Apply for golf cart financing today at Chesapeake Golf Carts. Visit 2810 George Washington Memorial Hwy or call 804-792-0234 to get started."
     },
     internalLinks: [
       { text: "View Inventory", url: "/inventory" },
@@ -2931,7 +2931,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Explore recreational and community golf cart options at Chesapeake Golf Carts. Call 1-844-844-6638 or visit 1234 Battlefield Blvd."
+      conclusion: "Explore recreational and community golf cart options at Chesapeake Golf Carts. Call 804-792-0234 or visit 2810 George Washington Memorial Hwy."
     },
     internalLinks: [
       { text: "View Multi-Passenger Models", url: "/inventory" },
@@ -3086,7 +3086,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience luxury golf cart ownership at Chesapeake Golf Carts. Schedule a private showing by calling 1-844-844-6638."
+      conclusion: "Experience luxury golf cart ownership at Chesapeake Golf Carts. Schedule a private showing by calling 804-792-0234."
     },
     internalLinks: [
       { text: "View Luxury Inventory", url: "/inventory" },
@@ -3103,10 +3103,10 @@ export const blogPosts: BlogPost[] = [
     metaDescription: "Chesapeake Golf Carts is your local source for premium golf carts in Chesapeake VA. DENAGO and EVOLUTION dealer with sales, service, and rentals. Visit us today!",
     h1: "Your Local Chesapeake VA Golf Cart Source | Shop Today",
     publishDate: "2025-10-27",
-    excerpt: "Chesapeake Golf Carts is Hampton Roads' premier local source for electric golf carts. Complete sales, service, and rentals from your neighbors on Battlefield Boulevard.",
+    excerpt: "Chesapeake Golf Carts is Hampton Roads' premier local source for electric golf carts. Complete sales, service, and rentals from your neighbors on George Washington Memorial Hwy.",
     heroImage: "/attached_assets/generated_images/local_dealership_storefront.png",
     heroImagePrompt: "Welcoming local golf cart dealership storefront in Chesapeake Virginia with Open sign, friendly staff waving, local business atmosphere, American flags, community-focused appearance",
-    heroImageAlt: "Local Chesapeake VA golf cart dealership storefront on Battlefield Blvd with friendly staff and community-focused atmosphere",
+    heroImageAlt: "Local Chesapeake VA golf cart dealership storefront on George Washington Memorial Hwy with friendly staff and community-focused atmosphere",
     keywords: "local golf cart dealer Chesapeake VA, Chesapeake golf cart source, golf carts near me, Hampton Roads golf cart dealer, Virginia golf cart sales",
     canonicalUrl: "https://chesapeakegolfcarts.com/blog/local-chesapeake-va-golf-cart-source-shop-today",
     content: {
@@ -3230,7 +3230,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Ongoing Local Support",
-                          content: "Our Battlefield Boulevard location means convenient service is always nearby."
+                          content: "Our George Washington Memorial Hwy location means convenient service is always nearby."
                         }
                       ]
                     }
@@ -3241,7 +3241,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Visit your local golf cart source today. Chesapeake Golf Carts at 1234 Battlefield Blvd—call 1-844-844-6638."
+      conclusion: "Visit your local golf cart source today. Chesapeake Golf Carts at 2810 George Washington Memorial Hwy—call 804-792-0234."
     },
     internalLinks: [
       { text: "Shop Inventory", url: "/inventory" },

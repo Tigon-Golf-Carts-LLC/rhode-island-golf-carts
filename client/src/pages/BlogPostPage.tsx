@@ -197,11 +197,11 @@ export default function BlogPostPage() {
                   <div className="space-y-3">
                     <div className="flex items-center">
                       <MapPin className="w-5 h-5 mr-3 text-[#ff6100]" />
-                      <span>1234 Battlefield Blvd, Chesapeake, VA 23322</span>
+                      <span>2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</span>
                     </div>
                     <div className="flex items-center">
                       <Phone className="w-5 h-5 mr-3 text-[#ff6100]" />
-                      <a href="tel:1-844-844-6638" className="hover:text-[#ff6100]">1-844-844-6638</a>
+                      <a href="tel:804-792-0234" className="hover:text-[#ff6100]">804-792-0234</a>
                     </div>
                     <div className="flex items-center">
                       <Mail className="w-5 h-5 mr-3 text-[#ff6100]" />

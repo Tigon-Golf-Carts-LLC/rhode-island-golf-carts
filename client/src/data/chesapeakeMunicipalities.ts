@@ -70,8 +70,8 @@ export const getNorthCarolinaTowns = () =>
 
 // Chesapeake city coordinates (central location)
 export const CHESAPEAKE_COORDINATES = {
-  latitude: 36.7682,
-  longitude: -76.2875
+  latitude: 37.2850625,
+  longitude: -76.5074161
 };
 
 // Chesapeake city basic information

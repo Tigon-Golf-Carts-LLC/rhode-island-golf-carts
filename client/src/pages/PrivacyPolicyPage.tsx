@@ -5,7 +5,7 @@ export function PrivacyPolicyPage() {
     <>
       <SEOHead 
         title="Privacy Policy"
-        description="Learn how Chesapeake Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 1-844-844-6638."
+        description="Learn how Chesapeake Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 804-792-0234."
         keywords="privacy policy, data protection, personal information, Chesapeake Golf Carts"
         canonicalUrl="https://chesapeakegolfcarts.com/privacy-policy"
         ogImageWidth={1200}
@@ -120,7 +120,7 @@ export function PrivacyPolicyPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Chesapeake Golf Carts</strong></p>
                 <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Phone: 804-792-0234</p>
                 <p className="mb-2">Serving Hampton Roads, Virginia</p>
                 <p>Website: chesapeakegolfcarts.com</p>
               </div>

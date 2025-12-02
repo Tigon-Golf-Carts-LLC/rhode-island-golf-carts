@@ -5,26 +5,26 @@ export const BRANDING = {
   // Company Information
   name: "Chesapeake Golf Carts",
   alternateName: "CGC",
-  description: "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  description: "Premier golf cart dealer in Gloucester Point, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals serving Hampton Roads.",
   
   // Contact Information
-  phone: "1-844-844-6638",
+  phone: "804-792-0234",
   email: "sales@chesapeakegolfcarts.com",
   
-  // Address
+  // Address (Gloucester Point Showroom)
   address: {
-    street: "1234 Battlefield Blvd",
-    city: "Chesapeake",
+    street: "2810 George Washington Memorial Hwy",
+    city: "Gloucester Point",
     state: "VA",
     stateFullName: "Virginia",
-    zip: "23322",
+    zip: "23072",
     country: "US",
   },
   
-  // Coordinates (Chesapeake, VA)
+  // Coordinates (Gloucester Point, VA)
   coordinates: {
-    latitude: 36.7682,
-    longitude: -76.2875,
+    latitude: 37.2850625,
+    longitude: -76.5074161,
   },
   
   // Website
@@ -33,21 +33,21 @@ export const BRANDING = {
   
   // Social Media
   socialMedia: {
-    facebook: "https://www.facebook.com/ChesapeakeGolfCarts/",
-    youtube: "https://www.youtube.com/@ChesapeakeGolfCarts",
-    pinterest: "https://www.pinterest.com/chesapeakegolfcarts/",
+    facebook: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
+    youtube: "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
+    pinterest: "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/",
   },
   
   // Service Area
   serviceArea: {
-    county: "City of Chesapeake",
+    county: "Gloucester County",
     state: "Virginia",
-    region: "Chesapeake Virginia",
+    region: "Hampton Roads Virginia",
   },
   
   // Business Hours
   hours: {
-    weekday: "Mo-Fr 09:00-18:00",
+    weekday: "Mo-Fr 09:00-17:00",
     saturday: "Sa 09:00-17:00",
   },
   
@@ -56,15 +56,15 @@ export const BRANDING = {
   foundingYear: "2008",
   
   // Google Maps
-  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102529.16172010403!2d-76.3567!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bac1e8e1d59d55%3A0x35df9e5df4e08c66!2sChesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus",
-  googleMapsUrl: "https://www.google.com/maps/place/Chesapeake,+VA",
+  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3184.7!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b07f28d0e1c0d5%3A0xe79e7d0e1c4b2ae1!2s2810%20George%20Washington%20Memorial%20Hwy%2C%20Gloucester%20Point%2C%20VA%2023072!5e0!3m2!1sen!2sus!4v1733145600000!5m2!1sen!2sus",
+  googleMapsUrl: "https://www.google.com/maps?cid=16682967888503617377",
   
   // Legacy values for reference
   legacy: {
     name: "Chesapeake Golf Carts",
-    phone: "1-844-844-6638",
+    phone: "804-792-0234",
     url: "https://chesapeakegolfcarts.com",
-    location: "Chesapeake, Virginia",
+    location: "Gloucester Point, Virginia",
   },
 } as const;
 

@@ -29,7 +29,7 @@ export function generateGoogleMapsEmbedLegacy(locationName: string, locationType
   const encodedLocation = encodeURIComponent(fullLocation);
   
   // Use the standard embed format that works without API key
-  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.5!2d-76.2875!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodedLocation}!5e0!3m2!1sen!2sus!4v1653000000000!5m2!1sen!2sus`;
+  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.5!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodedLocation}!5e0!3m2!1sen!2sus!4v1653000000000!5m2!1sen!2sus`;
 }
 
 export function generateSimpleGoogleMapsEmbed(locationName: string, locationType?: string): string {

@@ -241,7 +241,7 @@ export default function EthicsPolicyPage() {
                 <p className="mb-2"><strong>Ethics and Compliance</strong></p>
                 <p className="mb-2">Chesapeake Golf Carts</p>
                 <p className="mb-2">Email: info@chesapeakegolfcarts.com (Confidential Ethics Reports)</p>
-                <p className="mb-2">Phone: 1-844-844-6638</p>
+                <p className="mb-2">Phone: 804-792-0234</p>
                 <p className="mb-2">Serving Hampton Roads, Virginia</p>
                 <p className="mb-2">Website: chesapeakegolfcarts.com</p>
                 <p>Confidential and anonymous reporting available</p>

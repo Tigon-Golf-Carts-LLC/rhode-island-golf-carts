@@ -56,7 +56,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
   const canonicalUrl = `https://chesapeakegolfcarts.com${municipality.url}`;
 
   const businessHours = "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM, Sun: Closed";
-  const businessPhone = "1-844-844-6638";
+  const businessPhone = "804-792-0234";
   const businessEmail = "info@chesapeakegolfcarts.com";
 
   return (

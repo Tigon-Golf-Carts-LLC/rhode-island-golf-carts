@@ -63,7 +63,7 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Chesapeake Golf Carts"
-        description="Discover Virginia's most trusted golf cart dealer serving the City of Chesapeake and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 1-844-844-6638."
+        description="Discover Virginia's most trusted golf cart dealer serving the City of Chesapeake and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-792-0234."
         keywords="Chesapeake VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://chesapeakegolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
@@ -150,7 +150,7 @@ export default function NewAboutPage() {
               <div className="relative">
                 <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden shadow-lg">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.2875!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bac1e8b2e4!2sChesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b0f22c5e574b41%3A0x6b1e6f8c7d8e9f0a!2sGloucester%20Point%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -166,7 +166,7 @@ export default function NewAboutPage() {
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Chesapeake Golf Carts</h4>
                       <p className="text-gray-600">Serving all City of Chesapeake, VA</p>
-                      <p className="text-gray-700">1-844-844-6638</p>
+                      <p className="text-gray-700">804-792-0234</p>
                       <p className="text-gray-600">info@chesapeakegolfcarts.com</p>
                       <p className="text-gray-600">sales@chesapeakegolfcarts.com</p>
                     </div>
@@ -302,9 +302,9 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:804-792-0234">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 1-844-844-6638
+                  Call 804-792-0234
                 </Button>
               </a>
             </div>
@@ -320,7 +320,7 @@ export default function NewAboutPage() {
                   <CardTitle>Call Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">804-792-0234</p>
                   <p className="text-gray-600">Available 7 days a week</p>
                 </CardContent>
               </Card>

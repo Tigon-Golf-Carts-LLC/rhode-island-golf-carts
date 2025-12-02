@@ -27,17 +27,17 @@ export default function LocalBusinessSchema({
   name = "Chesapeake Golf Carts",
   description = "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
-    streetAddress: "1234 Battlefield Blvd",
-    addressLocality: "Chesapeake",
+    streetAddress: "2810 George Washington Memorial Hwy",
+    addressLocality: "Gloucester Point",
     addressRegion: "VA",
-    postalCode: "23322",
+    postalCode: "23072",
     addressCountry: "US"
   },
   geo = {
-    latitude: "36.7682",
-    longitude: "-76.2875"
+    latitude: "37.2850625",
+    longitude: "-76.5074161"
   },
-  telephone = "1-844-844-6638",
+  telephone = "804-792-0234",
   email = "sales@chesapeakegolfcarts.com",
   url = "https://chesapeakegolfcarts.com",
   openingHours = [

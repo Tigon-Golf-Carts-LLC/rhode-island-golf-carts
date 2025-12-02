@@ -11,7 +11,7 @@ export default function EvolutionClassic2Plus() {
     <>
       <SEOHead 
         title="Classic 2 Plus"
-        description="Discover the EVOLUTION® Classic 2 Plus with timeless design and reliable performance, perfect compact 2-passenger golf cart for traditional golf. Call 1-844-844-6638."
+        description="Discover the EVOLUTION® Classic 2 Plus with timeless design and reliable performance, perfect compact 2-passenger golf cart for traditional golf. Call 804-792-0234."
         keywords="EVOLUTION Classic 2 Plus, 2-passenger golf cart, compact golf cart, traditional design, EVOLUTION dealer Chesapeake"
         canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-classic-2-plus"
         ogImage="/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
