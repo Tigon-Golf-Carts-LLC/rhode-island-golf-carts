@@ -6,11 +6,12 @@ import { Star, Wrench, Percent, Leaf, CheckCircle, MapPin, Phone, Clock, Users }
 import { useQuery } from "@tanstack/react-query";
 import type { Vehicle } from "@shared/schema";
 import SEOHead from "@/components/SEOHead";
-import SchemaMarkup, { 
+import SchemaMarkup, {
   generateLocalBusinessSchema,
   generateBreadcrumbSchema
 } from "@/components/SchemaMarkup";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehicles } from "@/lib/localApi";
 
 interface TownPageProps {
   townName: string;
@@ -25,7 +26,8 @@ const getGoogleMapsEmbedUrl = (townName: string, townType: string): string => {
 
 export default function TownPage({ townName, townType }: TownPageProps) {
   const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
+    queryKey: ["vehicles", "town"],
+    queryFn: () => fetchVehicles(),
   });
 
   const featuredVehicles = vehicles?.slice(0, 3) || [];

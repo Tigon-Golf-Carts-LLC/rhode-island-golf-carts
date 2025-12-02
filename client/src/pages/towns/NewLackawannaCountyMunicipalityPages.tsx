@@ -8,6 +8,8 @@ import SEOHead from "@/components/SEOHead";
 import SchemaMarkup from "@/components/SchemaMarkup";
 import { useQuery } from "@tanstack/react-query";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehicles } from "@/lib/localApi";
+import type { Vehicle } from "@shared/schema";
 
 interface NewLackawannaCountyMunicipalityPageProps {
   municipalitySlug: string;
@@ -17,8 +19,9 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
   const municipality = NEW_LACKAWANNA_COUNTY_MUNICIPALITIES.find(m => m.slug === municipalitySlug);
   
   // Fetch featured vehicles for the section
-  const { data: vehicles = [] } = useQuery({
-    queryKey: ['/api/vehicles'],
+  const { data: vehicles = [] } = useQuery<Vehicle[]>({
+    queryKey: ['vehicles', 'municipality'],
+    queryFn: () => fetchVehicles(),
     staleTime: 1000 * 60 * 5,
   });
 

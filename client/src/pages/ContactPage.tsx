@@ -15,6 +15,7 @@ import { MapPin, Phone, Mail, Globe, Clock } from "lucide-react";
 import { contactFormSchema, ContactForm } from "@shared/schema";
 import SEOHead from "@/components/SEOHead";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { submitContactForm } from "@/lib/localApi";
 
 export default function ContactPage() {
   const { toast } = useToast();
@@ -35,20 +36,7 @@ export default function ContactPage() {
 
   const contactMutation = useMutation({
     mutationFn: async (data: ContactForm) => {
-      const response = await fetch("/api/contact", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(data),
-      });
-
-      if (!response.ok) {
-        const error = await response.json();
-        throw new Error(error.error || "Failed to submit contact form");
-      }
-
-      return response.json();
+      return submitContactForm(data);
     },
     onSuccess: () => {
       form.reset();
