@@ -12,10 +12,12 @@ import SEOHead from "@/components/SEOHead";
 import AllSchemas from "@/components/schema/AllSchemas";
 import { CHESAPEAKE_MUNICIPALITIES, type Municipality } from "@/data/chesapeakeMunicipalities";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehicles } from "@/lib/localApi";
 
 export default function HomePage() {
   const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
+    queryKey: ["vehicles"],
+    queryFn: () => fetchVehicles(),
   });
 
   const featuredVehicles = vehicles?.slice(0, 3) || [];

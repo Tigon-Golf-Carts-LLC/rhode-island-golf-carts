@@ -3,11 +3,13 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ArrowRight } from "lucide-react";
 import { Link } from "wouter";
-import type { GolfCart } from "@shared/schema";
+import { fetchFeaturedVehicles } from "@/lib/localApi";
+import type { Vehicle } from "@shared/schema";
 
 export default function InventorySection() {
-  const { data: carts, isLoading } = useQuery<GolfCart[]>({
-    queryKey: ["/api/golf-carts/featured"],
+  const { data: carts, isLoading } = useQuery<Vehicle[]>({
+    queryKey: ["featured-vehicles"],
+    queryFn: () => fetchFeaturedVehicles(6),
   });
 
   if (isLoading) {
@@ -35,30 +37,15 @@ export default function InventorySection() {
     );
   }
 
-  const getBadgeVariant = (category: string) => {
-    switch (category) {
-      case "new":
-        return "secondary";
-      case "custom":
-        return "default";
-      case "used":
-        return "outline";
-      default:
-        return "outline";
-    }
+  const getBadgeVariant = (vehicle: Vehicle) => {
+    if (vehicle.isNew) return "secondary";
+    if (vehicle.inStock) return "default";
+    return "outline";
   };
 
-  const getBadgeText = (category: string) => {
-    switch (category) {
-      case "new":
-        return "NEW";
-      case "custom":
-        return "CUSTOM";
-      case "used":
-        return "USED";
-      default:
-        return category.toUpperCase();
-    }
+  const getBadgeText = (vehicle: Vehicle) => {
+    if (vehicle.isNew) return "NEW";
+    return vehicle.category.toUpperCase();
   };
 
   return (
@@ -80,17 +67,17 @@ export default function InventorySection() {
               className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
             >
               <img
-                src={cart.imageUrl}
-                alt={cart.title}
+                src={cart.images[0]}
+                alt={cart.name}
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="text-xl font-semibold text-gray-900">
-                    {cart.title}
+                    {cart.name}
                   </h3>
-                  <Badge variant={getBadgeVariant(cart.category)}>
-                    {getBadgeText(cart.category)}
+                  <Badge variant={getBadgeVariant(cart)}>
+                    {getBadgeText(cart)}
                   </Badge>
                 </div>
                 <p className="text-gray-600 mb-4">{cart.description}</p>

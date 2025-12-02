@@ -10,6 +10,7 @@ import { Link } from "wouter";
 import SEOHead from "@/components/SEOHead";
 import type { Vehicle } from "@shared/schema";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehicles } from "@/lib/localApi";
 
 export default function NewInventoryPage() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -19,13 +20,7 @@ export default function NewInventoryPage() {
 
   const { data: vehicles, isLoading, error } = useQuery<Vehicle[]>({
     queryKey: ["vehicles"],
-    queryFn: async () => {
-      const response = await fetch('/api/vehicles');
-      if (!response.ok) {
-        throw new Error(`Failed to fetch vehicles: ${response.status}`);
-      }
-      return response.json();
-    },
+    queryFn: () => fetchVehicles(),
     retry: 3,
     refetchOnWindowFocus: false,
   });

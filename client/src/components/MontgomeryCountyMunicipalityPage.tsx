@@ -10,27 +10,8 @@ import LocationSchema from "@/components/LocationSchema";
 import VehicleCard from "@/components/VehicleCard";
 import { PIKE_COUNTY_MUNICIPALITIES, Municipality } from "@/data/pikeCountyMunicipalities";
 import { generateSimpleGoogleMapsEmbed } from "@/utils/googleMaps";
-
-interface Vehicle {
-  description: string;
-  id: string;
-  name: string;
-  brand: string;
-  category: string;
-  price: number;
-  images: string[];
-  specifications: {
-    topSpeed: string;
-    range: string;
-    seatingCapacity: number;
-    batteryType: string;
-    chargingTime: string;
-    payload: string;
-  };
-  features: string[];
-  inStock: boolean;
-  isNew: boolean;
-}
+import { fetchVehicles } from "@/lib/localApi";
+import { type Vehicle } from "@shared/schema";
 
 interface MontgomeryCountyMunicipalityPageProps {
   municipality: Municipality;
@@ -43,7 +24,8 @@ const getGoogleMapsEmbedUrl = (municipality: Municipality) => {
 
 export default function MontgomeryCountyMunicipalityPage({ municipality }: MontgomeryCountyMunicipalityPageProps) {
   const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
+    queryKey: ["vehicles", "montgomery"],
+    queryFn: () => fetchVehicles(),
   });
 
   const featuredVehicles = vehicles?.slice(0, 3) || [];
