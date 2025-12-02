@@ -9,6 +9,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+import { resolveAssetPath } from "@/lib/assets";
 
 export default function Navigation() {
   const [location] = useLocation();
@@ -34,9 +35,9 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center space-x-3">
             <div className="rounded-lg">
-              <img 
-                src="/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png" 
-                alt="Chesapeake Golf Carts Logo" 
+              <img
+                src={resolveAssetPath("/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png")}
+                alt="Chesapeake Golf Carts Logo"
                 className="h-16 w-16 object-contain"
               />
             </div>

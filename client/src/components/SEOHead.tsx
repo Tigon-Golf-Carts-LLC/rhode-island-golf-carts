@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import { resolveAssetPath } from "@/lib/assets";
 
 interface SEOHeadProps {
   title: string;
@@ -27,6 +28,10 @@ export default function SEOHead({
 }: SEOHeadProps) {
   // Use hero background image if provided, otherwise fallback to logo
   const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png";
+  const resolvedOgImage = resolveAssetPath(finalOgImage);
+  const absoluteOgImage = resolvedOgImage.startsWith("http")
+    ? resolvedOgImage
+    : new URL(resolvedOgImage, window.location.origin).toString();
   useEffect(() => {
     // Set page title
     document.title = title;
@@ -67,25 +72,26 @@ export default function SEOHead({
     }
 
     // Set favicon
+    const faviconPath = resolveAssetPath("/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png");
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png");
+      existingFavicon.setAttribute("href", faviconPath);
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png";
+      favicon.href = faviconPath;
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png");
+      existingAppleIcon.setAttribute("href", faviconPath);
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png";
+      appleIcon.href = faviconPath;
       document.head.appendChild(appleIcon);
     }
 
@@ -105,7 +111,7 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://chesapeakegolfcarts.com${finalOgImage}`);
+    updateOGTag("og:image", absoluteOgImage);
     updateOGTag("og:image:width", ogImageWidth.toString());
     updateOGTag("og:image:height", ogImageHeight.toString());
     updateOGTag("og:site_name", "Chesapeake Golf Carts");
@@ -130,7 +136,7 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://chesapeakegolfcarts.com${finalOgImage}`);
+    updateTwitterTag("twitter:image", absoluteOgImage);
     updateTwitterTag("twitter:site", "@chesapeakegolfcarts");
     updateTwitterTag("twitter:creator", "@chesapeakegolfcarts");
 
@@ -150,8 +156,8 @@ export default function SEOHead({
         "telephone": "804-792-0234",
         "email": "sales@chesapeakegolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-        "image": `https://chesapeakegolfcarts.com${finalOgImage}`,
+        "logo": resolveAssetPath("/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"),
+        "image": absoluteOgImage,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {

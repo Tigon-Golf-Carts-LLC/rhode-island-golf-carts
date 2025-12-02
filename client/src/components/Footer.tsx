@@ -1,5 +1,6 @@
 import { Link } from "wouter";
 import { CHESAPEAKE_MUNICIPALITIES } from "@/data/chesapeakeMunicipalities";
+import { resolveAssetPath } from "@/lib/assets";
 
 export default function Footer() {
   return (
@@ -7,9 +8,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
         {/* Logo Section */}
         <div className="flex justify-center mb-8">
-          <img 
-            src="/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png" 
-            alt="Chesapeake Golf Carts Logo" 
+          <img
+            src={resolveAssetPath("/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png")}
+            alt="Chesapeake Golf Carts Logo"
             className="h-24 w-24 object-contain"
           />
         </div>

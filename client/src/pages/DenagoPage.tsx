@@ -7,6 +7,8 @@ import { Check, Star, Zap, Shield, Truck, Phone, MapPin } from "lucide-react";
 import SEOHead from "@/components/SEOHead";
 import VehicleCard from "@/components/VehicleCard";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehiclesByBrand } from "@/lib/localApi";
+import { type Vehicle } from "@shared/schema";
 
 import denagoEvCityImage from "@assets/DENAGONEVCITY_1751893047472_1753135231313.jpg";
 import denagoEvNomadImage from "@assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg";
@@ -15,30 +17,10 @@ import denagoEvRoverXLImage from "@assets/DENAGONEVROVERXL_1751893047473_1753135
 import denagoEvRoverXL6Image from "@assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg";
 import denagoEvRoverXXLImage from "@assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg";
 
-interface Vehicle {
-  id: string;
-  name: string;
-  brand: string;
-  category: string;
-  price: number;
-  images: string[];
-  specifications: {
-    topSpeed: string;
-    range: string;
-    seatingCapacity: number;
-    batteryType: string;
-    chargingTime: string;
-    payload: string;
-  };
-  features: string[];
-  inStock: boolean;
-  isNew: boolean;
-  description: string;
-}
-
 export default function DenagoPage() {
   const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
+    queryKey: ["vehicles", "denago"],
+    queryFn: () => fetchVehiclesByBrand("denago"),
   });
 
   const denagoVehicles = vehicles?.filter(vehicle => 

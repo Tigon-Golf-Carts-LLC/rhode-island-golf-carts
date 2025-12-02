@@ -7,25 +7,20 @@ import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { ArrowLeft, Phone, MessageCircle } from "lucide-react";
 import { Vehicle } from "@shared/schema";
-import SchemaMarkup, { 
+import SchemaMarkup, {
   generateProductSchema,
   generateBreadcrumbSchema
 } from "@/components/SchemaMarkup";
 import AllSchemas from "@/components/schema/AllSchemas";
 import { getLightBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehicleById } from "@/lib/localApi";
 
 export default function VehicleDetailPage() {
   const { id } = useParams<{ id: string }>();
 
   const { data: vehicle, isLoading, error } = useQuery<Vehicle>({
-    queryKey: ["/api/vehicles", id],
-    queryFn: async () => {
-      const response = await fetch(`/api/vehicles/${id}`);
-      if (!response.ok) {
-        throw new Error("Vehicle not found");
-      }
-      return response.json();
-    },
+    queryKey: ["vehicles", id],
+    queryFn: () => fetchVehicleById(id || ""),
     enabled: !!id,
   });
 

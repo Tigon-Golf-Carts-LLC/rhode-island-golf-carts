@@ -1,6 +1,7 @@
 import { Route, Switch } from "wouter";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { HelmetProvider } from "react-helmet-async";
+import { useEffect } from "react";
 import { Toaster } from "@/components/ui/toaster";
 import useScrollToTop from "@/hooks/useScrollToTop";
 import Navigation from "@/components/Navigation";
@@ -26,6 +27,7 @@ import BlogPostPage from "@/pages/BlogPostPage";
 
 import { PrivacyPolicyPage } from "@/pages/PrivacyPolicyPage";
 import { TermsOfServicePage } from "@/pages/TermsOfServicePage";
+import { rewriteDomAssetReferences } from "@/lib/assets";
 
 // Policy Pages
 import TermsConditionsPage from "@/pages/policies/TermsConditionsPage";
@@ -83,6 +85,10 @@ queryClient.setQueryDefaults(['get'], { queryFn: ({ queryKey }) => fetcher(query
 
 export default function App() {
   useScrollToTop();
+
+  useEffect(() => {
+    rewriteDomAssetReferences();
+  }, []);
 
   return (
   <HelmetProvider>

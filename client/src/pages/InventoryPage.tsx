@@ -6,13 +6,14 @@ import VehicleCard from "@/components/VehicleCard";
 import VehicleFilters from "@/components/VehicleFilters";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Vehicle } from "@shared/schema";
-import SchemaMarkup, { 
+import SchemaMarkup, {
   generateBreadcrumbSchema,
   generateOfferCatalogSchema
 } from "@/components/SchemaMarkup";
 import SEOHead from "@/components/SEOHead";
 import AllSchemas from "@/components/schema/AllSchemas";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { fetchVehicles } from "@/lib/localApi";
 
 
 export default function InventoryPage() {
@@ -20,18 +21,12 @@ export default function InventoryPage() {
   const [selectedCategory, setSelectedCategory] = useState("");
 
   const { data: vehicles, isLoading, error } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles", selectedBrand, selectedCategory],
-    queryFn: async () => {
-      const params = new URLSearchParams();
-      if (selectedBrand) params.append("brand", selectedBrand);
-      if (selectedCategory) params.append("category", selectedCategory);
-      
-      const response = await fetch(`/api/vehicles?${params}`);
-      if (!response.ok) {
-        throw new Error("Failed to fetch vehicles");
-      }
-      return response.json();
-    },
+    queryKey: ["vehicles", selectedBrand, selectedCategory],
+    queryFn: () =>
+      fetchVehicles({
+        brand: selectedBrand || undefined,
+        category: selectedCategory || undefined,
+      }),
   });
 
   if (error) {
