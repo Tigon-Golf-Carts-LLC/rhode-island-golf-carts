@@ -6,8 +6,8 @@ import { Badge } from "@/components/ui/badge";
 import { MapPin, Phone, Clock, Navigation, Car, DollarSign, ArrowRight } from "lucide-react";
 import SEOHead from "@/components/SEOHead";
 import SchemaMarkup from "@/components/SchemaMarkup";
-import { useQuery } from "@tanstack/react-query";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { vehicles as allVehicles } from "@/data/vehicles";
 
 interface NewLackawannaCountyMunicipalityPageProps {
   municipalitySlug: string;
@@ -15,15 +15,10 @@ interface NewLackawannaCountyMunicipalityPageProps {
 
 export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLackawannaCountyMunicipalityPageProps) {
   const municipality = NEW_LACKAWANNA_COUNTY_MUNICIPALITIES.find(m => m.slug === municipalitySlug);
-  
-  // Fetch featured vehicles for the section
-  const { data: vehicles = [] } = useQuery({
-    queryKey: ['/api/vehicles'],
-    staleTime: 1000 * 60 * 5,
-  });
 
   // Get 3 featured vehicles for display
-  const featuredVehicles = (vehicles as any[]).slice(0, 3);
+  const vehicles = allVehicles;
+  const featuredVehicles = vehicles.slice(0, 3);
   
   if (!municipality) {
     return <div>Municipality not found</div>;

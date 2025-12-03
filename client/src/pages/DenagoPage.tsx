@@ -1,4 +1,3 @@
-import { useQuery } from "@tanstack/react-query";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -7,6 +6,7 @@ import { Check, Star, Zap, Shield, Truck, Phone, MapPin } from "lucide-react";
 import SEOHead from "@/components/SEOHead";
 import VehicleCard from "@/components/VehicleCard";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { vehicles as allVehicles } from "@/data/vehicles";
 
 import denagoEvCityImage from "@assets/DENAGONEVCITY_1751893047472_1753135231313.jpg";
 import denagoEvNomadImage from "@assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg";
@@ -37,11 +37,8 @@ interface Vehicle {
 }
 
 export default function DenagoPage() {
-  const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
-  });
-
-  const denagoVehicles = vehicles?.filter(vehicle => 
+  const vehicles = allVehicles;
+  const denagoVehicles = vehicles?.filter(vehicle =>
     vehicle.brand.toLowerCase().includes('denago')
   ) || [];
 

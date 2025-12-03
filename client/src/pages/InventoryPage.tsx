@@ -1,51 +1,40 @@
-import { useState } from "react";
-import { useQuery } from "@tanstack/react-query";
+import { useState, useMemo } from "react";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import VehicleCard from "@/components/VehicleCard";
 import VehicleFilters from "@/components/VehicleFilters";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Vehicle } from "@shared/schema";
-import SchemaMarkup, { 
+import SchemaMarkup, {
   generateBreadcrumbSchema,
   generateOfferCatalogSchema
 } from "@/components/SchemaMarkup";
 import SEOHead from "@/components/SEOHead";
 import AllSchemas from "@/components/schema/AllSchemas";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { vehicles as allVehicles } from "@/data/vehicles";
 
 
 export default function InventoryPage() {
   const [selectedBrand, setSelectedBrand] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("");
 
-  const { data: vehicles, isLoading, error } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles", selectedBrand, selectedCategory],
-    queryFn: async () => {
-      const params = new URLSearchParams();
-      if (selectedBrand) params.append("brand", selectedBrand);
-      if (selectedCategory) params.append("category", selectedCategory);
-      
-      const response = await fetch(`/api/vehicles?${params}`);
-      if (!response.ok) {
-        throw new Error("Failed to fetch vehicles");
-      }
-      return response.json();
-    },
-  });
+  const vehicles = useMemo(() => {
+    let filtered = allVehicles;
 
-  if (error) {
-    return (
-      <div className="max-w-7xl mx-auto px-4 py-8">
-        <div className="text-center">
-          <h1 className="text-3xl font-bold text-red-600 mb-4">Error Loading Vehicles</h1>
-          <p className="text-gray-600">
-            Unable to load vehicle inventory. Please try again later.
-          </p>
-        </div>
-      </div>
-    );
-  }
+    if (selectedBrand) {
+      filtered = filtered.filter(v => v.brand.toLowerCase() === selectedBrand.toLowerCase());
+    }
+
+    if (selectedCategory) {
+      filtered = filtered.filter(v => v.category.toLowerCase().includes(selectedCategory.toLowerCase()));
+    }
+
+    return filtered;
+  }, [selectedBrand, selectedCategory]);
+
+  const isLoading = false;
+  const error = null;
 
   const breadcrumbItems = [
     { name: "Home", url: "https://chesapeakegolfcarts.com" },

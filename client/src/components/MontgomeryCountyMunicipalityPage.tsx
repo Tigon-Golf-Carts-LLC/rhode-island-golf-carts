@@ -1,4 +1,3 @@
-import { useQuery } from "@tanstack/react-query";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -10,6 +9,7 @@ import LocationSchema from "@/components/LocationSchema";
 import VehicleCard from "@/components/VehicleCard";
 import { PIKE_COUNTY_MUNICIPALITIES, Municipality } from "@/data/pikeCountyMunicipalities";
 import { generateSimpleGoogleMapsEmbed } from "@/utils/googleMaps";
+import { vehicles as allVehicles } from "@/data/vehicles";
 
 interface Vehicle {
   description: string;
@@ -42,10 +42,7 @@ const getGoogleMapsEmbedUrl = (municipality: Municipality) => {
 };
 
 export default function MontgomeryCountyMunicipalityPage({ municipality }: MontgomeryCountyMunicipalityPageProps) {
-  const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
-  });
-
+  const vehicles = allVehicles;
   const featuredVehicles = vehicles?.slice(0, 3) || [];
   const fullName = `${municipality.name} ${municipality.type}`;
   

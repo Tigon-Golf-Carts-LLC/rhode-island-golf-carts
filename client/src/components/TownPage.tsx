@@ -3,14 +3,14 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Star, Wrench, Percent, Leaf, CheckCircle, MapPin, Phone, Clock, Users } from "lucide-react";
-import { useQuery } from "@tanstack/react-query";
 import type { Vehicle } from "@shared/schema";
 import SEOHead from "@/components/SEOHead";
-import SchemaMarkup, { 
+import SchemaMarkup, {
   generateLocalBusinessSchema,
   generateBreadcrumbSchema
 } from "@/components/SchemaMarkup";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
+import { vehicles as allVehicles } from "@/data/vehicles";
 
 interface TownPageProps {
   townName: string;
@@ -19,15 +19,12 @@ interface TownPageProps {
 
 const getGoogleMapsEmbedUrl = (townName: string, townType: string): string => {
   const townKey = `${townName.toLowerCase().replace(/\s+/g, '')}_${townType.toLowerCase()}`;
-  
+
   return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.2875!3d36.7682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Chesapeake%2C%20VA!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
 };
 
 export default function TownPage({ townName, townType }: TownPageProps) {
-  const { data: vehicles } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles"],
-  });
-
+  const vehicles = allVehicles;
   const featuredVehicles = vehicles?.slice(0, 3) || [];
   const fullTownName = `${townName} ${townType}`;
   
