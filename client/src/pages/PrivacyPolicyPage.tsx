@@ -5,9 +5,9 @@ export function PrivacyPolicyPage() {
     <>
       <SEOHead 
         title="Privacy Policy"
-        description="Learn how Chesapeake Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 804-792-0234."
-        keywords="privacy policy, data protection, personal information, Chesapeake Golf Carts"
-        canonicalUrl="https://chesapeakegolfcarts.com/privacy-policy"
+        description="Learn how Rhode Island Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 804-792-0234."
+        keywords="privacy policy, data protection, personal information, Rhode Island Golf Carts"
+        canonicalUrl="https://rhodeislandgolfcarts.com/privacy-policy"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -22,7 +22,7 @@ export function PrivacyPolicyPage() {
               </p>
               
               <p className="mb-6">
-                At Chesapeake Golf Carts, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website chesapeakegolfcarts.com or engage with our services.
+                At Rhode Island Golf Carts, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website rhodeislandgolfcarts.com or engage with our services.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Information We Collect</h2>
@@ -118,11 +118,11 @@ export function PrivacyPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have any questions about this Privacy Policy or our privacy practices, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>Chesapeake Golf Carts</strong></p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
+                <p className="mb-2"><strong>Rhode Island Golf Carts</strong></p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
-                <p>Website: chesapeakegolfcarts.com</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p>Website: rhodeislandgolfcarts.com</p>
               </div>
 
               <p className="mt-8 text-sm text-gray-600">

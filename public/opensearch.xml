@@ -2,30 +2,30 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   
-  <ShortName>Chesapeake Golf Carts</ShortName>
-  <Description>Search Chesapeake Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Chesapeake, VA and Hampton Roads</Description>
+  <ShortName>Rhode Island Golf Carts</ShortName>
+  <Description>Search Rhode Island Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Chesapeake, VA and Rhode Island</Description>
   
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
   
-  <Image width="16" height="16" type="image/png">https://chesapeakegolfcarts.com/favicon.png</Image>
-  <Image width="64" height="64" type="image/png">https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png</Image>
+  <Image width="16" height="16" type="image/png">https://rhodeislandgolfcarts.com/favicon.png</Image>
+  <Image width="64" height="64" type="image/png">https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png</Image>
   
   <Url type="text/html" 
        method="get" 
-       template="https://chesapeakegolfcarts.com/inventory?search={searchTerms}"/>
+       template="https://rhodeislandgolfcarts.com/inventory?search={searchTerms}"/>
   
   <Url type="application/x-suggestions+json"
        method="get"
-       template="https://chesapeakegolfcarts.com/api/search/suggestions?q={searchTerms}"/>
+       template="https://rhodeislandgolfcarts.com/api/search/suggestions?q={searchTerms}"/>
        
   <Language>en-US</Language>
   
-  <Contact>sales@chesapeakegolfcarts.com</Contact>
+  <Contact>sales@rhodeislandgolfcarts.com</Contact>
   
-  <Developer>Chesapeake Golf Carts</Developer>
+  <Developer>Rhode Island Golf Carts</Developer>
   
-  <Attribution>Chesapeake Golf Carts - Virginia's Premier Electric Golf Cart Dealership serving Chesapeake and Hampton Roads</Attribution>
+  <Attribution>Rhode Island Golf Carts - Rhode Island's Premier Electric Golf Cart Dealership serving Chesapeake and Rhode Island</Attribution>
   
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
@@ -33,12 +33,12 @@
   <Query role="example" searchTerms="DENAGO EV CITY" />
   <Query role="example" searchTerms="golf cart rental Chesapeake VA" />
   <Query role="example" searchTerms="EVOLUTION D5 Maverick" />
-  <Query role="example" searchTerms="electric golf cart service Virginia" />
-  <Query role="example" searchTerms="golf cart Virginia Beach" />
+  <Query role="example" searchTerms="electric golf cart service Rhode Island" />
+  <Query role="example" searchTerms="golf cart Rhode Island Beach" />
   <Query role="example" searchTerms="6 seater golf cart" />
   
-  <moz:SearchForm>https://chesapeakegolfcarts.com/inventory</moz:SearchForm>
+  <moz:SearchForm>https://rhodeislandgolfcarts.com/inventory</moz:SearchForm>
   
-  <Tags>golf cart, electric golf cart, DENAGO, EVOLUTION, Chesapeake, Virginia, Hampton Roads, rentals, sales, service</Tags>
+  <Tags>golf cart, electric golf cart, DENAGO, EVOLUTION, Rhode Island, Rhode Island, rentals, sales, service</Tags>
   
 </OpenSearchDescription>

@@ -1,64 +1,64 @@
-// Chesapeake Golf Carts Branding Constants
+// Rhode Island Golf Carts Branding Constants
 // Central source of truth for all branding information
 
 export const BRANDING = {
   // Company Information
-  name: "Chesapeake Golf Carts",
-  alternateName: "CGC",
-  description: "Premier golf cart dealer in Gloucester Point, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals serving Hampton Roads.",
-  
+  name: "Rhode Island Golf Carts",
+  alternateName: "RIGC",
+  description: "Premier golf cart dealer in Rhode Island specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals serving all of Rhode Island.",
+
   // Contact Information
-  phone: "804-792-0234",
-  email: "sales@chesapeakegolfcarts.com",
-  
-  // Address (Gloucester Point Showroom)
+  phone: "844-844-6638",
+  email: "sales@rhodeislandgolfcarts.com",
+
+  // Address (Rhode Island Showroom)
   address: {
-    street: "2810 George Washington Memorial Hwy",
-    city: "Gloucester Point",
-    state: "VA",
-    stateFullName: "Virginia",
-    zip: "23072",
+    street: "Rhode Island",
+    city: "Newport",
+    state: "RI",
+    stateFullName: "Rhode Island",
+    zip: "02840",
     country: "US",
   },
-  
-  // Coordinates (Gloucester Point, VA)
+
+  // Coordinates (Rhode Island)
   coordinates: {
-    latitude: 37.2850625,
-    longitude: -76.5074161,
+    latitude: 41.5801,
+    longitude: -71.4774,
   },
-  
+
   // Website
-  domain: "chesapeakegolfcarts.com",
-  url: "https://chesapeakegolfcarts.com",
-  
+  domain: "rhodeislandgolfcarts.com",
+  url: "https://rhodeislandgolfcarts.com",
+
   // Social Media
   socialMedia: {
-    facebook: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
-    youtube: "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
-    pinterest: "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/",
+    facebook: "https://www.facebook.com/RhodeIslandGolfCarts/",
+    youtube: "https://www.youtube.com/@RhodeIslandGolfCarts",
+    pinterest: "https://www.pinterest.com/rhodeislandgolfcarts/",
   },
-  
+
   // Service Area
   serviceArea: {
-    county: "Gloucester County",
-    state: "Virginia",
-    region: "Hampton Roads Virginia",
+    county: "Rhode Island",
+    state: "Rhode Island",
+    region: "Rhode Island",
   },
-  
+
   // Business Hours
   hours: {
     weekday: "Mo-Fr 09:00-17:00",
     saturday: "Sa 09:00-17:00",
   },
-  
+
   // Branding
   slogan: "Professional golf cart services delivered to your community",
   foundingYear: "2008",
-  
+
   // Google Maps
-  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3184.7!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b07f28d0e1c0d5%3A0xe79e7d0e1c4b2ae1!2s2810%20George%20Washington%20Memorial%20Hwy%2C%20Gloucester%20Point%2C%20VA%2023072!5e0!3m2!1sen!2sus!4v1733145600000!5m2!1sen!2sus",
-  googleMapsUrl: "https://www.google.com/maps?cid=16682967888503617377",
-  
+  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3184.7!2d-71.4774!3d41.5801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDM0JzQ4LjQiTiA3McKwMjgnMzguNiJX!5e0!3m2!1sen!2sus!4v1733145600000!5m2!1sen!2sus",
+  googleMapsUrl: "https://www.google.com/maps/place/Rhode+Island",
+
   // Legacy values for reference
   legacy: {
     name: "Chesapeake Golf Carts",

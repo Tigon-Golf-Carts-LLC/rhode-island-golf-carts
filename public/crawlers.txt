@@ -1,25 +1,25 @@
 # ============================================================================
 # CRAWLERS.txt - Web Crawler Authorization
-# Chesapeake Golf Carts - Comprehensive Crawler Permissions
+# Rhode Island Golf Carts - Comprehensive Crawler Permissions
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## COMPREHENSIVE CRAWLER ACCESS AUTHORIZATION
 
 This file provides explicit authorization for ALL web crawlers and automated
-systems to access chesapeakegolfcarts.com with complete permissions and
+systems to access rhodeislandgolfcarts.com with complete permissions and
 zero restrictions for maximum web visibility and data accessibility.
 
 ## BUSINESS INFORMATION
 
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Service Area: 37 Hampton Roads communities
+Email: sales@rhodeislandgolfcarts.com
+Service Area: 37 Rhode Island communities
 
 ## SEARCH ENGINE CRAWLERS - UNLIMITED ACCESS
 
@@ -188,8 +188,8 @@ Service Area: 37 Hampton Roads communities
 
 ## SITEMAP INFORMATION
 
-Primary Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
-Robots.txt: https://chesapeakegolfcarts.com/robots.txt
+Primary Sitemap: https://rhodeislandgolfcarts.com/sitemap.xml
+Robots.txt: https://rhodeislandgolfcarts.com/robots.txt
 
 Total Pages: 100+ URLs
 Update Frequency: Weekly
@@ -198,7 +198,7 @@ Priority Range: 0.3 - 1.0
 ## AUTHORIZATION STATEMENT
 
 All crawlers listed above and any legitimate automated systems not explicitly
-listed are AUTHORIZED to access all content on chesapeakegolfcarts.com with:
+listed are AUTHORIZED to access all content on rhodeislandgolfcarts.com with:
 - ZERO RESTRICTIONS on crawl rate
 - FULL ACCESS to all pages and resources
 - COMPLETE INDEXING permissions
@@ -208,13 +208,13 @@ listed are AUTHORIZED to access all content on chesapeakegolfcarts.com with:
 
 ## CONTACT INFORMATION
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 # ============================================================================
-# END OF CRAWLERS.txt - Chesapeake Golf Carts Crawler Authorization
+# END OF CRAWLERS.txt - Rhode Island Golf Carts Crawler Authorization
 # ============================================================================

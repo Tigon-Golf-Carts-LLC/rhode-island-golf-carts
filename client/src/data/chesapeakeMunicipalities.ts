@@ -6,7 +6,7 @@ export interface Municipality {
   region: 'chesapeake' | 'hampton-roads' | 'north-carolina';
 }
 
-// All 37 service area locations for Chesapeake Golf Carts
+// All 37 service area locations for Rhode Island Golf Carts
 export const CHESAPEAKE_MUNICIPALITIES: Municipality[] = [
   // Chesapeake Neighborhoods & Communities (20)
   { name: 'Great Bridge', type: 'Neighborhood', slug: 'great-bridge', url: '/great-bridge-golf-carts', region: 'chesapeake' },
@@ -30,7 +30,7 @@ export const CHESAPEAKE_MUNICIPALITIES: Municipality[] = [
   { name: 'Butts Station', type: 'Community', slug: 'butts-station', url: '/butts-station-golf-carts', region: 'chesapeake' },
   { name: 'Oak Grove', type: 'Community', slug: 'oak-grove', url: '/oak-grove-golf-carts', region: 'chesapeake' },
 
-  // Hampton Roads Cities (6)
+  // Rhode Island Cities (6)
   { name: 'Norfolk', type: 'City', slug: 'norfolk', url: '/norfolk-golf-carts', region: 'hampton-roads' },
   { name: 'Virginia Beach', type: 'City', slug: 'virginia-beach', url: '/virginia-beach-golf-carts', region: 'hampton-roads' },
   { name: 'Portsmouth', type: 'City', slug: 'portsmouth', url: '/portsmouth-golf-carts', region: 'hampton-roads' },

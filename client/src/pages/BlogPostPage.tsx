@@ -62,8 +62,8 @@ export default function BlogPostPage() {
       />
       <BreadcrumbSchema
         items={[
-          { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-          { name: "Blog", url: "https://chesapeakegolfcarts.com/blog" },
+          { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
+          { name: "Blog", url: "https://rhodeislandgolfcarts.com/blog" },
           { name: post.h1.split("|")[0].trim(), url: post.canonicalUrl }
         ]}
       />
@@ -190,7 +190,7 @@ export default function BlogPostPage() {
             <CardContent className="p-8">
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
-                  <h3 className="text-2xl font-bold mb-4">Visit Chesapeake Golf Carts</h3>
+                  <h3 className="text-2xl font-bold mb-4">Visit Rhode Island Golf Carts</h3>
                   <p className="text-gray-200 mb-6">
                     Ready to find your perfect golf cart? Visit our showroom or contact us today!
                   </p>
@@ -205,8 +205,8 @@ export default function BlogPostPage() {
                     </div>
                     <div className="flex items-center">
                       <Mail className="w-5 h-5 mr-3 text-[#ff6100]" />
-                      <a href="mailto:sales@chesapeakegolfcarts.com" className="hover:text-[#ff6100]">
-                        sales@chesapeakegolfcarts.com
+                      <a href="mailto:sales@rhodeislandgolfcarts.com" className="hover:text-[#ff6100]">
+                        sales@rhodeislandgolfcarts.com
                       </a>
                     </div>
                   </div>

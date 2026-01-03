@@ -8,7 +8,7 @@ export default function ReturnPolicyPage() {
         title="Return Policy"
         description="Learn about our comprehensive return policy for golf cart purchases, accessories, and parts with clear conditions, timelines, and procedures. Call 804-792-0234."
         keywords="return policy, golf cart returns, Chesapeake golf carts, refund policy Pennsylvania"
-        canonicalUrl="https://chesapeakegolfcarts.com/policies/return-policy"
+        canonicalUrl="https://rhodeislandgolfcarts.com/policies/return-policy"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -20,7 +20,7 @@ export default function ReturnPolicyPage() {
             Return Policy
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Learn about our return policy for golf carts, parts, and accessories purchased from Chesapeake Golf Carts.
+            Learn about our return policy for golf carts, parts, and accessories purchased from Rhode Island Golf Carts.
           </p>
         </div>
       </section>
@@ -36,7 +36,7 @@ export default function ReturnPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">General Return Policy</h2>
               <p className="mb-6">
-                At Chesapeake Golf Carts, we strive for complete customer satisfaction. This return policy 
+                At Rhode Island Golf Carts, we strive for complete customer satisfaction. This return policy 
                 outlines the conditions and procedures for returns on golf carts, parts, and accessories 
                 purchased from our Pennsylvania locations.
               </p>
@@ -84,7 +84,7 @@ export default function ReturnPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Authorization Required</h3>
               <p className="mb-4">All returns must be pre-authorized. To initiate a return:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>Contact us at info@chesapeakegolfcarts.com or 804-792-0234</li>
+                <li>Contact us at info@rhodeislandgolfcarts.com or 804-792-0234</li>
                 <li>Provide order number and reason for return</li>
                 <li>Receive return authorization number (RMA)</li>
                 <li>Include RMA number with returned item</li>
@@ -96,7 +96,7 @@ export default function ReturnPolicyPage() {
                 <li>Customer responsible for return shipping costs unless item is defective</li>
                 <li>Items must be properly packaged to prevent damage</li>
                 <li>Insurance recommended for high-value returns</li>
-                <li>Chesapeake Golf Carts not responsible for items lost in transit</li>
+                <li>Rhode Island Golf Carts not responsible for items lost in transit</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Defective Items</h2>
@@ -128,11 +128,11 @@ export default function ReturnPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Returns Department</strong></p>
-                <p className="mb-2">Chesapeake Golf Carts</p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
+                <p className="mb-2">Rhode Island Golf Carts</p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
-                <p>Website: chesapeakegolfcarts.com</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p>Website: rhodeislandgolfcarts.com</p>
               </div>
             </div>
           </div>

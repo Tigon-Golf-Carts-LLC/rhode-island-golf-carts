@@ -13,7 +13,7 @@ export default function EvolutionClassic2Plus() {
         title="Classic 2 Plus"
         description="Discover the EVOLUTION® Classic 2 Plus with timeless design and reliable performance, perfect compact 2-passenger golf cart for traditional golf. Call 804-792-0234."
         keywords="EVOLUTION Classic 2 Plus, 2-passenger golf cart, compact golf cart, traditional design, EVOLUTION dealer Chesapeake"
-        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-classic-2-plus"
+        canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-classic-2-plus"
         ogImage="/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -76,7 +76,7 @@ export default function EvolutionClassic2Plus() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -230,7 +230,7 @@ export default function EvolutionClassic2Plus() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

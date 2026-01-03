@@ -15,17 +15,17 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Chesapeake Golf Carts",
+  "name": "Rhode Island Golf Carts",
   "alternateName": "CGC",
   "description": "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
-  "url": "https://chesapeakegolfcarts.com",
-  "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+  "url": "https://rhodeislandgolfcarts.com",
+  "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
   "image": [
-    "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-    "https://chesapeakegolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
+    "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+    "https://rhodeislandgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
   "telephone": "804-792-0234",
-  "email": "sales@chesapeakegolfcarts.com",
+  "email": "sales@rhodeislandgolfcarts.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2810 George Washington Memorial Hwy",
@@ -88,12 +88,12 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://chesapeakegolfcarts.com/#localbusiness",
-  "name": "Chesapeake Golf Carts",
+  "@id": "https://rhodeislandgolfcarts.com/#localbusiness",
+  "name": "Rhode Island Golf Carts",
   "description": "Premier golf cart dealer serving Chesapeake Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
-  "url": "https://chesapeakegolfcarts.com",
+  "url": "https://rhodeislandgolfcarts.com",
   "telephone": "804-792-0234",
-  "email": "sales@chesapeakegolfcarts.com",
+  "email": "sales@rhodeislandgolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
   "paymentAccepted": "Cash, Credit Card, Financing",
@@ -116,7 +116,7 @@ export const generateLocalBusinessSchema = () => ({
   },
   "areaServed": [
     "Chesapeake", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
-    "Hampton", "Newport News", "Hampton Roads", "Great Bridge", "Deep Creek",
+    "Hampton", "Newport News", "Rhode Island", "Great Bridge", "Deep Creek",
     "Greenbrier", "Western Branch", "South Norfolk", "Hickory", "Indian River"
   ],
   "hasOfferCatalog": {
@@ -146,21 +146,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://chesapeakegolfcarts.com/#website",
-  "name": "Chesapeake Golf Carts",
-  "description": "Official website for Chesapeake Golf Carts - Virginia's premier electric golf cart dealer",
-  "url": "https://chesapeakegolfcarts.com",
+  "@id": "https://rhodeislandgolfcarts.com/#website",
+  "name": "Rhode Island Golf Carts",
+  "description": "Official website for Rhode Island Golf Carts - Virginia's premier electric golf cart dealer",
+  "url": "https://rhodeislandgolfcarts.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://chesapeakegolfcarts.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://rhodeislandgolfcarts.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Chesapeake Golf Carts"
+    "name": "Rhode Island Golf Carts"
   }
 });
 
@@ -178,7 +178,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://rhodeislandgolfcarts.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -186,7 +186,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://chesapeakegolfcarts.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://rhodeislandgolfcarts.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -194,11 +194,11 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "Chesapeake Golf Carts",
+      "name": "Rhode Island Golf Carts",
       "telephone": "804-792-0234",
-      "email": "sales@chesapeakegolfcarts.com"
+      "email": "sales@rhodeislandgolfcarts.com"
     },
-    "url": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://rhodeislandgolfcarts.com/vehicles/${vehicle.id}`
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -242,7 +242,7 @@ export const generateServiceSchema = () => ({
   "description": "Comprehensive golf cart sales, service, repair, and rental services in Chesapeake, Virginia",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Chesapeake Golf Carts"
+    "name": "Rhode Island Golf Carts"
   },
   "areaServed": {
     "@type": "State",
@@ -299,24 +299,24 @@ export const generateOfferCatalogSchema = (vehicles: any[]) => ({
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://chesapeakegolfcarts.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://rhodeislandgolfcarts.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://chesapeakegolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://rhodeislandgolfcarts.com/vehicles/${vehicle.id}`
   }))
 });
 
 export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact Chesapeake Golf Carts",
-  "description": "Get in touch with Chesapeake Golf Carts for sales, service, rentals, and support",
-  "url": "https://chesapeakegolfcarts.com/contact",
+  "name": "Contact Rhode Island Golf Carts",
+  "description": "Get in touch with Rhode Island Golf Carts for sales, service, rentals, and support",
+  "url": "https://rhodeislandgolfcarts.com/contact",
   "mainEntity": {
     "@type": "Organization",
-    "name": "Chesapeake Golf Carts",
+    "name": "Rhode Island Golf Carts",
     "contactPoint": [
       {
         "@type": "ContactPoint",
@@ -327,7 +327,7 @@ export const generateContactPageSchema = () => ({
       },
       {
         "@type": "ContactPoint",
-        "email": "sales@chesapeakegolfcarts.com",
+        "email": "sales@rhodeislandgolfcarts.com",
         "contactType": "sales",
         "areaServed": "US"
       }
@@ -340,10 +340,10 @@ export const generateTownPageSchema = (townName: string) => ({
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
   "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Chesapeake, Virginia`,
-  "url": `https://chesapeakegolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
+  "url": `https://rhodeislandgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "Chesapeake Golf Carts",
+    "name": "Rhode Island Golf Carts",
     "areaServed": {
       "@type": "City",
       "name": townName,
@@ -364,13 +364,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://chesapeakegolfcarts.com"
+        "item": "https://rhodeislandgolfcarts.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://chesapeakegolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
+        "item": `https://rhodeislandgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`
       }
     ]
   }

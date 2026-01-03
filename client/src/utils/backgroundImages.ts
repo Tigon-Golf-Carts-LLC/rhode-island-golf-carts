@@ -1,5 +1,5 @@
-// Background image utility for Chesapeake Golf Carts
-// Uses the 10 professional showroom images featuring Chesapeake Golf Carts in Virginia
+// Background image utility for Rhode Island Golf Carts
+// Uses the 10 professional showroom images featuring Rhode Island Golf Carts in Virginia
 
 const BACKGROUND_IMAGES = [
   '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg',

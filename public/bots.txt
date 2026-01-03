@@ -1,25 +1,25 @@
 # ============================================================================
 # BOTS.txt - Bot Access Authorization
-# Chesapeake Golf Carts - Universal Bot Permissions
+# Rhode Island Golf Carts - Universal Bot Permissions
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## UNIVERSAL BOT ACCESS AUTHORIZATION
 
 This file provides explicit authorization for ALL legitimate bots and crawlers
-to access chesapeakegolfcarts.com with ZERO RESTRICTIONS and maximum
+to access rhodeislandgolfcarts.com with ZERO RESTRICTIONS and maximum
 crawling permissions for enhanced search engine visibility.
 
 ## BUSINESS INFORMATION
 
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Service Area: 37 Hampton Roads communities
+Email: sales@rhodeislandgolfcarts.com
+Service Area: 37 Rhode Island communities
 
 ## AUTHORIZED BOT CATEGORIES
 
@@ -130,7 +130,7 @@ Service Area: 37 Hampton Roads communities
 ## AUTHORIZATION STATEMENT
 
 All bots listed above and any legitimate crawlers not explicitly listed are
-AUTHORIZED to access all content on chesapeakegolfcarts.com with:
+AUTHORIZED to access all content on rhodeislandgolfcarts.com with:
 - ZERO RESTRICTIONS on crawl rate
 - FULL ACCESS to all pages and resources
 - COMPLETE INDEXING permissions
@@ -139,18 +139,18 @@ AUTHORIZED to access all content on chesapeakegolfcarts.com with:
 
 ## SITEMAP REFERENCE
 
-Primary Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
-Robots.txt: https://chesapeakegolfcarts.com/robots.txt
+Primary Sitemap: https://rhodeislandgolfcarts.com/sitemap.xml
+Robots.txt: https://rhodeislandgolfcarts.com/robots.txt
 
 ## CONTACT FOR BOT OPERATORS
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 # ============================================================================
-# END OF BOTS.txt - Chesapeake Golf Carts Bot Authorization
+# END OF BOTS.txt - Rhode Island Golf Carts Bot Authorization
 # ============================================================================

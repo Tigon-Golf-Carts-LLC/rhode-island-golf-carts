@@ -5,8 +5,8 @@ export default function EthicsPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Ethics Policy | Chesapeake Golf Carts"
-        description="Learn about Chesapeake Golf Carts' code of ethics and business conduct standards for employees, customers, and partners in Pennsylvania."
+        title="Ethics Policy | Rhode Island Golf Carts"
+        description="Learn about Rhode Island Golf Carts' code of ethics and business conduct standards for employees, customers, and partners in Pennsylvania."
         keywords="ethics policy, business ethics, Chesapeake golf carts, code of conduct Pennsylvania"
       />
       
@@ -33,7 +33,7 @@ export default function EthicsPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Our Ethical Foundation</h2>
               <p className="mb-6">
-                Chesapeake Golf Carts operates with the highest standards of integrity, honesty, 
+                Rhode Island Golf Carts operates with the highest standards of integrity, honesty, 
                 and ethical behavior. Our commitment to ethical business practices guides every 
                 interaction with customers, employees, suppliers, and the Pennsylvania communities we serve.
               </p>
@@ -239,11 +239,11 @@ export default function EthicsPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Ethics Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Ethics and Compliance</strong></p>
-                <p className="mb-2">Chesapeake Golf Carts</p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com (Confidential Ethics Reports)</p>
+                <p className="mb-2">Rhode Island Golf Carts</p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com (Confidential Ethics Reports)</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
-                <p className="mb-2">Website: chesapeakegolfcarts.com</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>Confidential and anonymous reporting available</p>
               </div>
             </div>

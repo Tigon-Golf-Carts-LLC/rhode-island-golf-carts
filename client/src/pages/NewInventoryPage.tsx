@@ -44,7 +44,7 @@ export default function NewInventoryPage() {
         title="Golf Cart Inventory"
         description="Discover our extensive selection of premium new and used golf carts from DENAGO and EVOLUTION, with flexible financing and expert service. Call 804-792-0234."
         keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Chesapeake golf carts"
-        canonicalUrl="https://chesapeakegolfcarts.com/inventory"
+        canonicalUrl="https://rhodeislandgolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
         ogImageWidth={1200}

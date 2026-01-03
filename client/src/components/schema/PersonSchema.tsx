@@ -15,11 +15,11 @@ interface PersonSchemaProps {
 export default function PersonSchema({
   name,
   jobTitle = "Golf Cart Specialist",
-  description = "Professional golf cart expert at Chesapeake Golf Carts",
+  description = "Professional golf cart expert at Rhode Island Golf Carts",
   email,
   telephone,
   image,
-  worksFor = "Chesapeake Golf Carts",
+  worksFor = "Rhode Island Golf Carts",
   url,
   sameAs = []
 }: PersonSchemaProps) {
@@ -44,7 +44,7 @@ export default function PersonSchema({
       "worksFor": {
         "@type": "Organization",
         "name": worksFor,
-        "url": "https://chesapeakegolfcarts.com"
+        "url": "https://rhodeislandgolfcarts.com"
       },
       ...(sameAs.length > 0 && { "sameAs": sameAs })
     };

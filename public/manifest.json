@@ -1,7 +1,7 @@
 {
-  "name": "Chesapeake Golf Carts",
-  "short_name": "Chesapeake Carts",
-  "description": "Chesapeake Golf Carts - Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving the City of Chesapeake and surrounding Hampton Roads communities with sales, rentals, service and parts.",
+  "name": "Rhode Island Golf Carts",
+  "short_name": "RI Golf Carts",
+  "description": "Rhode Island Golf Carts - Rhode Island's premier DENAGO & EVOLUTION electric golf cart dealership serving Rhode Island and surrounding communities with sales, rentals, service and parts.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -10,17 +10,17 @@
   "scope": "/",
   "lang": "en-US",
   "dir": "ltr",
-  "id": "chesapeakegolfcarts",
+  "id": "rhodeislandgolfcarts",
   
   "icons": [
     {
-      "src": "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "src": "/logo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png", 
+      "src": "/logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
@@ -48,7 +48,7 @@
       "url": "/inventory",
       "icons": [
         {
-          "src": "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+          "src": "/logo.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -57,11 +57,11 @@
     {
       "name": "Golf Cart Rentals",
       "short_name": "Rentals", 
-      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Chesapeake",
+      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Rhode Island",
       "url": "/rentals",
       "icons": [
         {
-          "src": "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+          "src": "/logo.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -74,7 +74,7 @@
       "url": "/services",
       "icons": [
         {
-          "src": "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+          "src": "/logo.png",
           "sizes": "192x192",
           "type": "image/png"
         }
@@ -83,11 +83,11 @@
     {
       "name": "Contact Us",
       "short_name": "Contact",
-      "description": "Get in touch with Chesapeake Golf Carts - Call 1-844-844-6638",
+      "description": "Get in touch with Rhode Island Golf Carts - Call 1-844-844-6638",
       "url": "/contact",
       "icons": [
         {
-          "src": "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+          "src": "/logo.png",
           "sizes": "192x192",
           "type": "image/png"
         }

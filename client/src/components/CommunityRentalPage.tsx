@@ -183,7 +183,7 @@ function CommunityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://chesapeakegolfcarts.com/${slug}`}
+        canonicalUrl={`https://rhodeislandgolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -210,7 +210,7 @@ function CommunityRentalPage({
 
         <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
           <div className="max-w-7xl mx-auto text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800">Chesapeake Golf Carts</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800">Rhode Island Golf Carts</Badge>
             <h1 className="text-5xl font-bold mb-6">
               Golf Cart Rentals in {locationText}
             </h1>
@@ -299,7 +299,7 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Email Us</h3>
                 <p className="text-gray-600 mb-4">Get rental information and quotes</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-lg font-semibold text-gray-700">info@chesapeakegolfcarts.com</span>
+                  <span className="text-lg font-semibold text-gray-700">info@rhodeislandgolfcarts.com</span>
                   <Link href="/contact">
                     <Button className="bg-blue-600 hover:bg-blue-700 text-white">
                       Contact Form

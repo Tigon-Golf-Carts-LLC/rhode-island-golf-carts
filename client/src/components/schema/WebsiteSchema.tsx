@@ -7,9 +7,9 @@ interface WebsiteSchemaProps {
 }
 
 export default function WebsiteSchema({ 
-  url = "https://chesapeakegolfcarts.com",
-  name = "Chesapeake Golf Carts",
-  description = "Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving Chesapeake and Hampton Roads"
+  url = "https://rhodeislandgolfcarts.com",
+  name = "Rhode Island Golf Carts",
+  description = "Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving Chesapeake and Rhode Island"
 }: WebsiteSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -20,10 +20,10 @@ export default function WebsiteSchema({
       "url": url,
       "publisher": {
         "@type": "Organization",
-        "name": "Chesapeake Golf Carts",
+        "name": "Rhode Island Golf Carts",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+          "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
           "width": 512,
           "height": 512
         }

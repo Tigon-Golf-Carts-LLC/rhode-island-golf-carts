@@ -3,28 +3,28 @@
   "@graph": [
     {
       "@type": "LocalBusiness",
-      "@id": "https://chesapeakegolfcarts.com/#organization",
-      "name": "Chesapeake Golf Carts",
+      "@id": "https://rhodeislandgolfcarts.com/#organization",
+      "name": "Rhode Island Golf Carts",
       "alternateName": "Chesapeake Carts",
-      "legalName": "Chesapeake Golf Carts LLC",
-      "url": "https://chesapeakegolfcarts.com",
+      "legalName": "Rhode Island Golf Carts LLC",
+      "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
         "width": "512",
         "height": "512",
-        "caption": "Chesapeake Golf Carts Logo"
+        "caption": "Rhode Island Golf Carts Logo"
       },
       "image": [
-        "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
       ],
-      "description": "Chesapeake Golf Carts is Virginia's premier DENAGO and EVOLUTION electric golf cart dealership serving the City of Chesapeake and surrounding Hampton Roads communities with sales, rentals, service, and parts.",
+      "description": "Rhode Island Golf Carts is Rhode Island's premier DENAGO and EVOLUTION electric golf cart dealership serving the City of Chesapeake and surrounding Rhode Island communities with sales, rentals, service, and parts.",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1234 Battlefield Blvd",
+        "streetAddress": "Rhode Island",
         "addressLocality": "Chesapeake",
         "addressRegion": "VA",
-        "postalCode": "23322",
+        "postalCode": "02840",
         "addressCountry": "US"
       },
       "geo": {
@@ -33,7 +33,7 @@
         "longitude": "-76.2875"
       },
       "telephone": "+1-844-844-6638",
-      "email": "sales@chesapeakegolfcarts.com",
+      "email": "sales@rhodeislandgolfcarts.com",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -51,12 +51,12 @@
           "name": "Chesapeake",
           "containedIn": {
             "@type": "State",
-            "name": "Virginia"
+            "name": "Rhode Island"
           }
         },
         {
           "@type": "City",
-          "name": "Virginia Beach"
+          "name": "Rhode Island Beach"
         },
         {
           "@type": "City",
@@ -125,30 +125,30 @@
     },
     {
       "@type": "WebSite",
-      "@id": "https://chesapeakegolfcarts.com/#website",
-      "url": "https://chesapeakegolfcarts.com",
-      "name": "Chesapeake Golf Carts",
-      "description": "Virginia's premier electric golf cart dealership serving Chesapeake and Hampton Roads",
+      "@id": "https://rhodeislandgolfcarts.com/#website",
+      "url": "https://rhodeislandgolfcarts.com",
+      "name": "Rhode Island Golf Carts",
+      "description": "Rhode Island's premier electric golf cart dealership serving Chesapeake and Rhode Island",
       "publisher": {
-        "@id": "https://chesapeakegolfcarts.com/#organization"
+        "@id": "https://rhodeislandgolfcarts.com/#organization"
       },
       "inLanguage": "en-US",
       "potentialAction": {
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": "https://chesapeakegolfcarts.com/inventory?search={search_term_string}"
+          "urlTemplate": "https://rhodeislandgolfcarts.com/inventory?search={search_term_string}"
         },
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "Service",
-      "@id": "https://chesapeakegolfcarts.com/#service-sales",
+      "@id": "https://rhodeislandgolfcarts.com/#service-sales",
       "name": "Golf Cart Sales",
       "serviceType": "Electric Golf Cart Sales",
       "provider": {
-        "@id": "https://chesapeakegolfcarts.com/#organization"
+        "@id": "https://rhodeislandgolfcarts.com/#organization"
       },
       "areaServed": {
         "@type": "GeoCircle",
@@ -163,11 +163,11 @@
     },
     {
       "@type": "Service",
-      "@id": "https://chesapeakegolfcarts.com/#service-rentals",
+      "@id": "https://rhodeislandgolfcarts.com/#service-rentals",
       "name": "Golf Cart Rentals",
       "serviceType": "Golf Cart Rental Service",
       "provider": {
-        "@id": "https://chesapeakegolfcarts.com/#organization"
+        "@id": "https://rhodeislandgolfcarts.com/#organization"
       },
       "areaServed": {
         "@type": "GeoCircle",
@@ -178,7 +178,7 @@
         },
         "geoRadius": "50 mi"
       },
-      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Hampton Roads",
+      "description": "Daily, 3-day, weekly, and monthly golf cart rentals throughout Rhode Island",
       "offers": [
         {
           "@type": "Offer",
@@ -196,11 +196,11 @@
     },
     {
       "@type": "Service",
-      "@id": "https://chesapeakegolfcarts.com/#service-maintenance",
+      "@id": "https://rhodeislandgolfcarts.com/#service-maintenance",
       "name": "Golf Cart Service & Maintenance",
       "serviceType": "Golf Cart Repair and Maintenance",
       "provider": {
-        "@id": "https://chesapeakegolfcarts.com/#organization"
+        "@id": "https://rhodeislandgolfcarts.com/#organization"
       },
       "description": "Professional golf cart service, maintenance, and repair for all brands"
     }

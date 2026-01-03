@@ -1,30 +1,30 @@
 # ============================================================================
 # DATA.txt - Structured Business Data
-# Chesapeake Golf Carts - Complete Business Information Database
+# Rhode Island Golf Carts - Complete Business Information Database
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## BUSINESS ENTITY DATA
 
-Business Name: Chesapeake Golf Carts
-Legal Structure: Virginia Business Entity
+Business Name: Rhode Island Golf Carts
+Legal Structure: Rhode Island Business Entity
 Industry: Automotive Sales, Service & Rentals
 NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 Business Type: Electric Golf Cart Dealership
 Specialization: DENAGO & EVOLUTION Electric Golf Carts
-Service Area: 37 Hampton Roads communities
+Service Area: 37 Rhode Island communities
 
 ## CONTACT AND LOCATION DATA
 
 Primary Phone: 1-844-844-6638
-Primary Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Primary Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 City: Chesapeake
-State: Virginia
-ZIP Code: 23322
+State: Rhode Island
+ZIP Code: 02840
 Country: United States
 Geographic Coordinates: 36.7682°N, -76.2875°W
 Time Zone: Eastern Standard Time (EST) / Eastern Daylight Time (EDT)
@@ -264,10 +264,10 @@ Hickory, Grassfield, Indian River, Pleasant Grove, Portlock
 Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside
 Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
 
-### Hampton Roads Cities (6):
-Norfolk, Virginia Beach, Portsmouth, Suffolk, Hampton, Newport News
+### Rhode Island Cities (6):
+Norfolk, Rhode Island Beach, Portsmouth, Suffolk, Hampton, Newport News
 
-### Hampton Roads Neighborhoods (6):
+### Rhode Island Neighborhoods (6):
 Kempsville, Ghent, Ocean View, Princess Anne, Churchland, Driver
 
 ### Northeastern North Carolina (5):
@@ -280,13 +280,13 @@ Google Tag Manager ID: GTM-KB3WNGFH
 
 ## CONTACT DATA
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 # ============================================================================
-# END OF DATA.txt - Chesapeake Golf Carts
+# END OF DATA.txt - Rhode Island Golf Carts
 # ============================================================================

@@ -1,22 +1,22 @@
 # ============================================================================
 # PRIVACY.txt - Privacy and Data Protection Information
-# Chesapeake Golf Carts - Privacy Policy Documentation
+# Rhode Island Golf Carts - Privacy Policy Documentation
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## PRIVACY POLICY OVERVIEW
 
-Chesapeake Golf Carts is committed to protecting the privacy and personal information 
+Rhode Island Golf Carts is committed to protecting the privacy and personal information 
 of all website visitors, customers, and business contacts. This privacy documentation 
 outlines our data collection, processing, storage, and protection practices in compliance 
 with applicable privacy laws and regulations.
 
-Website: https://chesapeakegolfcarts.com
-Business: Chesapeake Golf Carts - Electric Golf Cart Sales, Service & Rentals
-Contact: sales@chesapeakegolfcarts.com | 1-844-844-6638
-Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Website: https://rhodeislandgolfcarts.com
+Business: Rhode Island Golf Carts - Electric Golf Cart Sales, Service & Rentals
+Contact: sales@rhodeislandgolfcarts.com | 1-844-844-6638
+Location: Rhode Island, Chesapeake, VA 02840
 
 ## DATA PROTECTION COMPLIANCE
 
@@ -27,11 +27,11 @@ Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
 ✓ CAN-SPAM Act - Email communication compliance
 ✓ Children's Online Privacy Protection Act (COPPA) - Minor protection
 
-### Virginia State Privacy Regulations
-✓ Virginia Consumer Data Protection Act (VCDPA) awareness
-✓ Virginia Personal Information Protection Act
-✓ Virginia Breach Notification Law
-✓ Virginia Consumer Protection Act
+### Rhode Island State Privacy Regulations
+✓ Rhode Island Consumer Data Protection Act (VCDPA) awareness
+✓ Rhode Island Personal Information Protection Act
+✓ Rhode Island Breach Notification Law
+✓ Rhode Island Consumer Protection Act
 
 ### Industry Standards
 ✓ PCI DSS Awareness - Payment card data protection
@@ -131,9 +131,9 @@ Website Usage Information:
 
 ### How to Exercise Rights:
 Contact us at:
-- Email: sales@chesapeakegolfcarts.com
+- Email: sales@rhodeislandgolfcarts.com
 - Phone: 1-844-844-6638
-- Mail: 1234 Battlefield Blvd, Chesapeake, VA 23322
+- Mail: Rhode Island, Chesapeake, VA 02840
 
 We will respond within 30 days.
 
@@ -181,15 +181,15 @@ Last updated: November 26, 2025
 
 ## CONTACT FOR PRIVACY INQUIRIES
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 For privacy-related questions, please include "Privacy Inquiry" in your subject line.
 
 # ============================================================================
-# END OF PRIVACY.txt - Chesapeake Golf Carts
+# END OF PRIVACY.txt - Rhode Island Golf Carts
 # ============================================================================

@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="flex justify-center mb-8">
           <img 
             src="/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png" 
-            alt="Chesapeake Golf Carts Logo" 
+            alt="Rhode Island Golf Carts Logo" 
             className="h-24 w-24 object-contain"
           />
         </div>
@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
               Chesapeake's premier golf cart dealership serving customers across 
-              the City of Chesapeake and surrounding Hampton Roads areas with quality carts and expert service.
+              the City of Chesapeake and surrounding Rhode Island areas with quality carts and expert service.
             </p>
           </div>
 
@@ -34,7 +34,7 @@ export default function Footer() {
                 <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">Inventory</Link></li>
                 <li><Link href="/rentals" className="text-gray-600 hover:text-gray-900 text-sm">Rentals</Link></li>
                 <li><Link href="/services" className="text-gray-600 hover:text-gray-900 text-sm">Services</Link></li>
-                <li><a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
+                <li><a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">About</Link></li>
                 <li><Link href="/contact" className="text-gray-600 hover:text-gray-900 text-sm">Contact</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">Evolution Golf Carts</Link></li>
@@ -61,7 +61,7 @@ export default function Footer() {
           <div className="md:hidden">
             <div className="space-y-2">
               <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
-              <p className="text-gray-600 text-sm">Email: sales@chesapeakegolfcarts.com</p>
+              <p className="text-gray-600 text-sm">Email: sales@rhodeislandgolfcarts.com</p>
               <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
@@ -77,7 +77,7 @@ export default function Footer() {
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
                 Chesapeake's premier golf cart dealership serving customers across 
-                the City of Chesapeake and surrounding Hampton Roads areas with quality carts and expert service.
+                the City of Chesapeake and surrounding Rhode Island areas with quality carts and expert service.
               </p>
             </div>
 
@@ -89,7 +89,7 @@ export default function Footer() {
                 <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">Inventory</Link></li>
                 <li><Link href="/rentals" className="text-gray-600 hover:text-gray-900 text-sm">Rentals</Link></li>
                 <li><Link href="/services" className="text-gray-600 hover:text-gray-900 text-sm">Services</Link></li>
-                <li><a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
+                <li><a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">About</Link></li>
                 <li><Link href="/contact" className="text-gray-600 hover:text-gray-900 text-sm">Contact</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">Evolution</Link></li>
@@ -138,7 +138,7 @@ export default function Footer() {
               </ul>
               <div className="space-y-2">
                 <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
-                <p className="text-gray-600 text-sm">Email: sales@chesapeakegolfcarts.com</p>
+                <p className="text-gray-600 text-sm">Email: sales@rhodeislandgolfcarts.com</p>
                 <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
@@ -150,10 +150,10 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Towns Served - Chesapeake & Hampton Roads Communities */}
+        {/* Towns Served - Chesapeake & Rhode Island Communities */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
-            Chesapeake & Surrounding Hampton Roads Communities We Serve
+            Chesapeake & Surrounding Rhode Island Communities We Serve
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 text-center">
             {CHESAPEAKE_MUNICIPALITIES.map((municipality) => (
@@ -172,12 +172,12 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              © 2025 Chesapeake Golf Carts. All rights reserved. | 
+              © 2025 Rhode Island Golf Carts. All rights reserved. | 
               <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> | 
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              Chesapeake Golf Carts - Serving the City of Chesapeake and surrounding Hampton Roads areas with premium golf carts and exceptional service.
+              Rhode Island Golf Carts - Serving the City of Chesapeake and surrounding Rhode Island areas with premium golf carts and exceptional service.
             </div>
           </div>
         </div>

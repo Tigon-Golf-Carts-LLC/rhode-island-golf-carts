@@ -9,10 +9,10 @@ export default function DenagoEvRoverXlPage() {
       series="EV ROVER"
       price="$9,995"
       image={denagoEvRoverXLImage}
-      seoTitle="DENAGO EV ROVER XL - Luxury Family Golf Cart | Chesapeake Golf Carts"
+      seoTitle="DENAGO EV ROVER XL - Luxury Family Golf Cart | Rhode Island Golf Carts"
       seoDescription="Discover the DENAGO EV ROVER XL electric golf cart in Atlantic County, PA. 6-passenger seating with luxury interior and advanced safety features."
       seoKeywords="DENAGO EV ROVER XL, luxury golf cart, 6-passenger, Atlantic County, New Jersey, family vehicle"
-      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-rover-xl"
+      canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-rover-xl"
       seats="6"
       range="50 miles"
       topSpeed="25 mph"
@@ -28,7 +28,7 @@ export default function DenagoEvRoverXlPage() {
         "Smart Technology"
       ]}
       description="Luxury family transportation with maximum comfort and capacity. The DENAGO EV ROVER XL features 6-passenger seating with premium interior and advanced safety systems for Atlantic County families."
-      tigoUrl="https://chesapeakegolfcarts.com/denago-ev/rover-xl/"
+      tigoUrl="https://rhodeislandgolfcarts.com/denago-ev/rover-xl/"
     />
   );
 }

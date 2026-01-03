@@ -1,28 +1,28 @@
 # ============================================================================
-# HUMANS.txt - The Humans Behind Chesapeake Golf Carts
+# HUMANS.txt - The Humans Behind Rhode Island Golf Carts
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 /* TEAM */
 
 /* COMPANY INFORMATION */
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
-Region: Chesapeake, Virginia, USA
-Service Area: 37 communities across Hampton Roads and Northeastern NC
+Email: sales@rhodeislandgolfcarts.com
+Location: Rhode Island, Chesapeake, VA 02840
+Region: Rhode Island, USA
+Service Area: 37 communities across Rhode Island and Northeastern NC
 
 /* BUSINESS OVERVIEW */
 Industry: Electric Golf Cart Sales, Service & Rentals
 Established: 2024
 Specialization: DENAGO & EVOLUTION Electric Vehicle Expertise
 Service Philosophy: Customer-first approach with professional automotive expertise
-Market Focus: Hampton Roads coastal communities and Northeastern NC
-Mission: Providing sustainable transportation solutions for Virginia communities
+Market Focus: Rhode Island coastal communities and Northeastern NC
+Mission: Providing sustainable transportation solutions for Rhode Island communities
 
 /* TECHNICAL TEAM */
 Electric Vehicle Technicians: Certified professionals with electric vehicle experience
@@ -37,11 +37,11 @@ Sales Consultants: Product experts helping customers find perfect vehicles
 Rental Coordinators: Managing fleet operations and customer experiences
 Finance Specialists: Helping customers find affordable payment solutions
 Customer Service: Dedicated support throughout ownership experience
-Community Relations: Building lasting relationships across Hampton Roads
+Community Relations: Building lasting relationships across Rhode Island
 
 /* SERVICE AREA COVERAGE */
-Primary Territory: City of Chesapeake, Virginia
-Secondary Territory: Hampton Roads Metropolitan Area
+Primary Territory: City of Rhode Island
+Secondary Territory: Rhode Island Metropolitan Area
 Extended Territory: Northeastern North Carolina
 Total Communities: 37 locations served
 Service Area Size: 1,800,000+ population reached
@@ -53,7 +53,7 @@ Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside
 Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
 
 /* HAMPTON ROADS CITIES (6) */
-Norfolk, Virginia Beach, Portsmouth, Suffolk, Hampton, Newport News
+Norfolk, Rhode Island Beach, Portsmouth, Suffolk, Hampton, Newport News
 
 /* HAMPTON ROADS NEIGHBORHOODS (6) */
 Kempsville, Ghent, Ocean View, Princess Anne, Churchland, Driver
@@ -105,23 +105,23 @@ Sunday: Closed
 /* VALUES */
 Quality: Only the best electric golf carts
 Service: Customer satisfaction is our priority
-Community: Serving Hampton Roads with pride
+Community: Serving Rhode Island with pride
 Sustainability: Promoting electric transportation
 Integrity: Honest, transparent business practices
 Excellence: Professional expertise in every interaction
 
 /* CONTACT */
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 Coordinates: 36.7682° N, -76.2875° W
 
 /* THANK YOU */
-Thank you for visiting Chesapeake Golf Carts!
+Thank you for visiting Rhode Island Golf Carts!
 We're real people passionate about electric golf carts
-and dedicated to serving the Hampton Roads community.
+and dedicated to serving the Rhode Island community.
 
 # ============================================================================
-# END OF HUMANS.txt - Chesapeake Golf Carts
+# END OF HUMANS.txt - Rhode Island Golf Carts
 # ============================================================================

@@ -10,9 +10,9 @@ export default function ThankYouPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Thank You!"
-        description="Thank you for contacting Chesapeake Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 804-792-0234."
-        keywords="thank you, contact confirmation, Chesapeake Golf Carts, TIGON Golf Carts"
-        canonicalUrl="https://chesapeakegolfcarts.com/thank-you"
+        description="Thank you for contacting Rhode Island Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 804-792-0234."
+        keywords="thank you, contact confirmation, Rhode Island Golf Carts, TIGON Golf Carts"
+        canonicalUrl="https://rhodeislandgolfcarts.com/thank-you"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -27,7 +27,7 @@ export default function ThankYouPage() {
             Thank You!
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            We've received your message and appreciate your interest in Chesapeake Golf Carts.
+            We've received your message and appreciate your interest in Rhode Island Golf Carts.
             Our team will respond to your inquiry soon.
           </p>
         </div>

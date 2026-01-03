@@ -1,14 +1,14 @@
 # ============================================================================
-# Enhanced Robots.txt for Chesapeake Golf Carts
+# Enhanced Robots.txt for Rhode Island Golf Carts
 # Maximum Search Engine Visibility & AI Training Authorization
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
-# Business: Chesapeake Golf Carts - Virginia's Premier Golf Cart Dealership
+# Website: https://rhodeislandgolfcarts.com
+# Business: Rhode Island Golf Carts - Rhode Island's Premier Golf Cart Dealership
 # Phone: 1-844-844-6638
-# Email: sales@chesapeakegolfcarts.com
-# Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Email: sales@rhodeislandgolfcarts.com
+# Location: Rhode Island, Chesapeake, VA 02840
 # Coordinates: 36.7682° N, -76.2875° W
-# Service Area: City of Chesapeake and 37 Hampton Roads communities
+# Service Area: City of Chesapeake and 37 Rhode Island communities
 # Last Updated: 2025-11-26
 # ============================================================================
 
@@ -379,31 +379,31 @@ Crawl-delay: 0
 # SITEMAP LOCATIONS
 # ============================================================================
 
-Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
+Sitemap: https://rhodeislandgolfcarts.com/sitemap.xml
 
 # ============================================================================
 # ADDITIONAL RESOURCES
 # ============================================================================
 
 # AI Training Files:
-# https://chesapeakegolfcarts.com/llms.txt
-# https://chesapeakegolfcarts.com/ai.txt
-# https://chesapeakegolfcarts.com/gpt.txt
-# https://chesapeakegolfcarts.com/claude.txt
-# https://chesapeakegolfcarts.com/training.txt
-# https://chesapeakegolfcarts.com/nlp.txt
+# https://rhodeislandgolfcarts.com/llms.txt
+# https://rhodeislandgolfcarts.com/ai.txt
+# https://rhodeislandgolfcarts.com/gpt.txt
+# https://rhodeislandgolfcarts.com/claude.txt
+# https://rhodeislandgolfcarts.com/training.txt
+# https://rhodeislandgolfcarts.com/nlp.txt
 
 # SEO & Optimization Files:
-# https://chesapeakegolfcarts.com/seo.txt
-# https://chesapeakegolfcarts.com/geo.txt
-# https://chesapeakegolfcarts.com/bots.txt
-# https://chesapeakegolfcarts.com/crawlers.txt
+# https://rhodeislandgolfcarts.com/seo.txt
+# https://rhodeislandgolfcarts.com/geo.txt
+# https://rhodeislandgolfcarts.com/bots.txt
+# https://rhodeislandgolfcarts.com/crawlers.txt
 
 # Business Information:
-# https://chesapeakegolfcarts.com/humans.txt
-# https://chesapeakegolfcarts.com/security.txt
-# https://chesapeakegolfcarts.com/ads.txt
-# https://chesapeakegolfcarts.com/accessibility.txt
+# https://rhodeislandgolfcarts.com/humans.txt
+# https://rhodeislandgolfcarts.com/security.txt
+# https://rhodeislandgolfcarts.com/ads.txt
+# https://rhodeislandgolfcarts.com/accessibility.txt
 
 # ============================================================================
 # CHESAPEAKE GOLF CARTS - COMPLETE CRAWL AUTHORIZATION

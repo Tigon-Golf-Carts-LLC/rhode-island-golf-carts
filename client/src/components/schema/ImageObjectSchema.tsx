@@ -28,9 +28,9 @@ export default function ImageObjectSchema({
   contentUrl,
   thumbnailUrl,
   caption,
-  copyrightHolder = "Chesapeake Golf Carts",
+  copyrightHolder = "Rhode Island Golf Carts",
   creditText,
-  creator = "Chesapeake Golf Carts",
+  creator = "Rhode Island Golf Carts",
   datePublished,
   license,
   acquireLicensePage
@@ -39,13 +39,13 @@ export default function ImageObjectSchema({
     const structuredData = {
       "@context": "https://schema.org",
       "@type": "ImageObject",
-      "url": url.startsWith('http') ? url : `https://chesapeakegolfcarts.com${url}`,
+      "url": url.startsWith('http') ? url : `https://rhodeislandgolfcarts.com${url}`,
       ...(name && { "name": name }),
       ...(description && { "description": description }),
       ...(width && { "width": width }),
       ...(height && { "height": height }),
       "encodingFormat": encodingFormat,
-      "contentUrl": contentUrl || (url.startsWith('http') ? url : `https://chesapeakegolfcarts.com${url}`),
+      "contentUrl": contentUrl || (url.startsWith('http') ? url : `https://rhodeislandgolfcarts.com${url}`),
       ...(thumbnailUrl && { "thumbnailUrl": thumbnailUrl }),
       ...(caption && { "caption": caption }),
       "copyrightHolder": {

@@ -8,7 +8,7 @@ export default function DeliveryPolicyPage() {
         title="Delivery Policy"
         description="Comprehensive delivery services throughout Pennsylvania and surrounding areas for golf cart sales and rentals with free delivery zones and professional scheduling. Call 804-792-0234."
         keywords="delivery policy, golf cart delivery, Chesapeake delivery, Pennsylvania golf cart shipping"
-        canonicalUrl="https://chesapeakegolfcarts.com/policies/delivery-policy"
+        canonicalUrl="https://rhodeislandgolfcarts.com/policies/delivery-policy"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -36,7 +36,7 @@ export default function DeliveryPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Delivery Overview</h2>
               <p className="mb-6">
-                Chesapeake Golf Carts offers comprehensive delivery services throughout Pennsylvania 
+                Rhode Island Golf Carts offers comprehensive delivery services throughout Pennsylvania 
                 and surrounding areas. Our delivery policy ensures safe, timely, and professional 
                 transport of your golf cart purchase or rental.
               </p>
@@ -157,10 +157,10 @@ export default function DeliveryPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Delivery Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Delivery Scheduling</strong></p>
-                <p className="mb-2">Chesapeake Golf Carts</p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
+                <p className="mb-2">Rhode Island Golf Carts</p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p className="mb-2">Hours: Monday-Saturday 8:00 AM - 6:00 PM</p>
                 <p>Sunday: 10:00 AM - 4:00 PM</p>
               </div>

@@ -5,8 +5,8 @@ export default function StaffingReportPage() {
   return (
     <>
       <SEOHead 
-        title="Staffing Report | Chesapeake Golf Carts"
-        description="Learn about Chesapeake Golf Carts' staffing structure, employment practices, and workforce development in Pennsylvania."
+        title="Staffing Report | Rhode Island Golf Carts"
+        description="Learn about Rhode Island Golf Carts' staffing structure, employment practices, and workforce development in Pennsylvania."
         keywords="staffing report, employment, Chesapeake golf carts, workforce Pennsylvania"
       />
       
@@ -33,7 +33,7 @@ export default function StaffingReportPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Executive Summary</h2>
               <p className="mb-6">
-                Chesapeake Golf Carts maintains a dedicated workforce committed to providing 
+                Rhode Island Golf Carts maintains a dedicated workforce committed to providing 
                 exceptional golf cart sales, rental, and service throughout Pennsylvania. This 
                 annual staffing report provides transparency on our employment practices, 
                 workforce composition, and professional development initiatives.
@@ -229,11 +229,11 @@ export default function StaffingReportPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Human Resources</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Human Resources Department</strong></p>
-                <p className="mb-2">Chesapeake Golf Carts</p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
+                <p className="mb-2">Rhode Island Golf Carts</p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
-                <p className="mb-2">Website: chesapeakegolfcarts.com</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>Career opportunities and employment inquiries welcome</p>
               </div>
             </div>

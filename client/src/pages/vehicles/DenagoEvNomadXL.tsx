@@ -13,7 +13,7 @@ export default function DenagoEvNomadXL() {
         title="Nomad XL"
         description="Discover the DENAGO® EV Nomad XL with extended seating and enhanced storage, perfect for larger adventure groups with superior performance. Call 804-792-0234."
         keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger golf cart, DENAGO dealer Chesapeake"
-        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad-xl"
+        canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-nomad-xl"
         ogImage="/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -80,12 +80,12 @@ export default function DenagoEvNomadXL() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </a>
-                  <a href="https://chesapeakegolfcarts.com/denago-ev/nomad-xl/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/denago-ev/nomad-xl/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       View More Details
                     </Button>
@@ -244,7 +244,7 @@ export default function DenagoEvNomadXL() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

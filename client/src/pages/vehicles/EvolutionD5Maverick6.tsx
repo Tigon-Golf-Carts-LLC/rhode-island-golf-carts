@@ -10,7 +10,7 @@ export default function EvolutionD5Maverick6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 Maverick 6 - Family Golf Cart | Chesapeake Golf Carts"
+        title="EVOLUTION® D5 Maverick 6 - Family Golf Cart | Rhode Island Golf Carts"
         description="Discover the EVOLUTION® D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance."
         keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Chesapeake"
       />
@@ -71,7 +71,7 @@ export default function EvolutionD5Maverick6() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -225,7 +225,7 @@ export default function EvolutionD5Maverick6() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

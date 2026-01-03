@@ -36,7 +36,7 @@ export default function Navigation() {
             <div className="rounded-lg">
               <img 
                 src="/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png" 
-                alt="Chesapeake Golf Carts Logo" 
+                alt="Rhode Island Golf Carts Logo" 
                 className="h-16 w-16 object-contain"
               />
             </div>

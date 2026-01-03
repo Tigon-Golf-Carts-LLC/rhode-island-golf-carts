@@ -24,7 +24,7 @@ interface LocalBusinessSchemaProps {
 }
 
 export default function LocalBusinessSchema({
-  name = "Chesapeake Golf Carts",
+  name = "Rhode Island Golf Carts",
   description = "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
     streetAddress: "2810 George Washington Memorial Hwy",
@@ -38,8 +38,8 @@ export default function LocalBusinessSchema({
     longitude: "-76.5074161"
   },
   telephone = "804-792-0234",
-  email = "sales@chesapeakegolfcarts.com",
-  url = "https://chesapeakegolfcarts.com",
+  email = "sales@rhodeislandgolfcarts.com",
+  url = "https://rhodeislandgolfcarts.com",
   openingHours = [
     "Mo-Fr 09:00-18:00",
     "Sa 09:00-17:00",
@@ -57,13 +57,13 @@ export default function LocalBusinessSchema({
       "description": description,
       "image": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
         "width": 400,
         "height": 400
       },
       "logo": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
         "width": 400,
         "height": 400
       },

@@ -14,9 +14,9 @@ export default function BlogPostSchema({
   description,
   url,
   publishDate,
-  image = "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-  imageAlt = "Chesapeake Golf Carts",
-  author = "Chesapeake Golf Carts",
+  image = "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+  imageAlt = "Rhode Island Golf Carts",
+  author = "Rhode Island Golf Carts",
   keywords = ""
 }: BlogPostSchemaProps) {
   const schema = {
@@ -32,19 +32,19 @@ export default function BlogPostSchema({
     "author": {
       "@type": "Organization",
       "name": author,
-      "url": "https://chesapeakegolfcarts.com",
+      "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
       }
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Chesapeake Golf Carts",
-      "url": "https://chesapeakegolfcarts.com",
+      "name": "Rhode Island Golf Carts",
+      "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
       },
       "address": {
         "@type": "PostalAddress",
@@ -55,7 +55,7 @@ export default function BlogPostSchema({
         "addressCountry": "US"
       },
       "telephone": "804-792-0234",
-      "email": "sales@chesapeakegolfcarts.com"
+      "email": "sales@rhodeislandgolfcarts.com"
     },
     "datePublished": publishDate,
     "dateModified": publishDate,
@@ -68,8 +68,8 @@ export default function BlogPostSchema({
     "inLanguage": "en-US",
     "isPartOf": {
       "@type": "Blog",
-      "name": "Chesapeake Golf Carts Blog",
-      "url": "https://chesapeakegolfcarts.com/blog"
+      "name": "Rhode Island Golf Carts Blog",
+      "url": "https://rhodeislandgolfcarts.com/blog"
     },
     "about": {
       "@type": "Thing",

@@ -10,10 +10,10 @@ export default function EvolutionD6MaxGT4() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D6 MAX GT4 - Performance Golf Cart | Chesapeake Golf Carts"
+        title="EVOLUTION® D6 MAX GT4 - Performance Golf Cart | Rhode Island Golf Carts"
         description="Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. High-performance electric golf cart for discerning drivers."
         keywords="EVOLUTION D6 MAX GT4, performance golf cart, luxury electric vehicle, high performance, EVOLUTION dealer Chesapeake"
-        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d6-max-gt4"
+        canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d6-max-gt4"
         ogImage="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg"
         ogType="product"
       />

@@ -62,7 +62,7 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: MapPin,
-      label: "Chesapeake Golf Carts",
+      label: "Rhode Island Golf Carts",
       value: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
       phone: "804-792-0234",
     },
@@ -74,18 +74,18 @@ export default function ContactPage() {
     {
       icon: Mail,
       label: "Primary Email",
-      value: "info@chesapeakegolfcarts.com",
+      value: "info@rhodeislandgolfcarts.com",
     },
     {
       icon: Mail,
       label: "Sales Email",
-      value: "sales@chesapeakegolfcarts.com",
+      value: "sales@rhodeislandgolfcarts.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "chesapeakegolfcarts.com",
-      link: "https://chesapeakegolfcarts.com",
+      value: "rhodeislandgolfcarts.com",
+      link: "https://rhodeislandgolfcarts.com",
     },
   ];
 
@@ -98,10 +98,10 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Chesapeake Golf Carts"
+        title="Contact Rhode Island Golf Carts"
         description="Get expert golf cart sales, service, and support from Chesapeake's premier dealership located at 2810 George Washington Memorial Hwy, Gloucester Point, VA 23072. Call 804-792-0234."
-        keywords="contact Chesapeake golf carts, golf cart sales Virginia, Chesapeake showroom, Hampton Roads golf cart service VA"
-        canonicalUrl="https://chesapeakegolfcarts.com/contact"
+        keywords="contact Chesapeake golf carts, golf cart sales Virginia, Chesapeake showroom, Rhode Island golf cart service VA"
+        canonicalUrl="https://rhodeislandgolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -113,7 +113,7 @@ export default function ContactPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("contact")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Contact Chesapeake Golf Carts
+              Contact Rhode Island Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               Get in touch with our team for sales, service, and support throughout the City of Chesapeake, Virginia. 
@@ -126,7 +126,7 @@ export default function ContactPage() {
                   Call 804-792-0234
                 </Button>
               </a>
-              <a href="mailto:info@chesapeakegolfcarts.com">
+              <a href="mailto:info@rhodeislandgolfcarts.com">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Us

@@ -13,7 +13,7 @@ export default function EvolutionD5Maverick6Plus() {
         title="Maverick 6 Plus"
         description="Experience the luxury EVOLUTION® D5 Maverick 6 Plus six-passenger family golf cart with premium amenities and extended range capability. Call 804-792-0234."
         keywords="EVOLUTION D5 Maverick 6 Plus, luxury golf cart, 6-passenger, family ready, premium comfort, EVOLUTION dealer Chesapeake"
-        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-6-plus"
+        canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d5-maverick-6-plus"
         ogImage="/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -76,7 +76,7 @@ export default function EvolutionD5Maverick6Plus() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -230,7 +230,7 @@ export default function EvolutionD5Maverick6Plus() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

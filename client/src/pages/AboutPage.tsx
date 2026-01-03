@@ -30,9 +30,9 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2008", event: "Chesapeake Golf Carts founded in Chesapeake" },
+    { year: "2008", event: "Rhode Island Golf Carts founded in Chesapeake" },
     { year: "2010", event: "Became authorized EVOLUTION dealer" },
-    { year: "2013", event: "Expanded to serve all Hampton Roads communities" },
+    { year: "2013", event: "Expanded to serve all Rhode Island communities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
     { year: "2019", event: "Opened expanded service center" },
     { year: "2024", event: "Reached 750+ satisfied customers across Virginia" }
@@ -42,20 +42,20 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About Chesapeake Golf Carts - Premier Golf Cart Dealership Since 2008"
-        description="Learn about Chesapeake Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
-        keywords="about Chesapeake Golf Carts, golf cart dealership Virginia, Denago Evolution dealer, golf cart service team"
-        canonicalUrl="https://chesapeakegolfcarts.com/about"
+        title="About Rhode Island Golf Carts - Premier Golf Cart Dealership Since 2008"
+        description="Learn about Rhode Island Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
+        keywords="about Rhode Island Golf Carts, golf cart dealership Virginia, Denago Evolution dealer, golf cart service team"
+        canonicalUrl="https://rhodeislandgolfcarts.com/about"
       />
       <AllSchemas 
         pageType="about" 
         pageData={{
-          title: "About Chesapeake Golf Carts",
-          description: "Learn about Chesapeake Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
-          url: "https://chesapeakegolfcarts.com/about",
+          title: "About Rhode Island Golf Carts",
+          description: "Learn about Rhode Island Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
+          url: "https://rhodeislandgolfcarts.com/about",
           breadcrumbs: [
-            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-            { name: "About", url: "https://chesapeakegolfcarts.com/about" }
+            { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
+            { name: "About", url: "https://rhodeislandgolfcarts.com/about" }
           ],
           people: [
             {
@@ -84,12 +84,12 @@ export default function AboutPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("about")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            About Chesapeake Golf Carts
+            About Rhode Island Golf Carts
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
             Since 2008, we've been Chesapeake's premier destination for premium golf carts, 
             exceptional service, and unmatched customer care. Serving all 15 communities 
-            across the Hampton Roads region with pride and professionalism.
+            across the Rhode Island region with pride and professionalism.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
@@ -109,12 +109,12 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Chesapeake, Virginia, Chesapeake Golf Carts began with a simple mission: 
-                to provide high-quality golf carts and exceptional service to customers throughout the Hampton Roads region.
+                Founded in 2008 in Chesapeake, Virginia, Rhode Island Golf Carts began with a simple mission: 
+                to provide high-quality golf carts and exceptional service to customers throughout the Rhode Island region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 The City of Chesapeake is home to beautiful communities including Great Bridge, Deep Creek, and Greenbrier, along with scenic areas like 
-                Western Branch, South Norfolk, and Indian River. Our location in the heart of the Hampton Roads region drives our commitment to excellence 
+                Western Branch, South Norfolk, and Indian River. Our location in the heart of the Rhode Island region drives our commitment to excellence 
                 and serves the outdoor recreation and residential communities throughout this vibrant area.
               </p>
               <p className="text-lg text-gray-600 mb-6">
@@ -124,7 +124,7 @@ export default function AboutPage() {
               </p>
               <p className="text-lg text-gray-600 mb-8">
                 Today, we're proud to serve the diverse communities across Chesapeake's neighborhoods, from Great Bridge 
-                to Deep Creek, from Greenbrier to the surrounding Hampton Roads cities, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
+                to Deep Creek, from Greenbrier to the surrounding Rhode Island cities, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
                 Learn More About Our Services
@@ -259,21 +259,21 @@ export default function AboutPage() {
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Chesapeake</h2>
               <p className="text-lg text-gray-600 mb-6">
                 From our location serving Chesapeake and beyond, we proudly serve customers throughout 
-                the Hampton Roads region. Our commitment to quality service extends across our 
+                the Rhode Island region. Our commitment to quality service extends across our 
                 entire service area with convenient locations.
               </p>
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Chesapeake Golf Carts - Great Bridge</span>
+                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Great Bridge</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Chesapeake Golf Carts - Greenbrier</span>
+                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Greenbrier</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Chesapeake Golf Carts - Western Branch</span>
+                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Western Branch</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 mb-6">
@@ -301,12 +301,12 @@ export default function AboutPage() {
 
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">Chesapeake & Hampton Roads Communities We Serve</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">Chesapeake & Rhode Island Communities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
                 "Chesapeake", "Great Bridge", "Deep Creek", "Greenbrier", "Western Branch", "South Norfolk",
                 "Hickory", "Indian River", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
-                "Hampton", "Newport News", "Hampton Roads"
+                "Hampton", "Newport News", "Rhode Island"
               ].map((town, index) => (
                 <div key={index} className="py-1">
                   {town}
@@ -324,7 +324,7 @@ export default function AboutPage() {
             Ready to Join Our Family?
           </h2>
           <p className="text-xl mb-8">
-            Experience the Chesapeake Golf Carts difference in the Hampton Roads region
+            Experience the Rhode Island Golf Carts difference in the Rhode Island region
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">

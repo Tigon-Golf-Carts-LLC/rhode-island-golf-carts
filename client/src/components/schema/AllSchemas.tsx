@@ -125,10 +125,10 @@ interface AllSchemasProps {
 
 export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps) {
   const {
-    title = "Chesapeake Golf Carts",
-    description = "Premier golf cart dealership in Hampton Roads, Virginia",
-    url = "https://chesapeakegolfcarts.com",
-    breadcrumbs = [{ name: "Home", url: "https://chesapeakegolfcarts.com/" }],
+    title = "Rhode Island Golf Carts",
+    description = "Premier golf cart dealership in Rhode Island, Virginia",
+    url = "https://rhodeislandgolfcarts.com",
+    breadcrumbs = [{ name: "Home", url: "https://rhodeislandgolfcarts.com/" }],
     vehicleName,
     vehicleBrand,
     vehicleModel,
@@ -166,9 +166,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Auto Dealer Schema for all pages */}
       <AutoDealerSchema
-        name="Chesapeake Golf Carts"
-        description="Premier electric golf cart dealership serving Hampton Roads, Virginia with sales, service, rentals, and financing"
-        url="https://chesapeakegolfcarts.com"
+        name="Rhode Island Golf Carts"
+        description="Premier electric golf cart dealership serving Rhode Island, Virginia with sales, service, rentals, and financing"
+        url="https://rhodeislandgolfcarts.com"
         address={{
           streetAddress: "Various Locations",
           addressLocality: "Chesapeake",
@@ -177,7 +177,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           addressCountry: "US"
         }}
         telephone="804-792-0234"
-        email="info@chesapeakegolfcarts.com"
+        email="info@rhodeislandgolfcarts.com"
         brands={["DENAGO", "EVOLUTION"]}
         services={["Golf Cart Sales", "Golf Cart Service", "Golf Cart Rentals", "Financing", "Parts & Accessories"]}
         openingHours={[
@@ -195,8 +195,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       <ContactPointSchema
         contactType="customer service"
         telephone="804-792-0234"
-        email="info@chesapeakegolfcarts.com"
-        areaServed="Hampton Roads, Virginia"
+        email="info@rhodeislandgolfcarts.com"
+        areaServed="Rhode Island, Virginia"
         availableLanguage={["English"]}
         hoursAvailable={[
           { dayOfWeek: "Monday", opens: "09:00", closes: "18:00" },
@@ -211,7 +211,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Menu Schema for site navigation */}
       <MenuSchema
-        name="Chesapeake Golf Carts Navigation"
+        name="Rhode Island Golf Carts Navigation"
         description="Main website navigation menu"
         hasMenuSection={[
           {
@@ -251,7 +251,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             name={vehicleName}
             brand={vehicleBrand}
             model={vehicleModel}
-            description={`${vehicleBrand} ${vehicleModel} electric golf cart available at Chesapeake Golf Carts`}
+            description={`${vehicleBrand} ${vehicleModel} electric golf cart available at Rhode Island Golf Carts`}
             image={vehicleImage}
             price={vehiclePrice}
             features={vehicleFeatures}
@@ -277,7 +277,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             features={vehicleFeatures}
             manufacturer={{
               name: vehicleBrand,
-              url: `https://chesapeakegolfcarts.com/${vehicleBrand.toLowerCase()}`
+              url: `https://rhodeislandgolfcarts.com/${vehicleBrand.toLowerCase()}`
             }}
           />
           <VehicleSchemaOld
@@ -306,8 +306,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <BrandSchema
             name={vehicleBrand}
-            description={`${vehicleBrand} electric golf carts available at Chesapeake Golf Carts`}
-            url={`https://chesapeakegolfcarts.com/${vehicleBrand.toLowerCase()}`}
+            description={`${vehicleBrand} electric golf carts available at Rhode Island Golf Carts`}
+            url={`https://rhodeislandgolfcarts.com/${vehicleBrand.toLowerCase()}`}
             manufacturer={vehicleBrand}
             products={[{
               name: vehicleName,
@@ -322,7 +322,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "inventory" && (
         <>
           <CollectionPageSchema
-            name="Golf Cart Inventory - Chesapeake Golf Carts"
+            name="Golf Cart Inventory - Rhode Island Golf Carts"
             description="Browse our complete inventory of electric golf carts from DENAGO and EVOLUTION"
             url={url}
             mainEntity={collectionItems.length > 0 ? collectionItems : [
@@ -365,7 +365,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <PlaceSchema
             name={`${locationName} ${locationType}`}
-            description={`Golf cart sales and service in ${locationName} ${locationType}, Hampton Roads, Virginia`}
+            description={`Golf cart sales and service in ${locationName} ${locationType}, Rhode Island, Virginia`}
             address={{
               addressLocality: locationName,
               addressRegion: "VA",
@@ -388,7 +388,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
           />
           <AutoDealerSchema
-            name={`Chesapeake Golf Carts - ${locationName} Service`}
+            name={`Rhode Island Golf Carts - ${locationName} Service`}
             description={`Premier golf cart dealership serving ${locationName} ${locationType} and surrounding areas`}
             url={url}
             address={{
@@ -399,7 +399,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               addressCountry: "US"
             }}
             telephone="804-792-0234"
-            email="info@chesapeakegolfcarts.com"
+            email="info@rhodeislandgolfcarts.com"
             brands={["DENAGO", "EVOLUTION"]}
             services={["Golf Cart Sales", "Service & Repair", "Rentals", "Parts & Accessories"]}
           />
@@ -416,8 +416,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             longitude={locationLongitude}
           />
           <RentalCarAgencySchema
-            name={`Chesapeake Golf Carts - ${locationName} Rentals`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Hampton Roads, Virginia`}
+            name={`Rhode Island Golf Carts - ${locationName} Rentals`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island, Virginia`}
             url={url}
             address={{
               streetAddress: "Service Area",
@@ -427,7 +427,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               addressCountry: "US"
             }}
             telephone="804-792-0234"
-            email="info@chesapeakegolfcarts.com"
+            email="info@rhodeislandgolfcarts.com"
             areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
@@ -438,7 +438,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <ServiceSchema
             serviceName={`Golf Cart Rentals in ${locationName} ${locationType}`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Hampton Roads, Virginia`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island, Virginia`}
             areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
@@ -463,7 +463,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             faqs={[
               {
                 question: `Do you deliver golf cart rentals to ${locationName}?`,
-                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Hampton Roads, Virginia.`
+                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Rhode Island, Virginia.`
               },
               {
                 question: "What types of golf carts are available for rent?",
@@ -486,7 +486,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Services"
-            description="Comprehensive golf cart sales, service, repair, and maintenance in Hampton Roads, Virginia"
+            description="Comprehensive golf cart sales, service, repair, and maintenance in Rhode Island, Virginia"
             offers={serviceOffers}
           />
           <OfferSchema
@@ -504,7 +504,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Sales"
-            description="New and used electric golf cart sales in Hampton Roads, Virginia"
+            description="New and used electric golf cart sales in Rhode Island, Virginia"
           />
           <OfferSchema
             itemOffered={{
@@ -521,7 +521,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Rentals"
-            description="Golf cart rental services throughout Hampton Roads, Virginia"
+            description="Golf cart rental services throughout Rhode Island, Virginia"
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -529,9 +529,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             ]}
           />
           <RentalCarAgencySchema
-            name="Chesapeake Golf Carts - Rental Services"
-            description="Professional golf cart rental services throughout Hampton Roads, Virginia"
-            url="https://chesapeakegolfcarts.com/rentals"
+            name="Rhode Island Golf Carts - Rental Services"
+            description="Professional golf cart rental services throughout Rhode Island, Virginia"
+            url="https://rhodeislandgolfcarts.com/rentals"
             address={{
               streetAddress: "Service Area",
               addressLocality: "Chesapeake",
@@ -540,8 +540,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               addressCountry: "US"
             }}
             telephone="804-792-0234"
-            email="info@chesapeakegolfcarts.com"
-            areaServed="Hampton Roads, Virginia"
+            email="info@rhodeislandgolfcarts.com"
+            areaServed="Rhode Island, Virginia"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater and Utility from $245/day, 6-Seater from $295/day" },
@@ -605,9 +605,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       
       {/* Always include main company image */}
       <ImageObjectSchema
-        url="/attached_assets/Chesapeake Golf Carts (2)_1756138898367.png"
-        name="Chesapeake Golf Carts Logo"
-        description="Chesapeake Golf Carts company logo featuring professional golf cart branding"
+        url="/attached_assets/Rhode Island Golf Carts (2)_1756138898367.png"
+        name="Rhode Island Golf Carts Logo"
+        description="Rhode Island Golf Carts company logo featuring professional golf cart branding"
         width={400}
         height={400}
       />
@@ -628,8 +628,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               endDate={event.endDate}
               location={event.location}
               organizer={{
-                name: "Chesapeake Golf Carts",
-                url: "https://chesapeakegolfcarts.com"
+                name: "Rhode Island Golf Carts",
+                url: "https://rhodeislandgolfcarts.com"
               }}
             />
           ))}
@@ -639,9 +639,9 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "brand" && brandName && (
         <BrandSchema
           name={brandName}
-          description={brandDescription || `${brandName} electric golf carts available at Chesapeake Golf Carts`}
+          description={brandDescription || `${brandName} electric golf carts available at Rhode Island Golf Carts`}
           url={url}
-          logo="/attached_assets/Chesapeake Golf Carts (2)_1756138898367.png"
+          logo="/attached_assets/Rhode Island Golf Carts (2)_1756138898367.png"
           manufacturer={brandName}
           products={brandProducts}
         />
@@ -650,7 +650,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {pageType === "home" && (
         <>
           <HowToSchema
-            name="How to Buy a Golf Cart from Chesapeake Golf Carts"
+            name="How to Buy a Golf Cart from Rhode Island Golf Carts"
             description="Step-by-step guide to purchasing your perfect electric golf cart"
             steps={[
               {
@@ -677,15 +677,15 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           {/* VideoObjectSchema temporarily disabled due to props issue */}
           {/* <VideoObjectSchema
-            name="Chesapeake Golf Carts - Electric Vehicle Showcase"
+            name="Rhode Island Golf Carts - Electric Vehicle Showcase"
             description="Watch our showcase of premium electric golf carts from DENAGO and EVOLUTION brands"
             thumbnailUrl="/attached_assets/image_1753728346042.png"
             embedUrl={`${url}#video-showcase`}
             duration="PT3M45S"
             uploadDate="2024-12-01"
             publisher={{
-              name: "Chesapeake Golf Carts",
-              logo: "/attached_assets/Chesapeake Golf Carts (2)_1756138898367.png"
+              name: "Rhode Island Golf Carts",
+              logo: "/attached_assets/Rhode Island Golf Carts (2)_1756138898367.png"
             }}
           /> */}
         </>
