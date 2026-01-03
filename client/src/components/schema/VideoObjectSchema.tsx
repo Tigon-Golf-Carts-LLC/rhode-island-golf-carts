@@ -21,8 +21,8 @@ export default function VideoObjectSchema({
   contentUrl, 
   embedUrl, 
   publisher = {
-    name: "Chesapeake Golf Carts",
-    logo: "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+    name: "Rhode Island Golf Carts",
+    logo: "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
   }
 }: VideoObjectSchemaProps) {
   const videoSchema = {

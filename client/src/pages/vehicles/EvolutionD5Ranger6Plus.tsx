@@ -10,8 +10,8 @@ export default function EvolutionD5Ranger6Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D5 RANGER 6 PLUS - Premium Electric Golf Cart | Chesapeake Golf Carts"
-        description="Discover the EVOLUTION® D5 RANGER 6 PLUS - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Chesapeake Golf Carts."
+        title="EVOLUTION® D5 RANGER 6 PLUS - Premium Electric Golf Cart | Rhode Island Golf Carts"
+        description="Discover the EVOLUTION® D5 RANGER 6 PLUS - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Rhode Island Golf Carts."
         keywords="EVOLUTION D5 RANGER 6 PLUS, electric golf cart, premium electric vehicle, EVOLUTION dealer Chesapeake"
       />
       

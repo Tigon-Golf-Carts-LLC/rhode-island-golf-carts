@@ -205,10 +205,10 @@ export default function EvolutionPage() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® Golf Carts - Chesapeake Golf Carts"
+        title="EVOLUTION® Golf Carts - Rhode Island Golf Carts"
         description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Chesapeake, VA. Call 804-792-0234."
         keywords="EVOLUTION golf carts Chesapeake, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
-        canonicalUrl="https://chesapeakegolfcarts.com/evolution"
+        canonicalUrl="https://rhodeislandgolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="product.group"
         ogImageWidth={1200}
@@ -485,7 +485,7 @@ export default function EvolutionPage() {
               Ready to Experience EVOLUTION?
             </h2>
             <p className="text-xl mb-8">
-              Contact Chesapeake Golf Carts today to explore the complete EVOLUTION lineup 
+              Contact Rhode Island Golf Carts today to explore the complete EVOLUTION lineup 
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

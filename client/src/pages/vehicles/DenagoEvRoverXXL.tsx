@@ -11,7 +11,7 @@ export default function DenagoEvRoverXXL() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV Rover XXL - Maximum Capacity Electric Vehicle | Chesapeake Golf Carts"
+        title="DENAGO® EV Rover XXL - Maximum Capacity Electric Vehicle | Rhode Island Golf Carts"
         description="Experience the DENAGO® EV Rover XXL with maximum seating and cargo capacity. Our largest luxury model for ultimate group transportation."
         keywords="DENAGO EV Rover XXL, 8-passenger golf cart, maximum capacity, luxury electric vehicle, DENAGO dealer Chesapeake"
       />
@@ -76,7 +76,7 @@ export default function DenagoEvRoverXXL() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -235,7 +235,7 @@ export default function DenagoEvRoverXXL() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

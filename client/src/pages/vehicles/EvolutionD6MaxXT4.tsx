@@ -10,7 +10,7 @@ export default function EvolutionD6MaxXT4() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® D6 Max XT4 - Extreme Terrain Golf Cart | Chesapeake Golf Carts"
+        title="EVOLUTION® D6 Max XT4 - Extreme Terrain Golf Cart | Rhode Island Golf Carts"
         description="Experience the EVOLUTION® D6 Max XT4 with extreme terrain capabilities. Four-passenger off-road golf cart with enhanced rugged design and high performance."
         keywords="EVOLUTION D6 Max XT4, extreme terrain golf cart, off-road golf cart, 4-passenger, rugged design, EVOLUTION dealer Chesapeake"
       />
@@ -71,7 +71,7 @@ export default function EvolutionD6MaxXT4() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
@@ -225,7 +225,7 @@ export default function EvolutionD6MaxXT4() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

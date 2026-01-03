@@ -91,8 +91,8 @@ export default function VehicleSchema({
       "availability": `https://schema.org/${offers?.availability || availability}`,
       "seller": offers?.seller || {
         "@type": "Organization",
-        "name": "Chesapeake Golf Carts",
-        "url": "https://chesapeakegolfcarts.com"
+        "name": "Rhode Island Golf Carts",
+        "url": "https://rhodeislandgolfcarts.com"
       }
     }
   };

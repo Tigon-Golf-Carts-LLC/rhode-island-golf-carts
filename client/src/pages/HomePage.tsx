@@ -26,10 +26,10 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Chesapeake Golf Carts - Premier Virginia Dealership"
+        title="Rhode Island Golf Carts - Premier Virginia Dealership"
         description="Experience Chesapeake Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 804-792-0234."
         keywords="golf carts Chesapeake VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
-        canonicalUrl="https://chesapeakegolfcarts.com/"
+        canonicalUrl="https://rhodeislandgolfcarts.com/"
         ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -38,14 +38,14 @@ export default function HomePage() {
       <AllSchemas 
         pageType="home" 
         pageData={{
-          title: "Chesapeake Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
-          description: "Discover premium electric golf carts from Denago and Evolution at Chesapeake Golf Carts. Expert sales, service, rentals, and financing throughout Chesapeake, VA.",
-          url: "https://chesapeakegolfcarts.com/",
-          breadcrumbs: [{ name: "Home", url: "https://chesapeakegolfcarts.com/" }],
+          title: "Rhode Island Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
+          description: "Discover premium electric golf carts from Denago and Evolution at Rhode Island Golf Carts. Expert sales, service, rentals, and financing throughout Chesapeake, VA.",
+          url: "https://rhodeislandgolfcarts.com/",
+          breadcrumbs: [{ name: "Home", url: "https://rhodeislandgolfcarts.com/" }],
           reviews: [
             {
               author: "John Smith",
-              reviewBody: "Excellent service and quality golf carts. The team at Chesapeake Golf Carts helped me find the perfect cart for my needs.",
+              reviewBody: "Excellent service and quality golf carts. The team at Rhode Island Golf Carts helped me find the perfect cart for my needs.",
               reviewRating: 5,
               datePublished: "2025-01-15",
               headline: "Outstanding service and selection"
@@ -73,10 +73,10 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Chesapeake Golf Carts - Premier Virginia Dealership
+                Rhode Island Golf Carts - Premier Virginia Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Chesapeake communities in and around Chesapeake, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Chesapeake and surrounding Hampton Roads areas.
+                Serving all 15 Chesapeake communities in and around Chesapeake, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Chesapeake and surrounding Rhode Island areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -106,7 +106,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose Chesapeake Golf Carts?
+            Why Choose Rhode Island Golf Carts?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             We're more than just a dealership - we're your partner in golf cart ownership 
@@ -161,7 +161,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Chesapeake Golf Carts - Top Golf Cart and LSV Brands
+            Rhode Island Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -335,16 +335,16 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* About Chesapeake Golf Carts Section */}
+      {/* About Rhode Island Golf Carts Section */}
       <section className="py-12 md:py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="order-2 lg:order-1">
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4 md:mb-6 text-gray-900">
-                About Chesapeake Golf Carts
+                About Rhode Island Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Chesapeake and surrounding Hampton Roads areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Chesapeake and surrounding Rhode Island areas.
               </p>
               
               <div className="grid grid-cols-2 gap-4 md:gap-8 mb-6 md:mb-8">
@@ -386,7 +386,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Golf Carts for Chesapeake and Surrounding Hampton Roads Communities
+            Golf Carts for Chesapeake and Surrounding Rhode Island Communities
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             Professional golf cart services delivered to your community throughout the City of Chesapeake and surrounding areas
@@ -425,7 +425,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 gap-6 mb-12 max-w-md mx-auto">
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
-              <h3 className="font-semibold text-gray-900 mb-2">Chesapeake Golf Carts</h3>
+              <h3 className="font-semibold text-gray-900 mb-2">Rhode Island Golf Carts</h3>
               <p className="text-sm text-gray-600 mb-2">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
               <p className="text-theme-orange font-semibold">804-792-0234</p>
             </div>

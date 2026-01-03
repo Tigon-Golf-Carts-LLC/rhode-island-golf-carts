@@ -14,7 +14,7 @@ export default function DenagoEvNomad() {
         title="EV NOMAD"
         description="Discover the adventure-ready DENAGO® EV NOMAD designed for outdoor adventures and off-road capability, perfect for camping, hunting, and exploration. Call 804-792-0234."
         keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Chesapeake"
-        canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad"
+        canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
         ogType="product"
         ogImageWidth={1200}
@@ -81,12 +81,12 @@ export default function DenagoEvNomad() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </a>
-                  <a href="https://chesapeakegolfcarts.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       View More Details
                     </Button>

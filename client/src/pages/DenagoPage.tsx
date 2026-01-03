@@ -117,10 +117,10 @@ export default function DenagoPage() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® Golf Carts - Chesapeake Golf Carts"
+        title="DENAGO® Golf Carts - Rhode Island Golf Carts"
         description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 804-792-0234."
         keywords="DENAGO golf carts Chesapeake, electric golf carts Virginia, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
-        canonicalUrl="https://chesapeakegolfcarts.com/denago"
+        canonicalUrl="https://rhodeislandgolfcarts.com/denago"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg"
         ogType="product.group"
         ogImageWidth={1200}
@@ -396,7 +396,7 @@ export default function DenagoPage() {
               Ready to Experience DENAGO?
             </h2>
             <p className="text-xl mb-8">
-              Contact Chesapeake Golf Carts today to schedule a test drive or learn more 
+              Contact Rhode Island Golf Carts today to schedule a test drive or learn more 
               about DENAGO's revolutionary electric vehicle technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -1,23 +1,23 @@
 # ============================================================================
 # SECURITY.txt - Security Information and Disclosure Policy
-# Chesapeake Golf Carts
+# Rhode Island Golf Carts
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 # Contact Information for Security Issues
-Contact: mailto:sales@chesapeakegolfcarts.com
+Contact: mailto:sales@rhodeislandgolfcarts.com
 Contact: tel:+1-844-844-6638
 
 # Preferred Languages
 Preferred-Languages: en
 
 # Canonical URL
-Canonical: https://chesapeakegolfcarts.com/.well-known/security.txt
+Canonical: https://rhodeislandgolfcarts.com/.well-known/security.txt
 
 # Policy URL
-Policy: https://chesapeakegolfcarts.com/privacy-policy
+Policy: https://rhodeislandgolfcarts.com/privacy-policy
 
 # Expiration (1 year from last update)
 Expires: 2026-11-26T23:59:59.000Z
@@ -26,12 +26,12 @@ Expires: 2026-11-26T23:59:59.000Z
 # SECURITY RESPONSE INFORMATION
 # ============================================================================
 
-# Chesapeake Golf Carts takes security seriously and appreciates
+# Rhode Island Golf Carts takes security seriously and appreciates
 # responsible disclosure of any security vulnerabilities.
 
 # SCOPE OF COVERAGE
 # This security policy covers:
-# - Main website: https://chesapeakegolfcarts.com
+# - Main website: https://rhodeislandgolfcarts.com
 # - All subdomains and related digital properties
 # - Customer data protection and privacy
 # - Payment processing security
@@ -39,23 +39,23 @@ Expires: 2026-11-26T23:59:59.000Z
 
 # REPORTING GUIDELINES
 # Please report security vulnerabilities responsibly:
-# 1. Email detailed information to sales@chesapeakegolfcarts.com
+# 1. Email detailed information to sales@rhodeislandgolfcarts.com
 # 2. Include steps to reproduce the issue if applicable
 # 3. Allow reasonable time for investigation and resolution
 # 4. Do not publicly disclose until resolution is confirmed
-# 5. Use subject line: "Security Issue - Chesapeake Golf Carts"
+# 5. Use subject line: "Security Issue - Rhode Island Golf Carts"
 
 # ============================================================================
 # BUSINESS SECURITY MEASURES
 # ============================================================================
 
-# Chesapeake Golf Carts implements comprehensive security measures:
+# Rhode Island Golf Carts implements comprehensive security measures:
 # - SSL/TLS encryption for all website communications
 # - Secure payment processing through certified providers
 # - Regular security monitoring and updates
 # - Customer data protection and privacy safeguards
 # - Professional cybersecurity best practices
-# - Virginia state compliance regulations
+# - Rhode Island state compliance regulations
 # - HTTPS enforced on all pages
 
 # CUSTOMER DATA PROTECTION
@@ -71,13 +71,13 @@ Expires: 2026-11-26T23:59:59.000Z
 # BUSINESS INFORMATION
 # ============================================================================
 
-# Company: Chesapeake Golf Carts
-# Website: https://chesapeakegolfcarts.com
-# Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Company: Rhode Island Golf Carts
+# Website: https://rhodeislandgolfcarts.com
+# Address: Rhode Island, Chesapeake, VA 02840
 # Phone: 1-844-844-6638
-# Email: sales@chesapeakegolfcarts.com
-# State: Virginia
-# Service Area: City of Chesapeake and 37 Hampton Roads communities
+# Email: sales@rhodeislandgolfcarts.com
+# State: Rhode Island
+# Service Area: City of Chesapeake and 37 Rhode Island communities
 
 # ============================================================================
 # COMPLIANCE AND STANDARDS
@@ -93,7 +93,7 @@ Expires: 2026-11-26T23:59:59.000Z
 # - XSS protection
 
 # Privacy Compliance:
-# - Virginia Consumer Data Protection Act (VCDPA) awareness
+# - Rhode Island Consumer Data Protection Act (VCDPA) awareness
 # - General privacy best practices
 # - Customer consent for data collection
 # - Transparent data usage policies
@@ -103,7 +103,7 @@ Expires: 2026-11-26T23:59:59.000Z
 # ============================================================================
 
 # We appreciate security researchers who responsibly disclose vulnerabilities.
-# Thank you for helping keep Chesapeake Golf Carts and our customers safe.
+# Thank you for helping keep Rhode Island Golf Carts and our customers safe.
 
 # ============================================================================
 # END OF SECURITY.txt

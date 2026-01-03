@@ -10,7 +10,7 @@ export default function EvolutionForester4Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® FORESTER 4 PLUS - Premium Utility Golf Cart | Chesapeake Golf Carts"
+        title="EVOLUTION® FORESTER 4 PLUS - Premium Utility Golf Cart | Rhode Island Golf Carts"
         description="Discover the EVOLUTION® FORESTER 4 PLUS lineup and its unique features. Premium electric utility vehicle designed for rugged terrain and heavy-duty work."
         keywords="EVOLUTION FORESTER 4 PLUS, utility golf cart, electric utility vehicle, work cart, EVOLUTION dealer Chesapeake"
       />

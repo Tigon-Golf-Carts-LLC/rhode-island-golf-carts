@@ -10,8 +10,8 @@ export default function DenagoEVRoverXL() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV ROVER XL - Premium Electric Golf Cart | Chesapeake Golf Carts"
-        description="Discover the DENAGO® EV ROVER XL - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Chesapeake Golf Carts."
+        title="DENAGO® EV ROVER XL - Premium Electric Golf Cart | Rhode Island Golf Carts"
+        description="Discover the DENAGO® EV ROVER XL - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Rhode Island Golf Carts."
         keywords="DENAGO EV ROVER XL, electric golf cart, premium electric vehicle, DENAGO dealer Chesapeake"
       />
       

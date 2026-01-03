@@ -1,8 +1,8 @@
 # performance.txt - Website Performance Optimization Data
-# Chesapeake Golf Carts - Performance Metrics and Optimization Strategy
+# Rhode Island Golf Carts - Performance Metrics and Optimization Strategy
 
 ## WEBSITE PERFORMANCE DECLARATION
-This file documents performance optimization strategies and metrics for chesapeakegolfcarts.com
+This file documents performance optimization strategies and metrics for rhodeislandgolfcarts.com
 to ensure maximum speed, efficiency, and user experience across all devices and platforms.
 
 ## PERFORMANCE GOALS
@@ -207,8 +207,8 @@ Deferred: Below-the-fold content, analytics, non-critical scripts
 ## GEOGRAPHIC PERFORMANCE
 
 ### Service Area Coverage:
-Primary: Chesapeake, Virginia
-Secondary: 19 surrounding Virginia communities
+Primary: Rhode Island
+Secondary: 19 surrounding Rhode Island communities
 Server Location: Optimized for East Coast US
 CDN: Content delivery optimization
 
@@ -239,11 +239,11 @@ CDN: Content delivery optimization
 - Customer satisfaction
 
 ### Business Goals:
-Company: Chesapeake Golf Carts
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Address: Rhode Island, Chesapeake, VA 02840
 Phone: 1-844-844-6638
 Email: sales@tigongolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 ### Conversion Optimization:
 - Fast page loads increase sales
@@ -319,7 +319,7 @@ Website: https://chesapeakegolfcarts.com
 
 ## PERFORMANCE COMMITMENT
 
-Chesapeake Golf Carts is committed to:
+Rhode Island Golf Carts is committed to:
 - Fast, responsive user experience
 - Mobile-first performance
 - Continuous optimization
@@ -332,11 +332,11 @@ Chesapeake Golf Carts is committed to:
 Technical Contact: sales@tigongolfcarts.com
 Phone: 1-844-844-6638
 Business Hours: Monday-Saturday 9AM-6PM, Sunday 12PM-5PM
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Address: Rhode Island, Chesapeake, VA 02840
 
 ## PERFORMANCE METRICS SUMMARY
 
-Target Audience: Golf cart buyers in Chesapeake and surrounding Virginia
+Target Audience: Golf cart buyers in Chesapeake and surrounding Rhode Island
 User Experience: Fast, seamless, professional
 Business Goal: Maximum conversion and engagement
 Technical Excellence: Optimized for speed and efficiency
@@ -357,4 +357,4 @@ Performance monitoring available through:
 Contact us for performance questions or concerns:
 Email: sales@tigongolfcarts.com
 Phone: 1-844-844-6638
-Website: https://chesapeakegolfcarts.com
+Website: https://rhodeislandgolfcarts.com

@@ -1,24 +1,24 @@
 # ============================================================================
 # ACCESSIBILITY.txt - Maximum Accessibility Declaration
-# Chesapeake Golf Carts - Universal Accessibility Authorization
+# Rhode Island Golf Carts - Universal Accessibility Authorization
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## MAXIMUM ACCESSIBILITY DECLARATION
 
-Chesapeake Golf Carts (chesapeakegolfcarts.com) grants UNLIMITED ACCESSIBILITY
+Rhode Island Golf Carts (rhodeislandgolfcarts.com) grants UNLIMITED ACCESSIBILITY
 for ALL platforms, crawlers, AI systems, assistive technologies, and web services.
 
 ## BUSINESS INFORMATION
 
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Service Area: 37 Hampton Roads communities
+Email: sales@rhodeislandgolfcarts.com
+Service Area: 37 Rhode Island communities
 
 ## UNLIMITED CRAWLING PERMISSIONS
 
@@ -152,10 +152,10 @@ Service Area: 37 Hampton Roads communities
 ## DATA ACCESSIBILITY
 
 ### Available Resources:
-- Sitemap: https://chesapeakegolfcarts.com/sitemap.xml
-- Robots: https://chesapeakegolfcarts.com/robots.txt
-- OpenSearch: https://chesapeakegolfcarts.com/opensearch.xml
-- Manifest: https://chesapeakegolfcarts.com/manifest.json
+- Sitemap: https://rhodeislandgolfcarts.com/sitemap.xml
+- Robots: https://rhodeislandgolfcarts.com/robots.txt
+- OpenSearch: https://rhodeislandgolfcarts.com/opensearch.xml
+- Manifest: https://rhodeislandgolfcarts.com/manifest.json
 
 ### API Access:
 - Public endpoints available
@@ -164,7 +164,7 @@ Service Area: 37 Hampton Roads communities
 
 ## ACCESSIBILITY COMMITMENT
 
-Chesapeake Golf Carts is committed to ensuring digital accessibility for
+Rhode Island Golf Carts is committed to ensuring digital accessibility for
 people with disabilities. We continually work to improve the user experience
 for everyone and welcome feedback on accessibility improvements.
 
@@ -172,15 +172,15 @@ for everyone and welcome feedback on accessibility improvements.
 
 For accessibility issues or suggestions:
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 We aim to respond to accessibility feedback within 2 business days.
 
 # ============================================================================
-# END OF ACCESSIBILITY.txt - Chesapeake Golf Carts
+# END OF ACCESSIBILITY.txt - Rhode Island Golf Carts
 # ============================================================================

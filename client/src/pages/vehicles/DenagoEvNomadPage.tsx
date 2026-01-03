@@ -9,10 +9,10 @@ export default function DenagoEvNomadPage() {
       series="EV NOMAD"
       price="$8,495"
       image={denagoEvNomadImage}
-      seoTitle="DENAGO EV NOMAD - Adventure Electric Golf Cart | Chesapeake Golf Carts"
+      seoTitle="DENAGO EV NOMAD - Adventure Electric Golf Cart | Rhode Island Golf Carts"
       seoDescription="Explore with the DENAGO EV NOMAD electric golf cart in Atlantic County, PA. Adventure-ready vehicles built for exploration and off-road adventures."
       seoKeywords="DENAGO EV NOMAD, adventure golf cart, off-road electric vehicle, Atlantic County, New Jersey, all-terrain"
-      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/denago-ev-nomad"
+      canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-nomad"
       seats="4"
       range="45 miles"
       topSpeed="25 mph"
@@ -28,7 +28,7 @@ export default function DenagoEvNomadPage() {
         "Weather Protection"
       ]}
       description="Adventure-ready vehicles built for exploration and off-road adventures. The DENAGO EV NOMAD combines rugged durability with electric efficiency for Atlantic County's diverse terrain."
-      tigoUrl="https://chesapeakegolfcarts.com/denago-ev/nomad/"
+      tigoUrl="https://rhodeislandgolfcarts.com/denago-ev/nomad/"
     />
   );
 }

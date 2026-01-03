@@ -12,10 +12,10 @@ export default function DenagoEvCity() {
   return (
     <>
       <SEOHead 
-        title="DENAGO® EV CITY - Urban Electric Vehicle | Chesapeake Golf Carts"
+        title="DENAGO® EV CITY - Urban Electric Vehicle | Rhode Island Golf Carts"
         description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Chesapeake, VA."
         keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer Chesapeake PA"
-        canonicalUrl="https://chesapeakegolfcarts.com/vehicle/denago-ev-city"
+        canonicalUrl="https://rhodeislandgolfcarts.com/vehicle/denago-ev-city"
         ogImage="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
         ogType="product"
       />
@@ -24,7 +24,7 @@ export default function DenagoEvCity() {
         brand="DENAGO"
         image="DENAGONEVCITY_1751893047472_1753135231313.jpg"
         description="Discover the EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use."
-        url="https://chesapeakegolfcarts.com/vehicle/denago-ev-city"
+        url="https://rhodeislandgolfcarts.com/vehicle/denago-ev-city"
         features={["Street Legal NEV Certified", "40-50 mile range", "25 mph top speed", "4 passenger seating", "Urban mobility design"]}
       />
       
@@ -88,12 +88,12 @@ export default function DenagoEvCity() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </a>
-                  <a href="https://chesapeakegolfcarts.com/denago-ev/city/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rhodeislandgolfcarts.com/denago-ev/city/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       View More Details
                     </Button>
@@ -259,7 +259,7 @@ export default function DenagoEvCity() {
               Ready to Experience the DENAGO® EV CITY?
             </h2>
             <p className="text-xl mb-8">
-              Contact Chesapeake Golf Carts today for pricing, availability, and to schedule a test drive.
+              Contact Rhode Island Golf Carts today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -312,7 +312,7 @@ export default function DenagoEvCity() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Hampton Roads, Virginia and surrounding areas.
+                    Delivery and pickup available throughout Rhode Island, Virginia and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

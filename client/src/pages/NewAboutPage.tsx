@@ -62,10 +62,10 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About Chesapeake Golf Carts"
+        title="About Rhode Island Golf Carts"
         description="Discover Virginia's most trusted golf cart dealer serving the City of Chesapeake and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-792-0234."
         keywords="Chesapeake VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
-        canonicalUrl="https://chesapeakegolfcarts.com/about"
+        canonicalUrl="https://rhodeislandgolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
         ogImageWidth={1200}
@@ -76,7 +76,7 @@ export default function NewAboutPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat overflow-hidden" style={getHeroBackgroundStyle("about")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
-              About Chesapeake Golf Carts
+              About Rhode Island Golf Carts
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
               Since 2010, we've been the City of Chesapeake's premier destination for premium golf carts, 
@@ -105,7 +105,7 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2008 in the City of Chesapeake, Virginia, Chesapeake Golf Carts began with a simple mission: 
+                    Founded in 2008 in the City of Chesapeake, Virginia, Rhode Island Golf Carts began with a simple mission: 
                     to provide high-quality golf carts and exceptional service to customers throughout Coastal Virginia's 
                     most vibrant and historic regions.
                   </p>
@@ -161,14 +161,14 @@ export default function NewAboutPage() {
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Chesapeake Golf Carts Service</h3>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Rhode Island Golf Carts Service</h3>
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
-                      <h4 className="font-semibold text-theme-orange">Chesapeake Golf Carts</h4>
+                      <h4 className="font-semibold text-theme-orange">Rhode Island Golf Carts</h4>
                       <p className="text-gray-600">Serving all City of Chesapeake, VA</p>
                       <p className="text-gray-700">804-792-0234</p>
-                      <p className="text-gray-600">info@chesapeakegolfcarts.com</p>
-                      <p className="text-gray-600">sales@chesapeakegolfcarts.com</p>
+                      <p className="text-gray-600">info@rhodeislandgolfcarts.com</p>
+                      <p className="text-gray-600">sales@rhodeislandgolfcarts.com</p>
                     </div>
                   </div>
                 </div>
@@ -291,7 +291,7 @@ export default function NewAboutPage() {
         <section className="py-16 bg-theme-primary text-white">
           <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-bold mb-6">
-              Ready to Experience the Chesapeake Golf Carts Difference?
+              Ready to Experience the Rhode Island Golf Carts Difference?
             </h2>
             <p className="text-xl mb-8">
               Join thousands of satisfied customers who trust us for their golf cart needs.
@@ -331,8 +331,8 @@ export default function NewAboutPage() {
                   <CardTitle>Email Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-medium text-theme-orange mb-2">info@chesapeakegolfcarts.com</p>
-                  <p className="text-lg font-medium text-theme-orange mb-2">sales@chesapeakegolfcarts.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">info@rhodeislandgolfcarts.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">sales@rhodeislandgolfcarts.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>

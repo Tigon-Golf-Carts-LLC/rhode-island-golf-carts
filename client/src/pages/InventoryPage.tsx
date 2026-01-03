@@ -43,29 +43,29 @@ export default function InventoryPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://chesapeakegolfcarts.com" },
-    { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory" }
+    { name: "Home", url: "https://rhodeislandgolfcarts.com" },
+    { name: "Inventory", url: "https://rhodeislandgolfcarts.com/inventory" }
   ];
 
   return (
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Golf Cart Inventory - Chesapeake Golf Carts | New Electric Golf Carts VA"
+        title="Golf Cart Inventory - Rhode Island Golf Carts | New Electric Golf Carts VA"
         description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Chesapeake, Virginia with expert service."
         keywords="golf cart inventory Chesapeake VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Virginia"
-        canonicalUrl="https://chesapeakegolfcarts.com/inventory"
+        canonicalUrl="https://rhodeislandgolfcarts.com/inventory"
       />
       <AllSchemas 
         pageType="inventory" 
         pageData={{
-          title: "Golf Cart Inventory - Chesapeake Golf Carts",
+          title: "Golf Cart Inventory - Rhode Island Golf Carts",
           description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Chesapeake, Virginia with expert service.",
-          url: "https://chesapeakegolfcarts.com/inventory",
+          url: "https://rhodeislandgolfcarts.com/inventory",
           breadcrumbs: breadcrumbItems,
           collectionItems: vehicles?.map(vehicle => ({
             name: vehicle.name,
-            url: `https://chesapeakegolfcarts.com/vehicle/${vehicle.id}`,
+            url: `https://rhodeislandgolfcarts.com/vehicle/${vehicle.id}`,
             description: `${vehicle.brand} ${vehicle.name} electric golf cart`,
             image: vehicle.images[0]
           })) || [],

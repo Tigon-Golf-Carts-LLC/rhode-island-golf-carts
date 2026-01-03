@@ -9,10 +9,10 @@ export default function EvolutionCarrier6PlusPage() {
       series="CARRIER"
       price="$9,595"
       image={evolutionCarrier6PlusImage}
-      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Chesapeake Golf Carts"
+      seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Rhode Island Golf Carts"
       seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Chesapeake, VA. 6-passenger utility vehicle with enhanced cargo capacity and work features."
-      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Hampton Roads, Virginia"
-      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-carrier-6-plus"
+      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Rhode Island, Virginia"
+      canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-carrier-6-plus"
       seats="6"
       range="38 miles"
       topSpeed="25 mph"
@@ -28,7 +28,7 @@ export default function EvolutionCarrier6PlusPage() {
         "Reliable Power"
       ]}
       description="6-passenger utility vehicle with enhanced cargo capacity and work features. The EVOLUTION CARRIER 6 PLUS is designed for both passenger transport and utility work in Chesapeake communities."
-      tigoUrl="https://chesapeakegolfcarts.com/evolution/carrier/6-plus/"
+      tigoUrl="https://rhodeislandgolfcarts.com/evolution/carrier/6-plus/"
     />
   );
 }

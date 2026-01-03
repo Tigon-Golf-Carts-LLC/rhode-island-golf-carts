@@ -34,11 +34,11 @@ export default function OfferSchema({
   validFrom,
   validThrough,
   seller = {
-    name: "Chesapeake Golf Carts",
+    name: "Rhode Island Golf Carts",
     telephone: "804-792-0234",
-    email: "sales@chesapeakegolfcarts.com"
+    email: "sales@rhodeislandgolfcarts.com"
   },
-  eligibleRegion = "Hampton Roads, VA",
+  eligibleRegion = "Rhode Island, VA",
   priceSpecification = []
 }: OfferSchemaProps) {
   useEffect(() => {

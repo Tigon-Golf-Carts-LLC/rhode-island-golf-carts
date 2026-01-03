@@ -44,7 +44,7 @@ export default function NewServicesPage() {
         title="Professional Golf Cart Services"
         description="Keep your golf cart running smoothly with comprehensive maintenance, repair, battery service, and custom modifications from Chesapeake's certified technicians. Call 804-792-0234."
         keywords="golf cart service, golf cart repair, battery replacement, maintenance, Chesapeake"
-        canonicalUrl="https://chesapeakegolfcarts.com/services"
+        canonicalUrl="https://rhodeislandgolfcarts.com/services"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_Th3nwXNXQ2CQPoVdYBg6Jg_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
         ogImageWidth={1200}

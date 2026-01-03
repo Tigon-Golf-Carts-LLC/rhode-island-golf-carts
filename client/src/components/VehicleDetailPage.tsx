@@ -81,8 +81,8 @@ export default function VehicleDetailPage({
           description: seoDescription,
           url: canonicalUrl,
           breadcrumbs: [
-            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-            { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory" },
+            { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
+            { name: "Inventory", url: "https://rhodeislandgolfcarts.com/inventory" },
             { name: vehicleName, url: canonicalUrl }
           ],
           vehicleName,
@@ -102,7 +102,7 @@ export default function VehicleDetailPage({
             },
             {
               author: "Susan Rodriguez",
-              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Chesapeake Golf Carts.`,
+              reviewBody: `Purchased the ${vehicleName} and couldn't be happier. The features and performance exceed expectations. Great service from Rhode Island Golf Carts.`,
               reviewRating: 5,
               datePublished: "2025-01-18",
               headline: "Excellent purchase experience"
@@ -264,7 +264,7 @@ export default function VehicleDetailPage({
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4">
-                Why Choose Chesapeake Golf Carts?
+                Why Choose Rhode Island Golf Carts?
               </h2>
             </div>
 
@@ -302,7 +302,7 @@ export default function VehicleDetailPage({
               Ready to Experience the {vehicleName}?
             </h2>
             <p className="text-xl mb-8">
-              Contact Chesapeake Golf Carts today for pricing, availability, and to schedule your test drive.
+              Contact Rhode Island Golf Carts today for pricing, availability, and to schedule your test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:804-792-0234">

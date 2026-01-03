@@ -5,8 +5,8 @@ export default function StoragePolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Storage Policy | Chesapeake Golf Carts"
-        description="Learn about golf cart storage services and policies at Chesapeake Golf Carts. Seasonal storage, maintenance, and security information for Pennsylvania customers."
+        title="Storage Policy | Rhode Island Golf Carts"
+        description="Learn about golf cart storage services and policies at Rhode Island Golf Carts. Seasonal storage, maintenance, and security information for Pennsylvania customers."
         keywords="golf cart storage, storage policy, Chesapeake storage, Pennsylvania golf cart storage"
       />
       
@@ -33,7 +33,7 @@ export default function StoragePolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Storage Services Overview</h2>
               <p className="mb-6">
-                Chesapeake Golf Carts provides secure, climate-controlled storage services for golf carts 
+                Rhode Island Golf Carts provides secure, climate-controlled storage services for golf carts 
                 at our Pennsylvania facilities. Our storage policy ensures the protection and maintenance 
                 of your investment during storage periods.
               </p>
@@ -193,11 +193,11 @@ export default function StoragePolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Storage Department</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Storage Services</strong></p>
-                <p className="mb-2">Chesapeake Golf Carts</p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
+                <p className="mb-2">Rhode Island Golf Carts</p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
-                <p>Website: chesapeakegolfcarts.com</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p>Website: rhodeislandgolfcarts.com</p>
               </div>
             </div>
           </div>

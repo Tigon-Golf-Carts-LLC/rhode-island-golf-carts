@@ -105,10 +105,10 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", ogType);
-    updateOGTag("og:image", `https://chesapeakegolfcarts.com${finalOgImage}`);
+    updateOGTag("og:image", `https://rhodeislandgolfcarts.com${finalOgImage}`);
     updateOGTag("og:image:width", ogImageWidth.toString());
     updateOGTag("og:image:height", ogImageHeight.toString());
-    updateOGTag("og:site_name", "Chesapeake Golf Carts");
+    updateOGTag("og:site_name", "Rhode Island Golf Carts");
     updateOGTag("og:locale", "en_US");
     if (canonicalUrl) {
       updateOGTag("og:url", canonicalUrl);
@@ -130,7 +130,7 @@ export default function SEOHead({
     updateTwitterTag("twitter:card", "summary_large_image");
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
-    updateTwitterTag("twitter:image", `https://chesapeakegolfcarts.com${finalOgImage}`);
+    updateTwitterTag("twitter:image", `https://rhodeislandgolfcarts.com${finalOgImage}`);
     updateTwitterTag("twitter:site", "@chesapeakegolfcarts");
     updateTwitterTag("twitter:creator", "@chesapeakegolfcarts");
 
@@ -139,7 +139,7 @@ export default function SEOHead({
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `Chesapeake Golf Carts - ${townName}`,
+        "name": `Rhode Island Golf Carts - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
@@ -148,10 +148,10 @@ export default function SEOHead({
           "addressCountry": "US"
         },
         "telephone": "804-792-0234",
-        "email": "sales@chesapeakegolfcarts.com",
+        "email": "sales@rhodeislandgolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-        "image": `https://chesapeakegolfcarts.com${finalOgImage}`,
+        "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+        "image": `https://rhodeislandgolfcarts.com${finalOgImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {

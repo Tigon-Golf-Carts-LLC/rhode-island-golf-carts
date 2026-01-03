@@ -5,8 +5,8 @@ export default function FeedbackPolicyPage() {
   return (
     <>
       <SEOHead 
-        title="Feedback Policy | Chesapeake Golf Carts"
-        description="Learn how to provide feedback to Chesapeake Golf Carts. Our commitment to customer feedback, review process, and continuous improvement in Pennsylvania."
+        title="Feedback Policy | Rhode Island Golf Carts"
+        description="Learn how to provide feedback to Rhode Island Golf Carts. Our commitment to customer feedback, review process, and continuous improvement in Pennsylvania."
         keywords="feedback policy, customer feedback, Chesapeake golf carts, customer service policy"
       />
       
@@ -33,7 +33,7 @@ export default function FeedbackPolicyPage() {
             <div className="prose max-w-none">
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Our Commitment to Customer Feedback</h2>
               <p className="mb-6">
-                At Chesapeake Golf Carts, we value every customer's voice. Your feedback drives our 
+                At Rhode Island Golf Carts, we value every customer's voice. Your feedback drives our 
                 continuous improvement efforts and helps us provide exceptional service throughout 
                 Pennsylvania. This policy outlines how we collect, process, and act on customer feedback.
               </p>
@@ -69,7 +69,7 @@ export default function FeedbackPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">How to Provide Feedback</h2>
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Direct Communication Channels</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Email:</strong> info@chesapeakegolfcarts.com</li>
+                <li><strong>Email:</strong> info@rhodeislandgolfcarts.com</li>
                 <li><strong>Phone:</strong> 804-792-0234</li>
                 <li><strong>In-Person:</strong> Any TIGON Golf Carts location</li>
                 <li><strong>Mail:</strong> Written feedback to our business addresses</li>
@@ -192,11 +192,11 @@ export default function FeedbackPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Our Feedback Team</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Customer Feedback Department</strong></p>
-                <p className="mb-2">Chesapeake Golf Carts</p>
-                <p className="mb-2">Email: info@chesapeakegolfcarts.com</p>
+                <p className="mb-2">Rhode Island Golf Carts</p>
+                <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Hampton Roads, Virginia</p>
-                <p className="mb-2">Website: chesapeakegolfcarts.com</p>
+                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>We appreciate your feedback and look forward to serving you better!</p>
               </div>
             </div>

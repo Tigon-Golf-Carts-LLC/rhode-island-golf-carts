@@ -19,13 +19,13 @@ export default function LocationSchema({
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": `Chesapeake Golf Carts - ${municipalityName}`,
+      "name": `Rhode Island Golf Carts - ${municipalityName}`,
       "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Chesapeake, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
-      "url": `https://chesapeakegolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
-      "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-      "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
+      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "image": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
       "telephone": "804-792-0234",
-      "email": "sales@chesapeakegolfcarts.com",
+      "email": "sales@rhodeislandgolfcarts.com",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "2810 George Washington Memorial Hwy",
@@ -98,7 +98,7 @@ export default function LocationSchema({
         "@type": ["LocalBusiness", "RentalCarAgency"],
         "name": `Golf Cart Rentals - ${municipalityName}`,
         "description": `Professional golf cart rentals in ${municipalityName}, Chesapeake, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
-        "url": `https://chesapeakegolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
+        "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
           "name": `Golf Cart Rental Services in ${municipalityName}`,

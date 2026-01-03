@@ -144,7 +144,7 @@ export default function App() {
             <Route path="/butts-station-golf-carts" component={ButtsStationPage} />
             <Route path="/oak-grove-golf-carts" component={OakGrovePage} />
 
-            {/* Hampton Roads Cities (6) - SEO-friendly URLs */}
+            {/* Rhode Island Cities (6) - SEO-friendly URLs */}
             <Route path="/norfolk-golf-carts" component={NorfolkPage} />
             <Route path="/virginia-beach-golf-carts" component={VirginiaBeachPage} />
             <Route path="/portsmouth-golf-carts" component={PortsmouthPage} />
@@ -152,7 +152,7 @@ export default function App() {
             <Route path="/hampton-golf-carts" component={HamptonPage} />
             <Route path="/newport-news-golf-carts" component={NewportNewsPage} />
 
-            {/* Hampton Roads Neighborhoods (6) - SEO-friendly URLs */}
+            {/* Rhode Island Neighborhoods (6) - SEO-friendly URLs */}
             <Route path="/kempsville-golf-carts" component={KempsvillePage} />
             <Route path="/ghent-golf-carts" component={GhentPage} />
             <Route path="/ocean-view-golf-carts" component={OceanViewPage} />
@@ -189,7 +189,7 @@ export default function App() {
             <Route path="/rentals/butts-station" component={ButtsStationRentalsPage} />
             <Route path="/rentals/oak-grove" component={OakGroveRentalsPage} />
 
-            {/* Hampton Roads Cities Rental Pages (6) */}
+            {/* Rhode Island Cities Rental Pages (6) */}
             <Route path="/rentals/norfolk" component={NorfolkRentalsPage} />
             <Route path="/rentals/virginia-beach" component={VirginiaBeachRentalsPage} />
             <Route path="/rentals/portsmouth" component={PortsmouthRentalsPage} />
@@ -197,7 +197,7 @@ export default function App() {
             <Route path="/rentals/hampton" component={HamptonRentalsPage} />
             <Route path="/rentals/newport-news" component={NewportNewsRentalsPage} />
 
-            {/* Hampton Roads Neighborhoods Rental Pages (6) */}
+            {/* Rhode Island Neighborhoods Rental Pages (6) */}
             <Route path="/rentals/kempsville" component={KempsvilleRentalsPage} />
             <Route path="/rentals/ghent" component={GhentRentalsPage} />
             <Route path="/rentals/ocean-view" component={OceanViewRentalsPage} />

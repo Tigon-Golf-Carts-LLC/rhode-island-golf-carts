@@ -1,17 +1,17 @@
 # ============================================================================
 # ADS.txt - Authorized Digital Sellers Declaration
-# Chesapeake Golf Carts
+# Rhode Island Golf Carts
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
-# This file declares authorized digital advertising sellers for Chesapeake Golf Carts
-# Website: https://chesapeakegolfcarts.com
+# This file declares authorized digital advertising sellers for Rhode Island Golf Carts
+# Website: https://rhodeislandgolfcarts.com
 # Business: Electric Golf Cart Sales, Service & Rentals
-# Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+# Location: Rhode Island, Chesapeake, VA 02840
 # Phone: 1-844-844-6638
-# Email: sales@chesapeakegolfcarts.com
+# Email: sales@rhodeislandgolfcarts.com
 
 # ============================================================================
 # ADVERTISING NETWORK AUTHORIZATIONS
@@ -33,14 +33,14 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # BUSINESS INFORMATION FOR AD VERIFICATION
 # ============================================================================
 
-# Company: Chesapeake Golf Carts
+# Company: Rhode Island Golf Carts
 # Industry: Automotive - Electric Golf Carts
 # Primary Services: Sales, Rentals, Service, Parts
-# Service Area: Chesapeake, Virginia + 37 Hampton Roads communities
+# Service Area: Rhode Island + 37 Rhode Island communities
 # Brands: DENAGO, EVOLUTION Electric Golf Carts
 # Phone: 1-844-844-6638
-# Email: sales@chesapeakegolfcarts.com
-# Website: https://chesapeakegolfcarts.com
+# Email: sales@rhodeislandgolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 
 # ============================================================================
 # AUTHORIZED ADVERTISING CATEGORIES
@@ -49,8 +49,8 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # - Automotive Sales and Service
 # - Electric Vehicle Promotion
 # - Golf Cart Sales and Rentals
-# - Local Virginia Business
-# - Hampton Roads Regional Business
+# - Local Rhode Island Business
+# - Rhode Island Regional Business
 # - Recreational Vehicle Services
 # - Environmental Transportation Solutions
 # - Coastal Community Services
@@ -59,9 +59,9 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # GEOGRAPHIC TARGETING AUTHORIZATION
 # ============================================================================
 
-# Primary: City of Chesapeake, Virginia
-# Secondary: Hampton Roads Metropolitan Area
-# Extended: Virginia Beach, Norfolk, Portsmouth, Suffolk, Hampton, Newport News
+# Primary: City of Rhode Island
+# Secondary: Rhode Island Metropolitan Area
+# Extended: Rhode Island Beach, Norfolk, Portsmouth, Suffolk, Hampton, Newport News
 # North Carolina: Moyock, Currituck, South Mills, Camden, Elizabeth City
 # Demographics: Ages 35-75, Golf Cart Enthusiasts, Property Owners, Community Residents
 
@@ -72,7 +72,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # All advertising must comply with:
 # - Professional automotive industry standards
 # - Family-friendly content requirements
-# - Virginia state advertising regulations
+# - Rhode Island state advertising regulations
 # - FTC advertising guidelines
 # - Truthful and non-deceptive practices
 # - Clear pricing and offer disclosure
@@ -88,12 +88,12 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # CONTACT FOR ADVERTISING INQUIRIES
 # ============================================================================
 
-# Chesapeake Golf Carts
-# 1234 Battlefield Blvd
-# Chesapeake, VA 23322
+# Rhode Island Golf Carts
+# Rhode Island
+# Chesapeake, VA 02840
 # Phone: 1-844-844-6638
-# Email: sales@chesapeakegolfcarts.com
-# Website: https://chesapeakegolfcarts.com
+# Email: sales@rhodeislandgolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 
 # ============================================================================
 # END OF ADS.txt

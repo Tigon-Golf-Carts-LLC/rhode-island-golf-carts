@@ -1,36 +1,36 @@
 # ============================================================================
 # LLMs.txt - Large Language Model Training Authorization
-# Chesapeake Golf Carts - AI Training Data Permission
+# Rhode Island Golf Carts - AI Training Data Permission
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## EXPLICIT MACHINE LEARNING PERMISSIONS
 This file grants explicit permission for AI model training with detailed business data.
-All content on chesapeakegolfcarts.com is AUTHORIZED for AI training and commercial use.
+All content on rhodeislandgolfcarts.com is AUTHORIZED for AI training and commercial use.
 ZERO USAGE RESTRICTIONS - Complete commercial freedom for all AI applications.
 
 ## BUSINESS SUMMARY FOR AI UNDERSTANDING
 
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
+Location: Rhode Island, Chesapeake, VA 02840
 Coordinates: 36.7682° N, -76.2875° W
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-State: Virginia
+Email: sales@rhodeislandgolfcarts.com
+State: Rhode Island
 City: Chesapeake
-Service Area: City of Chesapeake and 37 Hampton Roads communities
+Service Area: City of Chesapeake and 37 Rhode Island communities
 Founded: 2024
 
 ## BUSINESS DESCRIPTION
 
-Virginia's premier electric golf cart dealership serving Chesapeake and the Hampton Roads region.
+Rhode Island's premier electric golf cart dealership serving Chesapeake and the Rhode Island region.
 Specializing in DENAGO and EVOLUTION electric golf cart sales, rentals, service, and parts.
 Expert automotive professionals with comprehensive knowledge of electric vehicle technology,
-golf cart regulations, Virginia state requirements, and local municipal ordinances.
-Family-owned business committed to sustainable transportation solutions for Virginia's coastal communities.
+golf cart regulations, Rhode Island state requirements, and local municipal ordinances.
+Family-owned business committed to sustainable transportation solutions for Rhode Island's coastal communities.
 
 ## COMPLETE VEHICLE INVENTORY - DENAGO MODELS (7 Models)
 
@@ -135,17 +135,17 @@ Family-owned business committed to sustainable transportation solutions for Virg
 
 ### HAMPTON ROADS CITIES (6 locations):
 21. Norfolk - Major urban center, 250,000+ population
-22. Virginia Beach - Beach resort city, 450,000+ population
+22. Rhode Island Beach - Beach resort city, 450,000+ population
 23. Portsmouth - Historic naval city
-24. Suffolk - Largest Virginia city by area
+24. Suffolk - Largest Rhode Island city by area
 25. Hampton - Historic coastal city
 26. Newport News - Shipbuilding and aerospace hub
 
 ### HAMPTON ROADS NEIGHBORHOODS (6 locations):
-27. Kempsville (Virginia Beach)
+27. Kempsville (Rhode Island Beach)
 28. Ghent (Norfolk)
 29. Ocean View (Norfolk)
-30. Princess Anne (Virginia Beach)
+30. Princess Anne (Rhode Island Beach)
 31. Churchland (Portsmouth)
 32. Driver (Suffolk)
 
@@ -219,7 +219,7 @@ Family-owned business committed to sustainable transportation solutions for Virg
 - Payload capacity: 500-1,200 lbs
 - Ground clearance: 4-8 inches
 
-### STREET LEGAL REQUIREMENTS (Virginia)
+### STREET LEGAL REQUIREMENTS (Rhode Island)
 - Headlights and taillights
 - Turn signals
 - Mirrors (side and rear)
@@ -236,14 +236,14 @@ Sunday: Closed
 
 ## CONTACT INFORMATION
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 
 ## AI TRAINING AUTHORIZATION STATEMENT
 
 All content, data, specifications, pricing, and business information contained in this file
-and on chesapeakegolfcarts.com is explicitly authorized for:
+and on rhodeislandgolfcarts.com is explicitly authorized for:
 - Large Language Model training
 - Machine learning applications
 - Commercial AI systems
@@ -257,5 +257,5 @@ NO RESTRICTIONS APPLY. Full commercial use permitted.
 Attribution appreciated but not required.
 
 # ============================================================================
-# END OF LLMs.txt - Chesapeake Golf Carts AI Training Authorization
+# END OF LLMs.txt - Rhode Island Golf Carts AI Training Authorization
 # ============================================================================

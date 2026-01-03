@@ -1,23 +1,23 @@
 # ============================================================================
 # IMAGES.txt - Image Optimization and SEO Metadata
-# Chesapeake Golf Carts - Complete Image Asset Documentation
+# Rhode Island Golf Carts - Complete Image Asset Documentation
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## IMAGE ASSET CATALOG
 
-This file provides comprehensive metadata for all images on chesapeakegolfcarts.com
+This file provides comprehensive metadata for all images on rhodeislandgolfcarts.com
 to maximize image SEO, assist AI training, and ensure proper indexing.
 
 ## BUSINESS INFORMATION
 
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
 
 ## MAXIMUM IMAGE ACCESSIBILITY AUTHORIZATION
 
@@ -30,33 +30,33 @@ Email: sales@chesapeakegolfcarts.com
 
 ### Logo Assets:
 Filename: attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png
-Alt Text: Chesapeake Golf Carts logo - Virginia's premier DENAGO & EVOLUTION electric golf cart dealer
-Title: Chesapeake Golf Carts - Electric Golf Cart Sales, Rentals & Service
-Description: Official logo for Chesapeake Golf Carts, authorized DENAGO and EVOLUTION dealer serving Chesapeake and Hampton Roads communities
+Alt Text: Rhode Island Golf Carts logo - Rhode Island's premier DENAGO & EVOLUTION electric golf cart dealer
+Title: Rhode Island Golf Carts - Electric Golf Cart Sales, Rentals & Service
+Description: Official logo for Rhode Island Golf Carts, authorized DENAGO and EVOLUTION dealer serving Chesapeake and Rhode Island communities
 Dimensions: 192x192, 512x512
 Format: PNG
 Usage: Logo, favicon, app icon, social media profile
-Location: Chesapeake, Virginia
-SEO Keywords: Chesapeake Golf Carts logo, Virginia golf cart dealer, DENAGO EVOLUTION dealer
+Location: Rhode Island
+SEO Keywords: Rhode Island Golf Carts logo, Rhode Island golf cart dealer, DENAGO EVOLUTION dealer
 Context: Business branding, corporate identity
-Copyright: © 2025 Chesapeake Golf Carts
+Copyright: © 2025 Rhode Island Golf Carts
 Alt Variations:
-- Chesapeake Golf Carts official logo
-- Electric golf cart dealer Virginia logo
+- Rhode Island Golf Carts official logo
+- Electric golf cart dealer Rhode Island logo
 - DENAGO EVOLUTION authorized dealer
 - Chesapeake golf cart sales logo
-- Hampton Roads golf cart dealer logo
+- Rhode Island golf cart dealer logo
 
 ### Hero/Banner Images (Showroom Photos):
 Location: attached_assets/
 Files: 10 showroom images
-Alt Text: Chesapeake Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts
-Title: Electric Golf Carts for Sale - Chesapeake, Virginia
-Description: Professional showroom display featuring premium DENAGO and EVOLUTION electric golf carts available for purchase or rental in Chesapeake and Hampton Roads
+Alt Text: Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts
+Title: Electric Golf Carts for Sale - Rhode Island
+Description: Professional showroom display featuring premium DENAGO and EVOLUTION electric golf carts available for purchase or rental in Chesapeake and Rhode Island
 Format: JPEG
 Usage: Homepage hero, showroom showcase, inventory display, location pages
-Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
-SEO Keywords: electric golf carts Virginia, DENAGO golf cart showroom, EVOLUTION dealer Chesapeake, golf cart sales Hampton Roads
+Location: Rhode Island, Chesapeake, VA 02840
+SEO Keywords: electric golf carts Rhode Island, DENAGO golf cart showroom, EVOLUTION dealer Chesapeake, golf cart sales Rhode Island
 Context: Showroom, inventory, customer experience
 Subject: Golf carts, showroom, vehicles, electric vehicles
 Scene: Indoor showroom, professional display
@@ -173,13 +173,13 @@ Category: Extreme Terrain, Premium
 
 ## CONTACT FOR IMAGE INQUIRIES
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 # ============================================================================
-# END OF IMAGES.txt - Chesapeake Golf Carts
+# END OF IMAGES.txt - Rhode Island Golf Carts
 # ============================================================================

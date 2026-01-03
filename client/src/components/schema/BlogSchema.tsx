@@ -10,9 +10,9 @@ interface BlogSchemaProps {
 }
 
 export default function BlogSchema({
-  name = "Chesapeake Golf Carts Blog",
-  description = "Expert golf cart news, buying guides, tips, and insights from Chesapeake's premier golf cart dealer serving Hampton Roads, Virginia.",
-  url = "https://chesapeakegolfcarts.com/blog",
+  name = "Rhode Island Golf Carts Blog",
+  description = "Expert golf cart news, buying guides, tips, and insights from Chesapeake's premier golf cart dealer serving Rhode Island, Virginia.",
+  url = "https://rhodeislandgolfcarts.com/blog",
   posts = []
 }: BlogSchemaProps) {
   const schema = {
@@ -23,11 +23,11 @@ export default function BlogSchema({
     "url": url,
     "publisher": {
       "@type": "Organization",
-      "name": "Chesapeake Golf Carts",
-      "url": "https://chesapeakegolfcarts.com",
+      "name": "Rhode Island Golf Carts",
+      "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
       },
       "address": {
         "@type": "PostalAddress",
@@ -38,7 +38,7 @@ export default function BlogSchema({
         "addressCountry": "US"
       },
       "telephone": "804-792-0234",
-      "email": "sales@chesapeakegolfcarts.com"
+      "email": "sales@rhodeislandgolfcarts.com"
     },
     "inLanguage": "en-US",
     "mainEntity": {
@@ -57,7 +57,7 @@ export default function BlogSchema({
     "about": {
       "@type": "Thing",
       "name": "Golf Carts",
-      "description": "Electric golf carts for sale, rental, and service in Chesapeake, Virginia and Hampton Roads"
+      "description": "Electric golf carts for sale, rental, and service in Chesapeake, Virginia and Rhode Island"
     },
     "contentLocation": {
       "@type": "Place",

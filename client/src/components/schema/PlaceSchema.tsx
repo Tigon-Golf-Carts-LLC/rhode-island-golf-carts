@@ -64,7 +64,7 @@ export default function PlaceSchema({
       }),
       "image": {
         "@type": "ImageObject",
-        "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
       }
     };
     

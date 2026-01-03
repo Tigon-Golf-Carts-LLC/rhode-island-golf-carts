@@ -9,10 +9,10 @@ export default function EvolutionD5Maverick4PlusPage() {
       series="D5 MAVERICK"
       price="$9,995"
       image={evolutionD5Maverick4PlusImage}
-      seoTitle="EVOLUTION D5 MAVERICK 4 PLUS - Sport Golf Cart | Chesapeake Golf Carts"
+      seoTitle="EVOLUTION D5 MAVERICK 4 PLUS - Sport Golf Cart | Rhode Island Golf Carts"
       seoDescription="Discover the EVOLUTION D5 MAVERICK 4 PLUS electric golf cart in Chesapeake, VA. Sport-oriented 4-passenger vehicle with enhanced performance and agility."
-      seoKeywords="EVOLUTION D5 MAVERICK 4 PLUS, sport golf cart, performance vehicle, Hampton Roads, Virginia"
-      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
+      seoKeywords="EVOLUTION D5 MAVERICK 4 PLUS, sport golf cart, performance vehicle, Rhode Island, Virginia"
+      canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
       seats="4"
       range="42 miles"
       topSpeed="25 mph"
@@ -28,7 +28,7 @@ export default function EvolutionD5Maverick4PlusPage() {
         "Reliable Power"
       ]}
       description="Sport-oriented 4-passenger vehicle with enhanced performance and agility. The EVOLUTION D5 MAVERICK 4 PLUS combines sporty design with practical functionality for Chesapeake enthusiasts."
-      tigoUrl="https://chesapeakegolfcarts.com/evolution/d5-maverick/4-plus/"
+      tigoUrl="https://rhodeislandgolfcarts.com/evolution/d5-maverick/4-plus/"
     />
   );
 }

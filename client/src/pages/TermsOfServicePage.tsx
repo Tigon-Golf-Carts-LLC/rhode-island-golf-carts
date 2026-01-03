@@ -5,9 +5,9 @@ export function TermsOfServicePage() {
     <>
       <SEOHead 
         title="Terms of Service"
-        description="Review our comprehensive terms and conditions for purchasing golf carts, rental services, and using our Chesapeake Golf Carts website. Call 804-792-0234."
-        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Chesapeake Golf Carts"
-        canonicalUrl="https://chesapeakegolfcarts.com/terms-of-service"
+        description="Review our comprehensive terms and conditions for purchasing golf carts, rental services, and using our Rhode Island Golf Carts website. Call 804-792-0234."
+        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Rhode Island Golf Carts"
+        canonicalUrl="https://rhodeislandgolfcarts.com/terms-of-service"
         ogImageWidth={1200}
         ogImageHeight={800}
       />
@@ -22,7 +22,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to Chesapeake Golf Carts. These Terms of Service ("Terms") govern your use of our website chesapeakegolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to Rhode Island Golf Carts. These Terms of Service ("Terms") govern your use of our website rhodeislandgolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -31,13 +31,13 @@ export function TermsOfServicePage() {
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
-              <p className="mb-4">Chesapeake Golf Carts provides:</p>
+              <p className="mb-4">Rhode Island Golf Carts provides:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>New and used golf cart sales</li>
                 <li>Golf cart rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
-                <li>Delivery and pickup services throughout Hampton Roads, Virginia</li>
+                <li>Delivery and pickup services throughout Rhode Island, Virginia</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Website Use and Restrictions</h2>
@@ -117,12 +117,12 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the fullest extent permitted by law, Chesapeake Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
+                To the fullest extent permitted by law, Rhode Island Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Indemnification</h2>
               <p className="mb-6">
-                You agree to indemnify and hold harmless Chesapeake Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
+                You agree to indemnify and hold harmless Rhode Island Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Privacy Policy</h2>
@@ -132,7 +132,7 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
-                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Hampton Roads, Virginia.
+                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Rhode Island, Virginia.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Changes to Terms</h2>

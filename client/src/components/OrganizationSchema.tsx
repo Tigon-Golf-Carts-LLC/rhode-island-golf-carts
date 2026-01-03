@@ -9,13 +9,13 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Chesapeake Golf Carts",
+      "name": "Rhode Island Golf Carts",
       "description": "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
-      "url": "https://chesapeakegolfcarts.com",
-      "logo": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-      "image": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "url": "https://rhodeislandgolfcarts.com",
+      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "image": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
       "telephone": "804-792-0234",
-      "email": "sales@chesapeakegolfcarts.com",
+      "email": "sales@rhodeislandgolfcarts.com",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "2810 George Washington Memorial Hwy",
@@ -131,7 +131,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "Chesapeake Golf Carts"
+          "name": "Rhode Island Golf Carts"
         }
       } as any;
     }

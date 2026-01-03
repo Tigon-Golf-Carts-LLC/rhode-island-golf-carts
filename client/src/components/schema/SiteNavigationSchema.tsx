@@ -12,13 +12,13 @@ interface SiteNavigationSchemaProps {
 
 export default function SiteNavigationSchema({ 
   navigationItems = [
-    { name: "Home", url: "https://chesapeakegolfcarts.com/", description: "Chesapeake Golf Carts homepage" },
-    { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory", description: "Browse our golf cart inventory" },
-    { name: "Rentals", url: "https://chesapeakegolfcarts.com/rentals", description: "Golf cart rental services" },
-    { name: "Services", url: "https://chesapeakegolfcarts.com/services", description: "Golf cart maintenance and repair services" },
-    { name: "Showroom", url: "https://chesapeakegolfcarts.com/showroom", description: "Visit our Chesapeake showroom" },
-    { name: "About", url: "https://chesapeakegolfcarts.com/about", description: "About Chesapeake Golf Carts" },
-    { name: "Contact", url: "https://chesapeakegolfcarts.com/contact", description: "Contact information and location" }
+    { name: "Home", url: "https://rhodeislandgolfcarts.com/", description: "Rhode Island Golf Carts homepage" },
+    { name: "Inventory", url: "https://rhodeislandgolfcarts.com/inventory", description: "Browse our golf cart inventory" },
+    { name: "Rentals", url: "https://rhodeislandgolfcarts.com/rentals", description: "Golf cart rental services" },
+    { name: "Services", url: "https://rhodeislandgolfcarts.com/services", description: "Golf cart maintenance and repair services" },
+    { name: "Showroom", url: "https://rhodeislandgolfcarts.com/showroom", description: "Visit our Chesapeake showroom" },
+    { name: "About", url: "https://rhodeislandgolfcarts.com/about", description: "About Rhode Island Golf Carts" },
+    { name: "Contact", url: "https://rhodeislandgolfcarts.com/contact", description: "Contact information and location" }
   ]
 }: SiteNavigationSchemaProps) {
   useEffect(() => {
@@ -28,8 +28,8 @@ export default function SiteNavigationSchema({
       "name": "Main Navigation",
       "about": {
         "@type": "WebSite",
-        "name": "Chesapeake Golf Carts",
-        "url": "https://chesapeakegolfcarts.com"
+        "name": "Rhode Island Golf Carts",
+        "url": "https://rhodeislandgolfcarts.com"
       },
       "hasPart": navigationItems.map((item, index) => ({
         "@type": "WebPageElement",

@@ -34,12 +34,12 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   const fullTownName = `${townName} ${townType}`;
   
   const pageTitle = `${townName} Golf Carts - Chesapeake's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}, Virginia. Chesapeake Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}, Virginia. Rhode Island Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
   const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Chesapeake golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Virginia golf carts`;
-  const canonicalUrl = `https://chesapeakegolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`;
+  const canonicalUrl = `https://rhodeislandgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`;
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://chesapeakegolfcarts.com" },
+    { name: "Home", url: "https://rhodeislandgolfcarts.com" },
     { name: `${townName} Golf Carts`, url: canonicalUrl }
   ];
 
@@ -94,7 +94,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
             Golf Cart Services in {fullTownName}
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            Chesapeake Golf Carts proudly serves {townName} residents with comprehensive 
+            Rhode Island Golf Carts proudly serves {townName} residents with comprehensive 
             golf cart solutions including sales, maintenance, repairs, and rentals.
           </p>
           
@@ -145,7 +145,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Chesapeake Golf Carts - Top Golf Cart and LSV Brands
+            Rhode Island Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -260,7 +260,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-gray-900">
-              Contact Chesapeake Golf Carts from {townName}
+              Contact Rhode Island Golf Carts from {townName}
             </h2>
             <p className="text-xl text-gray-600">
               Easy access to professional golf cart services for {townName} residents
@@ -327,10 +327,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                Why {townName} Chooses Chesapeake Golf Carts
+                Why {townName} Chooses Rhode Island Golf Carts
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Residents of {townName} trust Chesapeake Golf Carts for reliable, 
+                Residents of {townName} trust Rhode Island Golf Carts for reliable, 
                 high-quality golf cart solutions. Our local expertise and commitment to customer 
                 service make us the preferred choice for {townName} golf cart needs.
               </p>
@@ -386,7 +386,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
             Ready to Get Your Golf Cart in {townName}?
           </h2>
           <p className="text-xl mb-8">
-            Contact Chesapeake Golf Carts today for personalized service in {townName}
+            Contact Rhode Island Golf Carts today for personalized service in {townName}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">

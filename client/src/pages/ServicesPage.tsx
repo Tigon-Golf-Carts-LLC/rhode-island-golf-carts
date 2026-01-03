@@ -90,17 +90,17 @@ export default function ServicesPage() {
         title="Chesapeake Golf Cart Services - Expert Maintenance & Repair in VA"
         description="Professional golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia. Certified technicians, quality parts, and comprehensive care."
         keywords="golf cart service Chesapeake VA, golf cart repair Virginia, golf cart maintenance, battery service, customization"
-        canonicalUrl="https://chesapeakegolfcarts.com/services"
+        canonicalUrl="https://rhodeislandgolfcarts.com/services"
       />
       <AllSchemas 
         pageType="services" 
         pageData={{
           title: "Chesapeake Golf Cart Services",
           description: "Professional golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia. Certified technicians, quality parts, and comprehensive care.",
-          url: "https://chesapeakegolfcarts.com/services",
+          url: "https://rhodeislandgolfcarts.com/services",
           breadcrumbs: [
-            { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-            { name: "Services", url: "https://chesapeakegolfcarts.com/services" }
+            { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
+            { name: "Services", url: "https://rhodeislandgolfcarts.com/services" }
           ],
           serviceName: "Golf Cart Services",
           serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia",
@@ -216,7 +216,7 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Service Areas</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout the City of Chesapeake and surrounding Hampton Roads areas
+            We proudly serve customers throughout the City of Chesapeake and surrounding Rhode Island areas
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">
@@ -224,7 +224,7 @@ export default function ServicesPage() {
               "Chesapeake", "Great Bridge", "Deep Creek", "Greenbrier",
               "Western Branch", "South Norfolk", "Hickory", "Indian River",
               "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
-              "Hampton", "Newport News", "Hampton Roads", "Elizabeth City"
+              "Hampton", "Newport News", "Rhode Island", "Elizabeth City"
             ].map((town, index) => (
               <div key={index} className="bg-gray-50 p-3 rounded-lg">
                 {town}

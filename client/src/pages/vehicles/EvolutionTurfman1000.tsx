@@ -10,7 +10,7 @@ export default function EvolutionTurfman1000() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION® TURFMAN 1000 - Commercial Utility Vehicle | Chesapeake Golf Carts"
+        title="EVOLUTION® TURFMAN 1000 - Commercial Utility Vehicle | Rhode Island Golf Carts"
         description="Discover the EVOLUTION® TURFMAN 1000 lineup and its unique features. Heavy-duty commercial utility vehicle for landscaping and maintenance work."
         keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer Chesapeake"
       />

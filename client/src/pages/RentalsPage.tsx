@@ -204,7 +204,7 @@ export default function RentalsPage() {
         title="Golf Cart Rentals in the City of Chesapeake"
         description="Rent premium electric golf carts throughout the City of Chesapeake, Virginia with daily, weekly, and monthly options, full insurance, and delivery service. Call 804-792-0234."
         keywords="golf cart rental, Chesapeake rentals, golf cart hire, Virginia golf cart rental"
-        canonicalUrl="https://chesapeakegolfcarts.com/rentals"
+        canonicalUrl="https://rhodeislandgolfcarts.com/rentals"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
         ogImageWidth={1200}

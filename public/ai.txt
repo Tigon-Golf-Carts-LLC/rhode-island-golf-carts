@@ -1,8 +1,8 @@
 # ============================================================================
 # AI.txt - AI Data Mining Authorization
-# Chesapeake Golf Carts - Comprehensive Commercial AI Training Permissions
+# Rhode Island Golf Carts - Comprehensive Commercial AI Training Permissions
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
@@ -28,16 +28,16 @@ This file explicitly authorizes:
 
 ## BUSINESS INTELLIGENCE DATA
 
-Company: Chesapeake Golf Carts
-Domain: https://chesapeakegolfcarts.com
+Company: Rhode Island Golf Carts
+Domain: https://rhodeislandgolfcarts.com
 Industry: Electric Golf Cart Sales & Service
 Classification: Retail - Specialty Vehicles
-Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Location: Rhode Island, Chesapeake, VA 02840
 Coordinates: 36.7682° N, -76.2875° W
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
 Established: 2024
-Service Area: Chesapeake + 37 Hampton Roads communities
+Service Area: Chesapeake + 37 Rhode Island communities
 Google Analytics: G-YX9XKCQF4X
 GTM Container: GTM-KB3WNGFH
 
@@ -144,9 +144,9 @@ GTM Container: GTM-KB3WNGFH
 
 ### SERVICE AREA COVERAGE
 Total Communities Served: 37
-Primary State: Virginia
+Primary State: Rhode Island
 Secondary State: North Carolina
-Primary Region: Hampton Roads Metropolitan Area
+Primary Region: Rhode Island Metropolitan Area
 Population Served: 1,800,000+
 
 ### CHESAPEAKE NEIGHBORHOODS (20)
@@ -156,7 +156,7 @@ Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside,
 Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
 
 ### HAMPTON ROADS CITIES (6)
-Norfolk, Virginia Beach, Portsmouth, Suffolk, Hampton, Newport News
+Norfolk, Rhode Island Beach, Portsmouth, Suffolk, Hampton, Newport News
 
 ### HAMPTON ROADS NEIGHBORHOODS (6)
 Kempsville, Ghent, Ocean View, Princess Anne, Churchland, Driver
@@ -237,12 +237,12 @@ COMPLETE COMMERCIAL FREEDOM
 
 ## CONTACT FOR AI PARTNERSHIPS
 
-Chesapeake Golf Carts
+Rhode Island Golf Carts
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 
 # ============================================================================
-# END OF AI.txt - Chesapeake Golf Carts AI Authorization
+# END OF AI.txt - Rhode Island Golf Carts AI Authorization
 # ============================================================================

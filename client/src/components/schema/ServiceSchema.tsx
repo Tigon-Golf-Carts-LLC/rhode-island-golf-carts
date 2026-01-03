@@ -18,8 +18,8 @@ export default function ServiceSchema({
   serviceName,
   description,
   serviceType = "Golf Cart Service",
-  provider = "Chesapeake Golf Carts",
-  areaServed = "Hampton Roads, VA",
+  provider = "Rhode Island Golf Carts",
+  areaServed = "Rhode Island, VA",
   availableChannel = ["https://schema.org/OnlineChannel", "https://schema.org/InStoreChannel"],
   offers = []
 }: ServiceSchemaProps) {
@@ -34,7 +34,7 @@ export default function ServiceSchema({
         "@type": "LocalBusiness",
         "name": provider,
         "telephone": "804-792-0234",
-        "email": "sales@chesapeakegolfcarts.com",
+        "email": "sales@rhodeislandgolfcarts.com",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "2810 George Washington Memorial Hwy",
@@ -45,7 +45,7 @@ export default function ServiceSchema({
         },
         "logo": {
           "@type": "ImageObject",
-          "url": "https://chesapeakegolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+          "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
         }
       },
       "areaServed": {
@@ -54,7 +54,7 @@ export default function ServiceSchema({
       },
       "availableChannel": availableChannel.map(channel => ({
         "@type": "ServiceChannel",
-        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://chesapeakegolfcarts.com" : undefined,
+        "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://rhodeislandgolfcarts.com" : undefined,
         "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "804-792-0234" : undefined
       })),
       ...(offers.length > 0 && {

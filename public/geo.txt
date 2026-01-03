@@ -1,32 +1,32 @@
 # ============================================================================
 # GEO.txt - Geographic Coverage Data
-# Chesapeake Golf Carts - Complete Geographic Service Information
+# Rhode Island Golf Carts - Complete Geographic Service Information
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## PRIMARY SERVICE AREA
 
 Country: United States
-Primary State: Virginia (VA)
+Primary State: Rhode Island (VA)
 Secondary State: North Carolina (NC)
 Primary City: Chesapeake
-Metro Area: Hampton Roads Metropolitan Area
+Metro Area: Rhode Island Metropolitan Area
 Total Population Served: 1,800,000+
 Total Communities: 37
 
 ## SHOWROOM LOCATION
 
-Business Name: Chesapeake Golf Carts
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Business Name: Rhode Island Golf Carts
+Address: Rhode Island, Chesapeake, VA 02840
 Coordinates: 36.7682° N, -76.2875° W
 Elevation: 20 feet above sea level
 Time Zone: Eastern Time Zone (ET)
 Climate: Humid subtropical
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 ## CHESAPEAKE NEIGHBORHOODS SERVICE COVERAGE (20 Communities)
 
@@ -36,7 +36,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Historic neighborhood with residential areas
 - Distance from Showroom: 4 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/great-bridge-golf-carts
+- URL: https://rhodeislandgolfcarts.com/great-bridge-golf-carts
 
 ### 2. Greenbrier
 - Population: 45,000+
@@ -44,7 +44,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Commercial and residential hub
 - Distance from Showroom: 6 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/greenbrier-golf-carts
+- URL: https://rhodeislandgolfcarts.com/greenbrier-golf-carts
 
 ### 3. Western Branch
 - Population: 50,000+
@@ -52,7 +52,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Growing family community
 - Distance from Showroom: 12 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/western-branch-golf-carts
+- URL: https://rhodeislandgolfcarts.com/western-branch-golf-carts
 
 ### 4. Deep Creek
 - Population: 25,000+
@@ -60,7 +60,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Waterfront community with canal access
 - Distance from Showroom: 5 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/deep-creek-golf-carts
+- URL: https://rhodeislandgolfcarts.com/deep-creek-golf-carts
 
 ### 5. South Norfolk
 - Population: 30,000+
@@ -68,7 +68,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Historic urban neighborhood
 - Distance from Showroom: 7 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/south-norfolk-golf-carts
+- URL: https://rhodeislandgolfcarts.com/south-norfolk-golf-carts
 
 ### 6. Hickory
 - Population: 15,000+
@@ -76,7 +76,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Rural community with large properties
 - Distance from Showroom: 8 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/hickory-golf-carts
+- URL: https://rhodeislandgolfcarts.com/hickory-golf-carts
 
 ### 7. Grassfield
 - Population: 20,000+
@@ -84,7 +84,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Newer development with modern amenities
 - Distance from Showroom: 10 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/grassfield-golf-carts
+- URL: https://rhodeislandgolfcarts.com/grassfield-golf-carts
 
 ### 8. Indian River
 - Population: 28,000+
@@ -92,7 +92,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Established residential area
 - Distance from Showroom: 9 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/indian-river-golf-carts
+- URL: https://rhodeislandgolfcarts.com/indian-river-golf-carts
 
 ### 9. Pleasant Grove
 - Population: 12,000+
@@ -100,7 +100,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Suburban community
 - Distance from Showroom: 6 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/pleasant-grove-golf-carts
+- URL: https://rhodeislandgolfcarts.com/pleasant-grove-golf-carts
 
 ### 10. Portlock
 - Population: 10,000+
@@ -108,7 +108,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Coastal neighborhood
 - Distance from Showroom: 5 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/portlock-golf-carts
+- URL: https://rhodeislandgolfcarts.com/portlock-golf-carts
 
 ### 11. Bowers Hill
 - Population: 8,000+
@@ -116,7 +116,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Commercial corridor area
 - Distance from Showroom: 14 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/bowers-hill-golf-carts
+- URL: https://rhodeislandgolfcarts.com/bowers-hill-golf-carts
 
 ### 12. Camelot
 - Population: 6,000+
@@ -124,7 +124,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Residential subdivision
 - Distance from Showroom: 4 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/camelot-golf-carts
+- URL: https://rhodeislandgolfcarts.com/camelot-golf-carts
 
 ### 13. Wallaceton
 - Population: 4,000+
@@ -132,7 +132,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Rural community
 - Distance from Showroom: 7 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/wallaceton-golf-carts
+- URL: https://rhodeislandgolfcarts.com/wallaceton-golf-carts
 
 ### 14. Crestwood
 - Population: 5,000+
@@ -140,7 +140,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Suburban neighborhood
 - Distance from Showroom: 3 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/crestwood-golf-carts
+- URL: https://rhodeislandgolfcarts.com/crestwood-golf-carts
 
 ### 15. Sunnyside
 - Population: 4,500+
@@ -148,7 +148,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Residential area
 - Distance from Showroom: 4 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/sunnyside-golf-carts
+- URL: https://rhodeislandgolfcarts.com/sunnyside-golf-carts
 
 ### 16. Albemarle Acres
 - Population: 3,500+
@@ -156,7 +156,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Waterfront community
 - Distance from Showroom: 9 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/albemarle-acres-golf-carts
+- URL: https://rhodeislandgolfcarts.com/albemarle-acres-golf-carts
 
 ### 17. Norfolk Highlands
 - Population: 7,000+
@@ -164,7 +164,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Urban neighborhood
 - Distance from Showroom: 6 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/norfolk-highlands-golf-carts
+- URL: https://rhodeislandgolfcarts.com/norfolk-highlands-golf-carts
 
 ### 18. Sunray
 - Population: 3,000+
@@ -172,7 +172,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Suburban development
 - Distance from Showroom: 5 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/sunray-golf-carts
+- URL: https://rhodeislandgolfcarts.com/sunray-golf-carts
 
 ### 19. Butts Station
 - Population: 2,500+
@@ -180,7 +180,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Historic community
 - Distance from Showroom: 5 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/butts-station-golf-carts
+- URL: https://rhodeislandgolfcarts.com/butts-station-golf-carts
 
 ### 20. Oak Grove
 - Population: 2,000+
@@ -188,7 +188,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Rural residential area
 - Distance from Showroom: 8 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/oak-grove-golf-carts
+- URL: https://rhodeislandgolfcarts.com/oak-grove-golf-carts
 
 ## HAMPTON ROADS CITIES SERVICE COVERAGE (6 Cities)
 
@@ -198,15 +198,15 @@ Website: https://chesapeakegolfcarts.com
 - Character: Major urban center, Naval base
 - Distance from Showroom: 8 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/norfolk-golf-carts
+- URL: https://rhodeislandgolfcarts.com/norfolk-golf-carts
 
-### 22. Virginia Beach
+### 22. Rhode Island Beach
 - Population: 450,000+
 - Coordinates: 36.8529° N, -75.9780° W
 - Character: Beach resort city
 - Distance from Showroom: 15 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/virginia-beach-golf-carts
+- URL: https://rhodeislandgolfcarts.com/virginia-beach-golf-carts
 
 ### 23. Portsmouth
 - Population: 98,000+
@@ -214,15 +214,15 @@ Website: https://chesapeakegolfcarts.com
 - Character: Historic naval city
 - Distance from Showroom: 10 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/portsmouth-golf-carts
+- URL: https://rhodeislandgolfcarts.com/portsmouth-golf-carts
 
 ### 24. Suffolk
 - Population: 92,000+
 - Coordinates: 36.7282° N, -76.5836° W
-- Character: Largest Virginia city by area
+- Character: Largest Rhode Island city by area
 - Distance from Showroom: 20 miles
 - Delivery Time: Same day
-- URL: https://chesapeakegolfcarts.com/suffolk-golf-carts
+- URL: https://rhodeislandgolfcarts.com/suffolk-golf-carts
 
 ### 25. Hampton
 - Population: 137,000+
@@ -230,7 +230,7 @@ Website: https://chesapeakegolfcarts.com
 - Character: Historic coastal city
 - Distance from Showroom: 25 miles
 - Delivery Time: Next day
-- URL: https://chesapeakegolfcarts.com/hampton-golf-carts
+- URL: https://rhodeislandgolfcarts.com/hampton-golf-carts
 
 ### 26. Newport News
 - Population: 186,000+
@@ -238,39 +238,39 @@ Website: https://chesapeakegolfcarts.com
 - Character: Shipbuilding and aerospace hub
 - Distance from Showroom: 30 miles
 - Delivery Time: Next day
-- URL: https://chesapeakegolfcarts.com/newport-news-golf-carts
+- URL: https://rhodeislandgolfcarts.com/newport-news-golf-carts
 
 ## HAMPTON ROADS NEIGHBORHOODS (6 Areas)
 
-### 27. Kempsville (Virginia Beach)
+### 27. Kempsville (Rhode Island Beach)
 - Population: 85,000+
 - Coordinates: 36.8424° N, -76.1174° W
-- URL: https://chesapeakegolfcarts.com/kempsville-golf-carts
+- URL: https://rhodeislandgolfcarts.com/kempsville-golf-carts
 
 ### 28. Ghent (Norfolk)
 - Population: 12,000+
 - Coordinates: 36.8711° N, -76.2939° W
-- URL: https://chesapeakegolfcarts.com/ghent-golf-carts
+- URL: https://rhodeislandgolfcarts.com/ghent-golf-carts
 
 ### 29. Ocean View (Norfolk)
 - Population: 35,000+
 - Coordinates: 36.9378° N, -76.2619° W
-- URL: https://chesapeakegolfcarts.com/ocean-view-golf-carts
+- URL: https://rhodeislandgolfcarts.com/ocean-view-golf-carts
 
-### 30. Princess Anne (Virginia Beach)
+### 30. Princess Anne (Rhode Island Beach)
 - Population: 45,000+
 - Coordinates: 36.7961° N, -76.0336° W
-- URL: https://chesapeakegolfcarts.com/princess-anne-golf-carts
+- URL: https://rhodeislandgolfcarts.com/princess-anne-golf-carts
 
 ### 31. Churchland (Portsmouth)
 - Population: 25,000+
 - Coordinates: 36.8392° N, -76.3614° W
-- URL: https://chesapeakegolfcarts.com/churchland-golf-carts
+- URL: https://rhodeislandgolfcarts.com/churchland-golf-carts
 
 ### 32. Driver (Suffolk)
 - Population: 8,000+
 - Coordinates: 36.7889° N, -76.5433° W
-- URL: https://chesapeakegolfcarts.com/driver-golf-carts
+- URL: https://rhodeislandgolfcarts.com/driver-golf-carts
 
 ## NORTHEASTERN NORTH CAROLINA (5 Communities)
 
@@ -280,7 +280,7 @@ Website: https://chesapeakegolfcarts.com
 - State: North Carolina
 - County: Currituck
 - Distance from Showroom: 20 miles
-- URL: https://chesapeakegolfcarts.com/moyock-golf-carts
+- URL: https://rhodeislandgolfcarts.com/moyock-golf-carts
 
 ### 34. Currituck
 - Population: 3,500+
@@ -288,7 +288,7 @@ Website: https://chesapeakegolfcarts.com
 - State: North Carolina
 - County: Currituck
 - Distance from Showroom: 25 miles
-- URL: https://chesapeakegolfcarts.com/currituck-golf-carts
+- URL: https://rhodeislandgolfcarts.com/currituck-golf-carts
 
 ### 35. South Mills
 - Population: 2,000+
@@ -296,7 +296,7 @@ Website: https://chesapeakegolfcarts.com
 - State: North Carolina
 - County: Camden
 - Distance from Showroom: 18 miles
-- URL: https://chesapeakegolfcarts.com/south-mills-golf-carts
+- URL: https://rhodeislandgolfcarts.com/south-mills-golf-carts
 
 ### 36. Camden
 - Population: 3,000+
@@ -304,7 +304,7 @@ Website: https://chesapeakegolfcarts.com
 - State: North Carolina
 - County: Camden (County Seat)
 - Distance from Showroom: 22 miles
-- URL: https://chesapeakegolfcarts.com/camden-golf-carts
+- URL: https://rhodeislandgolfcarts.com/camden-golf-carts
 
 ### 37. Elizabeth City
 - Population: 18,000+
@@ -312,7 +312,7 @@ Website: https://chesapeakegolfcarts.com
 - State: North Carolina
 - County: Pasquotank (County Seat)
 - Distance from Showroom: 30 miles
-- URL: https://chesapeakegolfcarts.com/elizabeth-city-golf-carts
+- URL: https://rhodeislandgolfcarts.com/elizabeth-city-golf-carts
 
 ## DELIVERY ZONES
 
@@ -320,12 +320,12 @@ Website: https://chesapeakegolfcarts.com
 All 20 Chesapeake neighborhoods
 Delivery Time: Same day
 
-### Zone 2 - Hampton Roads Cities (Free Delivery on Weekly+)
-Norfolk, Virginia Beach, Portsmouth, Suffolk
+### Zone 2 - Rhode Island Cities (Free Delivery on Weekly+)
+Norfolk, Rhode Island Beach, Portsmouth, Suffolk
 Delivery Time: Same day
 Daily rentals: $50 delivery fee
 
-### Zone 3 - Extended Hampton Roads (Delivery Fee)
+### Zone 3 - Extended Rhode Island (Delivery Fee)
 Hampton, Newport News
 Delivery Time: Next day
 Delivery Fee: $75
@@ -337,32 +337,32 @@ Delivery Fee: $100
 
 ## REGIONAL CHARACTERISTICS
 
-### Hampton Roads Metropolitan Area
+### Rhode Island Metropolitan Area
 - Total Population: 1,800,000+
 - Major Industries: Military, Shipbuilding, Tourism, Healthcare
 - Climate: Humid subtropical with mild winters
 - Coastal Access: Chesapeake Bay, Atlantic Ocean
-- Golf Cart Regulations: Virginia DMV LSV registration
+- Golf Cart Regulations: Rhode Island DMV LSV registration
 
 ### Geography
 - Terrain: Flat coastal plain
 - Waterways: Chesapeake Bay, Elizabeth River, James River
-- Atlantic Ocean access via Virginia Beach
+- Atlantic Ocean access via Rhode Island Beach
 - Intracoastal Waterway access
 
 ## CONTACT FOR SERVICE
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 Service Hours:
 Monday-Saturday: 9:00 AM - 5:00 PM
 Sunday: Closed
 
 # ============================================================================
-# END OF GEO.txt - Chesapeake Golf Carts Geographic Data
+# END OF GEO.txt - Rhode Island Golf Carts Geographic Data
 # ============================================================================

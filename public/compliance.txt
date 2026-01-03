@@ -1,42 +1,42 @@
 # ============================================================================
 # COMPLIANCE.txt - Regulatory Compliance and Legal Information
-# Chesapeake Golf Carts - Complete Compliance Documentation
+# Rhode Island Golf Carts - Complete Compliance Documentation
 # ============================================================================
-# Website: https://chesapeakegolfcarts.com
+# Website: https://rhodeislandgolfcarts.com
 # Last Updated: 2025-11-26
 # ============================================================================
 
 ## COMPREHENSIVE COMPLIANCE DECLARATION
 
 This file documents all regulatory compliance, legal requirements, and industry standards
-for Chesapeake Golf Carts (chesapeakegolfcarts.com) to ensure transparency and legal operation.
+for Rhode Island Golf Carts (rhodeislandgolfcarts.com) to ensure transparency and legal operation.
 
 ## BUSINESS INFORMATION
 
-Company: Chesapeake Golf Carts
-Website: https://chesapeakegolfcarts.com
-Address: 1234 Battlefield Blvd, Chesapeake, VA 23322
+Company: Rhode Island Golf Carts
+Website: https://rhodeislandgolfcarts.com
+Address: Rhode Island, Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Service Area: 37 Hampton Roads communities
+Email: sales@rhodeislandgolfcarts.com
+Service Area: 37 Rhode Island communities
 
 ## BUSINESS COMPLIANCE
 
 ### Business Registration:
-Business Name: Chesapeake Golf Carts
-Legal Entity: Chesapeake Golf Carts LLC
-Operating Location: 1234 Battlefield Blvd, Chesapeake, VA 23322
-State: Virginia
+Business Name: Rhode Island Golf Carts
+Legal Entity: Rhode Island Golf Carts LLC
+Operating Location: Rhode Island, Chesapeake, VA 02840
+State: Rhode Island
 Business Type: Electric Golf Cart Dealership
 Industry: Automotive - Electric Vehicles
 NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 
-### Virginia Business Compliance:
-✓ Virginia State Corporation Commission registration
-✓ Virginia business license
+### Rhode Island Business Compliance:
+✓ Rhode Island State Corporation Commission registration
+✓ Rhode Island business license
 ✓ Chesapeake city business permits
-✓ Virginia sales tax registration
-✓ Virginia tax compliance
+✓ Rhode Island sales tax registration
+✓ Rhode Island tax compliance
 ✓ Local zoning compliance
 ✓ Occupational licensing (where required)
 
@@ -50,7 +50,7 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 
 ## CONSUMER PROTECTION COMPLIANCE
 
-### Virginia Consumer Protection:
+### Rhode Island Consumer Protection:
 ✓ Truth in advertising
 ✓ Fair pricing practices
 ✓ Clear return/refund policies
@@ -69,7 +69,7 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 
 ## PRIVACY AND DATA PROTECTION
 
-### Virginia Consumer Data Protection Act (VCDPA):
+### Rhode Island Consumer Data Protection Act (VCDPA):
 ✓ Privacy policy disclosure
 ✓ Data collection transparency
 ✓ Consumer rights acknowledgment
@@ -112,7 +112,7 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 ✓ Proper disclosure of promotions
 
 ### Local Advertising:
-✓ Virginia advertising regulations
+✓ Rhode Island advertising regulations
 ✓ Local business advertising compliance
 ✓ Fair competition practices
 
@@ -120,12 +120,12 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 
 ### Low Speed Vehicle (LSV) Regulations:
 ✓ Federal Motor Vehicle Safety Standards awareness
-✓ Virginia LSV/NEV regulations compliance
+✓ Rhode Island LSV/NEV regulations compliance
 ✓ Street legal requirements disclosure
 ✓ Customer education on registration requirements
 ✓ Insurance requirement disclosure
 
-### Virginia Golf Cart Laws:
+### Rhode Island Golf Cart Laws:
 - LSVs allowed on roads with 35 mph or less speed limits
 - Required equipment: headlights, taillights, turn signals, mirrors, seat belts, horn
 - DMV registration required for street use
@@ -170,7 +170,7 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 ## EMPLOYMENT COMPLIANCE
 
 ### Labor Laws:
-✓ Virginia employment law compliance
+✓ Rhode Island employment law compliance
 ✓ Fair Labor Standards Act compliance
 ✓ Equal Employment Opportunity
 ✓ Workplace safety (OSHA awareness)
@@ -212,12 +212,12 @@ NAICS Code: 441229 (All Other Motor Vehicle Dealers)
 
 ## CONTACT FOR COMPLIANCE INQUIRIES
 
-Chesapeake Golf Carts
-1234 Battlefield Blvd
-Chesapeake, VA 23322
+Rhode Island Golf Carts
+Rhode Island
+Chesapeake, VA 02840
 Phone: 1-844-844-6638
-Email: sales@chesapeakegolfcarts.com
-Website: https://chesapeakegolfcarts.com
+Email: sales@rhodeislandgolfcarts.com
+Website: https://rhodeislandgolfcarts.com
 
 ## DISCLAIMER
 
@@ -226,5 +226,5 @@ Specific legal requirements may vary. Consult appropriate authorities
 or legal counsel for definitive compliance guidance.
 
 # ============================================================================
-# END OF COMPLIANCE.txt - Chesapeake Golf Carts
+# END OF COMPLIANCE.txt - Rhode Island Golf Carts
 # ============================================================================

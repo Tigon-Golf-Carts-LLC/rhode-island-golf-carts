@@ -21,16 +21,16 @@ export default function BlogPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead
-        title="Golf Cart Blog | Chesapeake Golf Carts - News, Tips & Guides"
-        description="Read the latest golf cart news, buying guides, tips, and insights from Chesapeake Golf Carts. Expert advice for Hampton Roads golf cart owners and shoppers."
-        keywords="golf cart blog, Chesapeake VA golf carts, golf cart tips, buying guide, electric golf carts, DENAGO, EVOLUTION, Hampton Roads"
-        canonicalUrl="https://chesapeakegolfcarts.com/blog"
+        title="Golf Cart Blog | Rhode Island Golf Carts - News, Tips & Guides"
+        description="Read the latest golf cart news, buying guides, tips, and insights from Rhode Island Golf Carts. Expert advice for Rhode Island golf cart owners and shoppers."
+        keywords="golf cart blog, Chesapeake VA golf carts, golf cart tips, buying guide, electric golf carts, DENAGO, EVOLUTION, Rhode Island"
+        canonicalUrl="https://rhodeislandgolfcarts.com/blog"
         ogType="website"
       />
       <BlogSchema
-        name="Chesapeake Golf Carts Blog"
-        description="Expert golf cart news, buying guides, tips, and insights from Chesapeake's premier golf cart dealer serving Hampton Roads, Virginia."
-        url="https://chesapeakegolfcarts.com/blog"
+        name="Rhode Island Golf Carts Blog"
+        description="Expert golf cart news, buying guides, tips, and insights from Chesapeake's premier golf cart dealer serving Rhode Island, Virginia."
+        url="https://rhodeislandgolfcarts.com/blog"
         posts={blogPosts.map(post => ({
           title: post.h1,
           url: post.canonicalUrl,
@@ -39,8 +39,8 @@ export default function BlogPage() {
       />
       <BreadcrumbSchema
         items={[
-          { name: "Home", url: "https://chesapeakegolfcarts.com/" },
-          { name: "Blog", url: "https://chesapeakegolfcarts.com/blog" }
+          { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
+          { name: "Blog", url: "https://rhodeislandgolfcarts.com/blog" }
         ]}
       />
 
@@ -55,10 +55,10 @@ export default function BlogPage() {
             Golf Cart Insights
           </Badge>
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Chesapeake Golf Carts Blog
+            Rhode Island Golf Carts Blog
           </h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">
-            Expert tips, buying guides, and the latest news about electric golf carts in Hampton Roads. 
+            Expert tips, buying guides, and the latest news about electric golf carts in Rhode Island. 
             Your resource for making informed golf cart decisions.
           </p>
         </div>

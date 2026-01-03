@@ -29,7 +29,7 @@ export default function VehicleSchema({
         "name": brand
       },
       "description": description,
-      "image": `https://chesapeakegolfcarts.com/attached_assets/${image}`,
+      "image": `https://rhodeislandgolfcarts.com/attached_assets/${image}`,
       "url": url,
       "category": "Golf Cart",
       "manufacturer": {
@@ -43,9 +43,9 @@ export default function VehicleSchema({
         "priceCurrency": "USD",
         "seller": {
           "@type": "Organization",
-          "name": "Chesapeake Golf Carts",
+          "name": "Rhode Island Golf Carts",
           "telephone": "804-792-0234",
-          "email": "sales@chesapeakegolfcarts.com",
+          "email": "sales@rhodeislandgolfcarts.com",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "2810 George Washington Memorial Hwy",

@@ -9,10 +9,10 @@ export default function EvolutionD5Ranger6PlusPage() {
       series="D5 RANGER"
       price="$11,595"
       image={evolutionD5Ranger6PlusImage}
-      seoTitle="EVOLUTION D5 RANGER 6 PLUS - Premium 6-Seat Golf Cart | Chesapeake Golf Carts"
+      seoTitle="EVOLUTION D5 RANGER 6 PLUS - Premium 6-Seat Golf Cart | Rhode Island Golf Carts"
       seoDescription="Experience the EVOLUTION D5 RANGER 6 PLUS electric golf cart in Atlantic County, PA. Extended 6-passenger seating with premium comfort and enhanced features."
       seoKeywords="EVOLUTION D5 RANGER 6 PLUS, 6-seat golf cart, extended seating, Atlantic County, New Jersey"
-      canonicalUrl="https://chesapeakegolfcarts.com/vehicles/evolution-d5-ranger-6-plus"
+      canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d5-ranger-6-plus"
       seats="6"
       range="40 miles"
       topSpeed="25 mph"
@@ -28,7 +28,7 @@ export default function EvolutionD5Ranger6PlusPage() {
         "Quality Craftsmanship"
       ]}
       description="Extended 6-passenger seating with premium comfort and enhanced features. The EVOLUTION D5 RANGER 6 PLUS provides spacious family transportation with reliable performance for Atlantic County adventures."
-      tigoUrl="https://chesapeakegolfcarts.com/evolution/d5-ranger/6-plus/"
+      tigoUrl="https://rhodeislandgolfcarts.com/evolution/d5-ranger/6-plus/"
     />
   );
 }

@@ -84,26 +84,26 @@ export default function VehicleDetailPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://chesapeakegolfcarts.com" },
-    { name: "Inventory", url: "https://chesapeakegolfcarts.com/inventory" },
-    { name: vehicle.name, url: `https://chesapeakegolfcarts.com/vehicle/${vehicle.id}` }
+    { name: "Home", url: "https://rhodeislandgolfcarts.com" },
+    { name: "Inventory", url: "https://rhodeislandgolfcarts.com/inventory" },
+    { name: vehicle.name, url: `https://rhodeislandgolfcarts.com/vehicle/${vehicle.id}` }
   ];
 
   return (
     <>
       {/* Dynamic SEO Head */}
       <Helmet>
-        <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Chesapeake Golf Carts</title>
-        <meta name="description" content={`${vehicle.name} for sale at Chesapeake Golf Carts. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now.`} />
+        <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Rhode Island Golf Carts</title>
+        <meta name="description" content={`${vehicle.name} for sale at Rhode Island Golf Carts. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now.`} />
         <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Chesapeake golf carts, TIGON dealer Pennsylvania, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
-        <link rel="canonical" href={`https://chesapeakegolfcarts.com/vehicle/${vehicle.id}`} />
+        <link rel="canonical" href={`https://rhodeislandgolfcarts.com/vehicle/${vehicle.id}`} />
         
         {/* Open Graph */}
-        <meta property="og:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()} | Chesapeake Golf Carts`} />
-        <meta property="og:description" content={`${vehicle.description} Available now at Chesapeake Golf Carts. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart with ${vehicle.specifications.range} range.`} />
-        <meta property="og:url" content={`https://chesapeakegolfcarts.com/vehicle/${vehicle.id}`} />
+        <meta property="og:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()} | Rhode Island Golf Carts`} />
+        <meta property="og:description" content={`${vehicle.description} Available now at Rhode Island Golf Carts. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart with ${vehicle.specifications.range} range.`} />
+        <meta property="og:url" content={`https://rhodeislandgolfcarts.com/vehicle/${vehicle.id}`} />
         <meta property="og:type" content="product" />
-        <meta property="og:image" content={`https://chesapeakegolfcarts.com${vehicle.images[0]}`} />
+        <meta property="og:image" content={`https://rhodeislandgolfcarts.com${vehicle.images[0]}`} />
         <meta property="product:price:amount" content={vehicle.price.toString()} />
         <meta property="product:price:currency" content="USD" />
         <meta property="product:availability" content={vehicle.inStock ? "in stock" : "out of stock"} />
@@ -113,7 +113,7 @@ export default function VehicleDetailPage() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${vehicle.name} - $${vehicle.price.toLocaleString()}`} />
         <meta name="twitter:description" content={vehicle.description} />
-        <meta name="twitter:image" content={`https://chesapeakegolfcarts.com${vehicle.images[0]}`} />
+        <meta name="twitter:image" content={`https://rhodeislandgolfcarts.com${vehicle.images[0]}`} />
       </Helmet>
 
       {/* Schema Markup */}
@@ -180,7 +180,7 @@ export default function VehicleDetailPage() {
                 Schedule Test Drive
               </Button>
             </a>
-            <a href="https://chesapeakegolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+            <a href="https://rhodeislandgolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="w-full border-theme-orange text-theme-orange hover:bg-theme-orange hover:text-white">
                 <MessageCircle className="w-4 h-4 mr-2" />
                 Get Financing Quote
