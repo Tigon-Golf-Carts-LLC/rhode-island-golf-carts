@@ -7,7 +7,7 @@ export default function ReturnPolicyPage() {
       <SEOHead 
         title="Return Policy"
         description="Learn about our comprehensive return policy for golf cart purchases, accessories, and parts with clear conditions, timelines, and procedures. Call 804-792-0234."
-        keywords="return policy, golf cart returns, Chesapeake golf carts, refund policy Pennsylvania"
+        keywords="return policy, golf cart returns, Rhode Island golf carts, refund policy Pennsylvania"
         canonicalUrl="https://rhodeislandgolfcarts.com/policies/return-policy"
         ogImageWidth={1200}
         ogImageHeight={800}

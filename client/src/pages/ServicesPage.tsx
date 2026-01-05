@@ -87,23 +87,23 @@ export default function ServicesPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Chesapeake Golf Cart Services - Expert Maintenance & Repair in VA"
-        description="Professional golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia. Certified technicians, quality parts, and comprehensive care."
-        keywords="golf cart service Chesapeake VA, golf cart repair Virginia, golf cart maintenance, battery service, customization"
+        title="Rhode Island Golf Cart Services - Expert Maintenance & Repair in VA"
+        description="Professional golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Virginia. Certified technicians, quality parts, and comprehensive care."
+        keywords="golf cart service Rhode Island VA, golf cart repair Virginia, golf cart maintenance, battery service, customization"
         canonicalUrl="https://rhodeislandgolfcarts.com/services"
       />
       <AllSchemas 
         pageType="services" 
         pageData={{
-          title: "Chesapeake Golf Cart Services",
-          description: "Professional golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia. Certified technicians, quality parts, and comprehensive care.",
+          title: "Rhode Island Golf Cart Services",
+          description: "Professional golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Virginia. Certified technicians, quality parts, and comprehensive care.",
           url: "https://rhodeislandgolfcarts.com/services",
           breadcrumbs: [
             { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
             { name: "Services", url: "https://rhodeislandgolfcarts.com/services" }
           ],
           serviceName: "Golf Cart Services",
-          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in the City of Chesapeake, Virginia",
+          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Virginia",
           serviceOffers: [
             { price: "Contact for pricing", description: "Maintenance & Repair Services" },
             { price: "Contact for pricing", description: "Battery Service & Replacement" },
@@ -117,10 +117,10 @@ export default function ServicesPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("services")}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-              Golf Cart Services in the City of Chesapeake
+              Golf Cart Services in the City of Rhode Island
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Professional maintenance, repair, and customization services for all golf cart brands throughout the City of Chesapeake, Virginia.
+              Professional maintenance, repair, and customization services for all golf cart brands throughout the City of Rhode Island, Virginia.
             </p>
           <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
             Schedule Service
@@ -216,14 +216,14 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Service Areas</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout the City of Chesapeake and surrounding Rhode Island areas
+            We proudly serve customers throughout the City of Rhode Island and surrounding Rhode Island areas
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">
             {[
-              "Chesapeake", "Great Bridge", "Deep Creek", "Greenbrier",
+              "Rhode Island", "Great Bridge", "Deep Creek", "Greenbrier",
               "Western Branch", "South Norfolk", "Hickory", "Indian River",
-              "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
+              "Norfolk", "Rhode Island", "Portsmouth", "Suffolk",
               "Hampton", "Newport News", "Rhode Island", "Elizabeth City"
             ].map((town, index) => (
               <div key={index} className="bg-gray-50 p-3 rounded-lg">

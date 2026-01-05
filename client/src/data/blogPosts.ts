@@ -45,26 +45,26 @@ export const blogPosts: BlogPost[] = [
   {
     id: 1,
     slug: "chesapeake-golf-carts-for-sale-best-local-deals",
-    seoTitle: "Rhode Island Golf Carts for Sale | Best Local Deals in Chesapeake VA",
-    metaDescription: "Find the best golf carts for sale in Chesapeake VA. Local inventory of DENAGO and EVOLUTION electric golf carts with competitive pricing. Visit our George Washington Memorial Hwy showroom today!",
-    h1: "Rhode Island Golf Carts for Sale | Best Local Deals in Chesapeake VA",
+    seoTitle: "Rhode Island Golf Carts for Sale | Best Local Deals in Rhode Island VA",
+    metaDescription: "Find the best golf carts for sale in Rhode Island VA. Local inventory of DENAGO and EVOLUTION electric golf carts with competitive pricing. Visit our George Washington Memorial Hwy showroom today!",
+    h1: "Rhode Island Golf Carts for Sale | Best Local Deals in Rhode Island VA",
     publishDate: "2025-11-15",
-    excerpt: "Discover the best golf cart deals in Chesapeake, Virginia. Our local dealership offers premium DENAGO and EVOLUTION electric golf carts with unbeatable prices and exceptional service.",
+    excerpt: "Discover the best golf cart deals in Rhode Island, Virginia. Our local dealership offers premium DENAGO and EVOLUTION electric golf carts with unbeatable prices and exceptional service.",
     heroImage: "/attached_assets/generated_images/golf_cart_showroom_chesapeake.png",
-    heroImagePrompt: "A modern golf cart showroom in Chesapeake Virginia with multiple electric golf carts on display, professional lighting, American flags, customers browsing, clean polished floor, dealership signage visible, sunny day visible through large windows",
-    heroImageAlt: "Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts for sale in Chesapeake VA with best local deals",
-    keywords: "golf carts for sale Chesapeake VA, Chesapeake golf cart deals, buy golf cart Chesapeake Virginia, local golf cart dealer, electric golf carts Chesapeake",
+    heroImagePrompt: "A modern golf cart showroom in Rhode Island Virginia with multiple electric golf carts on display, professional lighting, American flags, customers browsing, clean polished floor, dealership signage visible, sunny day visible through large windows",
+    heroImageAlt: "Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts for sale in Rhode Island VA with best local deals",
+    keywords: "golf carts for sale Rhode Island VA, Rhode Island golf cart deals, buy golf cart Rhode Island Virginia, local golf cart dealer, electric golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-golf-carts-for-sale-best-local-deals",
     content: {
-      intro: "Looking for the best golf carts for sale in Chesapeake, Virginia? You've come to the right place. At Rhode Island Golf Carts, we pride ourselves on offering Rhode Island residents the finest selection of electric golf carts at competitive local prices. Our George Washington Memorial Hwy showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
+      intro: "Looking for the best golf carts for sale in Rhode Island, Virginia? You've come to the right place. At Rhode Island Golf Carts, we pride ourselves on offering Rhode Island residents the finest selection of electric golf carts at competitive local prices. Our George Washington Memorial Hwy showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
       sections: [
         {
-          h2: "Why Buy Your Golf Cart Locally in Chesapeake VA",
-          content: "Purchasing a golf cart from a local Chesapeake dealer offers numerous advantages over buying from distant sellers or online retailers. When you shop local, you get personalized service, immediate test drives, and ongoing support from neighbors who understand the unique needs of Rhode Island communities.",
+          h2: "Why Buy Your Golf Cart Locally in Rhode Island VA",
+          content: "Purchasing a golf cart from a local Rhode Island dealer offers numerous advantages over buying from distant sellers or online retailers. When you shop local, you get personalized service, immediate test drives, and ongoing support from neighbors who understand the unique needs of Rhode Island communities.",
           subsections: [
             {
               h3: "Local Service and Support You Can Count On",
-              content: "Our Chesapeake-based team provides warranty service, maintenance, and repairs right here in the community. No shipping your cart across the country for service calls.",
+              content: "Our Rhode Island-based team provides warranty service, maintenance, and repairs right here in the community. No shipping your cart across the country for service calls.",
               details: [
                 {
                   h4: "Same-Day Service Availability",
@@ -90,7 +90,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Extensive Test Drive Routes",
-                  content: "Our Chesapeake facility offers dedicated test drive areas to experience cart performance in real conditions.",
+                  content: "Our Rhode Island facility offers dedicated test drive areas to experience cart performance in real conditions.",
                   points: [
                     {
                       h5: "Side-by-Side Comparisons",
@@ -109,8 +109,8 @@ export const blogPosts: BlogPost[] = [
           ]
         },
         {
-          h2: "Current Golf Cart Deals in Chesapeake",
-          content: "We regularly offer special pricing, seasonal promotions, and financing options to make golf cart ownership accessible to every Chesapeake family. Check our current inventory for the latest deals on new and pre-owned electric golf carts.",
+          h2: "Current Golf Cart Deals in Rhode Island",
+          content: "We regularly offer special pricing, seasonal promotions, and financing options to make golf cart ownership accessible to every Rhode Island family. Check our current inventory for the latest deals on new and pre-owned electric golf carts.",
           subsections: [
             {
               h3: "New Golf Cart Specials",
@@ -159,12 +159,12 @@ export const blogPosts: BlogPost[] = [
           ]
         },
         {
-          h2: "Serving All Chesapeake Neighborhoods",
-          content: "From Great Bridge to Western Branch, Greenbrier to Deep Creek, we deliver golf carts throughout the City of Chesapeake. Our local delivery team knows every neighborhood and can have your new cart delivered and ready to drive in no time.",
+          h2: "Serving All Rhode Island Neighborhoods",
+          content: "From Great Bridge to Western Branch, Greenbrier to Deep Creek, we deliver golf carts throughout the City of Rhode Island. Our local delivery team knows every neighborhood and can have your new cart delivered and ready to drive in no time.",
           subsections: [
             {
               h3: "Free Local Delivery",
-              content: "We provide complimentary delivery throughout Chesapeake and most Rhode Island communities.",
+              content: "We provide complimentary delivery throughout Rhode Island and most Rhode Island communities.",
               details: [
                 {
                   h4: "Professional Setup Included",
@@ -187,7 +187,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to find your perfect golf cart? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call us at 804-792-0234. Our friendly team is here to help you find the best local deals on premium electric golf carts in Chesapeake, Virginia."
+      conclusion: "Ready to find your perfect golf cart? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call us at 804-792-0234. Our friendly team is here to help you find the best local deals on premium electric golf carts in Rhode Island, Virginia."
     },
     internalLinks: [
       { text: "View Our Full Inventory", url: "/inventory" },
@@ -200,18 +200,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 2,
     slug: "new-used-golf-carts-chesapeake-virginia-shop-local",
-    seoTitle: "New & Used Golf Carts in Chesapeake Virginia | Shop Local Inventory",
-    metaDescription: "Shop new and used golf carts in Chesapeake Virginia. Browse our local inventory of certified pre-owned and brand new DENAGO and EVOLUTION electric golf carts. Financing available!",
-    h1: "New & Used Golf Carts in Chesapeake Virginia | Shop Local Inventory",
+    seoTitle: "New & Used Golf Carts in Rhode Island Virginia | Shop Local Inventory",
+    metaDescription: "Shop new and used golf carts in Rhode Island Virginia. Browse our local inventory of certified pre-owned and brand new DENAGO and EVOLUTION electric golf carts. Financing available!",
+    h1: "New & Used Golf Carts in Rhode Island Virginia | Shop Local Inventory",
     publishDate: "2025-11-14",
     excerpt: "Whether you're looking for a brand new electric golf cart or a quality pre-owned model, Rhode Island Golf Carts has the selection you need. Shop our local Virginia inventory today.",
     heroImage: "/attached_assets/generated_images/new_vs_pre-owned_carts.png",
-    heroImagePrompt: "Split image showing a brand new shiny electric golf cart on one side and a certified pre-owned golf cart on the other, both in pristine condition, Chesapeake Virginia dealership setting, professional photography, bright showroom lighting",
-    heroImageAlt: "New and used golf carts available at Rhode Island Golf Carts dealership in Chesapeake Virginia with local inventory",
-    keywords: "new golf carts Chesapeake VA, used golf carts Chesapeake Virginia, pre-owned golf carts, certified used golf carts, golf cart inventory Virginia",
+    heroImagePrompt: "Split image showing a brand new shiny electric golf cart on one side and a certified pre-owned golf cart on the other, both in pristine condition, Rhode Island Virginia dealership setting, professional photography, bright showroom lighting",
+    heroImageAlt: "New and used golf carts available at Rhode Island Golf Carts dealership in Rhode Island Virginia with local inventory",
+    keywords: "new golf carts Rhode Island VA, used golf carts Rhode Island Virginia, pre-owned golf carts, certified used golf carts, golf cart inventory Virginia",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/new-used-golf-carts-chesapeake-virginia-shop-local",
     content: {
-      intro: "At Rhode Island Golf Carts, we understand that every customer has unique needs and budgets. That's why we maintain an extensive inventory of both new and certified pre-owned golf carts to serve the Rhode Island community. Whether you want the latest technology or exceptional value, our Chesapeake showroom has the perfect cart waiting for you.",
+      intro: "At Rhode Island Golf Carts, we understand that every customer has unique needs and budgets. That's why we maintain an extensive inventory of both new and certified pre-owned golf carts to serve the Rhode Island community. Whether you want the latest technology or exceptional value, our Rhode Island showroom has the perfect cart waiting for you.",
       sections: [
         {
           h2: "Brand New Golf Carts in Stock",
@@ -281,7 +281,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Local Warranty Service",
-                          content: "All warranty work performed right here at our Chesapeake facility."
+                          content: "All warranty work performed right here at our Rhode Island facility."
                         }
                       ]
                     }
@@ -292,12 +292,12 @@ export const blogPosts: BlogPost[] = [
           ]
         },
         {
-          h2: "Why Shop Local in Chesapeake",
+          h2: "Why Shop Local in Rhode Island",
           content: "When you buy from Rhode Island Golf Carts, you're supporting a local business that's invested in the Rhode Island community. We provide ongoing service, parts, and support right here in your neighborhood.",
           subsections: [
             {
               h3: "Community Investment",
-              content: "As a local business, we're committed to the Chesapeake and Rhode Island communities we serve.",
+              content: "As a local business, we're committed to the Rhode Island and Rhode Island communities we serve.",
               details: [
                 {
                   h4: "Local Jobs and Economy",
@@ -305,7 +305,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Neighborhood Expertise",
-                      content: "Our team knows the unique needs of Chesapeake neighborhoods and communities.",
+                      content: "Our team knows the unique needs of Rhode Island neighborhoods and communities.",
                       subpoints: [
                         {
                           h6: "Personalized Relationships",
@@ -326,21 +326,21 @@ export const blogPosts: BlogPost[] = [
       { text: "Browse All Inventory", url: "/inventory" },
       { text: "Financing Options", url: "/services" },
       { text: "Schedule a Test Drive", url: "/contact" },
-      { text: "Virginia Beach Golf Carts", url: "/virginia-beach-golf-carts" }
+      { text: "Rhode Island Golf Carts", url: "/virginia-beach-golf-carts" }
     ]
   },
   {
     id: 3,
     slug: "chesapeake-va-golf-cart-superstore-find-next-cart",
-    seoTitle: "Chesapeake VA Golf Cart Superstore | Find Your Next Cart Today",
-    metaDescription: "Visit Chesapeake's largest golf cart superstore on George Washington Memorial Hwy. Huge selection of DENAGO and EVOLUTION electric golf carts. Test drive your next cart today!",
-    h1: "Chesapeake VA Golf Cart Superstore | Find Your Next Cart Today",
+    seoTitle: "Rhode Island VA Golf Cart Superstore | Find Your Next Cart Today",
+    metaDescription: "Visit Rhode Island's largest golf cart superstore on George Washington Memorial Hwy. Huge selection of DENAGO and EVOLUTION electric golf carts. Test drive your next cart today!",
+    h1: "Rhode Island VA Golf Cart Superstore | Find Your Next Cart Today",
     publishDate: "2025-11-13",
-    excerpt: "Chesapeake's premier golf cart superstore offers the region's largest selection of electric golf carts. Find your perfect DENAGO or EVOLUTION model at our George Washington Memorial Hwy location.",
+    excerpt: "Rhode Island's premier golf cart superstore offers the region's largest selection of electric golf carts. Find your perfect DENAGO or EVOLUTION model at our George Washington Memorial Hwy location.",
     heroImage: "/attached_assets/generated_images/golf_cart_superstore_aerial.png",
-    heroImagePrompt: "Aerial view of a large golf cart superstore in Chesapeake Virginia with rows of colorful electric golf carts, spacious showroom, large parking lot, American flag flying, professional dealership appearance, sunny Virginia weather",
-    heroImageAlt: "Chesapeake VA golf cart superstore on George Washington Memorial Hwy with largest selection of DENAGO and EVOLUTION electric golf carts",
-    keywords: "golf cart superstore Chesapeake VA, large golf cart selection, Chesapeake golf cart dealer, George Washington Memorial Hwy golf carts, Rhode Island golf cart superstore",
+    heroImagePrompt: "Aerial view of a large golf cart superstore in Rhode Island Virginia with rows of colorful electric golf carts, spacious showroom, large parking lot, American flag flying, professional dealership appearance, sunny Virginia weather",
+    heroImageAlt: "Rhode Island VA golf cart superstore on George Washington Memorial Hwy with largest selection of DENAGO and EVOLUTION electric golf carts",
+    keywords: "golf cart superstore Rhode Island VA, large golf cart selection, Rhode Island golf cart dealer, George Washington Memorial Hwy golf carts, Rhode Island golf cart superstore",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-va-golf-cart-superstore-find-next-cart",
     content: {
       intro: "Welcome to Rhode Island Golf Carts, the premier golf cart superstore serving Rhode Island and beyond. Our expansive showroom on George Washington Memorial Hwy features the region's largest selection of electric golf carts, making it easy to find exactly what you're looking for. From compact 2-seaters to spacious 6-passenger models, we have the perfect cart for every need.",
@@ -401,7 +401,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Same-Day Delivery Available",
-              content: "Many in-stock carts can be delivered to your Chesapeake home the same day you purchase.",
+              content: "Many in-stock carts can be delivered to your Rhode Island home the same day you purchase.",
               details: [
                 {
                   h4: "Efficient Delivery Process",
@@ -447,11 +447,11 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Conveniently Located on George Washington Memorial Hwy",
-          content: "Our superstore is easily accessible from all Chesapeake neighborhoods and surrounding Rhode Island cities. With ample parking and comfortable showroom facilities, shopping for your next cart is a pleasant experience.",
+          content: "Our superstore is easily accessible from all Rhode Island neighborhoods and surrounding Rhode Island cities. With ample parking and comfortable showroom facilities, shopping for your next cart is a pleasant experience.",
           subsections: [
             {
               h3: "Easy Access Location",
-              content: "Central location in Chesapeake with convenient access from major roads.",
+              content: "Central location in Rhode Island with convenient access from major roads.",
               details: [
                 {
                   h4: "Ample Parking",
@@ -474,7 +474,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Visit Chesapeake's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Chesapeake, VA. Call 804-792-0234 for more information."
+      conclusion: "Visit Rhode Island's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Rhode Island, VA. Call 804-792-0234 for more information."
     },
     internalLinks: [
       { text: "View Complete Inventory", url: "/inventory" },
@@ -487,18 +487,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 4,
     slug: "electric-golf-carts-for-sale-chesapeake-va-fast-delivery",
-    seoTitle: "Electric Golf Carts for Sale in Chesapeake VA | Fast Local Delivery",
-    metaDescription: "Shop electric golf carts for sale in Chesapeake VA with fast local delivery. DENAGO and EVOLUTION lithium battery carts with extended range. Same-day delivery available!",
-    h1: "Electric Golf Carts for Sale in Chesapeake VA | Fast Local Delivery",
+    seoTitle: "Electric Golf Carts for Sale in Rhode Island VA | Fast Local Delivery",
+    metaDescription: "Shop electric golf carts for sale in Rhode Island VA with fast local delivery. DENAGO and EVOLUTION lithium battery carts with extended range. Same-day delivery available!",
+    h1: "Electric Golf Carts for Sale in Rhode Island VA | Fast Local Delivery",
     publishDate: "2025-11-12",
     excerpt: "Go electric with premium golf carts from Rhode Island Golf Carts. Our lithium-powered DENAGO and EVOLUTION models offer extended range and fast local delivery throughout Rhode Island.",
     heroImage: "/attached_assets/generated_images/golf_cart_home_delivery.png",
-    heroImagePrompt: "Sleek modern electric golf cart being delivered to a beautiful Chesapeake Virginia home, delivery truck in background, happy customer receiving keys, well-manicured suburban neighborhood, sunny day",
-    heroImageAlt: "Electric golf cart delivery in Chesapeake VA with fast local service for DENAGO and EVOLUTION lithium battery golf carts",
-    keywords: "electric golf carts Chesapeake VA, lithium golf carts, fast golf cart delivery, electric cart sales Virginia, battery powered golf carts Chesapeake",
+    heroImagePrompt: "Sleek modern electric golf cart being delivered to a beautiful Rhode Island Virginia home, delivery truck in background, happy customer receiving keys, well-manicured suburban neighborhood, sunny day",
+    heroImageAlt: "Electric golf cart delivery in Rhode Island VA with fast local service for DENAGO and EVOLUTION lithium battery golf carts",
+    keywords: "electric golf carts Rhode Island VA, lithium golf carts, fast golf cart delivery, electric cart sales Virginia, battery powered golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/electric-golf-carts-for-sale-chesapeake-va-fast-delivery",
     content: {
-      intro: "Electric golf carts have revolutionized personal transportation in Chesapeake and throughout Rhode Island. At Rhode Island Golf Carts, we specialize in the latest lithium-powered electric models from DENAGO and EVOLUTION, offering extended range, quiet operation, and zero emissions. Best of all, we provide fast local delivery right to your Chesapeake home.",
+      intro: "Electric golf carts have revolutionized personal transportation in Rhode Island and throughout Rhode Island. At Rhode Island Golf Carts, we specialize in the latest lithium-powered electric models from DENAGO and EVOLUTION, offering extended range, quiet operation, and zero emissions. Best of all, we provide fast local delivery right to your Rhode Island home.",
       sections: [
         {
           h2: "Why Choose Electric Golf Carts",
@@ -552,7 +552,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Fast Local Delivery Service",
-          content: "We understand that once you've chosen your perfect cart, you want to start enjoying it right away. That's why we offer fast local delivery throughout Chesapeake and Rhode Island.",
+          content: "We understand that once you've chosen your perfect cart, you want to start enjoying it right away. That's why we offer fast local delivery throughout Rhode Island and Rhode Island.",
           subsections: [
             {
               h3: "Same-Day Delivery Options",
@@ -642,18 +642,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 5,
     slug: "street-legal-golf-carts-chesapeake-virginia-buy-now",
-    seoTitle: "Street-Legal Golf Carts Chesapeake Virginia | Buy Yours Now",
-    metaDescription: "Buy street-legal golf carts in Chesapeake Virginia. LSV and NEV certified carts legal for roads up to 35 mph. DOT approved with lights, mirrors, seatbelts. Shop now!",
-    h1: "Street-Legal Golf Carts Chesapeake Virginia | Buy Yours Now",
+    seoTitle: "Street-Legal Golf Carts Rhode Island Virginia | Buy Yours Now",
+    metaDescription: "Buy street-legal golf carts in Rhode Island Virginia. LSV and NEV certified carts legal for roads up to 35 mph. DOT approved with lights, mirrors, seatbelts. Shop now!",
+    h1: "Street-Legal Golf Carts Rhode Island Virginia | Buy Yours Now",
     publishDate: "2025-11-11",
-    excerpt: "Drive your golf cart legally on Chesapeake streets with our DOT-approved, street-legal models. Fully equipped LSV and NEV carts with all required safety features in stock now.",
+    excerpt: "Drive your golf cart legally on Rhode Island streets with our DOT-approved, street-legal models. Fully equipped LSV and NEV carts with all required safety features in stock now.",
     heroImage: "/attached_assets/generated_images/street-legal_golf_cart_driving.png",
-    heroImagePrompt: "Street-legal golf cart driving on a residential Chesapeake Virginia street, DOT approved features visible including headlights mirrors and turn signals, driver with seatbelt, neighborhood setting, legal road use demonstration",
-    heroImageAlt: "Street-legal golf cart in Chesapeake Virginia with DOT approved features including headlights mirrors and seatbelts for legal road use",
-    keywords: "street legal golf carts Chesapeake VA, LSV golf carts Virginia, NEV carts Chesapeake, DOT approved golf carts, road legal golf carts Virginia",
+    heroImagePrompt: "Street-legal golf cart driving on a residential Rhode Island Virginia street, DOT approved features visible including headlights mirrors and turn signals, driver with seatbelt, neighborhood setting, legal road use demonstration",
+    heroImageAlt: "Street-legal golf cart in Rhode Island Virginia with DOT approved features including headlights mirrors and seatbelts for legal road use",
+    keywords: "street legal golf carts Rhode Island VA, LSV golf carts Virginia, NEV carts Rhode Island, DOT approved golf carts, road legal golf carts Virginia",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/street-legal-golf-carts-chesapeake-virginia-buy-now",
     content: {
-      intro: "Want to drive your golf cart on Chesapeake streets legally? Our street-legal golf carts meet all Virginia DOT requirements and federal LSV (Low-Speed Vehicle) standards. With proper equipment including headlights, turn signals, mirrors, and seatbelts, you can legally operate on roads with speed limits of 35 mph or less throughout Chesapeake and Rhode Island.",
+      intro: "Want to drive your golf cart on Rhode Island streets legally? Our street-legal golf carts meet all Virginia DOT requirements and federal LSV (Low-Speed Vehicle) standards. With proper equipment including headlights, turn signals, mirrors, and seatbelts, you can legally operate on roads with speed limits of 35 mph or less throughout Rhode Island and Rhode Island.",
       sections: [
         {
           h2: "Understanding Street-Legal Requirements",
@@ -707,7 +707,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Benefits of Street-Legal Carts",
-          content: "Street-legal golf carts provide practical transportation for short trips around your Chesapeake neighborhood, to the store, or to local restaurants without using your car.",
+          content: "Street-legal golf carts provide practical transportation for short trips around your Rhode Island neighborhood, to the store, or to local restaurants without using your car.",
           subsections: [
             {
               h3: "Save on Fuel and Parking",
@@ -737,7 +737,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Zero Emissions Transportation",
-                  content: "Electric golf carts produce no direct emissions, helping keep Chesapeake's air clean.",
+                  content: "Electric golf carts produce no direct emissions, helping keep Rhode Island's air clean.",
                   points: [
                     {
                       h5: "Sustainable Living Choice",
@@ -745,7 +745,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Solar Charging Compatible",
-                          content: "Pair with home solar panels for truly carbon-neutral transportation around Chesapeake."
+                          content: "Pair with home solar panels for truly carbon-neutral transportation around Rhode Island."
                         }
                       ]
                     }
@@ -773,7 +773,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Immediate Road Ready",
-                          content: "Drive your new DENAGO off our lot and onto Chesapeake streets the same day."
+                          content: "Drive your new DENAGO off our lot and onto Rhode Island streets the same day."
                         }
                       ]
                     }
@@ -795,7 +795,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Enhanced Braking Systems",
-                          content: "Premium brake systems ensure safe stopping power on Chesapeake roads."
+                          content: "Premium brake systems ensure safe stopping power on Rhode Island roads."
                         }
                       ]
                     }
@@ -819,18 +819,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 6,
     slug: "top-rated-golf-carts-chesapeake-va-local-prices",
-    seoTitle: "Top-Rated Golf Carts in Chesapeake VA | Local Prices and Availability",
-    metaDescription: "Shop top-rated golf carts in Chesapeake VA with the best local prices. Customer-reviewed DENAGO and EVOLUTION models with immediate availability. 5-star rated dealership!",
-    h1: "Top-Rated Golf Carts in Chesapeake VA | Local Prices and Availability",
+    seoTitle: "Top-Rated Golf Carts in Rhode Island VA | Local Prices and Availability",
+    metaDescription: "Shop top-rated golf carts in Rhode Island VA with the best local prices. Customer-reviewed DENAGO and EVOLUTION models with immediate availability. 5-star rated dealership!",
+    h1: "Top-Rated Golf Carts in Rhode Island VA | Local Prices and Availability",
     publishDate: "2025-11-10",
-    excerpt: "Chesapeake's top-rated golf cart dealership offers the best prices on highly reviewed DENAGO and EVOLUTION models. See why our customers rate us 5 stars!",
+    excerpt: "Rhode Island's top-rated golf cart dealership offers the best prices on highly reviewed DENAGO and EVOLUTION models. See why our customers rate us 5 stars!",
     heroImage: "/attached_assets/generated_images/five-star_rated_dealership.png",
-    heroImagePrompt: "Five-star rated golf cart dealership in Chesapeake Virginia with happy customers giving thumbs up, gold stars floating above scene, premium golf carts on display, professional staff helping customers, review ratings visible",
-    heroImageAlt: "Top-rated 5-star golf cart dealership in Chesapeake VA with customer reviews and best local prices on DENAGO and EVOLUTION carts",
-    keywords: "top rated golf carts Chesapeake VA, best golf cart prices, customer reviewed golf carts, 5-star golf cart dealer, Chesapeake golf cart availability",
+    heroImagePrompt: "Five-star rated golf cart dealership in Rhode Island Virginia with happy customers giving thumbs up, gold stars floating above scene, premium golf carts on display, professional staff helping customers, review ratings visible",
+    heroImageAlt: "Top-rated 5-star golf cart dealership in Rhode Island VA with customer reviews and best local prices on DENAGO and EVOLUTION carts",
+    keywords: "top rated golf carts Rhode Island VA, best golf cart prices, customer reviewed golf carts, 5-star golf cart dealer, Rhode Island golf cart availability",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/top-rated-golf-carts-chesapeake-va-local-prices",
     content: {
-      intro: "When Chesapeake residents shop for golf carts, they choose Rhode Island Golf Carts for our top-rated selection and exceptional customer service. Our 5-star reviews speak to our commitment to quality products, fair pricing, and outstanding support. Discover why we're Rhode Island' most trusted golf cart dealership.",
+      intro: "When Rhode Island residents shop for golf carts, they choose Rhode Island Golf Carts for our top-rated selection and exceptional customer service. Our 5-star reviews speak to our commitment to quality products, fair pricing, and outstanding support. Discover why we're Rhode Island' most trusted golf cart dealership.",
       sections: [
         {
           h2: "Why Customers Rate Us 5 Stars",
@@ -896,7 +896,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Reliability Ratings",
-                      content: "Industry-leading reliability scores make the Rover a top choice for Chesapeake families.",
+                      content: "Industry-leading reliability scores make the Rover a top choice for Rhode Island families.",
                       subpoints: [
                         {
                           h6: "Owner Satisfaction",
@@ -934,11 +934,11 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Competitive Local Pricing",
-          content: "Our Chesapeake-based operation allows us to offer competitive pricing without the overhead of larger metropolitan dealers. Get more cart for your money when you shop local.",
+          content: "Our Rhode Island-based operation allows us to offer competitive pricing without the overhead of larger metropolitan dealers. Get more cart for your money when you shop local.",
           subsections: [
             {
               h3: "Volume Purchasing Power",
-              content: "As an authorized dealer, we leverage our buying power to pass savings directly to Chesapeake customers.",
+              content: "As an authorized dealer, we leverage our buying power to pass savings directly to Rhode Island customers.",
               details: [
                 {
                   h4: "Direct Factory Relationships",
@@ -961,7 +961,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Join thousands of satisfied Chesapeake customers who've chosen Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to experience our top-rated service."
+      conclusion: "Join thousands of satisfied Rhode Island customers who've chosen Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to experience our top-rated service."
     },
     internalLinks: [
       { text: "See Our Inventory", url: "/inventory" },
@@ -974,18 +974,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 7,
     slug: "affordable-golf-carts-chesapeake-virginia-best-deals",
-    seoTitle: "Affordable Golf Carts Chesapeake Virginia | Shop the Best Deals",
-    metaDescription: "Find affordable golf carts in Chesapeake Virginia without sacrificing quality. Budget-friendly new and used options with financing. Best deals in Rhode Island!",
-    h1: "Affordable Golf Carts Chesapeake Virginia | Shop the Best Deals",
+    seoTitle: "Affordable Golf Carts Rhode Island Virginia | Shop the Best Deals",
+    metaDescription: "Find affordable golf carts in Rhode Island Virginia without sacrificing quality. Budget-friendly new and used options with financing. Best deals in Rhode Island!",
+    h1: "Affordable Golf Carts Rhode Island Virginia | Shop the Best Deals",
     publishDate: "2025-11-09",
     excerpt: "Golf cart ownership is affordable at Rhode Island Golf Carts. Explore budget-friendly options, flexible financing, and the best deals on quality electric carts in Rhode Island.",
     heroImage: "/attached_assets/generated_images/affordable_golf_cart_options.png",
-    heroImagePrompt: "Affordable golf cart with price tag showing great value in Chesapeake Virginia dealership, family looking at budget-friendly options, financing approval sign visible, welcoming showroom atmosphere",
-    heroImageAlt: "Affordable golf carts in Chesapeake Virginia with best deals and budget-friendly financing options for Rhode Island families",
-    keywords: "affordable golf carts Chesapeake VA, budget golf carts Virginia, cheap golf carts Rhode Island, golf cart deals, financing golf carts Chesapeake",
+    heroImagePrompt: "Affordable golf cart with price tag showing great value in Rhode Island Virginia dealership, family looking at budget-friendly options, financing approval sign visible, welcoming showroom atmosphere",
+    heroImageAlt: "Affordable golf carts in Rhode Island Virginia with best deals and budget-friendly financing options for Rhode Island families",
+    keywords: "affordable golf carts Rhode Island VA, budget golf carts Virginia, cheap golf carts Rhode Island, golf cart deals, financing golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/affordable-golf-carts-chesapeake-virginia-best-deals",
     content: {
-      intro: "You don't need a huge budget to own a quality golf cart in Chesapeake, Virginia. At Rhode Island Golf Carts, we offer affordable options for every budget, from value-priced pre-owned carts to competitively priced new models with flexible financing. Discover how easy it is to own your own golf cart.",
+      intro: "You don't need a huge budget to own a quality golf cart in Rhode Island, Virginia. At Rhode Island Golf Carts, we offer affordable options for every budget, from value-priced pre-owned carts to competitively priced new models with flexible financing. Discover how easy it is to own your own golf cart.",
       sections: [
         {
           h2: "Budget-Friendly Golf Cart Options",
@@ -1105,7 +1105,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Limited-Time Offers",
-                          content: "Act fast on limited-time deals that offer the best value in Chesapeake."
+                          content: "Act fast on limited-time deals that offer the best value in Rhode Island."
                         }
                       ]
                     }
@@ -1129,18 +1129,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 8,
     slug: "chesapeake-va-golf-cart-buyers-guide",
-    seoTitle: "Chesapeake VA Golf Cart Buyers Guide | What Local Shoppers Need to Know",
-    metaDescription: "Complete golf cart buying guide for Chesapeake VA shoppers. Learn about features, pricing, street-legal requirements, and local regulations. Expert tips from Rhode Island Golf Carts!",
-    h1: "Chesapeake VA Golf Cart Buyers Guide | What Local Shoppers Need to Know",
+    seoTitle: "Rhode Island VA Golf Cart Buyers Guide | What Local Shoppers Need to Know",
+    metaDescription: "Complete golf cart buying guide for Rhode Island VA shoppers. Learn about features, pricing, street-legal requirements, and local regulations. Expert tips from Rhode Island Golf Carts!",
+    h1: "Rhode Island VA Golf Cart Buyers Guide | What Local Shoppers Need to Know",
     publishDate: "2025-11-08",
-    excerpt: "Everything Chesapeake shoppers need to know before buying a golf cart. Our comprehensive guide covers features, pricing, regulations, and tips for making the best choice.",
+    excerpt: "Everything Rhode Island shoppers need to know before buying a golf cart. Our comprehensive guide covers features, pricing, regulations, and tips for making the best choice.",
     heroImage: "/attached_assets/generated_images/golf_cart_buyer's_guide.png",
-    heroImagePrompt: "Person reading a golf cart buyer's guide brochure at Chesapeake Virginia dealership, checklist visible, staff member answering questions, educational setting, informative atmosphere",
-    heroImageAlt: "Chesapeake VA golf cart buyer's guide with expert tips and information for local shoppers at Rhode Island Golf Carts dealership",
-    keywords: "golf cart buying guide Chesapeake VA, how to buy golf cart Virginia, golf cart tips, choosing golf cart, Chesapeake golf cart regulations",
+    heroImagePrompt: "Person reading a golf cart buyer's guide brochure at Rhode Island Virginia dealership, checklist visible, staff member answering questions, educational setting, informative atmosphere",
+    heroImageAlt: "Rhode Island VA golf cart buyer's guide with expert tips and information for local shoppers at Rhode Island Golf Carts dealership",
+    keywords: "golf cart buying guide Rhode Island VA, how to buy golf cart Virginia, golf cart tips, choosing golf cart, Rhode Island golf cart regulations",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-va-golf-cart-buyers-guide",
     content: {
-      intro: "Buying a golf cart is an exciting decision, and we want to help you make the best choice for your needs. This comprehensive guide covers everything Chesapeake residents need to know about purchasing a golf cart, from understanding features and pricing to navigating local regulations.",
+      intro: "Buying a golf cart is an exciting decision, and we want to help you make the best choice for your needs. This comprehensive guide covers everything Rhode Island residents need to know about purchasing a golf cart, from understanding features and pricing to navigating local regulations.",
       sections: [
         {
           h2: "Understanding Golf Cart Types",
@@ -1178,7 +1178,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Growth Planning",
-                      content: "Consider future needs when selecting seating capacity for your Chesapeake home.",
+                      content: "Consider future needs when selecting seating capacity for your Rhode Island home.",
                       subpoints: [
                         {
                           h6: "Resale Value",
@@ -1198,7 +1198,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Street-Legal Requirements",
-              content: "If you plan to drive on Chesapeake streets, ensure your cart includes all required DOT safety equipment.",
+              content: "If you plan to drive on Rhode Island streets, ensure your cart includes all required DOT safety equipment.",
               details: [
                 {
                   h4: "LSV Equipment Checklist",
@@ -1224,7 +1224,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Must-Have Amenities",
-                  content: "Prioritize features that enhance your daily driving experience in Chesapeake neighborhoods.",
+                  content: "Prioritize features that enhance your daily driving experience in Rhode Island neighborhoods.",
                   points: [
                     {
                       h5: "Climate Considerations",
@@ -1243,20 +1243,20 @@ export const blogPosts: BlogPost[] = [
           ]
         },
         {
-          h2: "Chesapeake Golf Cart Regulations",
-          content: "Understanding local regulations ensures you can legally and safely operate your golf cart in Chesapeake and Rhode Island.",
+          h2: "Rhode Island Golf Cart Regulations",
+          content: "Understanding local regulations ensures you can legally and safely operate your golf cart in Rhode Island and Rhode Island.",
           subsections: [
             {
               h3: "Where You Can Drive",
               content: "Street-legal carts can operate on roads with speed limits of 35 mph or less in Virginia.",
               details: [
                 {
-                  h4: "Chesapeake Street Access",
-                  content: "Many Chesapeake residential streets qualify for golf cart use under Virginia law.",
+                  h4: "Rhode Island Street Access",
+                  content: "Many Rhode Island residential streets qualify for golf cart use under Virginia law.",
                   points: [
                     {
                       h5: "Neighborhood Routes",
-                      content: "Plan routes that stay on qualifying roads throughout your Chesapeake community.",
+                      content: "Plan routes that stay on qualifying roads throughout your Rhode Island community.",
                       subpoints: [
                         {
                           h6: "Crossing Major Roads",
@@ -1306,15 +1306,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 9,
     slug: "premium-golf-carts-chesapeake-va-new-models",
-    seoTitle: "Premium Golf Carts Chesapeake VA | New Models In Stock",
-    metaDescription: "Shop premium golf carts in Chesapeake VA. Luxury DENAGO and EVOLUTION models with advanced features now in stock. Experience the best in electric golf cart technology!",
-    h1: "Premium Golf Carts Chesapeake VA | New Models In Stock",
+    seoTitle: "Premium Golf Carts Rhode Island VA | New Models In Stock",
+    metaDescription: "Shop premium golf carts in Rhode Island VA. Luxury DENAGO and EVOLUTION models with advanced features now in stock. Experience the best in electric golf cart technology!",
+    h1: "Premium Golf Carts Rhode Island VA | New Models In Stock",
     publishDate: "2025-11-07",
-    excerpt: "Experience luxury golf cart ownership with our premium DENAGO and EVOLUTION models. Advanced features, superior comfort, and cutting-edge technology now available in Chesapeake.",
+    excerpt: "Experience luxury golf cart ownership with our premium DENAGO and EVOLUTION models. Advanced features, superior comfort, and cutting-edge technology now available in Rhode Island.",
     heroImage: "/attached_assets/generated_images/premium_luxury_golf_cart.png",
-    heroImagePrompt: "Luxury premium golf cart in showroom spotlight in Chesapeake Virginia, leather seats visible, chrome accents, high-end finish, VIP presentation, elegant showroom setting",
-    heroImageAlt: "Premium luxury golf carts in Chesapeake VA showroom featuring new DENAGO and EVOLUTION models with advanced features",
-    keywords: "premium golf carts Chesapeake VA, luxury golf carts Virginia, high-end golf carts, DENAGO premium, EVOLUTION luxury, Rhode Island golf carts",
+    heroImagePrompt: "Luxury premium golf cart in showroom spotlight in Rhode Island Virginia, leather seats visible, chrome accents, high-end finish, VIP presentation, elegant showroom setting",
+    heroImageAlt: "Premium luxury golf carts in Rhode Island VA showroom featuring new DENAGO and EVOLUTION models with advanced features",
+    keywords: "premium golf carts Rhode Island VA, luxury golf carts Virginia, high-end golf carts, DENAGO premium, EVOLUTION luxury, Rhode Island golf carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/premium-golf-carts-chesapeake-va-new-models",
     content: {
       intro: "For discerning buyers who demand the best, Rhode Island Golf Carts offers a curated selection of premium golf carts featuring the finest materials, advanced technology, and exceptional performance. Our luxury DENAGO and EVOLUTION models represent the pinnacle of electric golf cart design.",
@@ -1405,7 +1405,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Premium Suspension System",
-                      content: "Enhanced suspension provides a smooth ride across Chesapeake's varied terrain.",
+                      content: "Enhanced suspension provides a smooth ride across Rhode Island's varied terrain.",
                       subpoints: [
                         {
                           h6: "Adjustable Comfort Settings",
@@ -1483,15 +1483,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 10,
     slug: "chesapeake-virginia-golf-cart-sales-trusted-dealer",
-    seoTitle: "Chesapeake Virginia Golf Cart Sales | Trusted Local Dealer",
-    metaDescription: "Chesapeake Virginia's trusted golf cart dealer since our founding. Expert sales, service, and support from your neighbors. Visit our George Washington Memorial Hwy showroom today!",
-    h1: "Chesapeake Virginia Golf Cart Sales | Trusted Local Dealer",
+    seoTitle: "Rhode Island Virginia Golf Cart Sales | Trusted Local Dealer",
+    metaDescription: "Rhode Island Virginia's trusted golf cart dealer since our founding. Expert sales, service, and support from your neighbors. Visit our George Washington Memorial Hwy showroom today!",
+    h1: "Rhode Island Virginia Golf Cart Sales | Trusted Local Dealer",
     publishDate: "2025-11-06",
-    excerpt: "Trust Chesapeake's established golf cart dealer for your next purchase. As a local family business, we're committed to serving our Rhode Island neighbors with integrity.",
+    excerpt: "Trust Rhode Island's established golf cart dealer for your next purchase. As a local family business, we're committed to serving our Rhode Island neighbors with integrity.",
     heroImage: "/attached_assets/generated_images/family_golf_cart_dealership.png",
-    heroImagePrompt: "Trusted family-owned golf cart dealership in Chesapeake Virginia with staff and owner shaking hands with customers, community awards visible, professional but welcoming atmosphere, established business appearance",
-    heroImageAlt: "Trusted local golf cart dealer in Chesapeake Virginia with professional staff and community commitment at George Washington Memorial Hwy showroom",
-    keywords: "trusted golf cart dealer Chesapeake VA, reliable golf cart sales Virginia, local golf cart business, Chesapeake dealership, Rhode Island golf cart dealer",
+    heroImagePrompt: "Trusted family-owned golf cart dealership in Rhode Island Virginia with staff and owner shaking hands with customers, community awards visible, professional but welcoming atmosphere, established business appearance",
+    heroImageAlt: "Trusted local golf cart dealer in Rhode Island Virginia with professional staff and community commitment at George Washington Memorial Hwy showroom",
+    keywords: "trusted golf cart dealer Rhode Island VA, reliable golf cart sales Virginia, local golf cart business, Rhode Island dealership, Rhode Island golf cart dealer",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-virginia-golf-cart-sales-trusted-dealer",
     content: {
       intro: "When you buy a golf cart, you're not just making a purchase—you're starting a relationship with a dealer who will support you for years to come. At Rhode Island Golf Carts, we've built our reputation on trust, integrity, and genuine care for our Rhode Island community.",
@@ -1502,7 +1502,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Local Accountability",
-              content: "As a Chesapeake business, we're accountable to our neighbors. Our reputation in the community depends on treating every customer right.",
+              content: "As a Rhode Island business, we're accountable to our neighbors. Our reputation in the community depends on treating every customer right.",
               details: [
                 {
                   h4: "Community Investment",
@@ -1514,7 +1514,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Generational Customers",
-                          content: "We're proud to serve multiple generations of Chesapeake families."
+                          content: "We're proud to serve multiple generations of Rhode Island families."
                         }
                       ]
                     }
@@ -1598,7 +1598,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Serving All of Rhode Island",
-          content: "From Chesapeake to Virginia Beach, Norfolk to Suffolk, we serve customers throughout the Rhode Island region with the same level of care and commitment.",
+          content: "From Rhode Island to Rhode Island, Norfolk to Suffolk, we serve customers throughout the Rhode Island region with the same level of care and commitment.",
           subsections: [
             {
               h3: "Regional Delivery Coverage",
@@ -1638,15 +1638,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 11,
     slug: "lifted-golf-carts-for-sale-chesapeake-va",
-    seoTitle: "Lifted Golf Carts for Sale in Chesapeake VA | Local Upgrades Available",
-    metaDescription: "Shop lifted golf carts in Chesapeake VA. Higher ground clearance, larger tires, and enhanced suspension. Factory and custom lift kits available. Test drive today!",
-    h1: "Lifted Golf Carts for Sale in Chesapeake VA | Local Upgrades Available",
+    seoTitle: "Lifted Golf Carts for Sale in Rhode Island VA | Local Upgrades Available",
+    metaDescription: "Shop lifted golf carts in Rhode Island VA. Higher ground clearance, larger tires, and enhanced suspension. Factory and custom lift kits available. Test drive today!",
+    h1: "Lifted Golf Carts for Sale in Rhode Island VA | Local Upgrades Available",
     publishDate: "2025-11-05",
-    excerpt: "Take your golf cart to new heights with lifted models from Rhode Island Golf Carts. Enhanced ground clearance, aggressive styling, and off-road capability for Chesapeake terrain.",
+    excerpt: "Take your golf cart to new heights with lifted models from Rhode Island Golf Carts. Enhanced ground clearance, aggressive styling, and off-road capability for Rhode Island terrain.",
     heroImage: "/attached_assets/generated_images/lifted_golf_cart_terrain.png",
-    heroImagePrompt: "Lifted golf cart with oversized tires and suspension lift kit on rugged Chesapeake Virginia terrain, aggressive stance, outdoor setting, pine trees in background, adventure-ready appearance",
-    heroImageAlt: "Lifted golf cart for sale in Chesapeake VA with enhanced ground clearance, large tires, and custom suspension upgrades",
-    keywords: "lifted golf carts Chesapeake VA, golf cart lift kit Virginia, raised golf carts, off-road golf carts, custom lifted carts Rhode Island",
+    heroImagePrompt: "Lifted golf cart with oversized tires and suspension lift kit on rugged Rhode Island Virginia terrain, aggressive stance, outdoor setting, pine trees in background, adventure-ready appearance",
+    heroImageAlt: "Lifted golf cart for sale in Rhode Island VA with enhanced ground clearance, large tires, and custom suspension upgrades",
+    keywords: "lifted golf carts Rhode Island VA, golf cart lift kit Virginia, raised golf carts, off-road golf carts, custom lifted carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/lifted-golf-carts-for-sale-chesapeake-va",
     content: {
       intro: "Lifted golf carts combine aggressive styling with practical benefits like improved ground clearance and off-road capability. At Rhode Island Golf Carts, we offer factory-lifted models and can install professional lift kits on existing carts to give you the elevated ride you're looking for.",
@@ -1683,7 +1683,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Head-Turning Presence",
-                  content: "A lifted golf cart stands out in any Chesapeake neighborhood with its commanding stance.",
+                  content: "A lifted golf cart stands out in any Rhode Island neighborhood with its commanding stance.",
                   points: [
                     {
                       h5: "Custom Wheel Packages",
@@ -1815,15 +1815,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 12,
     slug: "custom-golf-carts-chesapeake-va-build-your-way",
-    seoTitle: "Custom Golf Carts Chesapeake VA | Build Your Cart Your Way",
-    metaDescription: "Create your dream golf cart at Rhode Island Golf Carts. Custom colors, accessories, lift kits, sound systems, and more. Design your perfect cart in Chesapeake VA!",
-    h1: "Custom Golf Carts Chesapeake VA | Build Your Cart Your Way",
+    seoTitle: "Custom Golf Carts Rhode Island VA | Build Your Cart Your Way",
+    metaDescription: "Create your dream golf cart at Rhode Island Golf Carts. Custom colors, accessories, lift kits, sound systems, and more. Design your perfect cart in Rhode Island VA!",
+    h1: "Custom Golf Carts Rhode Island VA | Build Your Cart Your Way",
     publishDate: "2025-11-04",
     excerpt: "Your vision, your cart. Rhode Island Golf Carts offers complete customization services to build the golf cart of your dreams. Choose your colors, features, and accessories.",
     heroImage: "/attached_assets/generated_images/custom_golf_cart_design.png",
-    heroImagePrompt: "Custom designed golf cart with unique color scheme and personalized accessories in Chesapeake Virginia showroom, designer elements visible, premium customization, customer reviewing design options on tablet",
-    heroImageAlt: "Custom golf cart in Chesapeake VA showroom with personalized colors, accessories, and custom build options",
-    keywords: "custom golf carts Chesapeake VA, personalized golf carts, build your own golf cart, custom accessories, golf cart customization Virginia",
+    heroImagePrompt: "Custom designed golf cart with unique color scheme and personalized accessories in Rhode Island Virginia showroom, designer elements visible, premium customization, customer reviewing design options on tablet",
+    heroImageAlt: "Custom golf cart in Rhode Island VA showroom with personalized colors, accessories, and custom build options",
+    keywords: "custom golf carts Rhode Island VA, personalized golf carts, build your own golf cart, custom accessories, golf cart customization Virginia",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/custom-golf-carts-chesapeake-va-build-your-way",
     content: {
       intro: "Why settle for ordinary when you can have extraordinary? At Rhode Island Golf Carts, we offer comprehensive customization services that let you create a one-of-a-kind golf cart. From custom paint to premium audio systems, from lift kits to luxury seating, we'll help you build the cart of your dreams.",
@@ -1868,7 +1868,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Torque Improvements",
-                          content: "Enhanced torque for better hill climbing and acceleration around Chesapeake."
+                          content: "Enhanced torque for better hill climbing and acceleration around Rhode Island."
                         }
                       ]
                     }
@@ -1934,7 +1934,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Weather Protection",
-              content: "Enclosures, roofs, and windshields keep you comfortable in any Chesapeake weather.",
+              content: "Enclosures, roofs, and windshields keep you comfortable in any Rhode Island weather.",
               details: [
                 {
                   h4: "Full Enclosure Systems",
@@ -1992,18 +1992,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 13,
     slug: "family-friendly-golf-carts-chesapeake-virginia",
-    seoTitle: "Family-Friendly Golf Carts Chesapeake Virginia | Safe and Reliable",
-    metaDescription: "Shop family-friendly golf carts in Chesapeake Virginia. Safe, reliable 4-6 passenger models with safety features. Perfect for neighborhoods and community use. Visit today!",
-    h1: "Family-Friendly Golf Carts Chesapeake Virginia | Safe and Reliable",
+    seoTitle: "Family-Friendly Golf Carts Rhode Island Virginia | Safe and Reliable",
+    metaDescription: "Shop family-friendly golf carts in Rhode Island Virginia. Safe, reliable 4-6 passenger models with safety features. Perfect for neighborhoods and community use. Visit today!",
+    h1: "Family-Friendly Golf Carts Rhode Island Virginia | Safe and Reliable",
     publishDate: "2025-11-03",
     excerpt: "Transport your family safely and comfortably with family-friendly golf carts from Rhode Island Golf Carts. 4-6 passenger models with enhanced safety features for peace of mind.",
     heroImage: "/attached_assets/generated_images/family_riding_golf_cart.png",
-    heroImagePrompt: "Happy family with parents and children riding in a 6-passenger golf cart through Chesapeake Virginia neighborhood, seatbelts visible, safe operation, suburban community setting, sunny day",
-    heroImageAlt: "Family-friendly 6-passenger golf cart in Chesapeake Virginia neighborhood with safety features and comfortable seating for families",
-    keywords: "family golf carts Chesapeake VA, safe golf carts Virginia, 6-passenger golf carts, kids safe golf carts, family transportation Chesapeake",
+    heroImagePrompt: "Happy family with parents and children riding in a 6-passenger golf cart through Rhode Island Virginia neighborhood, seatbelts visible, safe operation, suburban community setting, sunny day",
+    heroImageAlt: "Family-friendly 6-passenger golf cart in Rhode Island Virginia neighborhood with safety features and comfortable seating for families",
+    keywords: "family golf carts Rhode Island VA, safe golf carts Virginia, 6-passenger golf carts, kids safe golf carts, family transportation Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/family-friendly-golf-carts-chesapeake-virginia",
     content: {
-      intro: "Golf carts are perfect for family transportation in Chesapeake neighborhoods, and safety is our top priority. At Rhode Island Golf Carts, we offer family-friendly models designed with enhanced safety features, comfortable multi-passenger seating, and reliable performance that parents can trust.",
+      intro: "Golf carts are perfect for family transportation in Rhode Island neighborhoods, and safety is our top priority. At Rhode Island Golf Carts, we offer family-friendly models designed with enhanced safety features, comfortable multi-passenger seating, and reliable performance that parents can trust.",
       sections: [
         {
           h2: "Safety Features for Families",
@@ -2073,7 +2073,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Easy Parking",
-                          content: "Smaller footprint makes parking and storage in your Chesapeake garage easier."
+                          content: "Smaller footprint makes parking and storage in your Rhode Island garage easier."
                         }
                       ]
                     }
@@ -2107,7 +2107,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Neighborhood and Community Use",
-          content: "Our family carts are ideal for trips to the pool, visiting neighbors, community events, and exploring your Chesapeake neighborhood safely.",
+          content: "Our family carts are ideal for trips to the pool, visiting neighbors, community events, and exploring your Rhode Island neighborhood safely.",
           subsections: [
             {
               h3: "Community Amenity Access",
@@ -2147,22 +2147,22 @@ export const blogPosts: BlogPost[] = [
   {
     id: 14,
     slug: "chesapeake-va-neighborhood-golf-carts",
-    seoTitle: "Chesapeake VA Neighborhood Golf Carts | Shop Local Options",
-    metaDescription: "Find the perfect neighborhood golf cart for Chesapeake VA communities. Quiet, eco-friendly carts ideal for Great Bridge, Greenbrier, Western Branch, and all Chesapeake areas!",
-    h1: "Chesapeake VA Neighborhood Golf Carts | Shop Local Options",
+    seoTitle: "Rhode Island VA Neighborhood Golf Carts | Shop Local Options",
+    metaDescription: "Find the perfect neighborhood golf cart for Rhode Island VA communities. Quiet, eco-friendly carts ideal for Great Bridge, Greenbrier, Western Branch, and all Rhode Island areas!",
+    h1: "Rhode Island VA Neighborhood Golf Carts | Shop Local Options",
     publishDate: "2025-11-02",
-    excerpt: "Navigate your Chesapeake neighborhood in style with a quiet, eco-friendly golf cart. Perfect for Great Bridge, Greenbrier, Western Branch, and communities throughout the city.",
+    excerpt: "Navigate your Rhode Island neighborhood in style with a quiet, eco-friendly golf cart. Perfect for Great Bridge, Greenbrier, Western Branch, and communities throughout the city.",
     heroImage: "/attached_assets/generated_images/golf_cart_suburban_home.png",
-    heroImagePrompt: "Electric golf cart parked in front of beautiful Chesapeake Virginia suburban home, well-manicured lawn, friendly neighborhood street, trees and landscaping, peaceful community atmosphere",
-    heroImageAlt: "Neighborhood golf cart in Chesapeake VA community suitable for Great Bridge, Greenbrier, and Western Branch residential areas",
-    keywords: "neighborhood golf carts Chesapeake VA, community golf carts Virginia, Great Bridge golf carts, Greenbrier golf carts, residential golf carts",
+    heroImagePrompt: "Electric golf cart parked in front of beautiful Rhode Island Virginia suburban home, well-manicured lawn, friendly neighborhood street, trees and landscaping, peaceful community atmosphere",
+    heroImageAlt: "Neighborhood golf cart in Rhode Island VA community suitable for Great Bridge, Greenbrier, and Western Branch residential areas",
+    keywords: "neighborhood golf carts Rhode Island VA, community golf carts Virginia, Great Bridge golf carts, Greenbrier golf carts, residential golf carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-va-neighborhood-golf-carts",
     content: {
-      intro: "Chesapeake's beautiful neighborhoods are perfect for golf cart living. From the established communities of Great Bridge to the family-friendly streets of Greenbrier and Western Branch, a golf cart provides convenient, eco-friendly transportation that fits the relaxed lifestyle of our city.",
+      intro: "Rhode Island's beautiful neighborhoods are perfect for golf cart living. From the established communities of Great Bridge to the family-friendly streets of Greenbrier and Western Branch, a golf cart provides convenient, eco-friendly transportation that fits the relaxed lifestyle of our city.",
       sections: [
         {
-          h2: "Golf Carts for Chesapeake Communities",
-          content: "Different Chesapeake neighborhoods have different needs, and we help you find the perfect cart for your specific community.",
+          h2: "Golf Carts for Rhode Island Communities",
+          content: "Different Rhode Island neighborhoods have different needs, and we help you find the perfect cart for your specific community.",
           subsections: [
             {
               h3: "Great Bridge Area",
@@ -2260,7 +2260,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Environmental Benefits",
-              content: "Electric carts produce zero emissions, helping keep Chesapeake's air clean and neighborhoods quiet.",
+              content: "Electric carts produce zero emissions, helping keep Rhode Island's air clean and neighborhoods quiet.",
               details: [
                 {
                   h4: "Zero Local Emissions",
@@ -2283,16 +2283,16 @@ export const blogPosts: BlogPost[] = [
           ]
         },
         {
-          h2: "Serving All Chesapeake Neighborhoods",
-          content: "From Deep Creek to South Norfolk, Hickory to Indian River, we deliver golf carts to every corner of Chesapeake.",
+          h2: "Serving All Rhode Island Neighborhoods",
+          content: "From Deep Creek to South Norfolk, Hickory to Indian River, we deliver golf carts to every corner of Rhode Island.",
           subsections: [
             {
-              h3: "Complete Chesapeake Coverage",
-              content: "No matter where you live in Chesapeake, we can deliver and service your golf cart.",
+              h3: "Complete Rhode Island Coverage",
+              content: "No matter where you live in Rhode Island, we can deliver and service your golf cart.",
               details: [
                 {
                   h4: "Free Delivery Available",
-                  content: "We offer complimentary delivery throughout Chesapeake city limits.",
+                  content: "We offer complimentary delivery throughout Rhode Island city limits.",
                   points: [
                     {
                       h5: "White Glove Service",
@@ -2324,15 +2324,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 15,
     slug: "chesapeake-virginia-golf-cart-outlet-inventory",
-    seoTitle: "Chesapeake Virginia Golf Cart Outlet | New and Used Inventory",
-    metaDescription: "Shop Chesapeake Virginia's golf cart outlet for best prices on new and used inventory. Outlet pricing on DENAGO and EVOLUTION models. Limited time deals available!",
-    h1: "Chesapeake Virginia Golf Cart Outlet | New and Used Inventory",
+    seoTitle: "Rhode Island Virginia Golf Cart Outlet | New and Used Inventory",
+    metaDescription: "Shop Rhode Island Virginia's golf cart outlet for best prices on new and used inventory. Outlet pricing on DENAGO and EVOLUTION models. Limited time deals available!",
+    h1: "Rhode Island Virginia Golf Cart Outlet | New and Used Inventory",
     publishDate: "2025-11-01",
     excerpt: "Get outlet pricing on quality golf carts at Rhode Island Golf Carts. Special deals on new and pre-owned DENAGO and EVOLUTION models with savings you won't find elsewhere.",
     heroImage: "/attached_assets/generated_images/golf_cart_outlet_store.png",
-    heroImagePrompt: "Golf cart outlet store in Chesapeake Virginia with sale banners and discount pricing visible, multiple golf carts with price tags, outlet shopping atmosphere, customers getting great deals",
-    heroImageAlt: "Chesapeake Virginia golf cart outlet with new and used inventory featuring outlet pricing and special deals on DENAGO and EVOLUTION carts",
-    keywords: "golf cart outlet Chesapeake VA, discount golf carts Virginia, golf cart deals, outlet pricing, cheap golf carts Rhode Island",
+    heroImagePrompt: "Golf cart outlet store in Rhode Island Virginia with sale banners and discount pricing visible, multiple golf carts with price tags, outlet shopping atmosphere, customers getting great deals",
+    heroImageAlt: "Rhode Island Virginia golf cart outlet with new and used inventory featuring outlet pricing and special deals on DENAGO and EVOLUTION carts",
+    keywords: "golf cart outlet Rhode Island VA, discount golf carts Virginia, golf cart deals, outlet pricing, cheap golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-virginia-golf-cart-outlet-inventory",
     content: {
       intro: "Looking for exceptional value on quality golf carts? Rhode Island Golf Carts offers outlet-style pricing on select new and used inventory. Our volume purchasing and efficient operations allow us to pass significant savings on to our Rhode Island customers.",
@@ -2355,7 +2355,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Reduced Overhead",
-                          content: "Our efficient Chesapeake operation keeps costs low, enabling competitive outlet pricing."
+                          content: "Our efficient Rhode Island operation keeps costs low, enabling competitive outlet pricing."
                         }
                       ]
                     }
@@ -2479,15 +2479,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 16,
     slug: "high-performance-golf-carts-chesapeake-va",
-    seoTitle: "High-Performance Golf Carts Chesapeake VA | Local Test Rides",
-    metaDescription: "Experience high-performance golf carts in Chesapeake VA. Upgraded motors, enhanced speed, superior handling. Schedule your test ride at our George Washington Memorial Hwy showroom!",
-    h1: "High-Performance Golf Carts Chesapeake VA | Local Test Rides",
+    seoTitle: "High-Performance Golf Carts Rhode Island VA | Local Test Rides",
+    metaDescription: "Experience high-performance golf carts in Rhode Island VA. Upgraded motors, enhanced speed, superior handling. Schedule your test ride at our George Washington Memorial Hwy showroom!",
+    h1: "High-Performance Golf Carts Rhode Island VA | Local Test Rides",
     publishDate: "2025-10-31",
     excerpt: "Feel the power of high-performance golf carts at Rhode Island Golf Carts. Enhanced motors, improved handling, and superior acceleration for drivers who demand more.",
     heroImage: "/attached_assets/generated_images/high-performance_golf_cart.png",
-    heroImagePrompt: "High-performance golf cart in motion blur on Chesapeake Virginia test track, speed and power evident, upgraded wheels, sporty appearance, dynamic action shot",
-    heroImageAlt: "High-performance golf cart in Chesapeake VA with upgraded motor and enhanced speed capabilities available for test rides",
-    keywords: "high performance golf carts Chesapeake VA, fast golf carts Virginia, upgraded golf cart motors, speed golf carts, performance upgrades Rhode Island",
+    heroImagePrompt: "High-performance golf cart in motion blur on Rhode Island Virginia test track, speed and power evident, upgraded wheels, sporty appearance, dynamic action shot",
+    heroImageAlt: "High-performance golf cart in Rhode Island VA with upgraded motor and enhanced speed capabilities available for test rides",
+    keywords: "high performance golf carts Rhode Island VA, fast golf carts Virginia, upgraded golf cart motors, speed golf carts, performance upgrades Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/high-performance-golf-carts-chesapeake-va",
     content: {
       intro: "For golf cart enthusiasts who want more than standard performance, Rhode Island Golf Carts offers high-performance models and upgrade packages that deliver enhanced speed, acceleration, and handling. Experience the thrill of a performance cart with a test ride at our George Washington Memorial Hwy location.",
@@ -2634,15 +2634,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 17,
     slug: "chesapeake-va-golf-cart-financing-easy-approval",
-    seoTitle: "Chesapeake VA Golf Cart Financing | Easy Approval Options",
-    metaDescription: "Get easy financing approval for golf carts in Chesapeake VA. Low monthly payments, competitive rates, all credit situations welcome. Apply online or in-store today!",
-    h1: "Chesapeake VA Golf Cart Financing | Easy Approval Options",
+    seoTitle: "Rhode Island VA Golf Cart Financing | Easy Approval Options",
+    metaDescription: "Get easy financing approval for golf carts in Rhode Island VA. Low monthly payments, competitive rates, all credit situations welcome. Apply online or in-store today!",
+    h1: "Rhode Island VA Golf Cart Financing | Easy Approval Options",
     publishDate: "2025-10-30",
     excerpt: "Make golf cart ownership affordable with flexible financing from Rhode Island Golf Carts. Easy approval, low monthly payments, and options for all credit situations.",
     heroImage: "/attached_assets/generated_images/golf_cart_financing_signing.png",
-    heroImagePrompt: "Happy customer signing golf cart financing paperwork in Chesapeake Virginia dealership, friendly finance manager, approved stamp visible, celebration atmosphere, keys being handed over",
-    heroImageAlt: "Golf cart financing approval in Chesapeake VA with easy application process, low monthly payments, and customer receiving keys",
-    keywords: "golf cart financing Chesapeake VA, easy golf cart loans, golf cart payment plans, finance golf cart Virginia, low monthly payments",
+    heroImagePrompt: "Happy customer signing golf cart financing paperwork in Rhode Island Virginia dealership, friendly finance manager, approved stamp visible, celebration atmosphere, keys being handed over",
+    heroImageAlt: "Golf cart financing approval in Rhode Island VA with easy application process, low monthly payments, and customer receiving keys",
+    keywords: "golf cart financing Rhode Island VA, easy golf cart loans, golf cart payment plans, finance golf cart Virginia, low monthly payments",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-va-golf-cart-financing-easy-approval",
     content: {
       intro: "Don't let upfront costs prevent you from owning the golf cart you want. Rhode Island Golf Carts offers flexible financing options designed to make golf cart ownership accessible to every Rhode Island family. Our finance team works with multiple lenders to find approval options that work for your situation.",
@@ -2789,22 +2789,22 @@ export const blogPosts: BlogPost[] = [
   {
     id: 18,
     slug: "golf-carts-recreation-community-chesapeake-virginia",
-    seoTitle: "Golf Carts for Recreation & Community Use in Chesapeake Virginia",
-    metaDescription: "Find golf carts for recreation and community use in Chesapeake Virginia. Perfect for neighborhoods, retirement communities, campgrounds, and recreational facilities!",
-    h1: "Golf Carts for Recreation & Community Use in Chesapeake Virginia",
+    seoTitle: "Golf Carts for Recreation & Community Use in Rhode Island Virginia",
+    metaDescription: "Find golf carts for recreation and community use in Rhode Island Virginia. Perfect for neighborhoods, retirement communities, campgrounds, and recreational facilities!",
+    h1: "Golf Carts for Recreation & Community Use in Rhode Island Virginia",
     publishDate: "2025-10-29",
     excerpt: "Enhance your recreational lifestyle with golf carts from Rhode Island Golf Carts. Perfect for neighborhoods, community centers, campgrounds, and recreational facilities throughout Rhode Island.",
     heroImage: "/attached_assets/generated_images/golf_cart_community_recreation.png",
-    heroImagePrompt: "Golf cart at Chesapeake Virginia community recreation area with families enjoying outdoor activities, pool area visible, community center background, recreational setting, happy residents",
-    heroImageAlt: "Golf cart for recreation and community use in Chesapeake Virginia at neighborhood pool and community center with families",
-    keywords: "recreational golf carts Chesapeake VA, community golf carts Virginia, campground golf carts, HOA golf carts, recreation facility carts",
+    heroImagePrompt: "Golf cart at Rhode Island Virginia community recreation area with families enjoying outdoor activities, pool area visible, community center background, recreational setting, happy residents",
+    heroImageAlt: "Golf cart for recreation and community use in Rhode Island Virginia at neighborhood pool and community center with families",
+    keywords: "recreational golf carts Rhode Island VA, community golf carts Virginia, campground golf carts, HOA golf carts, recreation facility carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/golf-carts-recreation-community-chesapeake-virginia",
     content: {
-      intro: "Golf carts are no longer just for golf courses. Throughout Chesapeake and Rhode Island, communities, recreational facilities, and outdoor enthusiasts are discovering the convenience and fun of golf cart transportation. Whether for neighborhood use, community facilities, or recreational activities, we have the perfect cart for you.",
+      intro: "Golf carts are no longer just for golf courses. Throughout Rhode Island and Rhode Island, communities, recreational facilities, and outdoor enthusiasts are discovering the convenience and fun of golf cart transportation. Whether for neighborhood use, community facilities, or recreational activities, we have the perfect cart for you.",
       sections: [
         {
           h2: "Community and HOA Applications",
-          content: "Many Chesapeake communities embrace golf cart culture, with carts becoming essential for neighborhood transportation and community events.",
+          content: "Many Rhode Island communities embrace golf cart culture, with carts becoming essential for neighborhood transportation and community events.",
           subsections: [
             {
               h3: "Neighborhood Transportation",
@@ -2944,15 +2944,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 19,
     slug: "chesapeake-virginia-luxury-golf-carts-premium-models",
-    seoTitle: "Chesapeake Virginia Luxury Golf Carts | Premium Models for Sale",
-    metaDescription: "Shop luxury golf carts in Chesapeake Virginia. Premium features, upscale finishes, advanced technology. Experience first-class golf cart ownership at our showroom!",
-    h1: "Chesapeake Virginia Luxury Golf Carts | Premium Models for Sale",
+    seoTitle: "Rhode Island Virginia Luxury Golf Carts | Premium Models for Sale",
+    metaDescription: "Shop luxury golf carts in Rhode Island Virginia. Premium features, upscale finishes, advanced technology. Experience first-class golf cart ownership at our showroom!",
+    h1: "Rhode Island Virginia Luxury Golf Carts | Premium Models for Sale",
     publishDate: "2025-10-28",
     excerpt: "Indulge in luxury golf cart ownership with premium models from Rhode Island Golf Carts. First-class features, upscale materials, and sophisticated styling for discerning buyers.",
     heroImage: "/attached_assets/generated_images/luxury_champagne_golf_cart.png",
-    heroImagePrompt: "Luxury golf cart with leather seats and premium finishes in elegant Chesapeake Virginia setting, high-end residential backdrop, sophisticated design, champagne-colored cart, exclusive atmosphere",
-    heroImageAlt: "Luxury premium golf cart in Chesapeake Virginia with leather interior, upscale finishes, and sophisticated styling for sale",
-    keywords: "luxury golf carts Chesapeake VA, premium golf carts Virginia, high-end golf carts, upscale golf carts, exclusive golf carts Rhode Island",
+    heroImagePrompt: "Luxury golf cart with leather seats and premium finishes in elegant Rhode Island Virginia setting, high-end residential backdrop, sophisticated design, champagne-colored cart, exclusive atmosphere",
+    heroImageAlt: "Luxury premium golf cart in Rhode Island Virginia with leather interior, upscale finishes, and sophisticated styling for sale",
+    keywords: "luxury golf carts Rhode Island VA, premium golf carts Virginia, high-end golf carts, upscale golf carts, exclusive golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-virginia-luxury-golf-carts-premium-models",
     content: {
       intro: "For those who appreciate the finer things, Rhode Island Golf Carts offers a selection of luxury golf carts that deliver an elevated ownership experience. Premium materials, advanced technology, and meticulous attention to detail define these exceptional vehicles.",
@@ -3075,7 +3075,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Home Delivery Presentation",
-                          content: "Experience white-glove delivery with full orientation at your Chesapeake residence."
+                          content: "Experience white-glove delivery with full orientation at your Rhode Island residence."
                         }
                       ]
                     }
@@ -3099,18 +3099,18 @@ export const blogPosts: BlogPost[] = [
   {
     id: 20,
     slug: "local-chesapeake-va-golf-cart-source-shop-today",
-    seoTitle: "Your Local Chesapeake VA Golf Cart Source | Shop Today",
-    metaDescription: "Rhode Island Golf Carts is your local source for premium golf carts in Chesapeake VA. DENAGO and EVOLUTION dealer with sales, service, and rentals. Visit us today!",
-    h1: "Your Local Chesapeake VA Golf Cart Source | Shop Today",
+    seoTitle: "Your Local Rhode Island VA Golf Cart Source | Shop Today",
+    metaDescription: "Rhode Island Golf Carts is your local source for premium golf carts in Rhode Island VA. DENAGO and EVOLUTION dealer with sales, service, and rentals. Visit us today!",
+    h1: "Your Local Rhode Island VA Golf Cart Source | Shop Today",
     publishDate: "2025-10-27",
     excerpt: "Rhode Island Golf Carts is Rhode Island' premier local source for electric golf carts. Complete sales, service, and rentals from your neighbors on George Washington Memorial Hwy.",
     heroImage: "/attached_assets/generated_images/local_dealership_storefront.png",
-    heroImagePrompt: "Welcoming local golf cart dealership storefront in Chesapeake Virginia with Open sign, friendly staff waving, local business atmosphere, American flags, community-focused appearance",
-    heroImageAlt: "Local Chesapeake VA golf cart dealership storefront on George Washington Memorial Hwy with friendly staff and community-focused atmosphere",
-    keywords: "local golf cart dealer Chesapeake VA, Chesapeake golf cart source, golf carts near me, Rhode Island golf cart dealer, Virginia golf cart sales",
+    heroImagePrompt: "Welcoming local golf cart dealership storefront in Rhode Island Virginia with Open sign, friendly staff waving, local business atmosphere, American flags, community-focused appearance",
+    heroImageAlt: "Local Rhode Island VA golf cart dealership storefront on George Washington Memorial Hwy with friendly staff and community-focused atmosphere",
+    keywords: "local golf cart dealer Rhode Island VA, Rhode Island golf cart source, golf carts near me, Rhode Island golf cart dealer, Virginia golf cart sales",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/local-chesapeake-va-golf-cart-source-shop-today",
     content: {
-      intro: "When you're looking for a golf cart in Rhode Island, choose a local source you can trust. Rhode Island Golf Carts is your neighborhood dealer, offering complete sales, service, and support right here in Chesapeake. As authorized dealers for DENAGO and EVOLUTION, we provide the selection, expertise, and ongoing service you need.",
+      intro: "When you're looking for a golf cart in Rhode Island, choose a local source you can trust. Rhode Island Golf Carts is your neighborhood dealer, offering complete sales, service, and support right here in Rhode Island. As authorized dealers for DENAGO and EVOLUTION, we provide the selection, expertise, and ongoing service you need.",
       sections: [
         {
           h2: "Your Complete Local Resource",
@@ -3198,7 +3198,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Delivery and Pickup",
-                      content: "We deliver and pick up rental carts throughout Chesapeake and Rhode Island.",
+                      content: "We deliver and pick up rental carts throughout Rhode Island and Rhode Island.",
                       subpoints: [
                         {
                           h6: "Full Support Included",
@@ -3214,7 +3214,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Serving All Rhode Island",
-          content: "From our Chesapeake location, we serve Virginia Beach, Norfolk, Portsmouth, Suffolk, and surrounding communities with sales, delivery, and service.",
+          content: "From our Rhode Island location, we serve Rhode Island, Norfolk, Portsmouth, Suffolk, and surrounding communities with sales, delivery, and service.",
           subsections: [
             {
               h3: "Regional Delivery Coverage",
@@ -3222,7 +3222,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Free Local Delivery",
-                  content: "Complimentary delivery within our primary service area around Chesapeake.",
+                  content: "Complimentary delivery within our primary service area around Rhode Island.",
                   points: [
                     {
                       h5: "White Glove Setup",

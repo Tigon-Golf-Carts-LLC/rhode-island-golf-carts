@@ -7,7 +7,7 @@ export default function DiversityPolicyPage() {
       <SEOHead 
         title="Diversity Policy | Rhode Island Golf Carts"
         description="Learn about Rhode Island Golf Carts' commitment to diversity, equity, and inclusion in our Pennsylvania workplace and customer service practices."
-        keywords="diversity policy, equity inclusion, Chesapeake golf carts, workplace diversity Pennsylvania"
+        keywords="diversity policy, equity inclusion, Rhode Island golf carts, workplace diversity Pennsylvania"
       />
       
       {/* Hero Section */}

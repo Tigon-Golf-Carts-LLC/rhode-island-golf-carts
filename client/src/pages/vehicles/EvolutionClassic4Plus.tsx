@@ -13,7 +13,7 @@ export default function EvolutionClassic4Plus() {
       <SEOHead 
         title="CLASSIC 4 PLUS"
         description="Experience the EVOLUTION® CLASSIC 4 PLUS with timeless design and modern electric performance where classic styling meets contemporary technology. Call 804-792-0234."
-        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-classic-4-plus"
         ogImage="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
         ogType="product"

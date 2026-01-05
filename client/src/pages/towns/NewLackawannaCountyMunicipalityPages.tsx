@@ -32,10 +32,10 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
     return <div>Municipality not found</div>;
   }
 
-  const pageTitle = `${municipality.name} ${municipality.type} Golf Carts | Chesapeake Golf Carts`;
-  const metaDescription = `Golf cart sales, rentals & service in ${municipality.name} ${municipality.type}, Chesapeake, VA. EVOLUTION & DENAGO electric golf carts. Professional installation & maintenance.`;
+  const pageTitle = `${municipality.name} ${municipality.type} Golf Carts | Rhode Island Golf Carts`;
+  const metaDescription = `Golf cart sales, rentals & service in ${municipality.name} ${municipality.type}, Rhode Island, VA. EVOLUTION & DENAGO electric golf carts. Professional installation & maintenance.`;
 
-  // Google Maps embed URL for the specific municipality in Chesapeake
+  // Google Maps embed URL for the specific municipality in Rhode Island
   const mapsUrl = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50000!2d-75.6649!3d41.4993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z${municipality.name.replace(' ', '%20')}%2C%20Lackawanna%20County%2C%20PA!5e0!3m2!1sen!2sus!4v1753817600000`;
 
   return (
@@ -43,7 +43,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
       <SEOHead 
         title={pageTitle}
         description={metaDescription}
-        keywords={`${municipality.name} golf carts, ${municipality.name} ${municipality.type} PA, Chesapeake golf cart sales, electric golf carts ${municipality.name}`}
+        keywords={`${municipality.name} golf carts, ${municipality.name} ${municipality.type} PA, Rhode Island golf cart sales, electric golf carts ${municipality.name}`}
         canonicalUrl={`https://chesapeakegolfcarts.com${municipality.url}`}
         ogImage="https://chesapeakegolfcarts.com/assets/lackawanna-county-golf-carts-logo.png"
       />
@@ -53,14 +53,14 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
         <div className="max-w-7xl mx-auto">
           <div className="max-w-4xl mx-auto text-center">
             <Badge variant="secondary" className="mb-4 bg-theme-orange text-white">
-              Chesapeake Golf Carts
+              Rhode Island Golf Carts
             </Badge>
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
               Golf Carts in {municipality.name} {municipality.type}
             </h1>
             <p className="text-xl text-gray-100 mb-8 max-w-2xl mx-auto">
               Premium electric golf carts, professional service, and expert maintenance 
-              delivered directly to {municipality.name} {municipality.type}, Hampton Roads, Virginia.
+              delivered directly to {municipality.name} {municipality.type}, Rhode Island, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/inventory">
@@ -83,10 +83,10 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose Chesapeake Golf Carts for {municipality.name}?
+              Why Choose Rhode Island Golf Carts for {municipality.name}?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We deliver premium electric golf cart solutions throughout Chesapeake, 
+              We deliver premium electric golf cart solutions throughout Rhode Island, 
               including {municipality.name} {municipality.type}.
             </p>
           </div>
@@ -207,7 +207,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
                 Professional Service in {municipality.name} {municipality.type}
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Our team provides comprehensive golf cart services throughout Chesapeake, 
+                Our team provides comprehensive golf cart services throughout Rhode Island, 
                 including dedicated service routes to {municipality.name} {municipality.type}. 
                 From sales to maintenance, we're your trusted local partner.
               </p>
@@ -278,7 +278,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
           </h2>
           <p className="text-xl text-gray-100 mb-8">
             Contact us today for golf cart sales, rentals, and service in {municipality.name} {municipality.type}, 
-            Hampton Roads, Virginia.
+            Rhode Island, Virginia.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <Card className="bg-white text-gray-900 border-0">
@@ -315,7 +315,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
         schema={{
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
-          name: `Chesapeake Golf Carts - ${municipality.name} Service`,
+          name: `Rhode Island Golf Carts - ${municipality.name} Service`,
           description: metaDescription,
           url: `https://chesapeakegolfcarts.com${municipality.url}`,
           telephone: "804-792-0234",
@@ -330,7 +330,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
             latitude: 41.4993,
             longitude: -75.6649
           },
-          areaServed: `${municipality.name} ${municipality.type}, Hampton Roads, Virginia`
+          areaServed: `${municipality.name} ${municipality.type}, Rhode Island, Virginia`
         }}
       />
     </div>

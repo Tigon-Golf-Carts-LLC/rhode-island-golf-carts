@@ -99,8 +99,8 @@ export default function ContactPage() {
     <>
       <SEOHead 
         title="Contact Rhode Island Golf Carts"
-        description="Get expert golf cart sales, service, and support from Chesapeake's premier dealership located at 2810 George Washington Memorial Hwy, Gloucester Point, VA 23072. Call 804-792-0234."
-        keywords="contact Chesapeake golf carts, golf cart sales Virginia, Chesapeake showroom, Rhode Island golf cart service VA"
+        description="Get expert golf cart sales, service, and support from Rhode Island's premier dealership located at 2810 George Washington Memorial Hwy, Gloucester Point, VA 23072. Call 804-792-0234."
+        keywords="contact Rhode Island golf carts, golf cart sales Virginia, Rhode Island showroom, Rhode Island golf cart service VA"
         canonicalUrl="https://rhodeislandgolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
@@ -116,7 +116,7 @@ export default function ContactPage() {
               Contact Rhode Island Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Get in touch with our team for sales, service, and support throughout the City of Chesapeake, Virginia. 
+              Get in touch with our team for sales, service, and support throughout the City of Rhode Island, Virginia. 
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

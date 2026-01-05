@@ -18,9 +18,9 @@ export default function MunicipalityRentalPage({
   slug 
 }: MunicipalityRentalPageProps) {
   const fullLocationName = `${municipalityName} ${municipalityType}`;
-  const pageTitle = `Golf Cart Rentals in ${municipalityName}, VA | Chesapeake Golf Carts`;
-  const pageDescription = `Rent premium golf carts in ${municipalityName}, City of Chesapeake, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
-  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, City of Chesapeake golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${municipalityName}, VA | Rhode Island Golf Carts`;
+  const pageDescription = `Rent premium golf carts in ${municipalityName}, City of Rhode Island, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
+  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, City of Rhode Island golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -225,7 +225,7 @@ export default function MunicipalityRentalPage({
               Golf Cart Rentals in {fullLocationName}
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-              Premium golf cart rentals delivered to your door in {municipalityName}, City of Chesapeake. 
+              Premium golf cart rentals delivered to your door in {municipalityName}, City of Rhode Island. 
               Street legal, fully insured, and ready for adventure.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -252,7 +252,7 @@ export default function MunicipalityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {municipalityName} 
-                and throughout the City of Chesapeake, Virginia.
+                and throughout the City of Rhode Island, Virginia.
               </p>
             </div>
 
@@ -273,7 +273,7 @@ export default function MunicipalityRentalPage({
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Proudly serving {fullLocationName} and all of the City of Chesapeake with personalized, 
+                    Proudly serving {fullLocationName} and all of the City of Rhode Island with personalized, 
                     local customer service you can trust.
                   </p>
                 </CardContent>
@@ -333,7 +333,7 @@ export default function MunicipalityRentalPage({
                 6-Seater Golf Cart Rentals in {fullLocationName}
               </h2>
               <p className="text-lg text-gray-600">
-                Ideal for larger families and groups exploring {fullLocationName} and the City of Chesapeake together
+                Ideal for larger families and groups exploring {fullLocationName} and the City of Rhode Island together
               </p>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -369,7 +369,7 @@ export default function MunicipalityRentalPage({
                 Serving {fullLocationName} with Pride
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                As your local City of Chesapeake golf cart rental specialists, we're proud to serve the residents 
+                As your local City of Rhode Island golf cart rental specialists, we're proud to serve the residents 
                 and visitors of {fullLocationName} with reliable, professional service.
               </p>
             </div>
@@ -444,7 +444,7 @@ export default function MunicipalityRentalPage({
               Start Your {fullLocationName} Golf Cart Adventure Today
             </h2>
             <p className="text-xl mb-8">
-              Join hundreds of satisfied customers who trust Chesapeake Golf Carts for their rental needs in {fullLocationName}.
+              Join hundreds of satisfied customers who trust Rhode Island Golf Carts for their rental needs in {fullLocationName}.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href={`tel:${businessPhone}`}>

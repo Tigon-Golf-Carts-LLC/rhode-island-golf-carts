@@ -99,7 +99,7 @@ export default function EvolutionPage() {
 
   const allEvolutionVehicles = [
     {
-      name: "EVOLUTION D5 RANGER 4 PLUS - Chesapeake Golf Cart",
+      name: "EVOLUTION D5 RANGER 4 PLUS - Rhode Island Golf Cart",
       series: "D5 RANGER",
       price: "$9,595",
       image: evolutionD5Ranger4PlusImage,
@@ -116,7 +116,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION D5 RANGER 6 PLUS - Chesapeake Golf Cart",
+      name: "EVOLUTION D5 RANGER 6 PLUS - Rhode Island Golf Cart",
       series: "D5 RANGER", 
       price: "$11,595",
       image: evolutionD5Ranger6Image,
@@ -133,7 +133,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION D5 MAVERICK 4 PLUS - Chesapeake Golf Cart",
+      name: "EVOLUTION D5 MAVERICK 4 PLUS - Rhode Island Golf Cart",
       series: "D5 MAVERICK",
       price: "$9,995", 
       image: evolutionD5Maverick4PlusImage,
@@ -150,7 +150,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION CLASSIC 4 PLUS - Chesapeake Golf Cart",
+      name: "EVOLUTION CLASSIC 4 PLUS - Rhode Island Golf Cart",
       series: "CLASSIC",
       price: "$6,995",
       image: evolutionClassic4PlusImage,
@@ -167,7 +167,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION CARRIER 6 PLUS - Chesapeake Golf Cart", 
+      name: "EVOLUTION CARRIER 6 PLUS - Rhode Island Golf Cart", 
       series: "CARRIER",
       price: "$9,595",
       image: evolutionCarrier6PlusImage,
@@ -184,7 +184,7 @@ export default function EvolutionPage() {
       ]
     },
     {
-      name: "EVOLUTION D6 MAX XT4 - Chesapeake Golf Cart",
+      name: "EVOLUTION D6 MAX XT4 - Rhode Island Golf Cart",
       series: "D6 MAX",
       price: "$15,595",
       image: evolutionD6MaxXT4Image,
@@ -206,8 +206,8 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION® Golf Carts - Rhode Island Golf Carts"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Chesapeake, VA. Call 804-792-0234."
-        keywords="EVOLUTION golf carts Chesapeake, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Rhode Island, VA. Call 804-792-0234."
+        keywords="EVOLUTION golf carts Rhode Island, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
         canonicalUrl="https://rhodeislandgolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="product.group"
@@ -230,7 +230,7 @@ export default function EvolutionPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the evolution of electric vehicle excellence. EVOLUTION golf carts deliver 
-              premium quality, innovative design, and reliable performance for the City of Chesapeake, Virginia.
+              premium quality, innovative design, and reliable performance for the City of Rhode Island, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:804-792-0234">
@@ -260,7 +260,7 @@ export default function EvolutionPage() {
                   EVOLUTION represents the perfect balance of innovation, quality, and value in 
                   electric vehicle manufacturing. With a comprehensive lineup ranging from classic 
                   golf carts to high-performance utility vehicles, EVOLUTION delivers solutions 
-                  for every need in Chesapeake's diverse waterfront and suburban communities.
+                  for every need in Rhode Island's diverse waterfront and suburban communities.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {evolutionFeatures.map((feature, index) => (
@@ -294,7 +294,7 @@ export default function EvolutionPage() {
                 Complete EVOLUTION Lineup
               </h2>
               <p className="text-xl text-gray-600">
-                Discover the full range of EVOLUTION electric vehicles available in the City of Chesapeake
+                Discover the full range of EVOLUTION electric vehicles available in the City of Rhode Island
               </p>
             </div>
 
@@ -360,7 +360,7 @@ export default function EvolutionPage() {
                 Complete EVOLUTION Vehicle Lineup  
               </h2>
               <p className="text-xl text-gray-600">
-                Explore all 6 EVOLUTION electric vehicle models available in the City of Chesapeake
+                Explore all 6 EVOLUTION electric vehicle models available in the City of Rhode Island
               </p>
             </div>
 
@@ -434,7 +434,7 @@ export default function EvolutionPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose EVOLUTION in the City of Chesapeake?
+                Why Choose EVOLUTION in the City of Rhode Island?
               </h2>
             </div>
 
@@ -470,7 +470,7 @@ export default function EvolutionPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Support</h3>
                 <p className="text-gray-600">
-                  Expert EVOLUTION service and genuine parts support right here in the City of Chesapeake 
+                  Expert EVOLUTION service and genuine parts support right here in the City of Rhode Island 
                   with factory-trained technicians and comprehensive warranties.
                 </p>
               </div>

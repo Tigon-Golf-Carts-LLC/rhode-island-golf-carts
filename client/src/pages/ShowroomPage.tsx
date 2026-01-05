@@ -30,7 +30,7 @@ export default function ShowroomPage() {
       <SEOHead 
         title="Rhode Island Golf Carts LSV Showroom | Gloucester Point VA"
         description="Visit our Rhode Island Golf Carts showroom at 2810 George Washington Memorial Hwy, Gloucester Point, VA. Complete DENAGO and EVOLUTION lineup. Call 804-792-0234."
-        keywords="Chesapeake golf carts, golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION, Gloucester Point VA golf carts, Rhode Island golf carts"
+        keywords="Rhode Island golf carts, golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION, Gloucester Point VA golf carts, Rhode Island golf carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
@@ -62,7 +62,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Our Locations</h2>
-            <p className="text-xl text-gray-600">Serving the City of Chesapeake and surrounding Rhode Island areas</p>
+            <p className="text-xl text-gray-600">Serving the City of Rhode Island and surrounding Rhode Island areas</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -226,7 +226,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Areas We Serve</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout the City of Chesapeake and surrounding Rhode Island communities
+            We proudly serve customers throughout the City of Rhode Island and surrounding Rhode Island communities
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 text-gray-700">
@@ -246,7 +246,7 @@ export default function ShowroomPage() {
 
           <div className="mt-8 text-center">
             <p className="text-gray-600 mb-4">
-              Serving the City of Chesapeake and surrounding Rhode Island communities
+              Serving the City of Rhode Island and surrounding Rhode Island communities
             </p>
             <Link href="/contact">
               <Button className="bg-theme-orange hover:bg-orange-600 text-white">

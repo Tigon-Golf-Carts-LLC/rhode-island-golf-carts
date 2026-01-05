@@ -30,7 +30,7 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2008", event: "Rhode Island Golf Carts founded in Chesapeake" },
+    { year: "2008", event: "Rhode Island Golf Carts founded in Rhode Island" },
     { year: "2010", event: "Became authorized EVOLUTION dealer" },
     { year: "2013", event: "Expanded to serve all Rhode Island communities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
@@ -62,19 +62,19 @@ export default function AboutPage() {
               name: "Mike Johnson",
               jobTitle: "General Manager",
               description: "Leading our team with passion for customer service and golf cart expertise with 15+ years experience",
-              image: "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+              image: "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
             },
             {
               name: "Sarah Davis",
               jobTitle: "Service Manager", 
               description: "Certified technician ensuring quality service and customer satisfaction with 12+ years experience",
-              image: "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+              image: "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
             },
             {
               name: "Tom Wilson",
               jobTitle: "Sales Director",
               description: "Helping customers find the perfect golf cart for their needs with 10+ years experience",
-              image: "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+              image: "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
             }
           ]
         }}
@@ -87,7 +87,7 @@ export default function AboutPage() {
             About Rhode Island Golf Carts
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Since 2008, we've been Chesapeake's premier destination for premium golf carts, 
+            Since 2008, we've been Rhode Island's premier destination for premium golf carts, 
             exceptional service, and unmatched customer care. Serving all 15 communities 
             across the Rhode Island region with pride and professionalism.
           </p>
@@ -109,21 +109,21 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Chesapeake, Virginia, Rhode Island Golf Carts began with a simple mission: 
+                Founded in 2008 in Rhode Island, Virginia, Rhode Island Golf Carts began with a simple mission: 
                 to provide high-quality golf carts and exceptional service to customers throughout the Rhode Island region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                The City of Chesapeake is home to beautiful communities including Great Bridge, Deep Creek, and Greenbrier, along with scenic areas like 
+                The City of Rhode Island is home to beautiful communities including Great Bridge, Deep Creek, and Greenbrier, along with scenic areas like 
                 Western Branch, South Norfolk, and Indian River. Our location in the heart of the Rhode Island region drives our commitment to excellence 
                 and serves the outdoor recreation and residential communities throughout this vibrant area.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 Our city is known for its natural beauty, including the Great Dismal Swamp and numerous 
                 parks and waterways. This tradition of natural excellence continues in our approach to golf cart sales and service, where we 
-                combine cutting-edge technology with personalized customer care perfect for Chesapeake's outdoor lifestyle.
+                combine cutting-edge technology with personalized customer care perfect for Rhode Island's outdoor lifestyle.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Today, we're proud to serve the diverse communities across Chesapeake's neighborhoods, from Great Bridge 
+                Today, we're proud to serve the diverse communities across Rhode Island's neighborhoods, from Great Bridge 
                 to Deep Creek, from Greenbrier to the surrounding Rhode Island cities, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
@@ -256,9 +256,9 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div>
-              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Chesapeake</h2>
+              <h2 className="text-4xl font-bold mb-6 text-gray-900">Serving Rhode Island</h2>
               <p className="text-lg text-gray-600 mb-6">
-                From our location serving Chesapeake and beyond, we proudly serve customers throughout 
+                From our location serving Rhode Island and beyond, we proudly serve customers throughout 
                 the Rhode Island region. Our commitment to quality service extends across our 
                 entire service area with convenient locations.
               </p>
@@ -294,18 +294,18 @@ export default function AboutPage() {
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Chesapeake, VA Map"
+                title="Rhode Island, VA Map"
               />
             </div>
           </div>
 
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">Chesapeake & Rhode Island Communities We Serve</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">Rhode Island & Rhode Island Communities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
-                "Chesapeake", "Great Bridge", "Deep Creek", "Greenbrier", "Western Branch", "South Norfolk",
-                "Hickory", "Indian River", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
+                "Rhode Island", "Great Bridge", "Deep Creek", "Greenbrier", "Western Branch", "South Norfolk",
+                "Hickory", "Indian River", "Norfolk", "Rhode Island", "Portsmouth", "Suffolk",
                 "Hampton", "Newport News", "Rhode Island"
               ].map((town, index) => (
                 <div key={index} className="py-1">

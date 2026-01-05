@@ -12,7 +12,7 @@ export default function EvolutionD5Maverick6() {
       <SEOHead 
         title="EVOLUTION® D5 Maverick 6 - Family Golf Cart | Rhode Island Golf Carts"
         description="Discover the EVOLUTION® D5 Maverick 6 perfect for family outings. Reliable 6-passenger golf cart for group transportation with proven performance."
-        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer Rhode Island"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

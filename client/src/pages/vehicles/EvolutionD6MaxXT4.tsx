@@ -12,7 +12,7 @@ export default function EvolutionD6MaxXT4() {
       <SEOHead 
         title="EVOLUTION® D6 Max XT4 - Extreme Terrain Golf Cart | Rhode Island Golf Carts"
         description="Experience the EVOLUTION® D6 Max XT4 with extreme terrain capabilities. Four-passenger off-road golf cart with enhanced rugged design and high performance."
-        keywords="EVOLUTION D6 Max XT4, extreme terrain golf cart, off-road golf cart, 4-passenger, rugged design, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION D6 Max XT4, extreme terrain golf cart, off-road golf cart, 4-passenger, rugged design, EVOLUTION dealer Rhode Island"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

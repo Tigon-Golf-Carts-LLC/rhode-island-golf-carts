@@ -20,10 +20,10 @@ export default function LocationSchema({
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": `Rhode Island Golf Carts - ${municipalityName}`,
-      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Chesapeake, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
+      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Rhode Island, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
       "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
-      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-      "image": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+      "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
       "telephone": "804-792-0234",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {
@@ -44,7 +44,7 @@ export default function LocationSchema({
         "name": municipalityName,
         "containedInPlace": {
           "@type": "AdministrativeArea",
-          "name": "City of Chesapeake",
+          "name": "City of Rhode Island",
           "containedInPlace": {
             "@type": "State",
             "name": "Virginia"
@@ -97,7 +97,7 @@ export default function LocationSchema({
         ...baseStructuredData,
         "@type": ["LocalBusiness", "RentalCarAgency"],
         "name": `Golf Cart Rentals - ${municipalityName}`,
-        "description": `Professional golf cart rentals in ${municipalityName}, Chesapeake, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
+        "description": `Professional golf cart rentals in ${municipalityName}, Rhode Island, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
         "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
         "hasOfferCatalog": {
           "@type": "OfferCatalog",

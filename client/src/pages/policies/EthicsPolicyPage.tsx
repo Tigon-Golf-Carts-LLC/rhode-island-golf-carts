@@ -7,7 +7,7 @@ export default function EthicsPolicyPage() {
       <SEOHead 
         title="Ethics Policy | Rhode Island Golf Carts"
         description="Learn about Rhode Island Golf Carts' code of ethics and business conduct standards for employees, customers, and partners in Pennsylvania."
-        keywords="ethics policy, business ethics, Chesapeake golf carts, code of conduct Pennsylvania"
+        keywords="ethics policy, business ethics, Rhode Island golf carts, code of conduct Pennsylvania"
       />
       
       {/* Hero Section */}

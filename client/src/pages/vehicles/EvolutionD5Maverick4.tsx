@@ -12,7 +12,7 @@ export default function EvolutionD5Maverick4() {
       <SEOHead 
         title="Maverick 4"
         description="Discover the EVOLUTION® D5 Maverick 4 with reliable performance and essential features, perfect for standard 4-passenger transportation needs. Call 804-792-0234."
-        keywords="EVOLUTION D5 Maverick 4, 4-passenger golf cart, standard features, reliable performance, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION D5 Maverick 4, 4-passenger golf cart, standard features, reliable performance, EVOLUTION dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d5-maverick-4"
         ogImage="/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"
         ogType="product"

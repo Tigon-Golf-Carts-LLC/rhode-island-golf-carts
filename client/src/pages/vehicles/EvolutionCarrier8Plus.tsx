@@ -12,7 +12,7 @@ export default function EvolutionCarrier8Plus() {
       <SEOHead 
         title="EVOLUTION® Carrier 8 Plus - Maximum Capacity Utility Cart | Rhode Island Golf Carts"
         description="Experience the EVOLUTION® Carrier 8 Plus with maximum seating and cargo capacity. Perfect for large group transportation and utility work."
-        keywords="EVOLUTION Carrier 8 Plus, 8-passenger golf cart, maximum capacity, utility vehicle, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION Carrier 8 Plus, 8-passenger golf cart, maximum capacity, utility vehicle, EVOLUTION dealer Rhode Island"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

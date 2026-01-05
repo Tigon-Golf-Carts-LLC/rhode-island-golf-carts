@@ -12,7 +12,7 @@ export default function EvolutionCarrier6Plus() {
       <SEOHead 
         title="Carrier 6 Plus"
         description="Discover the EVOLUTION® Carrier 6 Plus with enhanced cargo capacity and utility features, perfect for work and recreation with 6-passenger seating. Call 804-792-0234."
-        keywords="EVOLUTION Carrier 6 Plus, utility golf cart, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION Carrier 6 Plus, utility golf cart, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-carrier-6-plus"
         ogImage="/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg"
         ogType="product"

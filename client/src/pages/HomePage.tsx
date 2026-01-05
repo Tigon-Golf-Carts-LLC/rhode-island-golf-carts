@@ -27,8 +27,8 @@ export default function HomePage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="Rhode Island Golf Carts - Premier Virginia Dealership"
-        description="Experience Chesapeake Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 804-792-0234."
-        keywords="golf carts Chesapeake VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
+        description="Experience Rhode Island Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 804-792-0234."
+        keywords="golf carts Rhode Island VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
         canonicalUrl="https://rhodeislandgolfcarts.com/"
         ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
         ogType="website"
@@ -39,7 +39,7 @@ export default function HomePage() {
         pageType="home" 
         pageData={{
           title: "Rhode Island Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
-          description: "Discover premium electric golf carts from Denago and Evolution at Rhode Island Golf Carts. Expert sales, service, rentals, and financing throughout Chesapeake, VA.",
+          description: "Discover premium electric golf carts from Denago and Evolution at Rhode Island Golf Carts. Expert sales, service, rentals, and financing throughout Rhode Island, VA.",
           url: "https://rhodeislandgolfcarts.com/",
           breadcrumbs: [{ name: "Home", url: "https://rhodeislandgolfcarts.com/" }],
           reviews: [
@@ -52,7 +52,7 @@ export default function HomePage() {
             },
             {
               author: "Maria Garcia",
-              reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Chesapeake.",
+              reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Rhode Island.",
               reviewRating: 5,
               datePublished: "2025-01-20",
               headline: "Professional and affordable"
@@ -76,7 +76,7 @@ export default function HomePage() {
                 Rhode Island Golf Carts - Premier Virginia Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Chesapeake communities in and around Chesapeake, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Chesapeake and surrounding Rhode Island areas.
+                Serving all 15 Rhode Island communities in and around Rhode Island, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Rhode Island and surrounding Rhode Island areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -235,7 +235,7 @@ export default function HomePage() {
               <div className="aspect-video bg-gray-200 relative overflow-hidden">
                 <img 
                   src="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg" 
-                  alt="Evolution D5 Maverick 4 Plus - Chesapeake Golf Cart"
+                  alt="Evolution D5 Maverick 4 Plus - Rhode Island Golf Cart"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4">
@@ -243,7 +243,7 @@ export default function HomePage() {
                 </div>
               </div>
               <CardHeader className="pb-3">
-                <CardTitle className="text-xl font-semibold">Evolution D5 Maverick 4 Plus - Chesapeake Golf Cart</CardTitle>
+                <CardTitle className="text-xl font-semibold">Evolution D5 Maverick 4 Plus - Rhode Island Golf Cart</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
                   Premium electric golf cart with advanced features and superior performance. Seats 4 passengers with extended range capability.
                 </CardDescription>
@@ -267,7 +267,7 @@ export default function HomePage() {
               <div className="aspect-video bg-gray-200 relative overflow-hidden">
                 <img 
                   src="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg" 
-                  alt="Evolution D6 Max XT4 - Chesapeake Golf Cart"
+                  alt="Evolution D6 Max XT4 - Rhode Island Golf Cart"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4">
@@ -275,7 +275,7 @@ export default function HomePage() {
                 </div>
               </div>
               <CardHeader className="pb-3">
-                <CardTitle className="text-xl font-semibold">Evolution D6 Max XT4 - Chesapeake Golf Cart</CardTitle>
+                <CardTitle className="text-xl font-semibold">Evolution D6 Max XT4 - Rhode Island Golf Cart</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
                   High-performance 4-passenger golf cart with cutting-edge technology and sporty design.
                 </CardDescription>
@@ -299,7 +299,7 @@ export default function HomePage() {
               <div className="aspect-video bg-gray-200 relative overflow-hidden">
                 <img 
                   src="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg" 
-                  alt="Denago EV City - Chesapeake Golf Cart"
+                  alt="Denago EV City - Rhode Island Golf Cart"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4">
@@ -307,7 +307,7 @@ export default function HomePage() {
                 </div>
               </div>
               <CardHeader className="pb-3">
-                <CardTitle className="text-xl font-semibold">Denago EV City - Chesapeake Golf Cart</CardTitle>
+                <CardTitle className="text-xl font-semibold">Denago EV City - Rhode Island Golf Cart</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
                   Urban mobility solution with street-legal capabilities and modern design for city transportation.
                 </CardDescription>
@@ -344,7 +344,7 @@ export default function HomePage() {
                 About Rhode Island Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Chesapeake and surrounding Rhode Island areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Rhode Island and surrounding Rhode Island areas.
               </p>
               
               <div className="grid grid-cols-2 gap-4 md:gap-8 mb-6 md:mb-8">
@@ -374,7 +374,7 @@ export default function HomePage() {
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Chesapeake, VA Map"
+                  title="Rhode Island, VA Map"
                 />
               </div>
             </div>
@@ -382,17 +382,17 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Chesapeake Municipalities Section */}
+      {/* Rhode Island Municipalities Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Golf Carts for Chesapeake and Surrounding Rhode Island Communities
+            Golf Carts for Rhode Island and Surrounding Rhode Island Communities
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional golf cart services delivered to your community throughout the City of Chesapeake and surrounding areas
+            Professional golf cart services delivered to your community throughout the City of Rhode Island and surrounding areas
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
-            {/* Complete Chesapeake Municipality List - dynamically generated */}
+            {/* Complete Rhode Island Municipality List - dynamically generated */}
             {CHESAPEAKE_MUNICIPALITIES.map((municipality: Municipality) => (
               <Link 
                 key={municipality.slug} 
@@ -407,7 +407,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving {CHESAPEAKE_MUNICIPALITIES.length} communities in and around Chesapeake Virginia! Professional golf cart sales, service, and rentals delivered throughout the region.
+            Serving {CHESAPEAKE_MUNICIPALITIES.length} communities in and around Rhode Island Virginia! Professional golf cart sales, service, and rentals delivered throughout the region.
           </p>
         </div>
       </section>
@@ -433,7 +433,7 @@ export default function HomePage() {
 
           <div className="bg-white p-8 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
-            <p className="text-gray-600 mb-4">For general inquiries and support throughout the City of Chesapeake</p>
+            <p className="text-gray-600 mb-4">For general inquiries and support throughout the City of Rhode Island</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
               <a href="tel:804-792-0234" className="text-2xl font-bold text-theme-orange hover:underline">804-792-0234</a>
               <Link href="/contact">

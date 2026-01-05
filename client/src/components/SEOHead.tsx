@@ -16,7 +16,7 @@ interface SEOHeadProps {
 export default function SEOHead({ 
   title, 
   description, 
-  keywords = "golf carts, Chesapeake, electric golf carts, golf cart sales, golf cart service", 
+  keywords = "golf carts, Rhode Island, electric golf carts, golf cart sales, golf cart service", 
   canonicalUrl,
   townName,
   ogImage,
@@ -26,7 +26,7 @@ export default function SEOHead({
   heroBackgroundImage
 }: SEOHeadProps) {
   // Use hero background image if provided, otherwise fallback to logo
-  const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png";
+  const finalOgImage = ogImage || heroBackgroundImage || "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png";
   useEffect(() => {
     // Set page title
     document.title = title;
@@ -69,23 +69,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png");
+      existingFavicon.setAttribute("href", "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png";
+      favicon.href = "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png";
       document.head.appendChild(favicon);
     }
 
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png");
+      existingAppleIcon.setAttribute("href", "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png";
+      appleIcon.href = "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png";
       document.head.appendChild(appleIcon);
     }
 
@@ -150,7 +150,7 @@ export default function SEOHead({
         "telephone": "804-792-0234",
         "email": "sales@rhodeislandgolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+        "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
         "image": `https://rhodeislandgolfcarts.com${finalOgImage}`,
         "serviceArea": {
           "@type": "GeoCircle",

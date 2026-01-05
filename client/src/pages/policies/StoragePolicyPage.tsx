@@ -7,7 +7,7 @@ export default function StoragePolicyPage() {
       <SEOHead 
         title="Storage Policy | Rhode Island Golf Carts"
         description="Learn about golf cart storage services and policies at Rhode Island Golf Carts. Seasonal storage, maintenance, and security information for Pennsylvania customers."
-        keywords="golf cart storage, storage policy, Chesapeake storage, Pennsylvania golf cart storage"
+        keywords="golf cart storage, storage policy, Rhode Island storage, Pennsylvania golf cart storage"
       />
       
       {/* Hero Section */}

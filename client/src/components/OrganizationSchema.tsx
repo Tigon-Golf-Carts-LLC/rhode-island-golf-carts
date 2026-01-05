@@ -10,10 +10,10 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Rhode Island Golf Carts",
-      "description": "Premier golf cart dealership in Chesapeake, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
+      "description": "Premier golf cart dealership in Rhode Island, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
       "url": "https://rhodeislandgolfcarts.com",
-      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
-      "image": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+      "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
       "telephone": "804-792-0234",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {
@@ -35,7 +35,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "serviceArea": {
         "@type": "AdministrativeArea",
-        "name": "City of Chesapeake, Virginia"
+        "name": "City of Rhode Island, Virginia"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -99,8 +99,8 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/ChesapeakeGolfCarts/",
-        "https://www.youtube.com/@ChesapeakeGolfCarts",
+        "https://www.facebook.com/Rhode IslandGolfCarts/",
+        "https://www.youtube.com/@Rhode IslandGolfCarts",
         "https://www.pinterest.com/chesapeakegolfcarts/"
       ]
     };

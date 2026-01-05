@@ -31,10 +31,10 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
   const featuredVehicles = vehicles?.slice(0, 3) || [];
   const fullName = `${municipality.name} ${municipality.type}`;
   
-  // SEO optimization for Chesapeake
-  const pageTitle = `${municipality.name} Golf Carts - Chesapeake's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullName}. Chesapeake Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${municipality.name} residents.`;
-  const pageKeywords = `${municipality.name} golf carts, ${fullName} golf cart sales, Chesapeake golf carts, electric golf carts ${municipality.name}, golf cart service ${municipality.name}, golf cart rentals ${municipality.name}, Pennsylvania golf carts`;
+  // SEO optimization for Rhode Island
+  const pageTitle = `${municipality.name} Golf Carts - Rhode Island's Premier Dealership | Sales, Service & Rentals`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullName}. Rhode Island Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${municipality.name} residents.`;
+  const pageKeywords = `${municipality.name} golf carts, ${fullName} golf cart sales, Rhode Island golf carts, electric golf carts ${municipality.name}, golf cart service ${municipality.name}, golf cart rentals ${municipality.name}, Pennsylvania golf carts`;
   const canonicalUrl = `https://chesapeakegolfcarts.com${municipality.url}`;
 
   const businessHours = "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM, Sun: Closed";
@@ -68,7 +68,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
               <ol className="flex items-center space-x-2">
                 <li><Link href="/" className="text-gray-500 hover:text-gray-700">Home</Link></li>
                 <li className="text-gray-400">/</li>
-                <li><Link href="/locations" className="text-gray-500 hover:text-gray-700">Chesapeake Locations</Link></li>
+                <li><Link href="/locations" className="text-gray-500 hover:text-gray-700">Rhode Island Locations</Link></li>
                 <li className="text-gray-400">/</li>
                 <li className="text-gray-900 font-medium">{fullName}</li>
               </ol>
@@ -79,12 +79,12 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
         {/* Hero Section */}
         <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
           <div className="max-w-7xl mx-auto text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800">Chesapeake Golf Carts</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800">Rhode Island Golf Carts</Badge>
             <h1 className="text-5xl font-bold mb-6">
               Premium Golf Carts in {fullName}
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto leading-relaxed">
-              Chesapeake's trusted source for premium electric golf carts. Professional sales, 
+              Rhode Island's trusted source for premium electric golf carts. Professional sales, 
               service, and rental solutions delivered directly to {municipality.name} residents.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -137,7 +137,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                 </CardHeader>
                 <CardContent className="text-center">
                   <p className="font-semibold text-purple-600">{fullName}</p>
-                  <p className="text-gray-600">Complete Chesapeake coverage</p>
+                  <p className="text-gray-600">Complete Rhode Island coverage</p>
                 </CardContent>
               </Card>
             </div>
@@ -221,7 +221,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                   <CardTitle className="text-blue-900">Local Support</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">Dedicated Chesapeake team providing personalized customer service.</p>
+                  <p className="text-gray-600">Dedicated Rhode Island team providing personalized customer service.</p>
                 </CardContent>
               </Card>
             </div>
@@ -236,7 +236,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                 {fullName} Location & Service Area
               </h2>
               <p className="text-xl text-gray-600">
-                Proudly serving {municipality.name} and surrounding Chesapeake areas
+                Proudly serving {municipality.name} and surrounding Rhode Island areas
               </p>
             </div>
             
@@ -264,7 +264,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
                   </div>
                   <div>
                     <h3 className="font-semibold text-blue-900 mb-2">Service Area</h3>
-                    <p className="text-blue-700">Chesapeake, VA</p>
+                    <p className="text-blue-700">Rhode Island, VA</p>
                   </div>
                 </div>
               </div>
@@ -279,7 +279,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
               Ready to Get Your Golf Cart in {municipality.name}?
             </h2>
             <p className="text-xl mb-8">
-              Contact Chesapeake Golf Carts today for expert consultation and competitive pricing.
+              Contact Rhode Island Golf Carts today for expert consultation and competitive pricing.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href={`tel:${businessPhone}`}>
@@ -295,15 +295,15 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
           </div>
         </section>
 
-        {/* All Chesapeake Locations */}
+        {/* All Rhode Island Locations */}
         <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                All Chesapeake Service Areas
+                All Rhode Island Service Areas
               </h2>
               <p className="text-xl text-gray-600">
-                Professional golf cart services throughout Hampton Roads, Virginia
+                Professional golf cart services throughout Rhode Island, Virginia
               </p>
             </div>
             
@@ -326,7 +326,7 @@ export default function MontgomeryCountyMunicipalityPage({ municipality }: Montg
             
             <div className="text-center mt-8">
               <p className="text-gray-600">
-                Serving all {MONTGOMERY_COUNTY_MUNICIPALITIES.length} municipalities in Chesapeake with premium golf cart solutions.
+                Serving all {MONTGOMERY_COUNTY_MUNICIPALITIES.length} municipalities in Rhode Island with premium golf cart solutions.
               </p>
             </div>
           </div>

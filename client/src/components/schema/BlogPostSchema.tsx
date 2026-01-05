@@ -14,7 +14,7 @@ export default function BlogPostSchema({
   description,
   url,
   publishDate,
-  image = "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+  image = "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
   imageAlt = "Rhode Island Golf Carts",
   author = "Rhode Island Golf Carts",
   keywords = ""
@@ -35,7 +35,7 @@ export default function BlogPostSchema({
       "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
       }
     },
     "publisher": {
@@ -44,7 +44,7 @@ export default function BlogPostSchema({
       "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
       },
       "address": {
         "@type": "PostalAddress",
@@ -74,14 +74,14 @@ export default function BlogPostSchema({
     "about": {
       "@type": "Thing",
       "name": "Golf Carts",
-      "description": "Electric golf carts for sale, rental, and service in Chesapeake, Virginia"
+      "description": "Electric golf carts for sale, rental, and service in Rhode Island, Virginia"
     },
     "contentLocation": {
       "@type": "Place",
-      "name": "Chesapeake, Virginia",
+      "name": "Rhode Island, Virginia",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Chesapeake",
+        "addressLocality": "Rhode Island",
         "addressRegion": "VA",
         "addressCountry": "US"
       },

@@ -7,7 +7,7 @@ export default function StaffingReportPage() {
       <SEOHead 
         title="Staffing Report | Rhode Island Golf Carts"
         description="Learn about Rhode Island Golf Carts' staffing structure, employment practices, and workforce development in Pennsylvania."
-        keywords="staffing report, employment, Chesapeake golf carts, workforce Pennsylvania"
+        keywords="staffing report, employment, Rhode Island golf carts, workforce Pennsylvania"
       />
       
       {/* Hero Section */}
@@ -219,7 +219,7 @@ export default function StaffingReportPage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Community Impact</h2>
               <ul className="list-disc pl-6 mb-6">
-                <li><strong>Local Hiring:</strong> 85% of employees are Chesapeake residents</li>
+                <li><strong>Local Hiring:</strong> 85% of employees are Rhode Island residents</li>
                 <li><strong>Economic Impact:</strong> $2.1 million in local payroll annually</li>
                 <li><strong>Volunteer Hours:</strong> 240 hours of community service by employees</li>
                 <li><strong>Educational Partnerships:</strong> Internship programs with 3 local schools</li>
