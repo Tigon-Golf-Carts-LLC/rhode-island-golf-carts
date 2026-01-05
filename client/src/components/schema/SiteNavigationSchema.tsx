@@ -16,7 +16,7 @@ export default function SiteNavigationSchema({
     { name: "Inventory", url: "https://rhodeislandgolfcarts.com/inventory", description: "Browse our golf cart inventory" },
     { name: "Rentals", url: "https://rhodeislandgolfcarts.com/rentals", description: "Golf cart rental services" },
     { name: "Services", url: "https://rhodeislandgolfcarts.com/services", description: "Golf cart maintenance and repair services" },
-    { name: "Showroom", url: "https://rhodeislandgolfcarts.com/showroom", description: "Visit our Chesapeake showroom" },
+    { name: "Showroom", url: "https://rhodeislandgolfcarts.com/showroom", description: "Visit our Rhode Island showroom" },
     { name: "About", url: "https://rhodeislandgolfcarts.com/about", description: "About Rhode Island Golf Carts" },
     { name: "Contact", url: "https://rhodeislandgolfcarts.com/contact", description: "Contact information and location" }
   ]

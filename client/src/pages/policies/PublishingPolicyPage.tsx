@@ -7,7 +7,7 @@ export default function PublishingPolicyPage() {
       <SEOHead 
         title="Publishing Policy | Rhode Island Golf Carts"
         description="Learn about Rhode Island Golf Carts' content publishing standards, guidelines for user-generated content, and editorial policies for our Pennsylvania website."
-        keywords="publishing policy, content policy, Chesapeake golf carts, editorial guidelines"
+        keywords="publishing policy, content policy, Rhode Island golf carts, editorial guidelines"
       />
       
       {/* Hero Section */}

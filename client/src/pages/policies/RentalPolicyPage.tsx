@@ -7,7 +7,7 @@ export default function RentalPolicyPage() {
       <SEOHead 
         title="Rental Policy"
         description="Complete golf cart rental terms, requirements, and responsibilities for Rhode Island, Virginia including age requirements, deposits, and operating guidelines. Call 804-792-0234."
-        keywords="rental policy, golf cart rental, Chesapeake rentals, Pennsylvania golf cart rental policy"
+        keywords="rental policy, golf cart rental, Rhode Island rentals, Pennsylvania golf cart rental policy"
         canonicalUrl="https://rhodeislandgolfcarts.com/policies/rental-policy"
         ogImageWidth={1200}
         ogImageHeight={800}

@@ -7,7 +7,7 @@ export default function CorrectionsPolicyPage() {
       <SEOHead 
         title="Corrections Policy | Rhode Island Golf Carts"
         description="Learn about Rhode Island Golf Carts' commitment to accuracy and our process for handling corrections to published content and information."
-        keywords="corrections policy, content accuracy, Chesapeake golf carts, information corrections"
+        keywords="corrections policy, content accuracy, Rhode Island golf carts, information corrections"
       />
       
       {/* Hero Section */}

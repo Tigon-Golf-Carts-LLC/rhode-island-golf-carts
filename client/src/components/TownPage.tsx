@@ -33,9 +33,9 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   const featuredVehicles = vehicles?.slice(0, 3) || [];
   const fullTownName = `${townName} ${townType}`;
   
-  const pageTitle = `${townName} Golf Carts - Chesapeake's Premier Dealership | Sales, Service & Rentals`;
+  const pageTitle = `${townName} Golf Carts - Rhode Island's Premier Dealership | Sales, Service & Rentals`;
   const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}, Virginia. Rhode Island Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
-  const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Chesapeake golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Virginia golf carts`;
+  const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Rhode Island golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Virginia golf carts`;
   const canonicalUrl = `https://rhodeislandgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`;
 
   const breadcrumbItems = [
@@ -60,7 +60,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                {townName} Golf Carts - Chesapeake's Premier Dealership
+                {townName} Golf Carts - Rhode Island's Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
                 Professional golf cart sales, service, and rentals in {fullTownName}. 
@@ -301,7 +301,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout {townName} and surrounding City of Chesapeake areas.
+                    Delivery and pickup available throughout {townName} and surrounding City of Rhode Island areas.
                   </p>
                 </CardContent>
               </Card>

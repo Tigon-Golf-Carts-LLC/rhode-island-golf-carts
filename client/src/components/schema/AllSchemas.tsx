@@ -171,7 +171,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         url="https://rhodeislandgolfcarts.com"
         address={{
           streetAddress: "Various Locations",
-          addressLocality: "Chesapeake",
+          addressLocality: "Rhode Island",
           addressRegion: "VA",
           postalCode: "23072",
           addressCountry: "US"
@@ -347,7 +347,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               },
               {
                 question: "Do you provide delivery service?",
-                answer: "Yes, we provide delivery service throughout Chesapeake and surrounding areas in Pennsylvania."
+                answer: "Yes, we provide delivery service throughout Rhode Island and surrounding areas in Pennsylvania."
               }
             ]}
           />
@@ -378,14 +378,14 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             telephone="804-792-0234"
             url={url}
             containedInPlace={{
-              name: "Chesapeake",
+              name: "Rhode Island",
               type: "AdministrativeArea"
             }}
           />
           <ServiceSchema
             serviceName={`Golf Cart Services in ${locationName} ${locationType}`}
-            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Chesapeake, VA`}
-            areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
+            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Rhode Island, VA`}
+            areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
           />
           <AutoDealerSchema
             name={`Rhode Island Golf Carts - ${locationName} Service`}
@@ -428,18 +428,18 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             }}
             telephone="804-792-0234"
             email="info@rhodeislandgolfcarts.com"
-            areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
+            areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater from $245/day, 6-Seater from $295/day, Utility from $245/day" },
-              { type: "Delivery", description: "Professional delivery within Chesapeake" },
+              { type: "Delivery", description: "Professional delivery within Rhode Island" },
               { type: "Insurance", description: "Full coverage included with all rentals" }
             ]}
           />
           <ServiceSchema
             serviceName={`Golf Cart Rentals in ${locationName} ${locationType}`}
             description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island, Virginia`}
-            areaServed={`${locationName} ${locationType}, Chesapeake, VA`}
+            areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -534,7 +534,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             url="https://rhodeislandgolfcarts.com/rentals"
             address={{
               streetAddress: "Service Area",
-              addressLocality: "Chesapeake",
+              addressLocality: "Rhode Island",
               addressRegion: "VA",
               postalCode: "23072",
               addressCountry: "US"
@@ -547,7 +547,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               { type: "Daily Rental", description: "4-Seater and Utility from $245/day, 6-Seater from $295/day" },
               { type: "Weekly Rental", description: "Save with weekly rates starting at $1,400/week" },
               { type: "Monthly Rental", description: "Best value with monthly rates starting at $4,200/month" },
-              { type: "Delivery", description: "Professional delivery throughout Chesapeake" },
+              { type: "Delivery", description: "Professional delivery throughout Rhode Island" },
               { type: "Insurance", description: "Full coverage included with all rentals" }
             ]}
           />
@@ -555,7 +555,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             itemOffered={{
               name: "Golf Cart Rental",
               type: "Service",
-              description: "Daily, weekly, and monthly golf cart rentals in Chesapeake",
+              description: "Daily, weekly, and monthly golf cart rentals in Rhode Island",
               category: "Rental Service"
             }}
             priceSpecification={[

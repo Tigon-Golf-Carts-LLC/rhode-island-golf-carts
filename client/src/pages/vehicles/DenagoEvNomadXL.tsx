@@ -12,7 +12,7 @@ export default function DenagoEvNomadXL() {
       <SEOHead 
         title="Nomad XL"
         description="Discover the DENAGO® EV Nomad XL with extended seating and enhanced storage, perfect for larger adventure groups with superior performance. Call 804-792-0234."
-        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger golf cart, DENAGO dealer Chesapeake"
+        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger golf cart, DENAGO dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-nomad-xl"
         ogImage="/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg"
         ogType="product"

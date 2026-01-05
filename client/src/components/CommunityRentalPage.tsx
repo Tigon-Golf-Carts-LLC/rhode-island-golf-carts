@@ -19,9 +19,9 @@ function CommunityRentalPage({
   slug 
 }: CommunityRentalPageProps) {
   const locationText = parentMunicipality ? `${communityName} (${parentMunicipality})` : communityName;
-  const pageTitle = `Golf Cart Rentals in ${communityName}, City of Chesapeake | Premium Rental Services`;
-  const pageDescription = `Rent premium golf carts in ${communityName}, City of Chesapeake, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
-  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, City of Chesapeake golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${communityName}, City of Rhode Island | Premium Rental Services`;
+  const pageDescription = `Rent premium golf carts in ${communityName}, City of Rhode Island, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
+  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, City of Rhode Island golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -243,7 +243,7 @@ function CommunityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {communityName} 
-                and throughout the City of Chesapeake, Virginia.
+                and throughout the City of Rhode Island, Virginia.
               </p>
             </div>
 

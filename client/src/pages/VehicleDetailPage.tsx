@@ -95,7 +95,7 @@ export default function VehicleDetailPage() {
       <Helmet>
         <title>{vehicle.name} - ${vehicle.price.toLocaleString()} | Rhode Island Golf Carts</title>
         <meta name="description" content={`${vehicle.name} for sale at Rhode Island Golf Carts. ${vehicle.description} Price: $${vehicle.price.toLocaleString()}. ${vehicle.specifications.seatingCapacity}-passenger ${vehicle.brand} golf cart available now.`} />
-        <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Chesapeake golf carts, TIGON dealer Pennsylvania, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
+        <meta name="keywords" content={`${vehicle.name}, ${vehicle.brand} golf cart, ${vehicle.category} golf cart, Rhode Island golf carts, TIGON dealer Pennsylvania, electric golf cart ${vehicle.specifications.seatingCapacity} seater`} />
         <link rel="canonical" href={`https://rhodeislandgolfcarts.com/vehicle/${vehicle.id}`} />
         
         {/* Open Graph */}

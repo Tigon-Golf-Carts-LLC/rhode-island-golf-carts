@@ -1,5 +1,5 @@
 /**
- * Utility functions for generating Google Maps embed URLs for Chesapeake and Rhode Island locations
+ * Utility functions for generating Google Maps embed URLs for Rhode Island and Rhode Island locations
  */
 
 export function generateGoogleMapsEmbed(locationName: string, locationType?: string): string {

@@ -43,7 +43,7 @@ export default function NewInventoryPage() {
       <SEOHead 
         title="Golf Cart Inventory"
         description="Discover our extensive selection of premium new and used golf carts from DENAGO and EVOLUTION, with flexible financing and expert service. Call 804-792-0234."
-        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Chesapeake golf carts"
+        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Rhode Island golf carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
@@ -284,11 +284,11 @@ export default function NewInventoryPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Chesapeake Service</CardTitle>
+                  <CardTitle>Rhode Island Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Chesapeake and surrounding areas.
+                    Delivery and pickup available throughout Rhode Island and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

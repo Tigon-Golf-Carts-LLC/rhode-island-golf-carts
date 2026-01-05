@@ -11,7 +11,7 @@ interface BlogSchemaProps {
 
 export default function BlogSchema({
   name = "Rhode Island Golf Carts Blog",
-  description = "Expert golf cart news, buying guides, tips, and insights from Chesapeake's premier golf cart dealer serving Rhode Island, Virginia.",
+  description = "Expert golf cart news, buying guides, tips, and insights from Rhode Island's premier golf cart dealer serving Rhode Island, Virginia.",
   url = "https://rhodeislandgolfcarts.com/blog",
   posts = []
 }: BlogSchemaProps) {
@@ -27,7 +27,7 @@ export default function BlogSchema({
       "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
       },
       "address": {
         "@type": "PostalAddress",
@@ -57,11 +57,11 @@ export default function BlogSchema({
     "about": {
       "@type": "Thing",
       "name": "Golf Carts",
-      "description": "Electric golf carts for sale, rental, and service in Chesapeake, Virginia and Rhode Island"
+      "description": "Electric golf carts for sale, rental, and service in Rhode Island, Virginia and Rhode Island"
     },
     "contentLocation": {
       "@type": "Place",
-      "name": "Chesapeake, Virginia",
+      "name": "Rhode Island, Virginia",
       "geo": {
         "@type": "GeoCoordinates",
         "latitude": "37.2850625",

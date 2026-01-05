@@ -14,7 +14,7 @@ export default function NewAboutPage() {
       name: "Michael Thompson",
       role: "Owner & General Manager",
       experience: "15+ years in recreational vehicle sales",
-      description: "Passionate about providing the City of Chesapeake with the best golf cart experience."
+      description: "Passionate about providing the City of Rhode Island with the best golf cart experience."
     },
     {
       name: "Sarah Martinez",
@@ -50,7 +50,7 @@ export default function NewAboutPage() {
     {
       icon: Target,
       title: "Local Focus",
-      description: "Proud to serve the City of Chesapeake with personalized, community-focused service."
+      description: "Proud to serve the City of Rhode Island with personalized, community-focused service."
     },
     {
       icon: Heart,
@@ -63,8 +63,8 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Rhode Island Golf Carts"
-        description="Discover Virginia's most trusted golf cart dealer serving the City of Chesapeake and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-792-0234."
-        keywords="Chesapeake VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
+        description="Discover Virginia's most trusted golf cart dealer serving the City of Rhode Island and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-792-0234."
+        keywords="Rhode Island VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://rhodeislandgolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
@@ -79,7 +79,7 @@ export default function NewAboutPage() {
               About Rhode Island Golf Carts
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Since 2010, we've been the City of Chesapeake's premier destination for premium golf carts, 
+              Since 2010, we've been the City of Rhode Island's premier destination for premium golf carts, 
               exceptional service, and unmatched customer care. Serving all municipalities 
               across eastern Virginia with pride and professionalism.
             </p>
@@ -105,28 +105,28 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2008 in the City of Chesapeake, Virginia, Rhode Island Golf Carts began with a simple mission: 
+                    Founded in 2008 in the City of Rhode Island, Virginia, Rhode Island Golf Carts began with a simple mission: 
                     to provide high-quality golf carts and exceptional service to customers throughout Coastal Virginia's 
                     most vibrant and historic regions.
                   </p>
                   <p>
-                    The City of Chesapeake stands as one of Virginia's most beautiful and historic regions, encompassing 
+                    The City of Rhode Island stands as one of Virginia's most beautiful and historic regions, encompassing 
                     charming communities from Great Bridge and Deep Creek to Greenbrier and Western Branch, 
-                    with scenic waterfront areas along the Elizabeth River and Chesapeake Bay.
+                    with scenic waterfront areas along the Elizabeth River and Rhode Island Bay.
                   </p>
                   <p>
                     Our city holds a special place in American history, with deep roots in Virginia's heritage. 
-                    Today, the City of Chesapeake is renowned for its beautiful parks, championship golf courses, waterfront communities, 
+                    Today, the City of Rhode Island is renowned for its beautiful parks, championship golf courses, waterfront communities, 
                     and outdoor recreation enthusiasts who appreciate premium recreational vehicles.
                   </p>
                   <p>
                     With proximity to major routes including I-64 and I-464, 
-                    and some of Coastal Virginia's most beautiful waterfront and golf course communities, the City of Chesapeake attracts residents who 
+                    and some of Coastal Virginia's most beautiful waterfront and golf course communities, the City of Rhode Island attracts residents who 
                     demand excellence in every aspect of their lives—including their golf cart experience.
                   </p>
                   <p>
                     From Great Bridge to Hickory, from Deep Creek to Greenbrier and surrounding areas, we proudly serve 
-                    the City of Chesapeake and neighboring communities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing 
+                    the City of Rhode Island and neighboring communities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing 
                     less than the finest quality and service.
                   </p>
                 </div>
@@ -134,7 +134,7 @@ export default function NewAboutPage() {
                 <div className="mt-8 grid grid-cols-3 gap-4">
                   <div className="text-center">
                     <div className="text-2xl font-bold text-theme-orange">15+</div>
-                    <div className="text-sm text-gray-600">Years Serving Chesapeake</div>
+                    <div className="text-sm text-gray-600">Years Serving Rhode Island</div>
                   </div>
                   <div className="text-center">
                     <div className="text-2xl font-bold text-theme-orange">500+</div>
@@ -157,7 +157,7 @@ export default function NewAboutPage() {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="City of Chesapeake Service Area Map"
+                    title="City of Rhode Island Service Area Map"
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
@@ -165,7 +165,7 @@ export default function NewAboutPage() {
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Rhode Island Golf Carts</h4>
-                      <p className="text-gray-600">Serving all City of Chesapeake, VA</p>
+                      <p className="text-gray-600">Serving all City of Rhode Island, VA</p>
                       <p className="text-gray-700">804-792-0234</p>
                       <p className="text-gray-600">info@rhodeislandgolfcarts.com</p>
                       <p className="text-gray-600">sales@rhodeislandgolfcarts.com</p>
@@ -233,14 +233,14 @@ export default function NewAboutPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Service Area</h2>
-              <p className="text-lg text-gray-600">Proudly serving all of the City of Chesapeake, Virginia</p>
+              <p className="text-lg text-gray-600">Proudly serving all of the City of Rhode Island, Virginia</p>
             </div>
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Chesapeake & Norfolk Area</CardTitle>
+                  <CardTitle>Rhode Island & Norfolk Area</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">Great Bridge, Deep Creek, Norfolk, and surrounding communities</p>
@@ -251,10 +251,10 @@ export default function NewAboutPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Chesapeake Central</CardTitle>
+                  <CardTitle>Rhode Island Central</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Greenbrier, Western Branch, Hickory, and central Chesapeake areas</p>
+                  <p className="text-gray-600 mb-4">Greenbrier, Western Branch, Hickory, and central Rhode Island areas</p>
                   <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
@@ -262,17 +262,17 @@ export default function NewAboutPage() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Virginia Beach & Peninsula</CardTitle>
+                  <CardTitle>Rhode Island & Peninsula</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Virginia Beach, Hampton, Newport News, and surrounding communities</p>
+                  <p className="text-gray-600 mb-4">Rhode Island, Hampton, Newport News, and surrounding communities</p>
                   <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
             </div>
 
             <div className="bg-white p-8 rounded-2xl shadow-lg">
-              <h3 className="text-2xl font-bold text-center mb-6">Complete City of Chesapeake Coverage</h3>
+              <h3 className="text-2xl font-bold text-center mb-6">Complete City of Rhode Island Coverage</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-sm text-gray-600">
                 {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality, index: number) => (
                   <div key={index} className="text-center py-2">
@@ -357,7 +357,7 @@ export default function NewAboutPage() {
                   <CardTitle>Service Area</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">All City of Chesapeake municipalities plus delivery service</p>
+                  <p className="text-gray-600">All City of Rhode Island municipalities plus delivery service</p>
                 </CardContent>
               </Card>
             </div>

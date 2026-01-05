@@ -12,7 +12,7 @@ export default function DenagoEVRoverXL() {
       <SEOHead 
         title="DENAGO® EV ROVER XL - Premium Electric Golf Cart | Rhode Island Golf Carts"
         description="Discover the DENAGO® EV ROVER XL - Ultimate in electric vehicle performance with advanced capabilities and premium features. Available at Rhode Island Golf Carts."
-        keywords="DENAGO EV ROVER XL, electric golf cart, premium electric vehicle, DENAGO dealer Chesapeake"
+        keywords="DENAGO EV ROVER XL, electric golf cart, premium electric vehicle, DENAGO dealer Rhode Island"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -97,7 +97,7 @@ export default function DenagoEVRoverXL() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Premium Features</h2>

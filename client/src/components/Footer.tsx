@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import { CHESAPEAKE_MUNICIPALITIES } from "@/data/chesapeakeMunicipalities";
+import { RHODE_ISLAND_MUNICIPALITIES } from "@/data/rhodeIslandMunicipalities";
 
 export default function Footer() {
   return (
@@ -7,9 +7,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
         {/* Logo Section */}
         <div className="flex justify-center mb-8">
-          <img 
-            src="/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png" 
-            alt="Rhode Island Golf Carts Logo" 
+          <img
+            src="/logo.png"
+            alt="Rhode Island Golf Carts Logo"
             className="h-24 w-24 object-contain"
           />
         </div>
@@ -19,8 +19,8 @@ export default function Footer() {
           {/* Company Description */}
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
-              Chesapeake's premier golf cart dealership serving customers across 
-              the City of Chesapeake and surrounding Rhode Island areas with quality carts and expert service.
+              Rhode Island's premier golf cart dealership serving customers across
+              all of Rhode Island with quality carts and expert service.
             </p>
           </div>
 
@@ -60,9 +60,9 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:844-844-6638" className="hover:text-blue-600">844-844-6638</a></p>
               <p className="text-gray-600 text-sm">Email: sales@rhodeislandgolfcarts.com</p>
-              <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
+              <p className="text-gray-600 text-sm">Rhode Island</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -76,8 +76,8 @@ export default function Footer() {
             {/* Company Description */}
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
-                Chesapeake's premier golf cart dealership serving customers across 
-                the City of Chesapeake and surrounding Rhode Island areas with quality carts and expert service.
+                Rhode Island's premier golf cart dealership serving customers across
+                all of Rhode Island with quality carts and expert service.
               </p>
             </div>
 
@@ -137,9 +137,9 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:804-792-0234" className="hover:text-blue-600">804-792-0234</a></p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:844-844-6638" className="hover:text-blue-600">844-844-6638</a></p>
                 <p className="text-gray-600 text-sm">Email: sales@rhodeislandgolfcarts.com</p>
-                <p className="text-gray-600 text-sm">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
+                <p className="text-gray-600 text-sm">Rhode Island</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>
@@ -150,19 +150,19 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Towns Served - Chesapeake & Rhode Island Communities */}
+        {/* Towns Served - Rhode Island Communities */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
-            Chesapeake & Surrounding Rhode Island Communities We Serve
+            Rhode Island Communities We Serve
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 text-center">
-            {CHESAPEAKE_MUNICIPALITIES.map((municipality) => (
-              <Link 
+            {RHODE_ISLAND_MUNICIPALITIES.map((municipality) => (
+              <Link
                 key={municipality.slug}
-                href={municipality.url} 
+                href={municipality.url}
                 className="text-gray-600 text-sm hover:text-blue-600 transition-colors"
               >
-                {municipality.name} {municipality.type} Golf Carts
+                {municipality.name} Golf Carts
               </Link>
             ))}
           </div>
@@ -172,12 +172,12 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              © 2025 Rhode Island Golf Carts. All rights reserved. | 
-              <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> | 
+              © 2025 Rhode Island Golf Carts. All rights reserved. |
+              <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> |
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              Rhode Island Golf Carts - Serving the City of Chesapeake and surrounding Rhode Island areas with premium golf carts and exceptional service.
+              Rhode Island Golf Carts - Serving all of Rhode Island with premium golf carts and exceptional service.
             </div>
           </div>
         </div>

@@ -12,7 +12,7 @@ export default function EvolutionTurfman1000() {
       <SEOHead 
         title="EVOLUTION® TURFMAN 1000 - Commercial Utility Vehicle | Rhode Island Golf Carts"
         description="Discover the EVOLUTION® TURFMAN 1000 lineup and its unique features. Heavy-duty commercial utility vehicle for landscaping and maintenance work."
-        keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer Rhode Island"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -97,7 +97,7 @@ export default function EvolutionTurfman1000() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Commercial Features</h2>

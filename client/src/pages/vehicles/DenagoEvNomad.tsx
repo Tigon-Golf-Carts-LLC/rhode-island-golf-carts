@@ -13,7 +13,7 @@ export default function DenagoEvNomad() {
       <SEOHead 
         title="EV NOMAD"
         description="Discover the adventure-ready DENAGO® EV NOMAD designed for outdoor adventures and off-road capability, perfect for camping, hunting, and exploration. Call 804-792-0234."
-        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Chesapeake"
+        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-nomad"
         ogImage="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
         ogType="product"

@@ -65,7 +65,7 @@ export default function DenagoPage() {
 
   const allDenagoVehicles = [
     {
-      name: "DENAGO EV CITY - Chesapeake Golf Cart",
+      name: "DENAGO EV CITY - Rhode Island Golf Cart",
       series: "EV CITY",
       image: denagoEvCityImage,
       price: "$15,000",
@@ -73,7 +73,7 @@ export default function DenagoPage() {
       specs: { seats: "2", range: "40 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV NOMAD - Chesapeake Golf Cart",
+      name: "DENAGO EV NOMAD - Rhode Island Golf Cart",
       series: "EV NOMAD",
       image: denagoEvNomadImage,
       price: "$8,495",
@@ -81,7 +81,7 @@ export default function DenagoPage() {
       specs: { seats: "4", range: "45 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV NOMAD XL - Chesapeake Golf Cart",
+      name: "DENAGO EV NOMAD XL - Rhode Island Golf Cart",
       series: "EV NOMAD",
       image: denagoEvNomadXLImage,
       price: "$8,495",
@@ -89,7 +89,7 @@ export default function DenagoPage() {
       specs: { seats: "4", range: "55 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV ROVER XL - Chesapeake Golf Cart",
+      name: "DENAGO EV ROVER XL - Rhode Island Golf Cart",
       series: "EV ROVER",
       image: denagoEvRoverXLImage,
       price: "$9,995",
@@ -97,7 +97,7 @@ export default function DenagoPage() {
       specs: { seats: "6", range: "50 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV ROVER XL6 - Chesapeake Golf Cart",
+      name: "DENAGO EV ROVER XL6 - Rhode Island Golf Cart",
       series: "EV ROVER",
       image: denagoEvRoverXL6Image,
       price: "$11,995",
@@ -105,7 +105,7 @@ export default function DenagoPage() {
       specs: { seats: "6", range: "50 miles", topSpeed: "25 mph", driveType: "All-Wheel Drive" }
     },
     {
-      name: "DENAGO EV ROVER XXL - Chesapeake Golf Cart",
+      name: "DENAGO EV ROVER XXL - Rhode Island Golf Cart",
       series: "EV ROVER",
       image: denagoEvRoverXXLImage,
       price: "$11,995",
@@ -119,7 +119,7 @@ export default function DenagoPage() {
       <SEOHead 
         title="DENAGO® Golf Carts - Rhode Island Golf Carts"
         description="Explore premium DENAGO® electric golf carts featuring EV CITY, EV NOMAD, and EV ROVER series with advanced all-wheel drive technology and rugged off-road capability. Call 804-792-0234."
-        keywords="DENAGO golf carts Chesapeake, electric golf carts Virginia, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
+        keywords="DENAGO golf carts Rhode Island, electric golf carts Virginia, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/denago"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_eccoMiKlQSC-Qm1jCegrgw_4I_G2VlRQP6tVB7Lk85ndw_1756144059398.jpeg"
         ogType="product.group"
@@ -142,7 +142,7 @@ export default function DenagoPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the ultimate in electric off-road performance. DENAGO vehicles combine cutting-edge 
-              technology with rugged durability for unmatched adventure capability in the City of Chesapeake, Virginia.
+              technology with rugged durability for unmatched adventure capability in the City of Rhode Island, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:804-792-0234">
@@ -172,7 +172,7 @@ export default function DenagoPage() {
                   DENAGO represents the pinnacle of electric vehicle engineering, combining innovative 
                   all-wheel drive technology with premium comfort features. Each DENAGO is built to 
                   exceed expectations on any terrain while delivering exceptional reliability for 
-                  Chesapeake's diverse waterfront and suburban landscapes.
+                  Rhode Island's diverse waterfront and suburban landscapes.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
                   {denagoFeatures.map((feature, index) => (
@@ -206,7 +206,7 @@ export default function DenagoPage() {
                 DENAGO Vehicle Series
               </h2>
               <p className="text-xl text-gray-600">
-                Discover the complete lineup of DENAGO electric vehicles available in Chesapeake
+                Discover the complete lineup of DENAGO electric vehicles available in Rhode Island
               </p>
             </div>
 
@@ -262,7 +262,7 @@ export default function DenagoPage() {
                 Complete DENAGO Vehicle Lineup
               </h2>
               <p className="text-xl text-gray-600">
-                Explore all 6 DENAGO electric vehicle models available in the City of Chesapeake
+                Explore all 6 DENAGO electric vehicle models available in the City of Rhode Island
               </p>
             </div>
 
@@ -354,7 +354,7 @@ export default function DenagoPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose DENAGO in the City of Chesapeake?
+                Why Choose DENAGO in the City of Rhode Island?
               </h2>
             </div>
 
@@ -381,7 +381,7 @@ export default function DenagoPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Service</h3>
                 <p className="text-gray-600">
-                  Expert DENAGO service and support right here in the City of Chesapeake with 
+                  Expert DENAGO service and support right here in the City of Rhode Island with 
                   genuine parts and factory-trained technicians.
                 </p>
               </div>

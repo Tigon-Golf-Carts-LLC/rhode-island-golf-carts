@@ -7,7 +7,7 @@ export default function FeedbackPolicyPage() {
       <SEOHead 
         title="Feedback Policy | Rhode Island Golf Carts"
         description="Learn how to provide feedback to Rhode Island Golf Carts. Our commitment to customer feedback, review process, and continuous improvement in Pennsylvania."
-        keywords="feedback policy, customer feedback, Chesapeake golf carts, customer service policy"
+        keywords="feedback policy, customer feedback, Rhode Island golf carts, customer service policy"
       />
       
       {/* Hero Section */}

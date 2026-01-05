@@ -12,7 +12,7 @@ export default function EvolutionD6MaxGT4() {
       <SEOHead 
         title="EVOLUTION® D6 MAX GT4 - Performance Golf Cart | Rhode Island Golf Carts"
         description="Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. High-performance electric golf cart for discerning drivers."
-        keywords="EVOLUTION D6 MAX GT4, performance golf cart, luxury electric vehicle, high performance, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION D6 MAX GT4, performance golf cart, luxury electric vehicle, high performance, EVOLUTION dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d6-max-gt4"
         ogImage="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg"
         ogType="product"
@@ -100,7 +100,7 @@ export default function EvolutionD6MaxGT4() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Performance Features</h2>

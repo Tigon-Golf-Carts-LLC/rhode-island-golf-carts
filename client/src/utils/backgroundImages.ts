@@ -2,16 +2,16 @@
 // Uses the 10 professional showroom images featuring Rhode Island Golf Carts in Virginia
 
 const BACKGROUND_IMAGES = [
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%201_1764175757942.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%202_1764175757942.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%203_1764175757943.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%204_1764175757943.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%205_1764175757943.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%206_1764175757943.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%207_1764175757944.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%208_1764175757944.jpeg',
-  '/attached_assets/Chesapeake%20Golf%20Carts%20-Chesapeake%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%209_1764175757944.jpeg'
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL_1764175757942.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%201_1764175757942.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%202_1764175757942.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%203_1764175757943.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%204_1764175757943.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%205_1764175757943.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%206_1764175757943.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%207_1764175757944.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%208_1764175757944.jpeg',
+  '/attached_assets/Rhode Island%20Golf%20Carts%20-Rhode Island%20Virginia%20-%20LSV-NEV-MSV-PTV-UTV-%20STREET%20LEGAL%209_1764175757944.jpeg'
 ];
 
 function simpleHash(str: string): number {

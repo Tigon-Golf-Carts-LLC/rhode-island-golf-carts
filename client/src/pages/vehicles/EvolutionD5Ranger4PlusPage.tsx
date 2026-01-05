@@ -10,7 +10,7 @@ export default function EvolutionD5Ranger4PlusPage() {
       price="$9,595"
       image={evolutionD5Ranger4PlusImage}
       seoTitle="EVOLUTION D5 RANGER 4 PLUS"
-      seoDescription="Discover the EVOLUTION D5 RANGER 4 PLUS electric golf cart - a premium 4-passenger vehicle with enhanced comfort and performance features in Chesapeake, VA. Call 804-792-0234."
+      seoDescription="Discover the EVOLUTION D5 RANGER 4 PLUS electric golf cart - a premium 4-passenger vehicle with enhanced comfort and performance features in Rhode Island, VA. Call 804-792-0234."
       seoKeywords="EVOLUTION D5 RANGER 4 PLUS, 4-seat golf cart, premium electric vehicle, Rhode Island, Virginia"
       canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d5-ranger-4-plus"
       seats="4"
@@ -27,7 +27,7 @@ export default function EvolutionD5Ranger4PlusPage() {
         "Weather Protection",
         "Quality Materials"
       ]}
-      description="Premium 4-passenger golf cart with enhanced comfort and performance features. The EVOLUTION D5 RANGER 4 PLUS delivers reliable performance with premium appointments for Chesapeake families."
+      description="Premium 4-passenger golf cart with enhanced comfort and performance features. The EVOLUTION D5 RANGER 4 PLUS delivers reliable performance with premium appointments for Rhode Island families."
       tigoUrl="https://rhodeislandgolfcarts.com/evolution/d5-ranger/4-plus/"
     />
   );

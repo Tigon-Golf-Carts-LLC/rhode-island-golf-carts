@@ -7,7 +7,7 @@ export default function DeliveryPolicyPage() {
       <SEOHead 
         title="Delivery Policy"
         description="Comprehensive delivery services throughout Pennsylvania and surrounding areas for golf cart sales and rentals with free delivery zones and professional scheduling. Call 804-792-0234."
-        keywords="delivery policy, golf cart delivery, Chesapeake delivery, Pennsylvania golf cart shipping"
+        keywords="delivery policy, golf cart delivery, Rhode Island delivery, Pennsylvania golf cart shipping"
         canonicalUrl="https://rhodeislandgolfcarts.com/policies/delivery-policy"
         ogImageWidth={1200}
         ogImageHeight={800}
@@ -45,7 +45,7 @@ export default function DeliveryPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Free Delivery Zone</h3>
               <p className="mb-4">Complimentary delivery within:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>All Chesapeake municipalities (39 locations)</li>
+                <li>All Rhode Island municipalities (39 locations)</li>
                 <li>20-mile radius from TIGON Golf Carts Pocono location</li>
                 <li>15-mile radius from TIGON Golf Carts Scranton location</li>
                 <li>Minimum purchase of $5,000 for golf cart sales</li>
@@ -87,7 +87,7 @@ export default function DeliveryPolicyPage() {
                 <li>Available for orders placed before 2:00 PM</li>
                 <li>Subject to vehicle availability</li>
                 <li>Additional $50 rush delivery fee within free zone</li>
-                <li>Limited to Chesapeake municipalities</li>
+                <li>Limited to Rhode Island municipalities</li>
               </ul>
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Standard Rental Delivery</h3>

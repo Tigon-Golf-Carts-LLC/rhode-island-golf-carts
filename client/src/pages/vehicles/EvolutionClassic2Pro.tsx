@@ -12,7 +12,7 @@ export default function EvolutionClassic2Pro() {
       <SEOHead 
         title="EVOLUTION® Classic 2 Pro - Professional Golf Cart | Rhode Island Golf Carts"
         description="Experience the EVOLUTION® Classic 2 Pro with enhanced features and performance. Professional grade 2-passenger golf cart with premium reliability."
-        keywords="EVOLUTION Classic 2 Pro, professional golf cart, 2-passenger, enhanced performance, EVOLUTION dealer Chesapeake"
+        keywords="EVOLUTION Classic 2 Pro, professional golf cart, 2-passenger, enhanced performance, EVOLUTION dealer Rhode Island"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">

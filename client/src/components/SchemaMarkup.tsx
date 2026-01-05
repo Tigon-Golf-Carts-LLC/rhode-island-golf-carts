@@ -17,11 +17,11 @@ export const generateOrganizationSchema = () => ({
   "@type": "Organization",
   "name": "Rhode Island Golf Carts",
   "alternateName": "CGC",
-  "description": "Premier golf cart dealer in Chesapeake, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "description": "Premier golf cart dealer in Rhode Island, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
-  "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+  "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
   "image": [
-    "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+    "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
     "https://rhodeislandgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
   "telephone": "804-792-0234",
@@ -52,8 +52,8 @@ export const generateOrganizationSchema = () => ({
   "slogan": "Professional golf cart services delivered to your community",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/ChesapeakeGolfCarts/",
-    "https://www.youtube.com/@ChesapeakeGolfCarts",
+    "https://www.facebook.com/Rhode IslandGolfCarts/",
+    "https://www.youtube.com/@Rhode IslandGolfCarts",
     "https://www.pinterest.com/chesapeakegolfcarts/"
   ],
   "hasOfferCatalog": {
@@ -90,7 +90,7 @@ export const generateLocalBusinessSchema = () => ({
   "@type": "LocalBusiness",
   "@id": "https://rhodeislandgolfcarts.com/#localbusiness",
   "name": "Rhode Island Golf Carts",
-  "description": "Premier golf cart dealer serving Chesapeake Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
+  "description": "Premier golf cart dealer serving Rhode Island Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
   "telephone": "804-792-0234",
   "email": "sales@rhodeislandgolfcarts.com",
@@ -115,7 +115,7 @@ export const generateLocalBusinessSchema = () => ({
     "longitude": -76.5074161
   },
   "areaServed": [
-    "Chesapeake", "Norfolk", "Virginia Beach", "Portsmouth", "Suffolk",
+    "Rhode Island", "Norfolk", "Rhode Island", "Portsmouth", "Suffolk",
     "Hampton", "Newport News", "Rhode Island", "Great Bridge", "Deep Creek",
     "Greenbrier", "Western Branch", "South Norfolk", "Hickory", "Indian River"
   ],
@@ -239,7 +239,7 @@ export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Chesapeake, Virginia",
+  "description": "Comprehensive golf cart sales, service, repair, and rental services in Rhode Island, Virginia",
   "provider": {
     "@type": "LocalBusiness",
     "name": "Rhode Island Golf Carts"
@@ -339,7 +339,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Chesapeake, Virginia`,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Rhode Island, Virginia`,
   "url": `https://rhodeislandgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
@@ -349,7 +349,7 @@ export const generateTownPageSchema = (townName: string) => ({
       "name": townName,
       "containedInPlace": {
         "@type": "AdministrativeArea",
-        "name": "City of Chesapeake",
+        "name": "City of Rhode Island",
         "containedInPlace": {
           "@type": "State",
           "name": "Virginia"

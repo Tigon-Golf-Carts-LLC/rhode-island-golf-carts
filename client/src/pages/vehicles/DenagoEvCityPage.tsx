@@ -10,7 +10,7 @@ export default function DenagoEvCityPage() {
       price="$15,000"
       image={denagoEvCityImage}
       seoTitle="DENAGO EV CITY"
-      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Chesapeake, VA. Call 804-792-0234."
+      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Rhode Island, VA. Call 804-792-0234."
       seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Rhode Island, Virginia, electric vehicle"
       canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-city"
       seats="2"
@@ -27,7 +27,7 @@ export default function DenagoEvCityPage() {
         "Digital Display",
         "Comfortable Seating"
       ]}
-      description="Urban mobility redefined with sleek design and efficient performance. The DENAGO EV CITY is built for street legal operation with premium features perfect for Chesapeake's urban environments."
+      description="Urban mobility redefined with sleek design and efficient performance. The DENAGO EV CITY is built for street legal operation with premium features perfect for Rhode Island's urban environments."
       tigoUrl="https://rhodeislandgolfcarts.com/denago-ev/city/"
     />
   );

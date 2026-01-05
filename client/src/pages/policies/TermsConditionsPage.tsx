@@ -7,7 +7,7 @@ export default function TermsConditionsPage() {
       <SEOHead 
         title="Terms & Conditions | Rhode Island Golf Carts"
         description="Read the complete terms and conditions for Rhode Island Golf Carts. Understand your rights and responsibilities when purchasing, renting, or servicing golf carts in Pennsylvania."
-        keywords="terms conditions, Chesapeake golf carts, Pennsylvania golf cart terms, legal agreement"
+        keywords="terms conditions, Rhode Island golf carts, Pennsylvania golf cart terms, legal agreement"
       />
       
       {/* Hero Section */}
