@@ -42,7 +42,7 @@ export default function NewInventoryPage() {
     <>
       <SEOHead 
         title="Golf Cart Inventory"
-        description="Discover our extensive selection of premium new and used golf carts from DENAGO and EVOLUTION, with flexible financing and expert service. Call 804-792-0234."
+        description="Discover our extensive selection of premium new and used golf carts from DENAGO and EVOLUTION, with flexible financing and expert service. Call 1-844-844-6638."
         keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, Rhode Island golf carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/inventory"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_HwaTErKvQGq-sH0qdYI8Pw_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
@@ -243,9 +243,9 @@ export default function NewInventoryPage() {
                   Contact Our Team
                 </Button>
               </Link>
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -262,7 +262,7 @@ export default function NewInventoryPage() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our golf cart specialists</p>
                 </CardContent>
               </Card>

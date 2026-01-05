@@ -176,7 +176,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           postalCode: "23072",
           addressCountry: "US"
         }}
-        telephone="804-792-0234"
+        telephone="1-844-844-6638"
         email="info@rhodeislandgolfcarts.com"
         brands={["DENAGO", "EVOLUTION"]}
         services={["Golf Cart Sales", "Golf Cart Service", "Golf Cart Rentals", "Financing", "Parts & Accessories"]}
@@ -194,7 +194,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {/* Contact Point Schema */}
       <ContactPointSchema
         contactType="customer service"
-        telephone="804-792-0234"
+        telephone="1-844-844-6638"
         email="info@rhodeislandgolfcarts.com"
         areaServed="Rhode Island, Virginia"
         availableLanguage={["English"]}
@@ -375,7 +375,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               latitude: locationLatitude,
               longitude: locationLongitude
             } : undefined}
-            telephone="804-792-0234"
+            telephone="1-844-844-6638"
             url={url}
             containedInPlace={{
               name: "Rhode Island",
@@ -398,7 +398,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               postalCode: "23072",
               addressCountry: "US"
             }}
-            telephone="804-792-0234"
+            telephone="1-844-844-6638"
             email="info@rhodeislandgolfcarts.com"
             brands={["DENAGO", "EVOLUTION"]}
             services={["Golf Cart Sales", "Service & Repair", "Rentals", "Parts & Accessories"]}
@@ -426,7 +426,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               postalCode: "23072",
               addressCountry: "US"
             }}
-            telephone="804-792-0234"
+            telephone="1-844-844-6638"
             email="info@rhodeislandgolfcarts.com"
             areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
@@ -539,7 +539,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               postalCode: "23072",
               addressCountry: "US"
             }}
-            telephone="804-792-0234"
+            telephone="1-844-844-6638"
             email="info@rhodeislandgolfcarts.com"
             areaServed="Rhode Island, Virginia"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}

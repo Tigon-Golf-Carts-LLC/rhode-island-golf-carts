@@ -384,7 +384,7 @@ export function NewLackawannaCountyMunicipalityRentalPage({ municipalitySlug }: 
               <CardContent className="p-6 text-center">
                 <Phone className="h-8 w-8 text-theme-orange mx-auto mb-4" />
                 <h3 className="font-semibold mb-2">Call to Reserve</h3>
-                <p className="text-theme-orange font-bold">804-792-0234</p>
+                <p className="text-theme-orange font-bold">1-844-844-6638</p>
               </CardContent>
             </Card>
             <Card className="bg-white text-gray-900 border-0">

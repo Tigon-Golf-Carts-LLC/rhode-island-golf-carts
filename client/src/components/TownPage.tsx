@@ -275,7 +275,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our {townName} golf cart specialists</p>
                 </CardContent>
               </Card>
@@ -390,7 +390,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-              Call 804-792-0234
+              Call 1-844-844-6638
             </Button>
             <Button size="lg" variant="outline" className="text-blue-600 bg-white border-white hover:bg-gray-100 hover:text-blue-600">
               Request Quote for {townName}

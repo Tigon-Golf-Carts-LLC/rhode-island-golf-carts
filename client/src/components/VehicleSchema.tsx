@@ -44,7 +44,7 @@ export default function VehicleSchema({
         "seller": {
           "@type": "Organization",
           "name": "Rhode Island Golf Carts",
-          "telephone": "804-792-0234",
+          "telephone": "1-844-844-6638",
           "email": "sales@rhodeislandgolfcarts.com",
           "address": {
             "@type": "PostalAddress",

@@ -249,9 +249,9 @@ export default function EvolutionD5Ranger22Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -268,7 +268,7 @@ export default function EvolutionD5Ranger22Plus() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>

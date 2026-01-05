@@ -174,7 +174,7 @@ export default function VehicleDetailPage() {
 
           {/* Action Buttons */}
           <div className="space-y-4">
-            <a href="tel:804-792-0234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Schedule Test Drive
@@ -245,7 +245,7 @@ export default function VehicleDetailPage() {
             Contact our sales team to schedule a test drive, discuss financing options, or get more information about this {vehicle.name}.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="tel:804-792-0234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Contact Sales Team

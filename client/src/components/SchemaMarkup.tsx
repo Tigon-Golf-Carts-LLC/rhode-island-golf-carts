@@ -24,7 +24,7 @@ export const generateOrganizationSchema = () => ({
     "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
     "https://rhodeislandgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "804-792-0234",
+  "telephone": "1-844-844-6638",
   "email": "sales@rhodeislandgolfcarts.com",
   "address": {
     "@type": "PostalAddress",
@@ -92,7 +92,7 @@ export const generateLocalBusinessSchema = () => ({
   "name": "Rhode Island Golf Carts",
   "description": "Premier golf cart dealer serving Rhode Island Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
-  "telephone": "804-792-0234",
+  "telephone": "1-844-844-6638",
   "email": "sales@rhodeislandgolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -195,7 +195,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "seller": {
       "@type": "Organization",
       "name": "Rhode Island Golf Carts",
-      "telephone": "804-792-0234",
+      "telephone": "1-844-844-6638",
       "email": "sales@rhodeislandgolfcarts.com"
     },
     "url": `https://rhodeislandgolfcarts.com/vehicles/${vehicle.id}`
@@ -320,7 +320,7 @@ export const generateContactPageSchema = () => ({
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "804-792-0234",
+        "telephone": "1-844-844-6638",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"

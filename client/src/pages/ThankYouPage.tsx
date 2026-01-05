@@ -10,7 +10,7 @@ export default function ThankYouPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Thank You!"
-        description="Thank you for contacting Rhode Island Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 804-792-0234."
+        description="Thank you for contacting Rhode Island Golf Carts - we'll respond to your inquiry within 24 hours with expert assistance for all your golf cart needs. Call 1-844-844-6638."
         keywords="thank you, contact confirmation, Rhode Island Golf Carts, TIGON Golf Carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/thank-you"
         ogImageWidth={1200}
@@ -64,10 +64,10 @@ export default function ThankYouPage() {
                 </p>
                 <div className="space-y-3">
                   <a 
-                    href="tel:804-792-0234" 
+                    href="tel:1-844-844-6638" 
                     className="block text-2xl font-bold text-theme-orange hover:text-orange-300 transition-colors"
                   >
-                    804-792-0234
+                    1-844-844-6638
                   </a>
                   <div className="text-sm text-gray-300">
                     <p>Monday-Friday: 9:00 AM - 5:00 PM</p>

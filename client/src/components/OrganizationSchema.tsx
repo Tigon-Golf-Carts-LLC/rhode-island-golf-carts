@@ -14,7 +14,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "url": "https://rhodeislandgolfcarts.com",
       "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
       "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
-      "telephone": "804-792-0234",
+      "telephone": "1-844-844-6638",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {
         "@type": "PostalAddress",
@@ -120,7 +120,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "804-792-0234",
+          "telephone": "1-844-844-6638",
           "contactType": "customer service",
           "availableLanguage": "English"
         }

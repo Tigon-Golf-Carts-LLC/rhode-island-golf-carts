@@ -63,7 +63,7 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Rhode Island Golf Carts"
-        description="Discover Virginia's most trusted golf cart dealer serving the City of Rhode Island and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 804-792-0234."
+        description="Discover Virginia's most trusted golf cart dealer serving the City of Rhode Island and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 1-844-844-6638."
         keywords="Rhode Island VA golf carts, about us, golf cart dealer Virginia, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://rhodeislandgolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
@@ -166,7 +166,7 @@ export default function NewAboutPage() {
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Rhode Island Golf Carts</h4>
                       <p className="text-gray-600">Serving all City of Rhode Island, VA</p>
-                      <p className="text-gray-700">804-792-0234</p>
+                      <p className="text-gray-700">1-844-844-6638</p>
                       <p className="text-gray-600">info@rhodeislandgolfcarts.com</p>
                       <p className="text-gray-600">sales@rhodeislandgolfcarts.com</p>
                     </div>
@@ -302,9 +302,9 @@ export default function NewAboutPage() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -320,7 +320,7 @@ export default function NewAboutPage() {
                   <CardTitle>Call Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-orange mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-theme-orange mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Available 7 days a week</p>
                 </CardContent>
               </Card>

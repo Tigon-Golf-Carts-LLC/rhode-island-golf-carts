@@ -8,7 +8,7 @@ export const BRANDING = {
   description: "Premier golf cart dealer in Rhode Island specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals serving all of Rhode Island.",
 
   // Contact Information
-  phone: "844-844-6638",
+  phone: "1-844-844-6638",
   email: "sales@rhodeislandgolfcarts.com",
 
   // Address (Rhode Island Showroom)
@@ -61,7 +61,7 @@ export const BRANDING = {
 
   // Legacy values for reference
   legacy: {
-    name: "Rhode Island Golf Carts",
+    name: "Chesapeake Golf Carts",
     phone: "804-792-0234",
     url: "https://chesapeakegolfcarts.com",
     location: "Gloucester Point, Virginia",

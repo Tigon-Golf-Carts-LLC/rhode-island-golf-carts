@@ -187,7 +187,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to find your perfect golf cart? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call us at 804-792-0234. Our friendly team is here to help you find the best local deals on premium electric golf carts in Rhode Island, Virginia."
+      conclusion: "Ready to find your perfect golf cart? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call us at 1-844-844-6638. Our friendly team is here to help you find the best local deals on premium electric golf carts in Rhode Island, Virginia."
     },
     internalLinks: [
       { text: "View Our Full Inventory", url: "/inventory" },
@@ -320,7 +320,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Explore our complete selection of new and used golf carts at our George Washington Memorial Hwy location. Call 804-792-0234 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
+      conclusion: "Explore our complete selection of new and used golf carts at our George Washington Memorial Hwy location. Call 1-844-844-6638 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
     },
     internalLinks: [
       { text: "Browse All Inventory", url: "/inventory" },
@@ -474,7 +474,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Visit Rhode Island's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Rhode Island, VA. Call 804-792-0234 for more information."
+      conclusion: "Visit Rhode Island's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Rhode Island, VA. Call 1-844-844-6638 for more information."
     },
     internalLinks: [
       { text: "View Complete Inventory", url: "/inventory" },
@@ -629,7 +629,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience the electric advantage with a new golf cart from Rhode Island Golf Carts. Visit our showroom at 2810 George Washington Memorial Hwy or call 804-792-0234 to learn about our fast local delivery options."
+      conclusion: "Experience the electric advantage with a new golf cart from Rhode Island Golf Carts. Visit our showroom at 2810 George Washington Memorial Hwy or call 1-844-844-6638 to learn about our fast local delivery options."
     },
     internalLinks: [
       { text: "Shop Electric Inventory", url: "/inventory" },
@@ -806,7 +806,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to go street-legal? Visit Rhode Island Golf Carts to see our complete selection of DOT-approved golf carts. Call 804-792-0234 or stop by 2810 George Washington Memorial Hwy today."
+      conclusion: "Ready to go street-legal? Visit Rhode Island Golf Carts to see our complete selection of DOT-approved golf carts. Call 1-844-844-6638 or stop by 2810 George Washington Memorial Hwy today."
     },
     internalLinks: [
       { text: "View Street-Legal Inventory", url: "/inventory" },
@@ -961,7 +961,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Join thousands of satisfied Rhode Island customers who've chosen Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to experience our top-rated service."
+      conclusion: "Join thousands of satisfied Rhode Island customers who've chosen Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 1-844-844-6638 to experience our top-rated service."
     },
     internalLinks: [
       { text: "See Our Inventory", url: "/inventory" },
@@ -1116,7 +1116,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Affordable golf cart ownership starts at Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to explore your budget-friendly options today."
+      conclusion: "Affordable golf cart ownership starts at Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 1-844-844-6638 to explore your budget-friendly options today."
     },
     internalLinks: [
       { text: "Browse Affordable Inventory", url: "/inventory" },
@@ -1293,7 +1293,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to put your knowledge to use? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy where our experts can answer all your questions. Call 804-792-0234 for personalized guidance."
+      conclusion: "Ready to put your knowledge to use? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy where our experts can answer all your questions. Call 1-844-844-6638 for personalized guidance."
     },
     internalLinks: [
       { text: "View Our Inventory", url: "/inventory" },
@@ -1470,7 +1470,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience premium golf cart ownership at Rhode Island Golf Carts. Schedule a VIP showing at our George Washington Memorial Hwy showroom by calling 804-792-0234."
+      conclusion: "Experience premium golf cart ownership at Rhode Island Golf Carts. Schedule a VIP showing at our George Washington Memorial Hwy showroom by calling 1-844-844-6638."
     },
     internalLinks: [
       { text: "View Premium Inventory", url: "/inventory" },
@@ -1625,7 +1625,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience the difference of working with a trusted local dealer. Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call 804-792-0234."
+      conclusion: "Experience the difference of working with a trusted local dealer. Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call 1-844-844-6638."
     },
     internalLinks: [
       { text: "About Our Dealership", url: "/about" },
@@ -1802,7 +1802,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "See our selection of lifted golf carts at Rhode Island Golf Carts. Located at 2810 George Washington Memorial Hwy, or call 804-792-0234 to discuss your lifting options."
+      conclusion: "See our selection of lifted golf carts at Rhode Island Golf Carts. Located at 2810 George Washington Memorial Hwy, or call 1-844-844-6638 to discuss your lifting options."
     },
     internalLinks: [
       { text: "Shop Lifted Inventory", url: "/inventory" },
@@ -1979,7 +1979,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Start designing your custom golf cart today at Rhode Island Golf Carts. Visit our showroom at 2810 George Washington Memorial Hwy or call 804-792-0234 to discuss your vision."
+      conclusion: "Start designing your custom golf cart today at Rhode Island Golf Carts. Visit our showroom at 2810 George Washington Memorial Hwy or call 1-844-844-6638 to discuss your vision."
     },
     internalLinks: [
       { text: "View Base Models", url: "/inventory" },
@@ -2134,7 +2134,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Find the perfect family golf cart at Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 804-792-0234 to see our family-friendly selection."
+      conclusion: "Find the perfect family golf cart at Rhode Island Golf Carts. Visit us at 2810 George Washington Memorial Hwy or call 1-844-844-6638 to see our family-friendly selection."
     },
     internalLinks: [
       { text: "Shop Family Models", url: "/inventory" },
@@ -2311,7 +2311,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Find your perfect neighborhood golf cart at Rhode Island Golf Carts. Visit 2810 George Washington Memorial Hwy or call 804-792-0234 today."
+      conclusion: "Find your perfect neighborhood golf cart at Rhode Island Golf Carts. Visit 2810 George Washington Memorial Hwy or call 1-844-844-6638 today."
     },
     internalLinks: [
       { text: "View Neighborhood Models", url: "/inventory" },
@@ -2466,7 +2466,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Shop outlet prices at Rhode Island Golf Carts. Visit 2810 George Washington Memorial Hwy or call 804-792-0234 to see current specials."
+      conclusion: "Shop outlet prices at Rhode Island Golf Carts. Visit 2810 George Washington Memorial Hwy or call 1-844-844-6638 to see current specials."
     },
     internalLinks: [
       { text: "View Current Inventory", url: "/inventory" },
@@ -2621,7 +2621,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience high-performance golf carts at Rhode Island Golf Carts. Call 804-792-0234 to schedule your test ride today."
+      conclusion: "Experience high-performance golf carts at Rhode Island Golf Carts. Call 1-844-844-6638 to schedule your test ride today."
     },
     internalLinks: [
       { text: "Performance Inventory", url: "/inventory" },
@@ -2776,7 +2776,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Apply for golf cart financing today at Rhode Island Golf Carts. Visit 2810 George Washington Memorial Hwy or call 804-792-0234 to get started."
+      conclusion: "Apply for golf cart financing today at Rhode Island Golf Carts. Visit 2810 George Washington Memorial Hwy or call 1-844-844-6638 to get started."
     },
     internalLinks: [
       { text: "View Inventory", url: "/inventory" },
@@ -2931,7 +2931,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Explore recreational and community golf cart options at Rhode Island Golf Carts. Call 804-792-0234 or visit 2810 George Washington Memorial Hwy."
+      conclusion: "Explore recreational and community golf cart options at Rhode Island Golf Carts. Call 1-844-844-6638 or visit 2810 George Washington Memorial Hwy."
     },
     internalLinks: [
       { text: "View Multi-Passenger Models", url: "/inventory" },
@@ -3086,7 +3086,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Experience luxury golf cart ownership at Rhode Island Golf Carts. Schedule a private showing by calling 804-792-0234."
+      conclusion: "Experience luxury golf cart ownership at Rhode Island Golf Carts. Schedule a private showing by calling 1-844-844-6638."
     },
     internalLinks: [
       { text: "View Luxury Inventory", url: "/inventory" },
@@ -3241,7 +3241,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Visit your local golf cart source today. Rhode Island Golf Carts at 2810 George Washington Memorial Hwy—call 804-792-0234."
+      conclusion: "Visit your local golf cart source today. Rhode Island Golf Carts at 2810 George Washington Memorial Hwy—call 1-844-844-6638."
     },
     internalLinks: [
       { text: "Shop Inventory", url: "/inventory" },

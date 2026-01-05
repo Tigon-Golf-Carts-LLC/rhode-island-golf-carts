@@ -6,7 +6,7 @@ export default function RentalPolicyPage() {
     <>
       <SEOHead 
         title="Rental Policy"
-        description="Complete golf cart rental terms, requirements, and responsibilities for Rhode Island, Virginia including age requirements, deposits, and operating guidelines. Call 804-792-0234."
+        description="Complete golf cart rental terms, requirements, and responsibilities for Rhode Island, Virginia including age requirements, deposits, and operating guidelines. Call 1-844-844-6638."
         keywords="rental policy, golf cart rental, Rhode Island rentals, Pennsylvania golf cart rental policy"
         canonicalUrl="https://rhodeislandgolfcarts.com/policies/rental-policy"
         ogImageWidth={1200}
@@ -156,7 +156,7 @@ export default function RentalPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Accidents</h3>
               <ul className="list-disc pl-6 mb-6">
                 <li>Contact 911 if anyone is injured</li>
-                <li>Call Rhode Island Golf Carts immediately: 804-792-0234</li>
+                <li>Call Rhode Island Golf Carts immediately: 1-844-844-6638</li>
                 <li>Do not admit fault or make statements about the incident</li>
                 <li>Take photos of damage and scene if safe to do so</li>
                 <li>Obtain contact information from other parties involved</li>
@@ -165,7 +165,7 @@ export default function RentalPolicyPage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Breakdowns</h3>
               <ul className="list-disc pl-6 mb-6">
-                <li>Contact our 24/7 support line: 804-792-0234</li>
+                <li>Contact our 24/7 support line: 1-844-844-6638</li>
                 <li>Provide location and description of problem</li>
                 <li>Do not attempt repairs yourself</li>
                 <li>Replacement golf cart provided when possible</li>
@@ -177,7 +177,7 @@ export default function RentalPolicyPage() {
                 <p className="mb-2"><strong>Rental Department</strong></p>
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234 (24/7 Support)</p>
+                <p className="mb-2">Phone: 1-844-844-6638 (24/7 Support)</p>
                 <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p>Website: rhodeislandgolfcarts.com</p>
               </div>

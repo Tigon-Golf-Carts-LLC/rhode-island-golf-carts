@@ -60,7 +60,7 @@ export default function Footer() {
           {/* Mobile: Contact Info */}
           <div className="md:hidden">
             <div className="space-y-2">
-              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:844-844-6638" className="hover:text-blue-600">844-844-6638</a></p>
+              <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
               <p className="text-gray-600 text-sm">Email: sales@rhodeislandgolfcarts.com</p>
               <p className="text-gray-600 text-sm">Rhode Island</p>
               <div className="text-gray-600 text-sm">
@@ -137,7 +137,7 @@ export default function Footer() {
                 <li><Link href="/policies/staffing-report" className="text-gray-600 hover:text-gray-900 text-sm">Staffing Report</Link></li>
               </ul>
               <div className="space-y-2">
-                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:844-844-6638" className="hover:text-blue-600">844-844-6638</a></p>
+                <p className="text-gray-900 font-semibold text-sm">Phone: <a href="tel:1-844-844-6638" className="hover:text-blue-600">1-844-844-6638</a></p>
                 <p className="text-gray-600 text-sm">Email: sales@rhodeislandgolfcarts.com</p>
                 <p className="text-gray-600 text-sm">Rhode Island</p>
                 <div className="text-gray-600 text-sm">

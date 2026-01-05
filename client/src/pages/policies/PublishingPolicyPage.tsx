@@ -175,7 +175,7 @@ export default function PublishingPolicyPage() {
                 <p className="mb-2"><strong>Content and Marketing Department</strong></p>
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">For content corrections or suggestions</p>
                 <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>Response time: 24-48 hours for content inquiries</p>

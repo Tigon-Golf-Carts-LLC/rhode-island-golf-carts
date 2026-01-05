@@ -201,7 +201,7 @@ export default function BlogPostPage() {
                     </div>
                     <div className="flex items-center">
                       <Phone className="w-5 h-5 mr-3 text-[#ff6100]" />
-                      <a href="tel:804-792-0234" className="hover:text-[#ff6100]">804-792-0234</a>
+                      <a href="tel:1-844-844-6638" className="hover:text-[#ff6100]">1-844-844-6638</a>
                     </div>
                     <div className="flex items-center">
                       <Mail className="w-5 h-5 mr-3 text-[#ff6100]" />

@@ -37,7 +37,7 @@ export default function LocalBusinessSchema({
     latitude: "37.2850625",
     longitude: "-76.5074161"
   },
-  telephone = "804-792-0234",
+  telephone = "1-844-844-6638",
   email = "sales@rhodeislandgolfcarts.com",
   url = "https://rhodeislandgolfcarts.com",
   openingHours = [

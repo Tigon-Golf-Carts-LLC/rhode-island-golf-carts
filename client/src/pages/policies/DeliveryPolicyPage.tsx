@@ -6,7 +6,7 @@ export default function DeliveryPolicyPage() {
     <>
       <SEOHead 
         title="Delivery Policy"
-        description="Comprehensive delivery services throughout Pennsylvania and surrounding areas for golf cart sales and rentals with free delivery zones and professional scheduling. Call 804-792-0234."
+        description="Comprehensive delivery services throughout Pennsylvania and surrounding areas for golf cart sales and rentals with free delivery zones and professional scheduling. Call 1-844-844-6638."
         keywords="delivery policy, golf cart delivery, Rhode Island delivery, Pennsylvania golf cart shipping"
         canonicalUrl="https://rhodeislandgolfcarts.com/policies/delivery-policy"
         ogImageWidth={1200}
@@ -159,7 +159,7 @@ export default function DeliveryPolicyPage() {
                 <p className="mb-2"><strong>Delivery Scheduling</strong></p>
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p className="mb-2">Hours: Monday-Saturday 8:00 AM - 6:00 PM</p>
                 <p>Sunday: 10:00 AM - 4:00 PM</p>

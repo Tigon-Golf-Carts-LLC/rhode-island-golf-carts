@@ -330,9 +330,9 @@ export default function AboutPage() {
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Visit Our Showroom
             </Button>
-            <a href="tel:804-792-0234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
-                Call 804-792-0234
+                Call 1-844-844-6638
               </Button>
             </a>
           </div>

@@ -206,7 +206,7 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION® Golf Carts - Rhode Island Golf Carts"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Rhode Island, VA. Call 804-792-0234."
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Rhode Island, VA. Call 1-844-844-6638."
         keywords="EVOLUTION golf carts Rhode Island, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
         canonicalUrl="https://rhodeislandgolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
@@ -233,10 +233,10 @@ export default function EvolutionPage() {
               premium quality, innovative design, and reliable performance for the City of Rhode Island, Virginia.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <Link href="/inventory">
@@ -489,10 +489,10 @@ export default function EvolutionPage() {
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <Link href="/contact">

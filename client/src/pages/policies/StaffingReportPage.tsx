@@ -231,7 +231,7 @@ export default function StaffingReportPage() {
                 <p className="mb-2"><strong>Human Resources Department</strong></p>
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>Career opportunities and employment inquiries welcome</p>

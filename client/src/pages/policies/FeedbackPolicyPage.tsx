@@ -70,7 +70,7 @@ export default function FeedbackPolicyPage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Direct Communication Channels</h3>
               <ul className="list-disc pl-6 mb-6">
                 <li><strong>Email:</strong> info@rhodeislandgolfcarts.com</li>
-                <li><strong>Phone:</strong> 804-792-0234</li>
+                <li><strong>Phone:</strong> 1-844-844-6638</li>
                 <li><strong>In-Person:</strong> Any TIGON Golf Carts location</li>
                 <li><strong>Mail:</strong> Written feedback to our business addresses</li>
                 <li><strong>Website:</strong> Contact form and feedback sections</li>
@@ -194,7 +194,7 @@ export default function FeedbackPolicyPage() {
                 <p className="mb-2"><strong>Customer Feedback Department</strong></p>
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>We appreciate your feedback and look forward to serving you better!</p>

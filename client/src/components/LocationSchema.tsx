@@ -24,7 +24,7 @@ export default function LocationSchema({
       "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
       "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
       "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
-      "telephone": "804-792-0234",
+      "telephone": "1-844-844-6638",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {
         "@type": "PostalAddress",

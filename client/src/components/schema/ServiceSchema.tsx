@@ -33,7 +33,7 @@ export default function ServiceSchema({
       "provider": {
         "@type": "LocalBusiness",
         "name": provider,
-        "telephone": "804-792-0234",
+        "telephone": "1-844-844-6638",
         "email": "sales@rhodeislandgolfcarts.com",
         "address": {
           "@type": "PostalAddress",
@@ -55,7 +55,7 @@ export default function ServiceSchema({
       "availableChannel": availableChannel.map(channel => ({
         "@type": "ServiceChannel",
         "serviceUrl": channel === "https://schema.org/OnlineChannel" ? "https://rhodeislandgolfcarts.com" : undefined,
-        "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "804-792-0234" : undefined
+        "serviceSmsNumber": channel === "https://schema.org/InStoreChannel" ? "1-844-844-6638" : undefined
       })),
       ...(offers.length > 0 && {
         "offers": offers.map(offer => ({

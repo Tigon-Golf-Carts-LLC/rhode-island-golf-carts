@@ -101,7 +101,7 @@ export default function TermsConditionsPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Rhode Island Golf Carts</strong></p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p>Website: rhodeislandgolfcarts.com</p>
               </div>

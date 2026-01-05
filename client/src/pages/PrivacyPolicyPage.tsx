@@ -5,7 +5,7 @@ export function PrivacyPolicyPage() {
     <>
       <SEOHead 
         title="Privacy Policy"
-        description="Learn how Rhode Island Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 804-792-0234."
+        description="Learn how Rhode Island Golf Carts collects, uses, and protects your personal information when you visit our website or purchase golf carts. Call 1-844-844-6638."
         keywords="privacy policy, data protection, personal information, Rhode Island Golf Carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/privacy-policy"
         ogImageWidth={1200}
@@ -120,7 +120,7 @@ export function PrivacyPolicyPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Rhode Island Golf Carts</strong></p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">Serving Rhode Island, Virginia</p>
                 <p>Website: rhodeislandgolfcarts.com</p>
               </div>

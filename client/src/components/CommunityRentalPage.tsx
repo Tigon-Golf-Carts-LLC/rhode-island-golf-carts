@@ -147,10 +147,10 @@ function CommunityRentalPage({
           <p>{plan.renewal}</p>
           <p>{plan.delivery}</p>
         </div>
-        <a href="tel:804-792-0234">
+        <a href="tel:1-844-844-6638">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 804-792-0234
+            Call 1-844-844-6638
           </Button>
         </a>
       </CardContent>
@@ -219,10 +219,10 @@ function CommunityRentalPage({
               Choose from our flexible daily, weekly, and monthly rental options.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="h-5 w-5" />
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 border-white">
@@ -286,8 +286,8 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Call Now</h3>
                 <p className="text-gray-600 mb-4">Speak with our rental specialists</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-2xl font-bold text-theme-orange">804-792-0234</span>
-                  <a href="tel:804-792-0234">
+                  <span className="text-2xl font-bold text-theme-orange">1-844-844-6638</span>
+                  <a href="tel:1-844-844-6638">
                     <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                       Call Now
                     </Button>
