@@ -88,22 +88,22 @@ export default function ServicesPage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="Rhode Island Golf Cart Services - Expert Maintenance & Repair in VA"
-        description="Professional golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Virginia. Certified technicians, quality parts, and comprehensive care."
-        keywords="golf cart service Rhode Island VA, golf cart repair Virginia, golf cart maintenance, battery service, customization"
+        description="Professional golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Rhode Island. Certified technicians, quality parts, and comprehensive care."
+        keywords="golf cart service Rhode Island VA, golf cart repair Rhode Island, golf cart maintenance, battery service, customization"
         canonicalUrl="https://rhodeislandgolfcarts.com/services"
       />
       <AllSchemas 
         pageType="services" 
         pageData={{
           title: "Rhode Island Golf Cart Services",
-          description: "Professional golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Virginia. Certified technicians, quality parts, and comprehensive care.",
+          description: "Professional golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Rhode Island. Certified technicians, quality parts, and comprehensive care.",
           url: "https://rhodeislandgolfcarts.com/services",
           breadcrumbs: [
             { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
             { name: "Services", url: "https://rhodeislandgolfcarts.com/services" }
           ],
           serviceName: "Golf Cart Services",
-          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Virginia",
+          serviceDescription: "Comprehensive golf cart maintenance, repair, customization, and warranty services in the City of Rhode Island, Rhode Island",
           serviceOffers: [
             { price: "Contact for pricing", description: "Maintenance & Repair Services" },
             { price: "Contact for pricing", description: "Battery Service & Replacement" },
@@ -120,7 +120,7 @@ export default function ServicesPage() {
               Golf Cart Services in the City of Rhode Island
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Professional maintenance, repair, and customization services for all golf cart brands throughout the City of Rhode Island, Virginia.
+              Professional maintenance, repair, and customization services for all golf cart brands throughout the City of Rhode Island, Rhode Island.
             </p>
           <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
             Schedule Service
@@ -244,9 +244,9 @@ export default function ServicesPage() {
             Keep your golf cart running smoothly with professional service
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:804-792-0234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                Call 804-792-0234
+                Call 1-844-844-6638
               </Button>
             </a>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
