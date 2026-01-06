@@ -11,15 +11,15 @@ export default function ShowroomPage() {
   const locations = [
     {
       name: "CHESAPEAKE GOLF CARTS",
-      address: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
-      phone: "804-792-0234",
+      address: "Rhode Island",
+      phone: "1-844-844-6638",
       coordinates: "37.2850625, -76.5074161",
       googleMapsUrl: "https://www.google.com/maps?cid=16682967888503617377",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
       websiteUrl: "https://tigongolfcarts.com/gloucester-point/",
       reviewUrl: "https://www.google.com/maps?cid=16682967888503617377",
-      pinterestUrl: "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/",
+      pinterestUrl: "https://www.pinterest.com/tigongolfcarts/gloucester-point-Rhode Island/",
       city: "Gloucester Point",
       type: "physical"
     }
@@ -29,8 +29,8 @@ export default function ShowroomPage() {
     <>
       <SEOHead 
         title="Rhode Island Golf Carts LSV Showroom | Gloucester Point VA"
-        description="Visit our Rhode Island Golf Carts showroom at 2810 George Washington Memorial Hwy, Gloucester Point, VA. Complete DENAGO and EVOLUTION lineup. Call 804-792-0234."
-        keywords="Rhode Island golf carts, golf carts showroom, golf cart dealership Virginia, DENAGO EVOLUTION, Gloucester Point VA golf carts, Rhode Island golf carts"
+        description="Visit our Rhode Island Golf Carts showroom at 2810 George Washington Memorial Hwy, Gloucester Point, VA. Complete DENAGO and EVOLUTION lineup. Call 1-844-844-6638."
+        keywords="Rhode Island golf carts, golf carts showroom, golf cart dealership Rhode Island, DENAGO EVOLUTION, Gloucester Point VA golf carts, Rhode Island golf carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/showroom"
         heroBackgroundImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_7zUe5Lu4Q5y7tCLWthTNUg_X4G12-7lSBK0VDHDYkTBEA_1753809417448.png"
         ogType="website"
@@ -45,7 +45,7 @@ export default function ShowroomPage() {
             Rhode Island Golf Carts LSV Showroom
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Visit our Rhode Island Golf Carts showroom in Gloucester Point, Virginia. 
+            Visit our Rhode Island Golf Carts showroom in Gloucester Point, Rhode Island. 
             Experience our full lineup of DENAGO and EVOLUTION electric vehicles serving Rhode Island and beyond.
           </p>
           <div className="flex justify-center">
@@ -272,7 +272,7 @@ export default function ShowroomPage() {
                 Schedule Visit
               </Button>
             </Link>
-            <a href="tel:804-792-0234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Today
