@@ -26,9 +26,9 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Rhode Island Golf Carts - Premier Virginia Dealership"
-        description="Experience Rhode Island Virginia's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 804-792-0234."
-        keywords="golf carts Rhode Island VA, electric golf carts Virginia, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
+        title="Rhode Island Golf Carts - Premier Golf Cart Dealership"
+        description="Experience Rhode Island's premier golf cart dealership with premium Denago and Evolution electric golf carts, expert service, and competitive financing. Call 1-844-844-6638."
+        keywords="golf carts Rhode Island,Rhode Island Golf Carts, electric golf carts, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
         canonicalUrl="https://rhodeislandgolfcarts.com/"
         ogImage="/attached_assets/a-photograph-captures-a-modern-golf-cart_rLoOKN00QDCYiu5YsJ0p9w_Dz9OzmyNQhyGya_DTODF2A_1756144059395.jpeg"
         ogType="website"
@@ -38,27 +38,27 @@ export default function HomePage() {
       <AllSchemas 
         pageType="home" 
         pageData={{
-          title: "Rhode Island Golf Carts - Premier Electric Golf Cart Dealership in Virginia",
-          description: "Discover premium electric golf carts from Denago and Evolution at Rhode Island Golf Carts. Expert sales, service, rentals, and financing throughout Rhode Island, VA.",
+          title: "Rhode Island Golf Carts - Your Golf Cart Dealership in Rhode Island",
+          description: "Discover premium electric golf carts from Denago and Evolution at Rhode Island Golf Carts. Expert sales, service, rentals, and financing throughout Rhode Island.",
           url: "https://rhodeislandgolfcarts.com/",
           breadcrumbs: [{ name: "Home", url: "https://rhodeislandgolfcarts.com/" }],
           reviews: [
             {
-              author: "John Smith",
+              author: "John Rickets",
               reviewBody: "Excellent service and quality golf carts. The team at Rhode Island Golf Carts helped me find the perfect cart for my needs.",
               reviewRating: 5,
               datePublished: "2025-01-15",
               headline: "Outstanding service and selection"
             },
             {
-              author: "Maria Garcia",
+              author: "Maria Garcias",
               reviewBody: "Professional staff and great prices. Highly recommend for anyone looking for golf carts in Rhode Island.",
               reviewRating: 5,
               datePublished: "2025-01-20",
               headline: "Professional and affordable"
             },
             {
-              author: "David Johnson",
+              author: "David Pecker",
               reviewBody: "Fast delivery and excellent customer support. The Evolution cart I purchased works perfectly.",
               reviewRating: 4,
               datePublished: "2025-01-22",
@@ -73,10 +73,10 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Rhode Island Golf Carts - Premier Virginia Dealership
+                Rhode Island Golf Carts - Premier   Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Rhode Island communities in and around Rhode Island, Virginia with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Rhode Island and surrounding Rhode Island areas.
+                Serving all 15 Rhode Island communities in and around Rhode Island with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Rhode Island and surrounding Rhode Island areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -86,7 +86,7 @@ export default function HomePage() {
                 </Link>
                 <a href="tel:804-792-0234">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
-                    Call Now 804-792-0234
+                    Call Now 1-844-844-6638
                   </Button>
                 </a>
               </div>
@@ -120,7 +120,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Premium Quality</h3>
               <p className="text-gray-600">
-                Top-rated brands including Yamaha, Club Car, EZGO, and Evolution with rigorous quality standards.
+                Top-rated brands including Denago, Swift EV, and Evolution with rigorous quality standards.
               </p>
             </div>
             
@@ -374,7 +374,7 @@ export default function HomePage() {
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Rhode Island, VA Map"
+                  title="Rhode Island Map"
                 />
               </div>
             </div>
@@ -407,7 +407,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving {CHESAPEAKE_MUNICIPALITIES.length} communities in and around Rhode Island Virginia! Professional golf cart sales, service, and rentals delivered throughout the region.
+            Serving {CHESAPEAKE_MUNICIPALITIES.length} communities in and around Rhode Island  ! Professional golf cart sales, service, and rentals delivered throughout the region.
           </p>
         </div>
       </section>
@@ -426,8 +426,8 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Rhode Island Golf Carts</h3>
-              <p className="text-sm text-gray-600 mb-2">2810 George Washington Memorial Hwy, Gloucester Point, VA 23072</p>
-              <p className="text-theme-orange font-semibold">804-792-0234</p>
+              <p className="text-sm text-gray-600 mb-2"></p>
+              <p className="text-theme-orange font-semibold">1-844-844-66384</p>
             </div>
           </div>
 
