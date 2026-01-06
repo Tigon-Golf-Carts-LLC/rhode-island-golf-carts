@@ -35,7 +35,7 @@ export default function AboutPage() {
     { year: "2013", event: "Expanded to serve all Rhode Island communities" },
     { year: "2016", event: "Added DENAGO to our brand portfolio" },
     { year: "2019", event: "Opened expanded service center" },
-    { year: "2024", event: "Reached 750+ satisfied customers across Virginia" }
+    { year: "2024", event: "Reached 750+ satisfied customers across " }
   ];
 
   return (
@@ -43,15 +43,15 @@ export default function AboutPage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="About Rhode Island Golf Carts - Premier Golf Cart Dealership Since 2008"
-        description="Learn about Rhode Island Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
-        keywords="about Rhode Island Golf Carts, golf cart dealership Virginia, Denago Evolution dealer, golf cart service team"
+        description="Learn about Rhode Island Golf Carts, 's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service."
+        keywords="about Rhode Island Golf Carts, golf cart dealership , Denago Evolution dealer, golf cart service team"
         canonicalUrl="https://rhodeislandgolfcarts.com/about"
       />
       <AllSchemas 
         pageType="about" 
         pageData={{
           title: "About Rhode Island Golf Carts",
-          description: "Learn about Rhode Island Golf Carts, Virginia's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
+          description: "Learn about Rhode Island Golf Carts, 's premier golf cart dealership since 2008. Expert team, authorized Denago and Evolution dealer with comprehensive service.",
           url: "https://rhodeislandgolfcarts.com/about",
           breadcrumbs: [
             { name: "Home", url: "https://rhodeislandgolfcarts.com/" },
@@ -109,7 +109,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2008 in Rhode Island, Virginia, Rhode Island Golf Carts began with a simple mission: 
+                Founded in 2008 in Rhode Island, , Rhode Island Golf Carts began with a simple mission: 
                 to provide high-quality golf carts and exceptional service to customers throughout the Rhode Island region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
@@ -330,9 +330,9 @@ export default function AboutPage() {
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Visit Our Showroom
             </Button>
-            <a href="tel:804-792-0234">
+            <a href="tel:1-844-844-6638">
               <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
-                Call 804-792-0234
+                Call 1-844-844-6638
               </Button>
             </a>
           </div>
