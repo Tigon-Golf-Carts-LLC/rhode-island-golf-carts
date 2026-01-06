@@ -18,9 +18,9 @@ export default function MunicipalityRentalPage({
   slug 
 }: MunicipalityRentalPageProps) {
   const fullLocationName = `${municipalityName} ${municipalityType}`;
-  const pageTitle = `Golf Cart Rentals in ${municipalityName}, VA | Rhode Island Golf Carts`;
-  const pageDescription = `Rent premium golf carts in ${municipalityName}, City of Rhode Island, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
-  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, City of Rhode Island golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${municipalityName} | Rhode Island Golf Carts`;
+  const pageDescription = `Rent premium golf carts in ${municipalityName}, City of Rhode Island. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
+  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, City of Rhode Island golf cart rental, golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -193,14 +193,14 @@ export default function MunicipalityRentalPage({
         <a href="tel:804-792-0234">
           <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
             <Phone className="w-4 h-4 mr-2" />
-            Call 804-792-0234
+            Call 1-844-844-6638
           </Button>
         </a>
       </CardContent>
     </Card>
   );
 
-  const businessPhone = "804-792-0234";
+  const businessPhone = "1-844-844-6638";
 
   return (
     <>
@@ -252,7 +252,7 @@ export default function MunicipalityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {municipalityName} 
-                and throughout the City of Rhode Island, Virginia.
+                and throughout the City of Rhode Island.
               </p>
             </div>
 
@@ -273,7 +273,7 @@ export default function MunicipalityRentalPage({
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Proudly serving {fullLocationName} and all of the City of Rhode Island with personalized, 
+                    Proudly serving {fullLocationName} and all of the Cities in Rhode Island with personalized, 
                     local customer service you can trust.
                   </p>
                 </CardContent>
@@ -333,7 +333,7 @@ export default function MunicipalityRentalPage({
                 6-Seater Golf Cart Rentals in {fullLocationName}
               </h2>
               <p className="text-lg text-gray-600">
-                Ideal for larger families and groups exploring {fullLocationName} and the City of Rhode Island together
+                Ideal for larger families and groups exploring {fullLocationName} and the State of Rhode Island together
               </p>
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
