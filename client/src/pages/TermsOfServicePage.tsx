@@ -5,7 +5,7 @@ export function TermsOfServicePage() {
     <>
       <SEOHead 
         title="Terms of Service"
-        description="Review our comprehensive terms and conditions for purchasing golf carts, rental services, and using our Rhode Island Golf Carts website. Call 804-792-0234."
+        description="Review our comprehensive terms and conditions for purchasing golf carts, rental services, and using our Rhode Island Golf Carts website. Call 1-844-844-6638."
         keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, Rhode Island Golf Carts"
         canonicalUrl="https://rhodeislandgolfcarts.com/terms-of-service"
         ogImageWidth={1200}
@@ -37,7 +37,7 @@ export function TermsOfServicePage() {
                 <li>Golf cart rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
-                <li>Delivery and pickup services throughout Rhode Island, Virginia</li>
+                <li>Delivery and pickup services throughout Rhode Island, Rhode Island</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Website Use and Restrictions</h2>
@@ -132,7 +132,7 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
-                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Rhode Island, Virginia.
+                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Rhode Island, Rhode Island.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Changes to Terms</h2>
@@ -150,7 +150,7 @@ export function TermsOfServicePage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>Berks County Golf Carts</strong></p>
                 <p className="mb-2">Email: info@berksgolfcarts.com</p>
-                <p className="mb-2">Phone: 804-792-0234</p>
+                <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p className="mb-2">TIGON Golf Carts Hatfield: 2333 Bethlehem Pike, Hatfield, PA 19440 | (215) 595-8736</p>
                 <p className="mb-2">TIGON Golf Carts Poconos: 1712 Pennsylvania 940, Pocono Pines, PA 18350 | (570) 643-0152</p>
                 <p>Website: berksgolfcarts.com</p>
