@@ -10,7 +10,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Rhode Island Golf Carts",
-      "description": "Premier golf cart dealership in Rhode Island, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
+      "description": "Premier golf cart dealership in Rhode Island, specializing in electric golf carts, sales, service, rentals, and financing.",
       "url": "https://rhodeislandgolfcarts.com",
       "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
       "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
@@ -18,16 +18,16 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "2810 George Washington Memorial Hwy",
-        "addressLocality": "Gloucester Point",
-        "addressRegion": "VA",
-        "postalCode": "23072",
+        "streetAddress": "Rhode Island",
+        "addressLocality": "Rhode Island",
+        "addressRegion": "RI",
+        "postalCode": "02901",
         "addressCountry": "US"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "37.2850625",
-        "longitude": "-76.5074161"
+        "latitude": "41.742325",
+        "longitude": "-71.742332"
       },
       "openingHours": [
         "Mo-Fr 09:00-18:00",
@@ -35,7 +35,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "serviceArea": {
         "@type": "AdministrativeArea",
-        "name": "City of Rhode Island, Virginia"
+        "name": "State of Rhode Island"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -99,9 +99,9 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/Rhode IslandGolfCarts/",
-        "https://www.youtube.com/@Rhode IslandGolfCarts",
-        "https://www.pinterest.com/chesapeakegolfcarts/"
+        "https://www.facebook.com/RhodeIslandGolfCarts/",
+        "https://www.youtube.com/@RhodeIslandGolfCarts",
+      
       ]
     };
 
@@ -120,7 +120,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "804-792-0234",
+          "telephone": "1-844-844-6638",
           "contactType": "customer service",
           "availableLanguage": "English"
         }
