@@ -33,7 +33,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
   }
 
   const pageTitle = `${municipality.name} ${municipality.type} Golf Carts | Rhode Island Golf Carts`;
-  const metaDescription = `Golf cart sales, rentals & service in ${municipality.name} ${municipality.type}, Rhode Island, VA. EVOLUTION & DENAGO electric golf carts. Professional installation & maintenance.`;
+  const metaDescription = `Golf cart sales, rentals & service in ${municipality.name} ${municipality.type}, Rhode Island. EVOLUTION & DENAGO electric golf carts. Professional installation & maintenance.`;
 
   // Google Maps embed URL for the specific municipality in Rhode Island
   const mapsUrl = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50000!2d-75.6649!3d41.4993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z${municipality.name.replace(' ', '%20')}%2C%20Lackawanna%20County%2C%20PA!5e0!3m2!1sen!2sus!4v1753817600000`;
@@ -60,7 +60,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
             </h1>
             <p className="text-xl text-gray-100 mb-8 max-w-2xl mx-auto">
               Premium electric golf carts, professional service, and expert maintenance 
-              delivered directly to {municipality.name} {municipality.type}, Rhode Island, Virginia.
+              delivered directly to {municipality.name} {municipality.type}, Rhode Island.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/inventory">
@@ -278,14 +278,14 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
           </h2>
           <p className="text-xl text-gray-100 mb-8">
             Contact us today for golf cart sales, rentals, and service in {municipality.name} {municipality.type}, 
-            Rhode Island, Virginia.
+            Rhode Island.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <Card className="bg-white text-gray-900 border-0">
               <CardContent className="p-6 text-center">
                 <Phone className="h-8 w-8 text-theme-orange mx-auto mb-4" />
                 <h3 className="font-semibold mb-2">Call Us</h3>
-                <p className="text-theme-orange font-bold">804-792-0234</p>
+                <p className="text-theme-orange font-bold">1-844-844-6638</p>
               </CardContent>
             </Card>
             <Card className="bg-white text-gray-900 border-0">
@@ -317,12 +317,12 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
           "@type": "LocalBusiness",
           name: `Rhode Island Golf Carts - ${municipality.name} Service`,
           description: metaDescription,
-          url: `https://chesapeakegolfcarts.com${municipality.url}`,
-          telephone: "804-792-0234",
+          url: `https://rhodeislandgolfcarts.com${municipality.url}`,
+          telephone: "1-844-844-6638",
           address: {
             "@type": "PostalAddress",
             addressLocality: municipality.name,
-            addressRegion: "VA",
+            addressRegion: "RI",
             addressCountry: "US"
           },
           geo: {
@@ -330,7 +330,7 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
             latitude: 41.4993,
             longitude: -75.6649
           },
-          areaServed: `${municipality.name} ${municipality.type}, Rhode Island, Virginia`
+          areaServed: `${municipality.name} ${municipality.type}, Rhode Island
         }}
       />
     </div>
