@@ -45,21 +45,21 @@ export const blogPosts: BlogPost[] = [
   {
     id: 1,
     slug: "chesapeake-golf-carts-for-sale-best-local-deals",
-    seoTitle: "Rhode Island Golf Carts for Sale | Best Local Deals in Rhode Island VA",
-    metaDescription: "Find the best golf carts for sale in Rhode Island VA. Local inventory of DENAGO and EVOLUTION electric golf carts with competitive pricing. Visit our George Washington Memorial Hwy showroom today!",
-    h1: "Rhode Island Golf Carts for Sale | Best Local Deals in Rhode Island VA",
+    seoTitle: "Rhode Island Golf Carts for Sale | Best Local Deals in Rhode Island",
+    metaDescription: "Find the best golf carts for sale in Rhode Island. Local inventory of DENAGO and EVOLUTION electric golf carts with competitive pricing. Visit our showroom today!",
+    h1: "Rhode Island Golf Carts for Sale | Best Local Deals in Rhode Island",
     publishDate: "2025-11-15",
-    excerpt: "Discover the best golf cart deals in Rhode Island, Virginia. Our local dealership offers premium DENAGO and EVOLUTION electric golf carts with unbeatable prices and exceptional service.",
+    excerpt: "Discover the best golf cart deals in Rhode Island. Our local dealership offers premium DENAGO and EVOLUTION electric golf carts with unbeatable prices and exceptional service.",
     heroImage: "/attached_assets/generated_images/golf_cart_showroom_chesapeake.png",
-    heroImagePrompt: "A modern golf cart showroom in Rhode Island Virginia with multiple electric golf carts on display, professional lighting, American flags, customers browsing, clean polished floor, dealership signage visible, sunny day visible through large windows",
-    heroImageAlt: "Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts for sale in Rhode Island VA with best local deals",
-    keywords: "golf carts for sale Rhode Island VA, Rhode Island golf cart deals, buy golf cart Rhode Island Virginia, local golf cart dealer, electric golf carts Rhode Island",
+    heroImagePrompt: "A modern golf cart showroom in Rhode Island with multiple electric golf carts on display, professional lighting, American flags, customers browsing, clean polished floor, dealership signage visible, sunny day visible through large windows",
+    heroImageAlt: "Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts for sale in Rhode Island with best local deals",
+    keywords: "golf carts for sale Rhode Island, Rhode Island golf cart deals, buy golf cart Rhode Island, local golf cart dealer, electric golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-golf-carts-for-sale-best-local-deals",
     content: {
-      intro: "Looking for the best golf carts for sale in Rhode Island, Virginia? You've come to the right place. At Rhode Island Golf Carts, we pride ourselves on offering Rhode Island residents the finest selection of electric golf carts at competitive local prices. Our George Washington Memorial Hwy showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
+      intro: "Looking for the best golf carts for sale in Rhode Island? You've come to the right place. At Rhode Island Golf Carts, we pride ourselves on offering Rhode Island residents the finest selection of electric golf carts at competitive local prices. Our George Washington Memorial Hwy showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
       sections: [
         {
-          h2: "Why Buy Your Golf Cart Locally in Rhode Island VA",
+          h2: "Why Buy Your Golf Cart Locally in Rhode Island",
           content: "Purchasing a golf cart from a local Rhode Island dealer offers numerous advantages over buying from distant sellers or online retailers. When you shop local, you get personalized service, immediate test drives, and ongoing support from neighbors who understand the unique needs of Rhode Island communities.",
           subsections: [
             {
@@ -160,7 +160,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Serving All Rhode Island Neighborhoods",
-          content: "From Great Bridge to Western Branch, Greenbrier to Deep Creek, we deliver golf carts throughout the City of Rhode Island. Our local delivery team knows every neighborhood and can have your new cart delivered and ready to drive in no time.",
+          content: "From Great Bridge to Western Branch, Greenbrier to Deep Creek, we deliver golf carts throughout the State of Rhode Island. Our local delivery team knows every neighborhood and can have your new cart delivered and ready to drive in no time.",
           subsections: [
             {
               h3: "Free Local Delivery",
@@ -187,7 +187,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Ready to find your perfect golf cart? Visit Rhode Island Golf Carts at 2810 George Washington Memorial Hwy or call us at 804-792-0234. Our friendly team is here to help you find the best local deals on premium electric golf carts in Rhode Island, Virginia."
+      conclusion: "Ready to find your perfect golf cart? Visit Rhode Island Golf Carts at Rhode Island or call us at 804-792-0234. Our friendly team is here to help you find the best local deals on premium electric golf carts in Rhode Island."
     },
     internalLinks: [
       { text: "View Our Full Inventory", url: "/inventory" },
@@ -200,15 +200,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 2,
     slug: "new-used-golf-carts-chesapeake-virginia-shop-local",
-    seoTitle: "New & Used Golf Carts in Rhode Island Virginia | Shop Local Inventory",
-    metaDescription: "Shop new and used golf carts in Rhode Island Virginia. Browse our local inventory of certified pre-owned and brand new DENAGO and EVOLUTION electric golf carts. Financing available!",
-    h1: "New & Used Golf Carts in Rhode Island Virginia | Shop Local Inventory",
+    seoTitle: "New & Used Golf Carts in Rhode Island | Shop Local Inventory",
+    metaDescription: "Shop new and used golf carts in Rhode Island. Browse our local inventory of certified pre-owned and brand new DENAGO and EVOLUTION electric golf carts. Financing available!",
+    h1: "New & Used Golf Carts in Rhode Island | Shop Local Inventory",
     publishDate: "2025-11-14",
-    excerpt: "Whether you're looking for a brand new electric golf cart or a quality pre-owned model, Rhode Island Golf Carts has the selection you need. Shop our local Virginia inventory today.",
+    excerpt: "Whether you're looking for a brand new electric golf cart or a quality pre-owned model, Rhode Island Golf Carts has the selection you need. Shop our local Rhode Island inventory today.",
     heroImage: "/attached_assets/generated_images/new_vs_pre-owned_carts.png",
-    heroImagePrompt: "Split image showing a brand new shiny electric golf cart on one side and a certified pre-owned golf cart on the other, both in pristine condition, Rhode Island Virginia dealership setting, professional photography, bright showroom lighting",
-    heroImageAlt: "New and used golf carts available at Rhode Island Golf Carts dealership in Rhode Island Virginia with local inventory",
-    keywords: "new golf carts Rhode Island VA, used golf carts Rhode Island Virginia, pre-owned golf carts, certified used golf carts, golf cart inventory Virginia",
+    heroImagePrompt: "Split image showing a brand new shiny electric golf cart on one side and a certified pre-owned golf cart on the other, both in pristine condition, Rhode Island dealership setting, professional photography, bright showroom lighting",
+    heroImageAlt: "New and used golf carts available at Rhode Island Golf Carts dealership in Rhode Island with local inventory",
+    keywords: "new golf carts Rhode Island VA, used golf carts Rhode Island, pre-owned golf carts, certified used golf carts, golf cart inventory Virginia",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/new-used-golf-carts-chesapeake-virginia-shop-local",
     content: {
       intro: "At Rhode Island Golf Carts, we understand that every customer has unique needs and budgets. That's why we maintain an extensive inventory of both new and certified pre-owned golf carts to serve the Rhode Island community. Whether you want the latest technology or exceptional value, our Rhode Island showroom has the perfect cart waiting for you.",
@@ -320,7 +320,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Explore our complete selection of new and used golf carts at our George Washington Memorial Hwy location. Call 804-792-0234 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
+      conclusion: "Explore our complete selection of new and used golf carts at Rhode Island Golf Carts. Call 804-792-0234 to schedule a test drive or visit us today to find the perfect golf cart for your lifestyle."
     },
     internalLinks: [
       { text: "Browse All Inventory", url: "/inventory" },
@@ -332,15 +332,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 3,
     slug: "chesapeake-va-golf-cart-superstore-find-next-cart",
-    seoTitle: "Rhode Island VA Golf Cart Superstore | Find Your Next Cart Today",
+    seoTitle: "Rhode Island Golf Cart Superstore | Find Your Next Cart Today",
     metaDescription: "Visit Rhode Island's largest golf cart superstore on George Washington Memorial Hwy. Huge selection of DENAGO and EVOLUTION electric golf carts. Test drive your next cart today!",
-    h1: "Rhode Island VA Golf Cart Superstore | Find Your Next Cart Today",
+    h1: "Rhode Island Golf Cart Superstore | Find Your Next Cart Today",
     publishDate: "2025-11-13",
     excerpt: "Rhode Island's premier golf cart superstore offers the region's largest selection of electric golf carts. Find your perfect DENAGO or EVOLUTION model at our George Washington Memorial Hwy location.",
     heroImage: "/attached_assets/generated_images/golf_cart_superstore_aerial.png",
     heroImagePrompt: "Aerial view of a large golf cart superstore in Rhode Island Virginia with rows of colorful electric golf carts, spacious showroom, large parking lot, American flag flying, professional dealership appearance, sunny Virginia weather",
-    heroImageAlt: "Rhode Island VA golf cart superstore on George Washington Memorial Hwy with largest selection of DENAGO and EVOLUTION electric golf carts",
-    keywords: "golf cart superstore Rhode Island VA, large golf cart selection, Rhode Island golf cart dealer, George Washington Memorial Hwy golf carts, Rhode Island golf cart superstore",
+    heroImageAlt: "Rhode Island golf cart superstore on George Washington Memorial Hwy with largest selection of DENAGO and EVOLUTION electric golf carts",
+    keywords: "golf cart superstore Rhode Island, large golf cart selection, Rhode Island golf cart dealer, George Washington Memorial Hwy golf carts, Rhode Island golf cart superstore",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/chesapeake-va-golf-cart-superstore-find-next-cart",
     content: {
       intro: "Welcome to Rhode Island Golf Carts, the premier golf cart superstore serving Rhode Island and beyond. Our expansive showroom on George Washington Memorial Hwy features the region's largest selection of electric golf carts, making it easy to find exactly what you're looking for. From compact 2-seaters to spacious 6-passenger models, we have the perfect cart for every need.",
