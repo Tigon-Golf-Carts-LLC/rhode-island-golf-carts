@@ -34,8 +34,8 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   const fullTownName = `${townName} ${townType}`;
   
   const pageTitle = `${townName} Golf Carts - Rhode Island's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}, Virginia. Rhode Island Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
-  const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Rhode Island golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Virginia golf carts`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${townName}. Rhode Island Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
+  const pageKeywords = `${townName} golf carts, ${townName} golf cart sales, Rhode Island golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, golf carts`;
   const canonicalUrl = `https://rhodeislandgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`;
 
   const breadcrumbItems = [
