@@ -283,7 +283,7 @@ export default function EvolutionD5Ranger6Plus() {
               Ready to Experience the EVOLUTION® D5 RANGER 6 PLUS?
             </h2>
             <p className="text-xl mb-8">
-              Contact Bucks County Golf Carts today for pricing, availability, and to schedule a test drive.
+              Contact Rhode Island Golf Carts today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -291,9 +291,9 @@ export default function EvolutionD5Ranger6Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -310,7 +310,7 @@ export default function EvolutionD5Ranger6Plus() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-theme-primary mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>
@@ -332,11 +332,11 @@ export default function EvolutionD5Ranger6Plus() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Bucks County Service</CardTitle>
+                  <CardTitle>Rhode Island Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Bucks County and surrounding areas.
+                    Delivery and pickup available throughout Rhode Island and surrounding areas.
                   </p>
                 </CardContent>
               </Card>
