@@ -7,7 +7,7 @@ export default function NotFound() {
     <>
       <SEOHead 
         title="404 Page Not Found"
-        description="The page you're looking for doesn't exist. Return to Rhode Island Golf Carts to explore our premium electric golf cart inventory and services. Call 804-792-0234."
+        description="The page you're looking for doesn't exist. Return to Rhode Island Golf Carts to explore our premium electric golf cart inventory and services. Call 1-844-844-6638."
         keywords="404 error, page not found, Rhode Island Golf Carts"
         ogImageWidth={1200}
         ogImageHeight={800}
