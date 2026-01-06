@@ -216,7 +216,7 @@ export default function EvolutionD6MaxXT4() {
               Conquer Any Terrain
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact Bucks County Golf Carts today for your EVOLUTION D6 Max XT4.
+              Contact Rhode Island Golf Carts today for your EVOLUTION D6 Max XT4.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
