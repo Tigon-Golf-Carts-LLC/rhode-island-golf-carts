@@ -216,7 +216,7 @@ export default function EvolutionD6MaxGT6() {
               Maximum Performance, Maximum Luxury
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact Bucks County Golf Carts today for your EVOLUTION D6 Max GT6.
+              Contact Rhode Island Golf Carts today for your EVOLUTION D6 Max GT6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
