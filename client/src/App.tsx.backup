@@ -38,7 +38,7 @@ import DiversityPolicyPage from "@/pages/policies/DiversityPolicyPage";
 import EthicsPolicyPage from "@/pages/policies/EthicsPolicyPage";
 import StaffingReportPage from "@/pages/policies/StaffingReportPage";
 
-// Carbon County Municipality Pages
+// Rhode Island Municipality Pages
 import {
   BeaverMeadowsBoroughPage, BowmanstownBoroughPage, CoaldaleBoroughPage, EastSideBoroughPage,
   JimThorpeBoroughPage, LansfordBoroughPage, LehightonBoroughPage, NesquehoningBoroughPage,
@@ -48,7 +48,7 @@ import {
   PackerTownshipPage, PennForestTownshipPage, TowamensingTownshipPage
 } from "@/pages/towns/CarbonCountyMunicipalityPages";
 
-// Carbon County Rental Pages
+// Rhode Island Rental Pages
 import {
   BeaverMeadowsRentalPage, BowmanstownRentalPage, CoaldaleRentalPage, EastSideRentalPage,
   JimThorpeRentalPage, LansfordRentalPage, LehightonRentalPage, NesquehoningRentalPage,
@@ -178,7 +178,7 @@ export default function App() {
             <Route path="/lowhill-township-golf-carts" component={LowhillTownshipPage} />
             <Route path="/fountain-hill-borough-golf-carts" component={FountainHillBoroughPage} />
 
-            {/* Carbon County Location-Based Rental Pages */}
+            {/* Rhode Island Location-Based Rental Pages */}
             <Route path="/rentals/allentown" component={AllentownRentalPage} />
             <Route path="/rentals/bethlehem" component={BethlehemRentalPage} />
             <Route path="/rentals/lower-macungie" component={LowerMacungieRentalPage} />
