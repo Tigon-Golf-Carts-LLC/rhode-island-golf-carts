@@ -63,13 +63,13 @@ export default function ContactPage() {
     {
       icon: MapPin,
       label: "Rhode Island Golf Carts",
-      value: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
-      phone: "804-792-0234",
+      value: "Rhode Island",
+      phone: "1-844-844-6638",
     },
     {
       icon: Phone,
-      label: "Virginia Main Line",
-      value: "804-792-0234",
+      label: "Rhode Island",
+      value: "1-844-844-6638",
     },
     {
       icon: Mail,
@@ -99,8 +99,8 @@ export default function ContactPage() {
     <>
       <SEOHead 
         title="Contact Rhode Island Golf Carts"
-        description="Get expert golf cart sales, service, and support from Rhode Island's premier dealership located at 2810 George Washington Memorial Hwy, Gloucester Point, VA 23072. Call 804-792-0234."
-        keywords="contact Rhode Island golf carts, golf cart sales Virginia, Rhode Island showroom, Rhode Island golf cart service VA"
+        description="Get expert golf cart sales, service, and support from Rhode Island's premier dealership located in Rhode Island. Call 1-844-844-6638."
+        keywords="contact Rhode Island golf carts, golf cart sales in Rhode Island, Rhode Island showroom, Rhode Island golf cart service RI"
         canonicalUrl="https://rhodeislandgolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"
@@ -116,14 +116,14 @@ export default function ContactPage() {
               Contact Rhode Island Golf Carts
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Get in touch with our team for sales, service, and support throughout the City of Rhode Island, Virginia. 
+              Get in touch with our team for sales, service, and support throughout the State of Rhode Island 
               Visit our showrooms or call us today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <a href="mailto:info@rhodeislandgolfcarts.com">
