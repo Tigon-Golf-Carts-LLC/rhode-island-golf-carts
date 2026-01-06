@@ -206,8 +206,8 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION® Golf Carts - Rhode Island Golf Carts"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Rhode Island, VA. Call 804-792-0234."
-        keywords="EVOLUTION golf carts Rhode Island, electric golf carts Virginia, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Virginia, EVOLUTION dealers"
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Rhode Island, VA. Call 1-844-844-6638."
+        keywords="EVOLUTION golf carts Rhode Island, electric golf carts Rhode Island, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Rhode Island, EVOLUTION dealers"
         canonicalUrl="https://rhodeislandgolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="product.group"
@@ -230,13 +230,13 @@ export default function EvolutionPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the evolution of electric vehicle excellence. EVOLUTION golf carts deliver 
-              premium quality, innovative design, and reliable performance for the City of Rhode Island, Virginia.
+              premium quality, innovative design, and reliable performance for the City of Rhode Island, Rhode Island.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <Link href="/inventory">
@@ -462,7 +462,7 @@ export default function EvolutionPage() {
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Reliable Performance</h3>
                 <p className="text-gray-600">
                   Count on EVOLUTION's dependable electric systems and robust construction 
-                  for years of reliable service in Virginia's varied conditions.
+                  for years of reliable service in Rhode Island's varied conditions.
                 </p>
               </div>
 
@@ -489,10 +489,10 @@ export default function EvolutionPage() {
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
               <Link href="/contact">
