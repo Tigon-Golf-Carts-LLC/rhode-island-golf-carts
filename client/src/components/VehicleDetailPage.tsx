@@ -273,7 +273,7 @@ export default function VehicleDetailPage({
                 <Shield className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Expert Service</h3>
                 <p className="text-blue-100">
-                  Professional installation, maintenance, and warranty support for all {brand} vehicles in the City of Rhode Island, Virginia.
+                  Professional installation, maintenance, and warranty support for all {brand} vehicles in the City of Rhode Island.
                 </p>
               </div>
 
