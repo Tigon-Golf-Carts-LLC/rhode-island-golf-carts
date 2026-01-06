@@ -42,7 +42,7 @@ export default function NewServicesPage() {
     <>
       <SEOHead 
         title="Professional Golf Cart Services"
-        description="Keep your golf cart running smoothly with comprehensive maintenance, repair, battery service, and custom modifications from Rhode Island's certified technicians. Call 804-792-0234."
+        description="Keep your golf cart running smoothly with comprehensive maintenance, repair, battery service, and custom modifications from Rhode Island's certified technicians. Call 1-844-844-6638."
         keywords="golf cart service, golf cart repair, battery replacement, maintenance, Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/services"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_Th3nwXNXQ2CQPoVdYBg6Jg_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
@@ -69,7 +69,7 @@ export default function NewServicesPage() {
                     Schedule Service
                   </Button>
                 </Link>
-                <a href="tel:804-792-0234">
+                <a href="tel:1-844-844-6638">
                   <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                     Call for Emergency Service
                   </Button>
@@ -172,9 +172,9 @@ export default function NewServicesPage() {
                   Schedule Service Online
                 </Button>
               </Link>
-              <a href="tel:804-792-0234">
+              <a href="tel:1-844-844-6638">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                  Call 804-792-0234
+                  Call 1-844-844-6638
                 </Button>
               </a>
             </div>
@@ -191,7 +191,7 @@ export default function NewServicesPage() {
                   <CardTitle>Service Department</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-green-600 mb-2">804-792-0234</p>
+                  <p className="text-2xl font-bold text-green-600 mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Direct line to our service team</p>
                 </CardContent>
               </Card>
