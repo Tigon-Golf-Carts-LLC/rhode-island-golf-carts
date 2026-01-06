@@ -131,8 +131,8 @@ export default function SEOHead({
     updateTwitterTag("twitter:title", title);
     updateTwitterTag("twitter:description", description);
     updateTwitterTag("twitter:image", `https://rhodeislandgolfcarts.com${finalOgImage}`);
-    updateTwitterTag("twitter:site", "@chesapeakegolfcarts");
-    updateTwitterTag("twitter:creator", "@chesapeakegolfcarts");
+    updateTwitterTag("twitter:site", "@RhodeislandGolfCarts");
+    updateTwitterTag("twitter:creator", "@RhodeIslandGolfCarts");
 
     // Structured Data (JSON-LD)
     if (townName) {
@@ -144,20 +144,20 @@ export default function SEOHead({
         "address": {
           "@type": "PostalAddress",
           "addressLocality": townName,
-          "addressRegion": "VA",
+          "addressRegion": "RI",
           "addressCountry": "US"
         },
-        "telephone": "804-792-0234",
+        "telephone": "1-844-844-6638",
         "email": "sales@rhodeislandgolfcarts.com",
         "url": canonicalUrl,
-        "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+        "logo": "https://rhodeislandgolfcarts.com/attached_assets//Rhode Island%20Golf%20Carts_1764173360595.png",
         "image": `https://rhodeislandgolfcarts.com${finalOgImage}`,
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {
             "@type": "GeoCoordinates",
-            "latitude": "37.2850625",
-            "longitude": "-76.5074161"
+            "latitude": "41.742325",
+            "longitude": "-71.742332"
           },
           "geoRadius": "50000"
         },
