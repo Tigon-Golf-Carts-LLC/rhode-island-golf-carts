@@ -20,8 +20,8 @@ function CommunityRentalPage({
 }: CommunityRentalPageProps) {
   const locationText = parentMunicipality ? `${communityName} (${parentMunicipality})` : communityName;
   const pageTitle = `Golf Cart Rentals in ${communityName}, City of Rhode Island | Premium Rental Services`;
-  const pageDescription = `Rent premium golf carts in ${communityName}, City of Rhode Island, VA. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
-  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, City of Rhode Island golf cart rental, Virginia golf cart rental, street legal golf cart rental`;
+  const pageDescription = `Rent premium golf carts in ${communityName}, City of Rhode Island. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
+  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, City of Rhode Island golf cart rental, golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -243,7 +243,7 @@ function CommunityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {communityName} 
-                and throughout the City of Rhode Island, Virginia.
+                and throughout the state of Rhode Island.
               </p>
             </div>
 
@@ -286,8 +286,10 @@ function CommunityRentalPage({
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Call Now</h3>
                 <p className="text-gray-600 mb-4">Speak with our rental specialists</p>
                 <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-                  <span className="text-2xl font-bold text-theme-orange">804-792-0234</span>
-                  <a href="tel:804-792-0234">
+                  <span className="text-2xl font-bold text-theme-orange">1-844-844-6638
+</span>
+                  <a href="tel:1-844-844-6638
+">
                     <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                       Call Now
                     </Button>
