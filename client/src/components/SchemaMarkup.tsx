@@ -16,7 +16,7 @@ export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Rhode Island Golf Carts",
-  "alternateName": "CGC",
+  "alternateName": "Golf Carts In Rhode Island",
   "description": "Premier golf cart dealer in Rhode Island, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
   "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
@@ -24,26 +24,26 @@ export const generateOrganizationSchema = () => ({
     "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
     "https://rhodeislandgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
-  "telephone": "804-792-0234",
+  "telephone": "1-844-844-6638",
   "email": "sales@rhodeislandgolfcarts.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "2810 George Washington Memorial Hwy",
-    "addressLocality": "Gloucester Point",
-    "addressRegion": "VA",
-    "postalCode": "23072",
+    "streetAddress": "Rhode Island",
+    "addressLocality": "Rhode Island",
+    "addressRegion": "RI",
+    "postalCode": "02901",
     "addressCountry": "US"
   },
   "areaServed": {
     "@type": "State",
-    "name": "Virginia"
+    "name": "Rhode Island"
   },
   "serviceArea": {
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 37.2850625,
-      "longitude": -76.5074161
+      "latitude": 41.742325,
+      "longitude": -71.742332
     },
     "geoRadius": "50000"
   },
@@ -52,9 +52,9 @@ export const generateOrganizationSchema = () => ({
   "slogan": "Professional golf cart services delivered to your community",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/Rhode IslandGolfCarts/",
-    "https://www.youtube.com/@Rhode IslandGolfCarts",
-    "https://www.pinterest.com/chesapeakegolfcarts/"
+    "https://www.facebook.com/RhodeIslandGolfCarts/",
+    "https://www.youtube.com/@RhodeIslandGolfCarts",
+
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -90,9 +90,9 @@ export const generateLocalBusinessSchema = () => ({
   "@type": "LocalBusiness",
   "@id": "https://rhodeislandgolfcarts.com/#localbusiness",
   "name": "Rhode Island Golf Carts",
-  "description": "Premier golf cart dealer serving Rhode Island Virginia and surrounding areas with electric vehicle sales, service, and rentals.",
+  "description": "Premier golf cart dealer serving Rhode Island and surrounding areas with electric vehicle sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
-  "telephone": "804-792-0234",
+  "telephone": "1-844-844-6638",
   "email": "sales@rhodeislandgolfcarts.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
@@ -103,21 +103,19 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "2810 George Washington Memorial Hwy",
-    "addressLocality": "Gloucester Point",
-    "addressRegion": "VA",
-    "postalCode": "23072",
+    "streetAddress": "Rhode Island
+    "addressLocality": "Rhode Island",
+    "addressRegion": "RI",
+    "postalCode": "02901",
     "addressCountry": "US"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 37.2850625,
-    "longitude": -76.5074161
+    "latitude": 41.742325,
+    "longitude": -71.742332
   },
   "areaServed": [
-    "Rhode Island", "Norfolk", "Rhode Island", "Portsmouth", "Suffolk",
-    "Hampton", "Newport News", "Rhode Island", "Great Bridge", "Deep Creek",
-    "Greenbrier", "Western Branch", "South Norfolk", "Hickory", "Indian River"
+    "Rhode Island"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -148,7 +146,7 @@ export const generateWebsiteSchema = () => ({
   "@type": "WebSite",
   "@id": "https://rhodeislandgolfcarts.com/#website",
   "name": "Rhode Island Golf Carts",
-  "description": "Official website for Rhode Island Golf Carts - Virginia's premier electric golf cart dealer",
+  "description": "Official website for Rhode Island Golf Carts - Premier electric golf cart dealer of Rhode Island",
   "url": "https://rhodeislandgolfcarts.com",
   "potentialAction": {
     "@type": "SearchAction",
@@ -195,7 +193,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "seller": {
       "@type": "Organization",
       "name": "Rhode Island Golf Carts",
-      "telephone": "804-792-0234",
+      "telephone": "1-844-844-6638",
       "email": "sales@rhodeislandgolfcarts.com"
     },
     "url": `https://rhodeislandgolfcarts.com/vehicles/${vehicle.id}`
@@ -238,50 +236,50 @@ export const generateProductSchema = (vehicle: any) => ({
 export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Rhode Island, Virginia",
+  "name": "Golf Cart Services In Rhode Island",
+  "description": "Comprehensive golf cart sales, service, repair, and rental services in Rhode Island",
   "provider": {
     "@type": "LocalBusiness",
     "name": "Rhode Island Golf Carts"
   },
   "areaServed": {
     "@type": "State",
-    "name": "Virginia"
+    "name": "Rhode Island"
   },
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Golf Cart Services",
+    "name": "Golf Cart Services In Rhode Island",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Sales",
-          "description": "New and used electric golf cart sales"
+          "name": "Golf Cart Sales In Rhode Island",
+          "description": "New and used electric golf cart sales In Rhode Island"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service", 
-          "name": "Golf Cart Rentals",
-          "description": "Daily, weekly, and monthly golf cart rentals"
+          "name": "Golf Cart Rentals In Rhode Island",
+          "description": "Daily, weekly, and monthly golf cart rentals In Rhode Island"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Service & Repair",
-          "description": "Professional maintenance and repair services"
+          "name": "Golf Cart Service & Repair in Rhode Island",
+          "description": "Professional maintenance and repair services in Rhode Island"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Parts",
-          "description": "Genuine parts and accessories"
+          "name": "Golf Cart Parts in Rhode Island",
+          "description": "Genuine parts and accessories in Rhode Island"
         }
       }
     ]
@@ -291,8 +289,8 @@ export const generateServiceSchema = () => ({
 export const generateOfferCatalogSchema = (vehicles: any[]) => ({
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
-  "name": "Golf Cart Inventory",
-  "description": "Complete inventory of electric golf carts available for sale",
+  "name": "Golf Cart Inventory in Rhode Island",
+  "description": "Complete inventory of electric golf carts available for sale in Rhode Island",
   "itemListElement": vehicles.map(vehicle => ({
     "@type": "Offer",
     "itemOffered": {
@@ -320,7 +318,7 @@ export const generateContactPageSchema = () => ({
     "contactPoint": [
       {
         "@type": "ContactPoint",
-        "telephone": "804-792-0234",
+        "telephone": "1-844-844-6638",
         "contactType": "customer service",
         "areaServed": "US",
         "availableLanguage": "English"
@@ -339,7 +337,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Rhode Island, Virginia`,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Rhode Island,
   "url": `https://rhodeislandgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
@@ -352,7 +350,7 @@ export const generateTownPageSchema = (townName: string) => ({
         "name": "City of Rhode Island",
         "containedInPlace": {
           "@type": "State",
-          "name": "Virginia"
+          "name": "Rhode Island"
         }
       }
     }
