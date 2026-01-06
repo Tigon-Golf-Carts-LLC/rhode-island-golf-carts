@@ -1,6 +1,6 @@
 import TownPage from "@/components/TownPage";
 
-// Chesapeake Neighborhoods & Communities (20)
+// Rhode Island Neighborhoods & Communities (20)
 export function GreatBridgePage() {
   return <TownPage townName="Great Bridge" townType="Neighborhood" />;
 }
