@@ -12,26 +12,26 @@ export default function LocationSchema({
   municipalityName, 
   municipalityType, 
   pageType = 'location',
-  latitude = "37.2850625",
-  longitude = "-76.5074161"
+  latitude = "41.742325",
+  longitude = "-71.742332"
 }: LocationSchemaProps) {
   useEffect(() => {
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": `Rhode Island Golf Carts - ${municipalityName}`,
-      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Rhode Island, Virginia. Premium DENAGO and Evolution electric golf carts available.`,
+      "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Rhode Island. Premium DENAGO and Evolution electric golf carts available.`,
       "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
       "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
       "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
-      "telephone": "804-792-0234",
+      "telephone": "1-844-844-6638",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "2810 George Washington Memorial Hwy",
-        "addressLocality": "Gloucester Point",
-        "addressRegion": "VA",
-        "postalCode": "23072",
+        "streetAddress": "Rhode Island",
+        "addressLocality": "Rhode Island",
+        "addressRegion": "RI",
+        "postalCode": "02901",
         "addressCountry": "US"
       },
       "geo": {
@@ -47,7 +47,8 @@ export default function LocationSchema({
           "name": "City of Rhode Island",
           "containedInPlace": {
             "@type": "State",
-            "name": "Virginia"
+            "name": "Rhode Island
+              "
           }
         }
       },
@@ -97,7 +98,7 @@ export default function LocationSchema({
         ...baseStructuredData,
         "@type": ["LocalBusiness", "RentalCarAgency"],
         "name": `Golf Cart Rentals - ${municipalityName}`,
-        "description": `Professional golf cart rentals in ${municipalityName}, Rhode Island, Virginia. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
+        "description": `Professional golf cart rentals in ${municipalityName}, Rhode Island. Daily, weekly, and monthly rental options available for events, recreation, and personal use.`,
         "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-rentals`,
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
