@@ -11,7 +11,7 @@ export default function EvolutionD6MaxXT6() {
     <>
       <SEOHead 
         title="Max XT6"
-        description="Experience the EVOLUTION® D6 Max XT6 with maximum off-road capability, six-passenger extreme terrain golf cart with adventure features. Call 804-792-0234."
+        description="Experience the EVOLUTION® D6 Max XT6 with maximum off-road capability, six-passenger extreme terrain golf cart with adventure features. Call 1-844-844-6638."
         keywords="EVOLUTION D6 Max XT6, extreme terrain golf cart, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d6-max-xt6"
         ogImage="/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg"
@@ -221,7 +221,7 @@ export default function EvolutionD6MaxXT6() {
               Ultimate Adventure Awaits
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact Bucks County Golf Carts today for your EVOLUTION D6 Max XT6.
+              Contact Rhode Island Golf Carts today for your EVOLUTION D6 Max XT6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
