@@ -29,7 +29,7 @@ export default function BlogPage() {
       />
       <BlogSchema
         name="Rhode Island Golf Carts Blog"
-        description="Expert golf cart news, buying guides, tips, and insights from Rhode Island's premier golf cart dealer serving Rhode Island, Virginia."
+        description="Expert golf cart news, buying guides, tips, and insights from Rhode Island's premier golf cart dealer serving Rhode Island."
         url="https://rhodeislandgolfcarts.com/blog"
         posts={blogPosts.map(post => ({
           title: post.h1,
