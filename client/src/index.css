@@ -30,7 +30,7 @@
     --chart-5: hsl(27, 87%, 67%);
     --radius: 0.5rem;
     
-    /* Ocean County Golf Carts Brand Colors */
+    /* Rhode Island Golf Carts Brand Colors */
     --ocean-blue: hsl(210, 78%, 20%);
     --navy: hsl(210, 78%, 20%);
     --accent-orange: hsl(24, 100%, 50%);
@@ -80,7 +80,7 @@
   }
 }
 
-/* Custom utility classes for Ocean County Golf Carts */
+/* Custom utility classes for Rhode Island Golf Carts */
 .text-ocean-blue {
   color: hsl(199, 89%, 48%);
 }
