@@ -11,7 +11,7 @@ export default function EvolutionD5Ranger6PlusPage() {
       image={evolutionD5Ranger6PlusImage}
       seoTitle="EVOLUTION D5 RANGER 6 PLUS - Premium 6-Seat Golf Cart | Rhode Island Golf Carts"
       seoDescription="Experience the EVOLUTION D5 RANGER 6 PLUS electric golf cart in Atlantic County, PA. Extended 6-passenger seating with premium comfort and enhanced features."
-      seoKeywords="EVOLUTION D5 RANGER 6 PLUS, 6-seat golf cart, extended seating, Atlantic County, New Jersey"
+      seoKeywords="EVOLUTION D5 RANGER 6 PLUS, 6-seat golf cart, extended seating, ARhode Island Golf Carts"
       canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-d5-ranger-6-plus"
       seats="6"
       range="40 miles"
@@ -27,7 +27,7 @@ export default function EvolutionD5Ranger6PlusPage() {
         "Reliable Operation",
         "Quality Craftsmanship"
       ]}
-      description="Extended 6-passenger seating with premium comfort and enhanced features. The EVOLUTION D5 RANGER 6 PLUS provides spacious family transportation with reliable performance for Atlantic County adventures."
+      description="Extended 6-passenger seating with premium comfort and enhanced features. The EVOLUTION D5 RANGER 6 PLUS provides spacious family transportation with reliable performance for Rhode Island adventures."
       tigoUrl="https://rhodeislandgolfcarts.com/evolution/d5-ranger/6-plus/"
     />
   );
