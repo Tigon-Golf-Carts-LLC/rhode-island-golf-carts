@@ -52,15 +52,15 @@ export default function InventoryPage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="Golf Cart Inventory - Rhode Island Golf Carts | New Electric Golf Carts VA"
-        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Rhode Island, Virginia with expert service."
-        keywords="golf cart inventory Rhode Island VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Virginia"
+        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Rhode Island, Rhode Island with expert service."
+        keywords="golf cart inventory Rhode Island VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/inventory"
       />
       <AllSchemas 
         pageType="inventory" 
         pageData={{
           title: "Golf Cart Inventory - Rhode Island Golf Carts",
-          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Rhode Island, Virginia with expert service.",
+          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Rhode Island, Rhode Island with expert service.",
           url: "https://rhodeislandgolfcarts.com/inventory",
           breadcrumbs: breadcrumbItems,
           collectionItems: vehicles?.map(vehicle => ({
@@ -173,8 +173,8 @@ export default function InventoryPage() {
                 Contact Our Team
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:804-792-0234")}>
-              Call 804-792-0234
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto" onClick={() => window.open("tel:1-844-844-6638")}>
+              Call 1-844-844-6638
             </Button>
           </div>
         </div>
