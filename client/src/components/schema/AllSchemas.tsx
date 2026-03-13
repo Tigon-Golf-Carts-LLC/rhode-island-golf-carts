@@ -196,7 +196,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         contactType="customer service"
         telephone="804-792-0234"
         email="info@rhodeislandgolfcarts.com"
-        areaServed="Rhode Island, Virginia"
+        areaServed="Rhode Island"
         availableLanguage={["English"]}
         hoursAvailable={[
           { dayOfWeek: "Monday", opens: "09:00", closes: "18:00" },
@@ -365,10 +365,10 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <PlaceSchema
             name={`${locationName} ${locationType}`}
-            description={`Golf cart sales and service in ${locationName} ${locationType}, Rhode Island, Virginia`}
+            description={`Golf cart sales and service in ${locationName} ${locationType}, Rhode Island`}
             address={{
               addressLocality: locationName,
-              addressRegion: "VA",
+              addressRegion: "RI",
               addressCountry: "US"
             }}
             geo={locationLatitude && locationLongitude ? {
@@ -394,7 +394,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             address={{
               streetAddress: "Service Area",
               addressLocality: locationName,
-              addressRegion: "VA",
+              addressRegion: "RI",
               postalCode: "23072",
               addressCountry: "US"
             }}
@@ -417,12 +417,12 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <RentalCarAgencySchema
             name={`Rhode Island Golf Carts - ${locationName} Rentals`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island, Virginia`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island`}
             url={url}
             address={{
               streetAddress: "Service Area",
               addressLocality: locationName,
-              addressRegion: "VA",
+              addressRegion: "RI",
               postalCode: "23072",
               addressCountry: "US"
             }}
@@ -438,7 +438,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <ServiceSchema
             serviceName={`Golf Cart Rentals in ${locationName} ${locationType}`}
-            description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island, Virginia`}
+            description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island`}
             areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
@@ -463,7 +463,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
             faqs={[
               {
                 question: `Do you deliver golf cart rentals to ${locationName}?`,
-                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Rhode Island, Virginia.`
+                answer: `Yes, we provide professional delivery of rental golf carts throughout ${locationName} ${locationType} and surrounding areas in Rhode Island.`
               },
               {
                 question: "What types of golf carts are available for rent?",
@@ -486,7 +486,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Services"
-            description="Comprehensive golf cart sales, service, repair, and maintenance in Rhode Island, Virginia"
+            description="Comprehensive golf cart sales, service, repair, and maintenance in Rhode Island"
             offers={serviceOffers}
           />
           <OfferSchema
@@ -504,7 +504,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Sales"
-            description="New and used electric golf cart sales in Rhode Island, Virginia"
+            description="New and used electric golf cart sales in Rhode Island"
           />
           <OfferSchema
             itemOffered={{
@@ -521,7 +521,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
         <>
           <ServiceSchema
             serviceName="Golf Cart Rentals"
-            description="Golf cart rental services throughout Rhode Island, Virginia"
+            description="Golf cart rental services throughout Rhode Island"
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -530,18 +530,18 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <RentalCarAgencySchema
             name="Rhode Island Golf Carts - Rental Services"
-            description="Professional golf cart rental services throughout Rhode Island, Virginia"
+            description="Professional golf cart rental services throughout Rhode Island"
             url="https://rhodeislandgolfcarts.com/rentals"
             address={{
               streetAddress: "Service Area",
               addressLocality: "Rhode Island",
-              addressRegion: "VA",
+              addressRegion: "RI",
               postalCode: "23072",
               addressCountry: "US"
             }}
             telephone="804-792-0234"
             email="info@rhodeislandgolfcarts.com"
-            areaServed="Rhode Island, Virginia"
+            areaServed="Rhode Island"
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater and Utility from $245/day, 6-Seater from $295/day" },
