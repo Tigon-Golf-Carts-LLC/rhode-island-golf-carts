@@ -273,7 +273,7 @@ export default function VehicleDetailPage({
                 <Shield className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Expert Service</h3>
                 <p className="text-blue-100">
-                  Professional installation, maintenance, and warranty support for all {brand} vehicles in the City of Rhode Island.
+                  Professional installation, maintenance, and warranty support for all {brand} vehicles in Rhode Island.
                 </p>
               </div>
 
@@ -289,7 +289,7 @@ export default function VehicleDetailPage({
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-4">Local Expertise</h3>
                 <p className="text-blue-100">
-                  Deep knowledge of City of Rhode Island's communities and terrain to help you choose the perfect vehicle for your needs.
+                  Deep knowledge of Rhode Island's communities and terrain to help you choose the perfect vehicle for your needs.
                 </p>
               </div>
             </div>

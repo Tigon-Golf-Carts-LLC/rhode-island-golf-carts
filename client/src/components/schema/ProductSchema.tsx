@@ -84,10 +84,10 @@ export default function ProductSchema({
           "email": "sales@rhodeislandgolfcarts.com",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "2810 George Washington Memorial Hwy",
-            "addressLocality": "Gloucester Point",
-            "addressRegion": "VA",
-            "postalCode": "23072",
+            "streetAddress": "Rhode Island",
+            "addressLocality": "Rhode Island",
+            "addressRegion": "RI",
+            "postalCode": "02901",
             "addressCountry": "US"
           }
         },

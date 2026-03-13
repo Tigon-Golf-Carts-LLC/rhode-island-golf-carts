@@ -21,7 +21,7 @@ interface TownPageProps {
 const getGoogleMapsEmbedUrl = (townName: string, townType: string): string => {
   const townKey = `${townName.toLowerCase().replace(/\s+/g, '')}_${townType.toLowerCase()}`;
   
-  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Virginia!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
+  return `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s${encodeURIComponent(townName)}%2C%20Rhode%20Island!5e0!3m2!1sen!2sus!4v1756134700015!5m2!1sen!2sus`;
 };
 
 export default function TownPage({ townName, townType }: TownPageProps) {
@@ -301,7 +301,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout {townName} and surrounding City of Rhode Island areas.
+                    Delivery and pickup available throughout {townName} and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

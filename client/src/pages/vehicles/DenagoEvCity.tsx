@@ -13,8 +13,8 @@ export default function DenagoEvCity() {
     <>
       <SEOHead 
         title="DENAGO® EV CITY - Urban Electric Vehicle | Rhode Island Golf Carts"
-        description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Rhode Island, VA."
-        keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer Rhode Island PA"
+        description="Discover the DENAGO EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use in Rhode Island."
+        keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/vehicle/denago-ev-city"
         ogImage="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
         ogType="product"
@@ -312,7 +312,7 @@ export default function DenagoEvCity() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Rhode Island, Virginia and surrounding areas.
+                    Delivery and pickup available throughout Rhode Island and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

@@ -48,10 +48,10 @@ export default function BlogPostSchema({
       },
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "2810 George Washington Memorial Hwy",
-        "addressLocality": "Gloucester Point",
-        "addressRegion": "VA",
-        "postalCode": "23072",
+        "streetAddress": "Rhode Island",
+        "addressLocality": "Rhode Island",
+        "addressRegion": "RI",
+        "postalCode": "02901",
         "addressCountry": "US"
       },
       "telephone": "804-792-0234",
@@ -74,21 +74,21 @@ export default function BlogPostSchema({
     "about": {
       "@type": "Thing",
       "name": "Golf Carts",
-      "description": "Electric golf carts for sale, rental, and service in Rhode Island, Virginia"
+      "description": "Electric golf carts for sale, rental, and service in Rhode Island"
     },
     "contentLocation": {
       "@type": "Place",
-      "name": "Rhode Island, Virginia",
+      "name": "Rhode Island",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Rhode Island",
-        "addressRegion": "VA",
+        "addressRegion": "RI",
         "addressCountry": "US"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "37.2850625",
-        "longitude": "-76.5074161"
+        "latitude": "41.5801",
+        "longitude": "-71.4774"
       }
     }
   };

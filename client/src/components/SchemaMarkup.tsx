@@ -17,7 +17,7 @@ export const generateOrganizationSchema = () => ({
   "@type": "Organization",
   "name": "Rhode Island Golf Carts",
   "alternateName": "Golf Carts In Rhode Island",
-  "description": "Premier golf cart dealer in Rhode Island, Virginia specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "description": "Premier golf cart dealer in Rhode Island specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
   "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
   "image": [
@@ -103,7 +103,7 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Rhode Island
+    "streetAddress": "Rhode Island",
     "addressLocality": "Rhode Island",
     "addressRegion": "RI",
     "postalCode": "02901",
@@ -337,7 +337,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Rhode Island,
+  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Rhode Island`,
   "url": `https://rhodeislandgolfcarts.com/towns/${townName.toLowerCase().replace(/\s+/g, '-')}`,
   "mainEntity": {
     "@type": "LocalBusiness",
@@ -347,7 +347,7 @@ export const generateTownPageSchema = (townName: string) => ({
       "name": townName,
       "containedInPlace": {
         "@type": "AdministrativeArea",
-        "name": "City of Rhode Island",
+        "name": "Rhode Island",
         "containedInPlace": {
           "@type": "State",
           "name": "Rhode Island"

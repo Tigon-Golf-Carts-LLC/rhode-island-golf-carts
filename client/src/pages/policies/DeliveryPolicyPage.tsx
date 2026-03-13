@@ -160,7 +160,7 @@ export default function DeliveryPolicyPage() {
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p className="mb-2">Serving Rhode Island</p>
                 <p className="mb-2">Hours: Monday-Saturday 8:00 AM - 6:00 PM</p>
                 <p>Sunday: 10:00 AM - 4:00 PM</p>
               </div>

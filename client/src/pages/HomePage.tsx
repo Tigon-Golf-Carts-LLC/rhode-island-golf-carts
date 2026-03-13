@@ -10,7 +10,7 @@ import BrandsSection from "@/components/BrandsSection";
 import OrganizationSchema from "@/components/OrganizationSchema";
 import SEOHead from "@/components/SEOHead";
 import AllSchemas from "@/components/schema/AllSchemas";
-import { CHESAPEAKE_MUNICIPALITIES, type Municipality } from "@/data/chesapeakeMunicipalities";
+import { RHODE_ISLAND_MUNICIPALITIES, type Municipality } from "@/data/rhodeIslandMunicipalities";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 import { fetchVehicles } from "@/lib/localApi";
 
@@ -76,7 +76,7 @@ export default function HomePage() {
                 Rhode Island Golf Carts - Premier   Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Rhode Island communities in and around Rhode Island with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Rhode Island and surrounding Rhode Island areas.
+                Serving all 15 Rhode Island communities in and around Rhode Island with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to Rhode Island and surrounding areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -84,7 +84,7 @@ export default function HomePage() {
                     View Inventory
                   </Button>
                 </Link>
-                <a href="tel:804-792-0234">
+                <a href="tel:844-844-6638">
                   <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-gray-900 w-full sm:w-auto">
                     Call Now 1-844-844-6638
                   </Button>
@@ -344,7 +344,7 @@ export default function HomePage() {
                 About Rhode Island Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Rhode Island and surrounding Rhode Island areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Rhode Island and surrounding areas.
               </p>
               
               <div className="grid grid-cols-2 gap-4 md:gap-8 mb-6 md:mb-8">
@@ -368,7 +368,7 @@ export default function HomePage() {
             <div className="relative order-1 lg:order-2">
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102529.16172010403!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b0f22c5e574b41%3A0x6b1e6f8c7d8e9f0a!2sGloucester%20Point%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380000!2d-71.4774!3d41.5801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e444e0437e735d%3A0x69df7c4d48b3b627!2sRhode%20Island!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus" 
                   className="w-full h-64 md:h-80 lg:h-96"
                   style={{border: 0}} 
                   allowFullScreen={true} 
@@ -389,11 +389,11 @@ export default function HomePage() {
             Golf Carts for Rhode Island and Surrounding Rhode Island Communities
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional golf cart services delivered to your community throughout the City of Rhode Island and surrounding areas
+            Professional golf cart services delivered to your community throughout Rhode Island and surrounding areas
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
             {/* Complete Rhode Island Municipality List - dynamically generated */}
-            {CHESAPEAKE_MUNICIPALITIES.map((municipality: Municipality) => (
+            {RHODE_ISLAND_MUNICIPALITIES.map((municipality: Municipality) => (
               <Link 
                 key={municipality.slug} 
                 href={municipality.url} 
@@ -407,7 +407,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving {CHESAPEAKE_MUNICIPALITIES.length} communities in and around Rhode Island  ! Professional golf cart sales, service, and rentals delivered throughout the region.
+            Serving {RHODE_ISLAND_MUNICIPALITIES.length} communities in and around Rhode Island  ! Professional golf cart sales, service, and rentals delivered throughout the region.
           </p>
         </div>
       </section>
@@ -427,15 +427,15 @@ export default function HomePage() {
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Rhode Island Golf Carts</h3>
               <p className="text-sm text-gray-600 mb-2"></p>
-              <p className="text-theme-orange font-semibold">1-844-844-66384</p>
+              <p className="text-theme-orange font-semibold">1-844-844-6638</p>
             </div>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
-            <p className="text-gray-600 mb-4">For general inquiries and support throughout the City of Rhode Island</p>
+            <p className="text-gray-600 mb-4">For general inquiries and support throughout Rhode Island</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-              <a href="tel:804-792-0234" className="text-2xl font-bold text-theme-orange hover:underline">804-792-0234</a>
+              <a href="tel:844-844-6638" className="text-2xl font-bold text-theme-orange hover:underline">844-844-6638</a>
               <Link href="/contact">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact Us

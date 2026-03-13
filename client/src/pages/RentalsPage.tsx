@@ -201,8 +201,8 @@ export default function RentalsPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Rentals in the City of Rhode Island"
-        description="Rent premium electric golf carts throughout the City of Rhode Island, Rhode Island with daily, weekly, and monthly options, full insurance, and delivery service. Call 1-844-844-6638."
+        title="Golf Cart Rentals in Rhode Island"
+        description="Rent premium electric golf carts throughout Rhode Island with daily, weekly, and monthly options, full insurance, and delivery service. Call 1-844-844-6638."
         keywords="golf cart rental, Rhode Island rentals, golf cart hire, Rhode Island golf cart rental"
         canonicalUrl="https://rhodeislandgolfcarts.com/rentals"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_sDrTTlooRa-KMxJFm6b9DQ_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
@@ -216,10 +216,10 @@ export default function RentalsPage() {
         <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={getHeroBackgroundStyle("rentals")}>
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              Golf Cart Rentals in the City of Rhode Island
+              Golf Cart Rentals in Rhode Island
             </h1>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Rent premium electric golf carts throughout the City of Rhode Island, Rhode Island. Perfect for events, vacations, and special occasions.
+              Rent premium electric golf carts throughout Rhode Island. Perfect for events, vacations, and special occasions.
             </p>
             <a href="tel:1-844-844-6638">
               <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">

@@ -293,11 +293,11 @@ export default function EvolutionD6MaxGT4() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Bucks County Service</CardTitle>
+                  <CardTitle>Rhode Island Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Premium delivery and pickup service available throughout Bucks County, Pennsylvania.
+                    Premium delivery and pickup service available throughout Rhode Island and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

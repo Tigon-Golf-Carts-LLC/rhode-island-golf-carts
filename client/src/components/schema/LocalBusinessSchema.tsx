@@ -25,17 +25,17 @@ interface LocalBusinessSchemaProps {
 
 export default function LocalBusinessSchema({
   name = "Rhode Island Golf Carts",
-  description = "Premier golf cart dealership in Rhode Island, Virginia specializing in electric golf carts, sales, service, rentals, and financing.",
+  description = "Premier golf cart dealership in Rhode Island specializing in electric golf carts, sales, service, rentals, and financing.",
   address = {
-    streetAddress: "2810 George Washington Memorial Hwy",
-    addressLocality: "Gloucester Point",
-    addressRegion: "VA",
-    postalCode: "23072",
+    streetAddress: "Rhode Island",
+    addressLocality: "Rhode Island",
+    addressRegion: "RI",
+    postalCode: "02901",
     addressCountry: "US"
   },
   geo = {
-    latitude: "37.2850625",
-    longitude: "-76.5074161"
+    latitude: "41.5801",
+    longitude: "-71.4774"
   },
   telephone = "804-792-0234",
   email = "sales@rhodeislandgolfcarts.com",
@@ -47,7 +47,7 @@ export default function LocalBusinessSchema({
   ],
   paymentAccepted = ["Cash", "Credit Card", "Debit Card", "Check", "Financing"],
   businessType = "Golf Cart Dealership",
-  areaServed = "City of Rhode Island, VA"
+  areaServed = "Rhode Island"
 }: LocalBusinessSchemaProps) {
   useEffect(() => {
     const structuredData = {
@@ -107,8 +107,8 @@ export default function LocalBusinessSchema({
       },
       "sameAs": [
         "https://www.facebook.com/Rhode IslandGolfCarts",
-        "https://twitter.com/chesapeakegolfcarts",
-        "https://www.instagram.com/chesapeakegolfcarts"
+        "https://twitter.com/RIGolfCarts",
+        "https://www.instagram.com/RIGolfCarts"
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",

@@ -73,11 +73,11 @@ Expires: 2026-11-26T23:59:59.000Z
 
 # Company: Rhode Island Golf Carts
 # Website: https://rhodeislandgolfcarts.com
-# Address: Rhode Island, Chesapeake, VA 02840
+# Address: Rhode Island, Rhode Island 02840
 # Phone: 1-844-844-6638
 # Email: sales@rhodeislandgolfcarts.com
 # State: Rhode Island
-# Service Area: City of Chesapeake and 37 Rhode Island communities
+# Service Area: Rhode Island and 37 Rhode Island communities
 
 # ============================================================================
 # COMPLIANCE AND STANDARDS

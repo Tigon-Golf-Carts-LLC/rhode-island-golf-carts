@@ -9,7 +9,7 @@ interface WebsiteSchemaProps {
 export default function WebsiteSchema({ 
   url = "https://rhodeislandgolfcarts.com",
   name = "Rhode Island Golf Carts",
-  description = "Virginia's premier DENAGO & EVOLUTION electric golf cart dealership serving Rhode Island and Rhode Island"
+  description = "Rhode Island's premier DENAGO & EVOLUTION electric golf cart dealership serving Rhode Island"
 }: WebsiteSchemaProps) {
   useEffect(() => {
     const structuredData = {

@@ -10,8 +10,8 @@ export default function DenagoEvCityPage() {
       price="$15,000"
       image={denagoEvCityImage}
       seoTitle="DENAGO EV CITY"
-      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Rhode Island, VA. Call 804-792-0234."
-      seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Rhode Island, Virginia, electric vehicle"
+      seoDescription="Discover the DENAGO EV CITY electric golf cart featuring street legal ready urban mobility with sleek design and efficient performance in Rhode Island. Call 1-844-844-6638."
+      seoKeywords="DENAGO EV CITY, urban electric golf cart, street legal golf cart, Rhode Island, electric vehicle"
       canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/denago-ev-city"
       seats="2"
       range="40 miles"

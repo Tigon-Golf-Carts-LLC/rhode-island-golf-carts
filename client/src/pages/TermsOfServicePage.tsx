@@ -37,7 +37,7 @@ export function TermsOfServicePage() {
                 <li>Golf cart rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
-                <li>Delivery and pickup services throughout Rhode Island, Rhode Island</li>
+                <li>Delivery and pickup services throughout Rhode Island</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Website Use and Restrictions</h2>
@@ -132,7 +132,7 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
-                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Rhode Island, Rhode Island.
+                These Terms are governed by the laws of the Commonwealth of Pennsylvania. Any disputes shall be resolved in the courts of Rhode Island.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Changes to Terms</h2>

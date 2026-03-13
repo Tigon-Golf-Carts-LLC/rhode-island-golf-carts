@@ -206,7 +206,7 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION® Golf Carts - Rhode Island Golf Carts"
-        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in the City of Rhode Island, VA. Call 1-844-844-6638."
+        description="Discover premium EVOLUTION® golf carts featuring the complete lineup of D5 RANGER, MAVERICK, CLASSIC, CARRIER, FORESTER, TURFMAN, and D6 MAX series in Rhode Island. Call 1-844-844-6638."
         keywords="EVOLUTION golf carts Rhode Island, electric golf carts Rhode Island, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, golf cart sales Rhode Island, EVOLUTION dealers"
         canonicalUrl="https://rhodeislandgolfcarts.com/evolution"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_y5lzYwROQWiqEejijrDhqA_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
@@ -230,7 +230,7 @@ export default function EvolutionPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the evolution of electric vehicle excellence. EVOLUTION golf carts deliver 
-              premium quality, innovative design, and reliable performance for the City of Rhode Island, Rhode Island.
+              premium quality, innovative design, and reliable performance for Rhode Island.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:1-844-844-6638">
@@ -294,7 +294,7 @@ export default function EvolutionPage() {
                 Complete EVOLUTION Lineup
               </h2>
               <p className="text-xl text-gray-600">
-                Discover the full range of EVOLUTION electric vehicles available in the City of Rhode Island
+                Discover the full range of EVOLUTION electric vehicles available in Rhode Island
               </p>
             </div>
 
@@ -360,7 +360,7 @@ export default function EvolutionPage() {
                 Complete EVOLUTION Vehicle Lineup  
               </h2>
               <p className="text-xl text-gray-600">
-                Explore all 6 EVOLUTION electric vehicle models available in the City of Rhode Island
+                Explore all 6 EVOLUTION electric vehicle models available in Rhode Island
               </p>
             </div>
 
@@ -411,7 +411,7 @@ export default function EvolutionPage() {
                       ))}
                     </div>
                     <div className="grid grid-cols-2 gap-2">
-                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace('evolution-', '').replace(/ - chesapeake golf cart/g, '')}`}>
+                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace('evolution-', '').replace(/ - rhode island golf cart/g, '')}`}>
                         <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white text-sm">
                           View Details
                         </Button>
@@ -434,7 +434,7 @@ export default function EvolutionPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose EVOLUTION in the City of Rhode Island?
+                Why Choose EVOLUTION in Rhode Island?
               </h2>
             </div>
 
@@ -470,7 +470,7 @@ export default function EvolutionPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Support</h3>
                 <p className="text-gray-600">
-                  Expert EVOLUTION service and genuine parts support right here in the City of Rhode Island 
+                  Expert EVOLUTION service and genuine parts support right here in Rhode Island 
                   with factory-trained technicians and comprehensive warranties.
                 </p>
               </div>

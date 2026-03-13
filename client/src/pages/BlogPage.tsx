@@ -23,7 +23,7 @@ export default function BlogPage() {
       <SEOHead
         title="Golf Cart Blog | Rhode Island Golf Carts - News, Tips & Guides"
         description="Read the latest golf cart news, buying guides, tips, and insights from Rhode Island Golf Carts. Expert advice for Rhode Island golf cart owners and shoppers."
-        keywords="golf cart blog, Rhode Island VA golf carts, golf cart tips, buying guide, electric golf carts, DENAGO, EVOLUTION, Rhode Island"
+        keywords="golf cart blog, Rhode Island golf carts, golf cart tips, buying guide, electric golf carts, DENAGO, EVOLUTION, Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/blog"
         ogType="website"
       />

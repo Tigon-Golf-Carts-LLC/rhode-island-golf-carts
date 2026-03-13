@@ -11,7 +11,7 @@ interface BlogSchemaProps {
 
 export default function BlogSchema({
   name = "Rhode Island Golf Carts Blog",
-  description = "Expert golf cart news, buying guides, tips, and insights from Rhode Island's premier golf cart dealer serving Rhode Island, Virginia.",
+  description = "Expert golf cart news, buying guides, tips, and insights from Rhode Island's premier golf cart dealer serving Rhode Island.",
   url = "https://rhodeislandgolfcarts.com/blog",
   posts = []
 }: BlogSchemaProps) {
@@ -31,10 +31,10 @@ export default function BlogSchema({
       },
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "2810 George Washington Memorial Hwy",
-        "addressLocality": "Gloucester Point",
-        "addressRegion": "VA",
-        "postalCode": "23072",
+        "streetAddress": "Rhode Island",
+        "addressLocality": "Rhode Island",
+        "addressRegion": "RI",
+        "postalCode": "02901",
         "addressCountry": "US"
       },
       "telephone": "804-792-0234",
@@ -57,15 +57,15 @@ export default function BlogSchema({
     "about": {
       "@type": "Thing",
       "name": "Golf Carts",
-      "description": "Electric golf carts for sale, rental, and service in Rhode Island, Virginia and Rhode Island"
+      "description": "Electric golf carts for sale, rental, and service in Rhode Island"
     },
     "contentLocation": {
       "@type": "Place",
-      "name": "Rhode Island, Virginia",
+      "name": "Rhode Island",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "37.2850625",
-        "longitude": "-76.5074161"
+        "latitude": "41.5801",
+        "longitude": "-71.4774"
       }
     }
   };

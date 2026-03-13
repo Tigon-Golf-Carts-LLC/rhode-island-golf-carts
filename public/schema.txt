@@ -25,16 +25,16 @@ Validation: Google Rich Results Test and Schema.org validator compliant
   "@context": "https://schema.org",
   "@type": "AutomotiveDealer",
   "name": "Rhode Island Golf Carts",
-  "alternateName": "Chesapeake Carts",
-  "description": "Rhode Island's premier electric golf cart dealership serving the City of Chesapeake and Rhode Island with DENAGO and EVOLUTION electric golf cart sales, rentals, service and parts.",
+  "alternateName": "Rhode Island Carts",
+  "description": "Rhode Island's premier electric golf cart dealership serving the Rhode Island and Rhode Island with DENAGO and EVOLUTION electric golf cart sales, rentals, service and parts.",
   "url": "https://rhodeislandgolfcarts.com",
-  "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png",
+  "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
   "telephone": "1-844-844-6638",
   "email": "sales@rhodeislandgolfcarts.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rhode Island",
-    "addressLocality": "Chesapeake",
+    "addressLocality": "Rhode Island",
     "addressRegion": "VA",
     "postalCode": "02840",
     "addressCountry": "US"
@@ -73,7 +73,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
   "publisher": {
     "@type": "Organization",
     "name": "Rhode Island Golf Carts",
-    "logo": "https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png"
+    "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
   },
   "potentialAction": {
     "@type": "SearchAction",
@@ -90,7 +90,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "DENAGO EV CITY Chesapeake Golf Cart",
+  "name": "DENAGO EV CITY Rhode Island Golf Cart",
   "brand": {
     "@type": "Brand",
     "name": "DENAGO"
@@ -115,7 +115,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "DENAGO EV ROVER XL Chesapeake Golf Cart",
+  "name": "DENAGO EV ROVER XL Rhode Island Golf Cart",
   "brand": {
     "@type": "Brand",
     "name": "DENAGO"
@@ -136,7 +136,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "EVOLUTION D5 Maverick 4 Plus Chesapeake Golf Cart",
+  "name": "EVOLUTION D5 Maverick 4 Plus Rhode Island Golf Cart",
   "brand": {
     "@type": "Brand",
     "name": "EVOLUTION"
@@ -224,7 +224,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
   "@type": "LocalBusiness",
   "name": "Rhode Island Golf Carts",
   "areaServed": [
-    {"@type": "City", "name": "Chesapeake"},
+    {"@type": "City", "name": "Rhode Island"},
     {"@type": "City", "name": "Rhode Island Beach"},
     {"@type": "City", "name": "Norfolk"},
     {"@type": "City", "name": "Portsmouth"},
@@ -292,7 +292,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
 
 Rhode Island Golf Carts
 Rhode Island
-Chesapeake, VA 02840
+Rhode Island 02840
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com

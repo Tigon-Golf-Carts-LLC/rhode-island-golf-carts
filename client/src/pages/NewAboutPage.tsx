@@ -14,7 +14,7 @@ export default function NewAboutPage() {
       name: "Michael Thompson",
       role: "Owner & General Manager",
       experience: "15+ years in recreational vehicle sales",
-      description: "Passionate about providing the City of Rhode Island with the best golf cart experience."
+      description: "Passionate about providing Rhode Island with the best golf cart experience."
     },
     {
       name: "Sarah Martinez",
@@ -50,7 +50,7 @@ export default function NewAboutPage() {
     {
       icon: Target,
       title: "Local Focus",
-      description: "Proud to serve the City of Rhode Island with personalized, community-focused service."
+      description: "Proud to serve Rhode Island with personalized, community-focused service."
     },
     {
       icon: Heart,
@@ -63,8 +63,8 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About Rhode Island Golf Carts"
-        description="Discover Rhode Island's most trusted golf cart dealer serving the City of Rhode Island and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 1-844-844-6638."
-        keywords="Rhode Island VA golf carts, about us, golf cart dealer Rhode Island, DENAGO dealer, EVOLUTION dealer"
+        description="Discover Rhode Island's most trusted golf cart dealer serving Rhode Island and surrounding areas with premium DENAGO and EVOLUTION vehicles since 2008. Call 1-844-844-6638."
+        keywords="Rhode Island golf carts, about us, golf cart dealer Rhode Island, DENAGO dealer, EVOLUTION dealer"
         canonicalUrl="https://rhodeislandgolfcarts.com/about"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_UxqLO1InQtGjDCklOHe0fA_Dz9OzmyNQhyGya_DTODF2A_1756144059396.jpeg"
         ogType="website"
@@ -79,7 +79,7 @@ export default function NewAboutPage() {
               About Rhode Island Golf Carts
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Since 2010, we've been the City of Rhode Island's premier destination for premium golf carts, 
+              Since 2010, we've been Rhode Island's premier destination for premium golf carts, 
               exceptional service, and unmatched customer care. Serving all municipalities 
               across eastern Rhode Island with pride and professionalism.
             </p>
@@ -105,28 +105,28 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2008 in the City of Rhode Island, Rhode Island, Rhode Island Golf Carts began with a simple mission: 
-                    to provide high-quality golf carts and exceptional service to customers throughout Coastal Rhode Island's 
-                    most vibrant and historic regions.
+                    Founded in 2008, Rhode Island Golf Carts began with a simple mission:
+                    to provide high-quality golf carts and exceptional service to customers throughout Rhode Island's
+                    most vibrant and historic communities.
                   </p>
                   <p>
-                    The City of Rhode Island stands as one of Rhode Island's most beautiful and historic regions, encompassing 
-                    charming communities from Great Bridge and Deep Creek to Greenbrier and Western Branch, 
-                    with scenic waterfront areas along the Elizabeth River and Rhode Island Bay.
+                    Rhode Island stands as one of New England's most beautiful and historic states, encompassing
+                    charming communities from Newport and Narragansett to Providence and Warwick,
+                    with scenic waterfront areas along Narragansett Bay and the Atlantic coastline.
                   </p>
                   <p>
-                    Our city holds a special place in American history, with deep roots in Rhode Island's heritage. 
-                    Today, the City of Rhode Island is renowned for its beautiful parks, championship golf courses, waterfront communities, 
+                    Our state holds a special place in American history, as the first of the original thirteen colonies to declare independence.
+                    Today, Rhode Island is renowned for its beautiful beaches, championship golf courses, waterfront communities,
                     and outdoor recreation enthusiasts who appreciate premium recreational vehicles.
                   </p>
                   <p>
-                    With proximity to major routes including I-64 and I-464, 
-                    and some of Coastal Rhode Island's most beautiful waterfront and golf course communities, the City of Rhode Island attracts residents who 
+                    With proximity to major routes including I-95 and I-195,
+                    and some of New England's most beautiful waterfront and golf course communities, Rhode Island attracts residents who
                     demand excellence in every aspect of their lives—including their golf cart experience.
                   </p>
                   <p>
-                    From Great Bridge to Hickory, from Deep Creek to Greenbrier and surrounding areas, we proudly serve 
-                    the City of Rhode Island and neighboring communities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing 
+                    From Newport to Warwick, from Providence to Narragansett and surrounding areas, we proudly serve
+                    Rhode Island and neighboring communities with premium EVOLUTION and DENAGO golf carts, understanding that our customers expect nothing
                     less than the finest quality and service.
                   </p>
                 </div>
@@ -150,14 +150,14 @@ export default function NewAboutPage() {
               <div className="relative">
                 <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden shadow-lg">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b0f22c5e574b41%3A0x6b1e6f8c7d8e9f0a!2sGloucester%20Point%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380000!2d-71.4774!3d41.5801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e444e0437e735d%3A0x69df7c4d48b3b627!2sRhode%20Island!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="City of Rhode Island Service Area Map"
+                    title="Rhode Island Service Area Map"
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
@@ -165,7 +165,7 @@ export default function NewAboutPage() {
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Rhode Island Golf Carts</h4>
-                      <p className="text-gray-600">Serving all City of Rhode Island, VA</p>
+                      <p className="text-gray-600">Serving all of Rhode Island</p>
                       <p className="text-gray-700">1-844-844-6638</p>
                       <p className="text-gray-600">info@rhodeislandgolfcarts.com</p>
                       <p className="text-gray-600">sales@rhodeislandgolfcarts.com</p>
@@ -233,17 +233,17 @@ export default function NewAboutPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Service Area</h2>
-              <p className="text-lg text-gray-600">Proudly serving all of the City of Rhode Island, Rhode Island</p>
+              <p className="text-lg text-gray-600">Proudly serving all of Rhode Island</p>
             </div>
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-theme-orange mx-auto mb-4" />
-                  <CardTitle>Rhode Island & Norfolk Area</CardTitle>
+                  <CardTitle>East Bay & Newport Area</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Great Bridge, Deep Creek, Norfolk, and surrounding communities</p>
+                  <p className="text-gray-600 mb-4">Newport, Middletown, Portsmouth, and surrounding communities</p>
                   <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
@@ -254,7 +254,7 @@ export default function NewAboutPage() {
                   <CardTitle>Rhode Island Central</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Greenbrier, Western Branch, Hickory, and central Rhode Island areas</p>
+                  <p className="text-gray-600 mb-4">Warwick, Cranston, Coventry, and central Rhode Island areas</p>
                   <Badge variant="secondary">5 Municipalities</Badge>
                 </CardContent>
               </Card>
@@ -272,7 +272,7 @@ export default function NewAboutPage() {
             </div>
 
             <div className="bg-white p-8 rounded-2xl shadow-lg">
-              <h3 className="text-2xl font-bold text-center mb-6">Complete City of Rhode Island Coverage</h3>
+              <h3 className="text-2xl font-bold text-center mb-6">Complete Rhode Island Coverage</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-sm text-gray-600">
                 {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality, index: number) => (
                   <div key={index} className="text-center py-2">
@@ -357,7 +357,7 @@ export default function NewAboutPage() {
                   <CardTitle>Service Area</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">All City of Rhode Island municipalities plus delivery service</p>
+                  <p className="text-gray-600">All Rhode Island municipalities plus delivery service</p>
                 </CardContent>
               </Card>
             </div>

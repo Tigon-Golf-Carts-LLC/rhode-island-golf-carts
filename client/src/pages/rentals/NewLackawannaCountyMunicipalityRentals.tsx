@@ -19,7 +19,7 @@ export function NewLackawannaCountyMunicipalityRentalPage({ municipalitySlug }: 
   }
 
   const pageTitle = `Golf Cart Rentals in ${municipality.name} ${municipality.type} | Rhode Island Golf Carts`;
-  const metaDescription = `Rent electric golf carts in ${municipality.name}, Rhode Island, VA. Daily, weekly & monthly rates. Street-legal carts with professional delivery service. Reserve today!`;
+  const metaDescription = `Rent electric golf carts in ${municipality.name}, Rhode Island, RI. Daily, weekly & monthly rates. Street-legal carts with professional delivery service. Reserve today!`;
 
   // Google Maps embed URL for the specific municipality in Rhode Island
   const mapsUrl = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50000!2d-75.6649!3d41.4993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z${municipality.name.replace(' ', '%20')}%2C%20Lackawanna%20County%2C%20PA!5e0!3m2!1sen!2sus!4v1753817600000`;
@@ -175,8 +175,8 @@ export function NewLackawannaCountyMunicipalityRentalPage({ municipalitySlug }: 
         title={pageTitle}
         description={metaDescription}
         keywords={`${municipality.name} golf cart rentals, ${municipality.name} ${municipality.type} rentals, Rhode Island golf cart rental, electric golf cart rental ${municipality.name}`}
-        canonicalUrl={`https://chesapeakegolfcarts.com/rentals/${municipality.slug}`}
-        ogImage="https://chesapeakegolfcarts.com/assets/lackawanna-county-golf-carts-logo.png"
+        canonicalUrl={`https://rhodeislandgolfcarts.com/rentals/${municipality.slug}`}
+        ogImage="https://rhodeislandgolfcarts.com/assets/lackawanna-county-golf-carts-logo.png"
       />
 
       {/* Hero Section */}
@@ -391,7 +391,7 @@ export function NewLackawannaCountyMunicipalityRentalPage({ municipalitySlug }: 
               <CardContent className="p-6 text-center">
                 <MapPin className="h-8 w-8 text-theme-orange mx-auto mb-4" />
                 <h3 className="font-semibold mb-2">Delivery to</h3>
-                <p className="text-sm">{municipality.name} {municipality.type}<br />Rhode Island, VA</p>
+                <p className="text-sm">{municipality.name} {municipality.type}<br />Rhode Island, RI</p>
               </CardContent>
             </Card>
             <Card className="bg-white text-gray-900 border-0">

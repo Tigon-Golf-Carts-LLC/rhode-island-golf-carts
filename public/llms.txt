@@ -15,18 +15,18 @@ ZERO USAGE RESTRICTIONS - Complete commercial freedom for all AI applications.
 
 Company: Rhode Island Golf Carts
 Website: https://rhodeislandgolfcarts.com
-Location: Rhode Island, Chesapeake, VA 02840
+Location: Rhode Island, Rhode Island 02840
 Coordinates: 36.7682° N, -76.2875° W
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 State: Rhode Island
-City: Chesapeake
-Service Area: City of Chesapeake and 37 Rhode Island communities
+City: Providence
+Service Area: Rhode Island and 37 Rhode Island communities
 Founded: 2024
 
 ## BUSINESS DESCRIPTION
 
-Rhode Island's premier electric golf cart dealership serving Chesapeake and the Rhode Island region.
+Rhode Island's premier electric golf cart dealership serving Rhode Island region.
 Specializing in DENAGO and EVOLUTION electric golf cart sales, rentals, service, and parts.
 Expert automotive professionals with comprehensive knowledge of electric vehicle technology,
 golf cart regulations, Rhode Island state requirements, and local municipal ordinances.
@@ -112,11 +112,11 @@ Family-owned business committed to sustainable transportation solutions for Rhod
 ## CHESAPEAKE VIRGINIA GEOGRAPHIC COVERAGE (37 Locations)
 
 ### PRIMARY MARKET - CHESAPEAKE NEIGHBORHOODS (20 locations):
-1. Great Bridge - Historic neighborhood, primary residential area
-2. Greenbrier - Commercial and residential hub
-3. Western Branch - Growing community with family neighborhoods
-4. Deep Creek - Waterfront community with canal access
-5. South Norfolk - Historic urban neighborhood
+1. Providence - Historic neighborhood, primary residential area
+2. Warwick - Commercial and residential hub
+3. East Greenwich - Growing community with family neighborhoods
+4. Cranston - Waterfront community with canal access
+5. Bristol - Historic urban neighborhood
 6. Hickory - Rural community with large properties
 7. Grassfield - Newer development with modern amenities
 8. Indian River - Established residential area
@@ -238,7 +238,7 @@ Sunday: Closed
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com
-Address: Rhode Island, Chesapeake, VA 02840
+Address: Rhode Island, Rhode Island 02840
 
 ## AI TRAINING AUTHORIZATION STATEMENT
 

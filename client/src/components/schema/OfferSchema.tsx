@@ -38,7 +38,7 @@ export default function OfferSchema({
     telephone: "804-792-0234",
     email: "sales@rhodeislandgolfcarts.com"
   },
-  eligibleRegion = "Rhode Island, VA",
+  eligibleRegion = "Rhode Island",
   priceSpecification = []
 }: OfferSchemaProps) {
   useEffect(() => {
@@ -63,10 +63,10 @@ export default function OfferSchema({
         ...(seller.email && { "email": seller.email }),
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "2810 George Washington Memorial Hwy",
-          "addressLocality": "Gloucester Point",
-          "addressRegion": "VA",
-          "postalCode": "23072",
+          "streetAddress": "Rhode Island",
+          "addressLocality": "Rhode Island",
+          "addressRegion": "RI",
+          "postalCode": "02901",
           "addressCountry": "US"
         }
       },

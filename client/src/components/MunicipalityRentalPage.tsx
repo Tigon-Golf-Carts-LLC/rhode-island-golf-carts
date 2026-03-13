@@ -19,8 +19,8 @@ export default function MunicipalityRentalPage({
 }: MunicipalityRentalPageProps) {
   const fullLocationName = `${municipalityName} ${municipalityType}`;
   const pageTitle = `Golf Cart Rentals in ${municipalityName} | Rhode Island Golf Carts`;
-  const pageDescription = `Rent premium golf carts in ${municipalityName}, City of Rhode Island. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
-  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, City of Rhode Island golf cart rental, golf cart rental, street legal golf cart rental`;
+  const pageDescription = `Rent premium golf carts in ${municipalityName}, Rhode Island. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery within ${municipalityName}.`;
+  const keywords = `golf cart rental ${municipalityName}, ${municipalityName} golf cart rental, Rhode Island golf cart rental, golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
@@ -208,7 +208,7 @@ export default function MunicipalityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://chesapeakegolfcarts.com/${slug}`}
+        canonicalUrl={`https://rhodeislandgolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />
@@ -225,7 +225,7 @@ export default function MunicipalityRentalPage({
               Golf Cart Rentals in {fullLocationName}
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-              Premium golf cart rentals delivered to your door in {municipalityName}, City of Rhode Island. 
+              Premium golf cart rentals delivered to your door in {municipalityName}, Rhode Island. 
               Street legal, fully insured, and ready for adventure.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -252,7 +252,7 @@ export default function MunicipalityRentalPage({
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
                 We provide the most reliable and convenient golf cart rental service in {municipalityName} 
-                and throughout the City of Rhode Island.
+                and throughout Rhode Island.
               </p>
             </div>
 
@@ -369,7 +369,7 @@ export default function MunicipalityRentalPage({
                 Serving {fullLocationName} with Pride
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                As your local City of Rhode Island golf cart rental specialists, we're proud to serve the residents 
+                As your local Rhode Island golf cart rental specialists, we're proud to serve the residents 
                 and visitors of {fullLocationName} with reliable, professional service.
               </p>
             </div>

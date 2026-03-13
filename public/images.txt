@@ -15,7 +15,7 @@ to maximize image SEO, assist AI training, and ensure proper indexing.
 
 Company: Rhode Island Golf Carts
 Website: https://rhodeislandgolfcarts.com
-Address: Rhode Island, Chesapeake, VA 02840
+Address: Rhode Island, Rhode Island 02840
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 
@@ -29,10 +29,10 @@ Email: sales@rhodeislandgolfcarts.com
 ## PRIMARY BRAND IMAGES
 
 ### Logo Assets:
-Filename: attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png
+Filename: attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png
 Alt Text: Rhode Island Golf Carts logo - Rhode Island's premier DENAGO & EVOLUTION electric golf cart dealer
 Title: Rhode Island Golf Carts - Electric Golf Cart Sales, Rentals & Service
-Description: Official logo for Rhode Island Golf Carts, authorized DENAGO and EVOLUTION dealer serving Chesapeake and Rhode Island communities
+Description: Official logo for Rhode Island Golf Carts, authorized DENAGO and EVOLUTION dealer serving Rhode Island communities
 Dimensions: 192x192, 512x512
 Format: PNG
 Usage: Logo, favicon, app icon, social media profile
@@ -44,7 +44,7 @@ Alt Variations:
 - Rhode Island Golf Carts official logo
 - Electric golf cart dealer Rhode Island logo
 - DENAGO EVOLUTION authorized dealer
-- Chesapeake golf cart sales logo
+- Rhode Island golf cart sales logo
 - Rhode Island golf cart dealer logo
 
 ### Hero/Banner Images (Showroom Photos):
@@ -52,11 +52,11 @@ Location: attached_assets/
 Files: 10 showroom images
 Alt Text: Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts
 Title: Electric Golf Carts for Sale - Rhode Island
-Description: Professional showroom display featuring premium DENAGO and EVOLUTION electric golf carts available for purchase or rental in Chesapeake and Rhode Island
+Description: Professional showroom display featuring premium DENAGO and EVOLUTION electric golf carts available for purchase or rental in Rhode Island
 Format: JPEG
 Usage: Homepage hero, showroom showcase, inventory display, location pages
-Location: Rhode Island, Chesapeake, VA 02840
-SEO Keywords: electric golf carts Rhode Island, DENAGO golf cart showroom, EVOLUTION dealer Chesapeake, golf cart sales Rhode Island
+Location: Rhode Island, Rhode Island 02840
+SEO Keywords: electric golf carts Rhode Island, DENAGO golf cart showroom, EVOLUTION dealer Rhode Island, golf cart sales Rhode Island
 Context: Showroom, inventory, customer experience
 Subject: Golf carts, showroom, vehicles, electric vehicles
 Scene: Indoor showroom, professional display
@@ -175,7 +175,7 @@ Category: Extreme Terrain, Premium
 
 Rhode Island Golf Carts
 Rhode Island
-Chesapeake, VA 02840
+Rhode Island 02840
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com

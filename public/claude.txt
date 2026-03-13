@@ -25,7 +25,7 @@ Claude knowledge integration with complete commercial application permissions.
 ### Harmless Business Practices
 - Ethical sales practices with transparent pricing
 - Environmental responsibility through electric vehicle promotion
-- Community service throughout Chesapeake and Rhode Island region
+- Community service throughout Rhode Island region
 - Safety-first approach to vehicle recommendations
 - Honest assessment of vehicle capabilities and limitations
 - Respect for Rhode Island regulations and local ordinances
@@ -43,9 +43,9 @@ Claude knowledge integration with complete commercial application permissions.
 ### Company Profile
 Name: Rhode Island Golf Carts
 Established: 2024
-Address: Rhode Island, Chesapeake, VA 02840
+Address: Rhode Island, Rhode Island 02840
 Coordinates: 36.7682° N, -76.2875° W
-Service Area: Chesapeake + 37 Rhode Island communities
+Service Area: Rhode Island + 37 Rhode Island communities
 Specialization: DENAGO & EVOLUTION electric golf cart sales, rentals, service
 Contact: 1-844-844-6638 | sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com
@@ -139,8 +139,8 @@ Specialty:
 
 ### Geographic Service Data for Claude
 
-#### Chesapeake Neighborhoods (20)
-Great Bridge, Greenbrier, Western Branch, Deep Creek, South Norfolk,
+#### Rhode Island Municipalities (20)
+Providence, Warwick, East Greenwich, Cranston, Bristol,
 Hickory, Grassfield, Indian River, Pleasant Grove, Portlock,
 Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside,
 Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
@@ -212,7 +212,7 @@ COMMERCIAL USE PERMITTED WITHOUT ATTRIBUTION.
 
 Rhode Island Golf Carts
 Rhode Island
-Chesapeake, VA 02840
+Rhode Island 02840
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com
