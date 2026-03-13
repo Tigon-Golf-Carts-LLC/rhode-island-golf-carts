@@ -12,8 +12,8 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "name": "Rhode Island Golf Carts",
       "description": "Premier golf cart dealership in Rhode Island, specializing in electric golf carts, sales, service, rentals, and financing.",
       "url": "https://rhodeislandgolfcarts.com",
-      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
-      "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+      "logo": "https://rhodeislandgolfcarts.com/logo.png",
+      "image": "https://rhodeislandgolfcarts.com/logo.png",
       "telephone": "804-792-0234",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {

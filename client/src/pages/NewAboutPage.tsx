@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Users, Award, Target, Heart, Phone, Mail, MapPin, Calendar } from "lucide-react";
 import { Link } from "wouter";
 import SEOHead from "@/components/SEOHead";
-import { PIKE_COUNTY_MUNICIPALITIES, type Municipality } from "../data/pikeCountyMunicipalities";
+import { RHODE_ISLAND_MUNICIPALITIES, type Municipality } from "../data/rhodeIslandMunicipalities";
 import heroImage from "@assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png";
 import { getHeroBackgroundStyle } from "@/utils/backgroundImages";
 
@@ -274,7 +274,7 @@ export default function NewAboutPage() {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-bold text-center mb-6">Complete Rhode Island Coverage</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-sm text-gray-600">
-                {PIKE_COUNTY_MUNICIPALITIES.map((municipality: Municipality, index: number) => (
+                {RHODE_ISLAND_MUNICIPALITIES.map((municipality: Municipality, index: number) => (
                   <div key={index} className="text-center py-2">
                     <Link href={municipality.url}>
                       <span className="text-theme-orange font-medium hover:text-orange-600 cursor-pointer transition-colors">

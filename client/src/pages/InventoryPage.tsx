@@ -51,7 +51,7 @@ export default function InventoryPage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Golf Cart Inventory - Rhode Island Golf Carts | New Electric Golf Carts VA"
+        title="Golf Cart Inventory - Rhode Island Golf Carts | New Electric Golf Carts RI"
         description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Rhode Island with expert service."
         keywords="golf cart inventory Rhode Island, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/inventory"

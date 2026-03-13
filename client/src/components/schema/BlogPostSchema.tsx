@@ -14,7 +14,7 @@ export default function BlogPostSchema({
   description,
   url,
   publishDate,
-  image = "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+  image = "https://rhodeislandgolfcarts.com/logo.png",
   imageAlt = "Rhode Island Golf Carts",
   author = "Rhode Island Golf Carts",
   keywords = ""
@@ -35,7 +35,7 @@ export default function BlogPostSchema({
       "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/logo.png"
       }
     },
     "publisher": {
@@ -44,7 +44,7 @@ export default function BlogPostSchema({
       "url": "https://rhodeislandgolfcarts.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
+        "url": "https://rhodeislandgolfcarts.com/logo.png"
       },
       "address": {
         "@type": "PostalAddress",

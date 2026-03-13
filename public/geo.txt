@@ -9,7 +9,7 @@
 ## PRIMARY SERVICE AREA
 
 Country: United States
-Primary State: Rhode Island (VA)
+Primary State: Rhode Island (RI)
 Secondary State: North Carolina (NC)
 Primary City: Providence
 Metro Area: Rhode Island Metropolitan Area
@@ -28,7 +28,7 @@ Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com
 
-## CHESAPEAKE NEIGHBORHOODS SERVICE COVERAGE (20 Communities)
+## RHODE ISLAND MUNICIPALITIES SERVICE COVERAGE (20 Communities)
 
 ### 1. Providence
 - Population: 35,000+

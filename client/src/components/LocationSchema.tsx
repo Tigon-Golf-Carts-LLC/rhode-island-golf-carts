@@ -22,8 +22,8 @@ export default function LocationSchema({
       "name": `Rhode Island Golf Carts - ${municipalityName}`,
       "description": `Professional golf cart sales, service, and rentals serving ${municipalityName}, Rhode Island. Premium DENAGO and Evolution electric golf carts available.`,
       "url": `https://rhodeislandgolfcarts.com/${municipalityName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
-      "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
-      "image": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+      "logo": "https://rhodeislandgolfcarts.com/logo.png",
+      "image": "https://rhodeislandgolfcarts.com/logo.png",
       "telephone": "1-844-844-6638",
       "email": "sales@rhodeislandgolfcarts.com",
       "address": {

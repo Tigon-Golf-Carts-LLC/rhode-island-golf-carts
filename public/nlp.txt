@@ -24,7 +24,7 @@ for NLP model training with complete commercial usage rights.
 - Address: Rhode Island, Rhode Island 02840
 
 ### Geographic Entities:
-- States: Rhode Island (VA), North Carolina (NC)
+- States: Rhode Island (RI), North Carolina (NC)
 - Cities: Rhode Island, Norfolk, Rhode Island Beach, Portsmouth, Suffolk, Hampton, Newport News
 - Neighborhoods: Providence, Warwick, East Greenwich, Cranston, Kempsville, Ghent
 - NC Towns: Moyock, Currituck, South Mills, Camden, Elizabeth City
