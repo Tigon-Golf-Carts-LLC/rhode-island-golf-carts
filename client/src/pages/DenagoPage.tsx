@@ -313,7 +313,7 @@ export default function DenagoPage() {
                       ))}
                     </div>
                     <div className="flex flex-col gap-3">
-                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace(/ - chesapeake golf cart/g, '')}`}>
+                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace(/ - rhode island golf cart/g, '')}`}>
                         <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                           View Details
                         </Button>

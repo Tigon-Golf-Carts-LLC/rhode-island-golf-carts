@@ -5,11 +5,11 @@ export interface Municipality {
   url: string;
 }
 
-// Gloucester Virginia area municipalities for golf cart business
+// Rhode Island area municipalities for golf cart business
 export const NEW_LACKAWANNA_COUNTY_MUNICIPALITIES: Municipality[] = [
   // Cities & Main Areas
   { name: 'Gloucester', type: 'City', slug: 'gloucester', url: '/gloucester-golf-carts' },
-  { name: 'Gloucester Point', type: 'City', slug: 'gloucester-point', url: '/gloucester-point-golf-carts' },
+  { name: 'Rhode Island', type: 'City', slug: 'gloucester-point', url: '/gloucester-point-golf-carts' },
   { name: 'Gloucester Courthouse', type: 'City', slug: 'gloucester-courthouse', url: '/gloucester-courthouse-golf-carts' },
   { name: 'Yorktown', type: 'City', slug: 'yorktown', url: '/yorktown-golf-carts' },
   { name: 'Hayes', type: 'City', slug: 'hayes', url: '/hayes-golf-carts' },
@@ -38,7 +38,7 @@ export const NEW_LACKAWANNA_COUNTY_COORDINATES = {
 // Gloucester County basic information
 export const NEW_LACKAWANNA_COUNTY_INFO = {
   name: 'Gloucester County',
-  state: 'Virginia',
+  state: 'Rhode Island',
   totalMunicipalities: 19,
   countySeat: 'Gloucester Courthouse',
   population: 38711, // 2020 census

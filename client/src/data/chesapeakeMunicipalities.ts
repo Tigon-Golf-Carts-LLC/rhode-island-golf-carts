@@ -85,3 +85,5 @@ export const CHESAPEAKE_INFO = {
   founded: 1963,
   website: 'cityofchesapeake.net'
 };
+
+export { CHESAPEAKE_MUNICIPALITIES as RHODE_ISLAND_MUNICIPALITIES };

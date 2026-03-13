@@ -411,7 +411,7 @@ export default function EvolutionPage() {
                       ))}
                     </div>
                     <div className="grid grid-cols-2 gap-2">
-                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace('evolution-', '').replace(/ - chesapeake golf cart/g, '')}`}>
+                      <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-').replace('evolution-', '').replace(/ - rhode island golf cart/g, '')}`}>
                         <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white text-sm">
                           View Details
                         </Button>

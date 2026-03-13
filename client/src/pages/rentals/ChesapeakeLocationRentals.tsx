@@ -1,6 +1,6 @@
 import MunicipalityRentalPage from "@/components/MunicipalityRentalPage";
 
-// Chesapeake Neighborhoods & Communities Rentals (20)
+// Rhode Island Neighborhoods & Communities Rentals (20)
 export function GreatBridgeRentalsPage() {
   return <MunicipalityRentalPage municipalityName="Great Bridge" municipalityType="Neighborhood" slug="great-bridge" />;
 }
@@ -106,7 +106,7 @@ export function NewportNewsRentalsPage() {
   return <MunicipalityRentalPage municipalityName="Newport News" municipalityType="City" slug="newport-news" />;
 }
 
-// Virginia Beach / Norfolk / Portsmouth Neighborhoods Rentals (6)
+// Rhode Island Beach / Norfolk / Portsmouth Neighborhoods Rentals (6)
 export function KempsvilleRentalsPage() {
   return <MunicipalityRentalPage municipalityName="Kempsville" municipalityType="Neighborhood" slug="kempsville" />;
 }

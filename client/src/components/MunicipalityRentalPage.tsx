@@ -208,7 +208,7 @@ export default function MunicipalityRentalPage({
         title={pageTitle}
         description={pageDescription}
         keywords={keywords}
-        canonicalUrl={`https://chesapeakegolfcarts.com/${slug}`}
+        canonicalUrl={`https://rhodeislandgolfcarts.com/${slug}`}
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_OlTDU4v9StGOZo5AygNb9A_bbx-4nIbSSGW4LKOIV9o3w_1753383770677.png"
         ogType="website"
       />

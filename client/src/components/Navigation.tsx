@@ -34,15 +34,15 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center space-x-3">
             <div className="rounded-lg">
-              <img 
-                src="/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png" 
-                alt="Rhode Island Golf Carts Logo" 
+              <img
+                src="/logo.png"
+                alt="Rhode Island Golf Carts Logo"
                 className="h-16 w-16 object-contain"
               />
             </div>
             <Link href="/">
               <div className="cursor-pointer">
-                <div className="text-lg font-bold text-theme-primary">CHESAPEAKE</div>
+                <div className="text-lg font-bold text-theme-primary">RHODE ISLAND</div>
                 <div className="text-lg font-bold text-theme-primary -mt-1">GOLF CARTS</div>
               </div>
             </Link>
@@ -92,7 +92,7 @@ export default function Navigation() {
             </div>
 
             <div className="flex items-center space-x-4">
-              <a href="tel:804-792-0234">
+              <a href="tel:844-844-6638">
                 <Button className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2 text-sm font-medium">
                   Call Now 1-844-844-6638
                 </Button>
@@ -156,7 +156,7 @@ export default function Navigation() {
                   </div>
                   
                   <div className="border-t pt-4 mt-4">
-                    <a href="tel:804-792-0234">
+                    <a href="tel:844-844-6638">
                       <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full">
                         Call Now 1-844-844-6638
                       </Button>

@@ -242,7 +242,7 @@ export default function EthicsPolicyPage() {
                 <p className="mb-2">Rhode Island Golf Carts</p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com (Confidential Ethics Reports)</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p className="mb-2">Serving Rhode Island</p>
                 <p className="mb-2">Website: rhodeislandgolfcarts.com</p>
                 <p>Confidential and anonymous reporting available</p>
               </div>

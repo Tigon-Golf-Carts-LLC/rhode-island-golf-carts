@@ -63,8 +63,8 @@ export const BRANDING = {
   legacy: {
     name: "Rhode Island Golf Carts",
     phone: "804-792-0234",
-    url: "https://chesapeakegolfcarts.com",
-    location: "Gloucester Point, Virginia",
+    url: "https://rhodeislandgolfcarts.com",
+    location: "Rhode Island",
   },
 } as const;
 

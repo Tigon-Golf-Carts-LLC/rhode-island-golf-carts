@@ -44,8 +44,8 @@ export function NewLackawannaCountyMunicipalityPage({ municipalitySlug }: NewLac
         title={pageTitle}
         description={metaDescription}
         keywords={`${municipality.name} golf carts, ${municipality.name} ${municipality.type} PA, Rhode Island golf cart sales, electric golf carts ${municipality.name}`}
-        canonicalUrl={`https://chesapeakegolfcarts.com${municipality.url}`}
-        ogImage="https://chesapeakegolfcarts.com/assets/lackawanna-county-golf-carts-logo.png"
+        canonicalUrl={`https://rhodeislandgolfcarts.com${municipality.url}`}
+        ogImage="https://rhodeislandgolfcarts.com/assets/lackawanna-county-golf-carts-logo.png"
       />
 
       {/* Hero Section */}

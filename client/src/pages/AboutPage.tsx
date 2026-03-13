@@ -288,7 +288,7 @@ export default function AboutPage() {
             {/* Google Maps Embed - Mobile Responsive */}
             <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102529.16172010403!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b0f22c5e574b41%3A0x6b1e6f8c7d8e9f0a!2sGloucester%20Point%2C%20VA!5e0!3m2!1sen!2sus!4v1756135600000!5m2!1sen!2sus" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380000!2d-71.4774!3d41.5801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e444e0437e735d%3A0x69df7c4d48b3b627!2sRhode%20Island!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus" 
                 className="w-full h-64 sm:h-80 md:h-96"
                 style={{border:0}}
                 allowFullScreen 

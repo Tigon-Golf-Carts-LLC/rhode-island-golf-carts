@@ -17,7 +17,7 @@ export default function TermsConditionsPage() {
             Terms & Conditions
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Our comprehensive terms and conditions for golf cart sales, rentals, and services in Rhode Island, Virginia.
+            Our comprehensive terms and conditions for golf cart sales, rentals, and services in Rhode Island.
           </p>
         </div>
       </section>
@@ -94,7 +94,7 @@ export default function TermsConditionsPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Governing Law</h2>
               <p className="mb-6">
                 These Terms are governed by Pennsylvania state law. Any disputes shall be resolved in 
-                the courts of Rhode Island, Virginia.
+                the courts of Rhode Island.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
@@ -102,7 +102,7 @@ export default function TermsConditionsPage() {
                 <p className="mb-2"><strong>Rhode Island Golf Carts</strong></p>
                 <p className="mb-2">Email: info@rhodeislandgolfcarts.com</p>
                 <p className="mb-2">Phone: 804-792-0234</p>
-                <p className="mb-2">Serving Rhode Island, Virginia</p>
+                <p className="mb-2">Serving Rhode Island</p>
                 <p>Website: rhodeislandgolfcarts.com</p>
               </div>
             </div>

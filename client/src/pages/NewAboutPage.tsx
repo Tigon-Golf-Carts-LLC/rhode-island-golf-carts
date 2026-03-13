@@ -150,7 +150,7 @@ export default function NewAboutPage() {
               <div className="relative">
                 <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden shadow-lg">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100000!2d-76.5074161!3d37.2850625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b0f22c5e574b41%3A0x6b1e6f8c7d8e9f0a!2sGloucester%20Point%2C%20VA!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380000!2d-71.4774!3d41.5801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e444e0437e735d%3A0x69df7c4d48b3b627!2sRhode%20Island!5e0!3m2!1sen!2sus!4v1730145600000!5m2!1sen!2sus"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -165,7 +165,7 @@ export default function NewAboutPage() {
                   <div className="grid md:grid-cols-1 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Rhode Island Golf Carts</h4>
-                      <p className="text-gray-600">Serving all City of Rhode Island, VA</p>
+                      <p className="text-gray-600">Serving all of Rhode Island</p>
                       <p className="text-gray-700">1-844-844-6638</p>
                       <p className="text-gray-600">info@rhodeislandgolfcarts.com</p>
                       <p className="text-gray-600">sales@rhodeislandgolfcarts.com</p>

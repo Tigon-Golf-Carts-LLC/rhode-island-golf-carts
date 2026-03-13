@@ -10,8 +10,8 @@ export default function EvolutionCarrier6PlusPage() {
       price="$9,595"
       image={evolutionCarrier6PlusImage}
       seoTitle="EVOLUTION CARRIER 6 PLUS - Utility Golf Cart | Rhode Island Golf Carts"
-      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Rhode Island, VA. 6-passenger utility vehicle with enhanced cargo capacity and work features."
-      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Rhode Island, Virginia"
+      seoDescription="Discover the EVOLUTION CARRIER 6 PLUS electric golf cart in Rhode Island. 6-passenger utility vehicle with enhanced cargo capacity and work features."
+      seoKeywords="EVOLUTION CARRIER 6 PLUS, utility golf cart, 6-passenger, cargo capacity, Rhode Island"
       canonicalUrl="https://rhodeislandgolfcarts.com/vehicles/evolution-carrier-6-plus"
       seats="6"
       range="38 miles"
