@@ -208,7 +208,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/new_vs_pre-owned_carts.png",
     heroImagePrompt: "Split image showing a brand new shiny electric golf cart on one side and a certified pre-owned golf cart on the other, both in pristine condition, Rhode Island dealership setting, professional photography, bright showroom lighting",
     heroImageAlt: "New and used golf carts available at Rhode Island Golf Carts dealership in Rhode Island with local inventory",
-    keywords: "new golf carts Rhode Island VA, used golf carts Rhode Island, pre-owned golf carts, certified used golf carts, golf cart inventory Virginia",
+    keywords: "new golf carts Rhode Island RI, used golf carts Rhode Island, pre-owned golf carts, certified used golf carts, golf cart inventory Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/new-used-golf-carts-rhode-island-shop-local",
     content: {
       intro: "At Rhode Island Golf Carts, we understand that every customer has unique needs and budgets. That's why we maintain an extensive inventory of both new and certified pre-owned golf carts to serve the Rhode Island community. Whether you want the latest technology or exceptional value, our Rhode Island showroom has the perfect cart waiting for you.",
@@ -338,7 +338,7 @@ export const blogPosts: BlogPost[] = [
     publishDate: "2025-11-13",
     excerpt: "Rhode Island's premier golf cart superstore offers the region's largest selection of electric golf carts. Find your perfect DENAGO or EVOLUTION model at our George Washington Memorial Hwy location.",
     heroImage: "/attached_assets/generated_images/golf_cart_superstore_aerial.png",
-    heroImagePrompt: "Aerial view of a large golf cart superstore in Rhode Island with rows of colorful electric golf carts, spacious showroom, large parking lot, American flag flying, professional dealership appearance, sunny Virginia weather",
+    heroImagePrompt: "Aerial view of a large golf cart superstore in Rhode Island with rows of colorful electric golf carts, spacious showroom, large parking lot, American flag flying, professional dealership appearance, sunny Rhode Island weather",
     heroImageAlt: "Rhode Island golf cart superstore on George Washington Memorial Hwy with largest selection of DENAGO and EVOLUTION electric golf carts",
     keywords: "golf cart superstore Rhode Island, large golf cart selection, Rhode Island golf cart dealer, George Washington Memorial Hwy golf carts, Rhode Island golf cart superstore",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-golf-cart-superstore-find-next-cart",
@@ -474,7 +474,7 @@ export const blogPosts: BlogPost[] = [
           ]
         }
       ],
-      conclusion: "Visit Rhode Island's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Rhode Island, VA. Call 804-792-0234 for more information."
+      conclusion: "Visit Rhode Island's golf cart superstore today and discover why we're the region's top choice for electric golf carts. Located at 2810 George Washington Memorial Hwy, Rhode Island, RI. Call 804-792-0234 for more information."
     },
     internalLinks: [
       { text: "View Complete Inventory", url: "/inventory" },
@@ -487,15 +487,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 4,
     slug: "electric-golf-carts-for-sale-rhode-island-fast-delivery",
-    seoTitle: "Electric Golf Carts for Sale in Rhode Island VA | Fast Local Delivery",
-    metaDescription: "Shop electric golf carts for sale in Rhode Island VA with fast local delivery. DENAGO and EVOLUTION lithium battery carts with extended range. Same-day delivery available!",
-    h1: "Electric Golf Carts for Sale in Rhode Island VA | Fast Local Delivery",
+    seoTitle: "Electric Golf Carts for Sale in Rhode Island RI | Fast Local Delivery",
+    metaDescription: "Shop electric golf carts for sale in Rhode Island RI with fast local delivery. DENAGO and EVOLUTION lithium battery carts with extended range. Same-day delivery available!",
+    h1: "Electric Golf Carts for Sale in Rhode Island RI | Fast Local Delivery",
     publishDate: "2025-11-12",
     excerpt: "Go electric with premium golf carts from Rhode Island Golf Carts. Our lithium-powered DENAGO and EVOLUTION models offer extended range and fast local delivery throughout Rhode Island.",
     heroImage: "/attached_assets/generated_images/golf_cart_home_delivery.png",
     heroImagePrompt: "Sleek modern electric golf cart being delivered to a beautiful Rhode Island home, delivery truck in background, happy customer receiving keys, well-manicured suburban neighborhood, sunny day",
-    heroImageAlt: "Electric golf cart delivery in Rhode Island VA with fast local service for DENAGO and EVOLUTION lithium battery golf carts",
-    keywords: "electric golf carts Rhode Island VA, lithium golf carts, fast golf cart delivery, electric cart sales Virginia, battery powered golf carts Rhode Island",
+    heroImageAlt: "Electric golf cart delivery in Rhode Island RI with fast local service for DENAGO and EVOLUTION lithium battery golf carts",
+    keywords: "electric golf carts Rhode Island RI, lithium golf carts, fast golf cart delivery, electric cart sales Rhode Island, battery powered golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/electric-golf-carts-for-sale-rhode-island-fast-delivery",
     content: {
       intro: "Electric golf carts have revolutionized personal transportation in Rhode Island and throughout Rhode Island. At Rhode Island Golf Carts, we specialize in the latest lithium-powered electric models from DENAGO and EVOLUTION, offering extended range, quiet operation, and zero emissions. Best of all, we provide fast local delivery right to your Rhode Island home.",
@@ -650,14 +650,14 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/street-legal_golf_cart_driving.png",
     heroImagePrompt: "Street-legal golf cart driving on a residential Rhode Island street, DOT approved features visible including headlights mirrors and turn signals, driver with seatbelt, neighborhood setting, legal road use demonstration",
     heroImageAlt: "Street-legal golf cart in Rhode Island with DOT approved features including headlights mirrors and seatbelts for legal road use",
-    keywords: "street legal golf carts Rhode Island VA, LSV golf carts Virginia, NEV carts Rhode Island, DOT approved golf carts, road legal golf carts Virginia",
+    keywords: "street legal golf carts Rhode Island RI, LSV golf carts Rhode Island, NEV carts Rhode Island, DOT approved golf carts, road legal golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/street-legal-golf-carts-rhode-island-buy-now",
     content: {
-      intro: "Want to drive your golf cart on Rhode Island streets legally? Our street-legal golf carts meet all Virginia DOT requirements and federal LSV (Low-Speed Vehicle) standards. With proper equipment including headlights, turn signals, mirrors, and seatbelts, you can legally operate on roads with speed limits of 35 mph or less throughout Rhode Island and Rhode Island.",
+      intro: "Want to drive your golf cart on Rhode Island streets legally? Our street-legal golf carts meet all Rhode Island DOT requirements and federal LSV (Low-Speed Vehicle) standards. With proper equipment including headlights, turn signals, mirrors, and seatbelts, you can legally operate on roads with speed limits of 35 mph or less throughout Rhode Island and Rhode Island.",
       sections: [
         {
           h2: "Understanding Street-Legal Requirements",
-          content: "Virginia law allows properly equipped golf carts to operate on public roads with posted speed limits of 35 mph or less. These Low-Speed Vehicles (LSVs) must meet specific federal safety standards.",
+          content: "Rhode Island law allows properly equipped golf carts to operate on public roads with posted speed limits of 35 mph or less. These Low-Speed Vehicles (LSVs) must meet specific federal safety standards.",
           subsections: [
             {
               h3: "Required Safety Equipment",
@@ -683,11 +683,11 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Registration and Titling",
-              content: "We can assist with the registration and titling process to ensure your street-legal cart is properly documented for Virginia roads.",
+              content: "We can assist with the registration and titling process to ensure your street-legal cart is properly documented for Rhode Island roads.",
               details: [
                 {
-                  h4: "Virginia DMV Requirements",
-                  content: "Street-legal golf carts must be registered with the Virginia DMV and display proper license plates for legal road operation.",
+                  h4: "Rhode Island DMV Requirements",
+                  content: "Street-legal golf carts must be registered with the Rhode Island DMV and display proper license plates for legal road operation.",
                   points: [
                     {
                       h5: "Title and Registration Assistance",
@@ -757,7 +757,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Street-Legal Models in Stock",
-          content: "Browse our selection of fully equipped street-legal golf carts from DENAGO and EVOLUTION, ready for Virginia registration and road use.",
+          content: "Browse our selection of fully equipped street-legal golf carts from DENAGO and EVOLUTION, ready for Rhode Island registration and road use.",
           subsections: [
             {
               h3: "DENAGO Street-Legal Options",
@@ -765,7 +765,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Factory LSV Packages",
-                  content: "DENAGO offers complete LSV packages that meet Virginia requirements straight from the factory.",
+                  content: "DENAGO offers complete LSV packages that meet Rhode Island requirements straight from the factory.",
                   points: [
                     {
                       h5: "Complete Safety Equipment",
@@ -819,15 +819,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 6,
     slug: "top-rated-golf-carts-rhode-island-local-prices",
-    seoTitle: "Top-Rated Golf Carts in Rhode Island VA | Local Prices and Availability",
-    metaDescription: "Shop top-rated golf carts in Rhode Island VA with the best local prices. Customer-reviewed DENAGO and EVOLUTION models with immediate availability. 5-star rated dealership!",
-    h1: "Top-Rated Golf Carts in Rhode Island VA | Local Prices and Availability",
+    seoTitle: "Top-Rated Golf Carts in Rhode Island RI | Local Prices and Availability",
+    metaDescription: "Shop top-rated golf carts in Rhode Island RI with the best local prices. Customer-reviewed DENAGO and EVOLUTION models with immediate availability. 5-star rated dealership!",
+    h1: "Top-Rated Golf Carts in Rhode Island RI | Local Prices and Availability",
     publishDate: "2025-11-10",
     excerpt: "Rhode Island's top-rated golf cart dealership offers the best prices on highly reviewed DENAGO and EVOLUTION models. See why our customers rate us 5 stars!",
     heroImage: "/attached_assets/generated_images/five-star_rated_dealership.png",
     heroImagePrompt: "Five-star rated golf cart dealership in Rhode Island with happy customers giving thumbs up, gold stars floating above scene, premium golf carts on display, professional staff helping customers, review ratings visible",
-    heroImageAlt: "Top-rated 5-star golf cart dealership in Rhode Island VA with customer reviews and best local prices on DENAGO and EVOLUTION carts",
-    keywords: "top rated golf carts Rhode Island VA, best golf cart prices, customer reviewed golf carts, 5-star golf cart dealer, Rhode Island golf cart availability",
+    heroImageAlt: "Top-rated 5-star golf cart dealership in Rhode Island RI with customer reviews and best local prices on DENAGO and EVOLUTION carts",
+    keywords: "top rated golf carts Rhode Island RI, best golf cart prices, customer reviewed golf carts, 5-star golf cart dealer, Rhode Island golf cart availability",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/top-rated-golf-carts-rhode-island-local-prices",
     content: {
       intro: "When Rhode Island residents shop for golf carts, they choose Rhode Island Golf Carts for our top-rated selection and exceptional customer service. Our 5-star reviews speak to our commitment to quality products, fair pricing, and outstanding support. Discover why we're Rhode Island' most trusted golf cart dealership.",
@@ -982,10 +982,10 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/affordable_golf_cart_options.png",
     heroImagePrompt: "Affordable golf cart with price tag showing great value in Rhode Island dealership, family looking at budget-friendly options, financing approval sign visible, welcoming showroom atmosphere",
     heroImageAlt: "Affordable golf carts in Rhode Island with best deals and budget-friendly financing options for Rhode Island families",
-    keywords: "affordable golf carts Rhode Island VA, budget golf carts Virginia, cheap golf carts Rhode Island, golf cart deals, financing golf carts Rhode Island",
+    keywords: "affordable golf carts Rhode Island RI, budget golf carts Rhode Island, cheap golf carts Rhode Island, golf cart deals, financing golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/affordable-golf-carts-rhode-island-best-deals",
     content: {
-      intro: "You don't need a huge budget to own a quality golf cart in Rhode Island, Virginia. At Rhode Island Golf Carts, we offer affordable options for every budget, from value-priced pre-owned carts to competitively priced new models with flexible financing. Discover how easy it is to own your own golf cart.",
+      intro: "You don't need a huge budget to own a quality golf cart in Rhode Island. At Rhode Island Golf Carts, we offer affordable options for every budget, from value-priced pre-owned carts to competitively priced new models with flexible financing. Discover how easy it is to own your own golf cart.",
       sections: [
         {
           h2: "Budget-Friendly Golf Cart Options",
@@ -1129,15 +1129,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 8,
     slug: "rhode-island-golf-cart-buyers-guide",
-    seoTitle: "Rhode Island VA Golf Cart Buyers Guide | What Local Shoppers Need to Know",
-    metaDescription: "Complete golf cart buying guide for Rhode Island VA shoppers. Learn about features, pricing, street-legal requirements, and local regulations. Expert tips from Rhode Island Golf Carts!",
-    h1: "Rhode Island VA Golf Cart Buyers Guide | What Local Shoppers Need to Know",
+    seoTitle: "Rhode Island RI Golf Cart Buyers Guide | What Local Shoppers Need to Know",
+    metaDescription: "Complete golf cart buying guide for Rhode Island RI shoppers. Learn about features, pricing, street-legal requirements, and local regulations. Expert tips from Rhode Island Golf Carts!",
+    h1: "Rhode Island RI Golf Cart Buyers Guide | What Local Shoppers Need to Know",
     publishDate: "2025-11-08",
     excerpt: "Everything Rhode Island shoppers need to know before buying a golf cart. Our comprehensive guide covers features, pricing, regulations, and tips for making the best choice.",
     heroImage: "/attached_assets/generated_images/golf_cart_buyer's_guide.png",
     heroImagePrompt: "Person reading a golf cart buyer's guide brochure at Rhode Island dealership, checklist visible, staff member answering questions, educational setting, informative atmosphere",
-    heroImageAlt: "Rhode Island VA golf cart buyer's guide with expert tips and information for local shoppers at Rhode Island Golf Carts dealership",
-    keywords: "golf cart buying guide Rhode Island VA, how to buy golf cart Virginia, golf cart tips, choosing golf cart, Rhode Island golf cart regulations",
+    heroImageAlt: "Rhode Island RI golf cart buyer's guide with expert tips and information for local shoppers at Rhode Island Golf Carts dealership",
+    keywords: "golf cart buying guide Rhode Island RI, how to buy golf cart Rhode Island, golf cart tips, choosing golf cart, Rhode Island golf cart regulations",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-golf-cart-buyers-guide",
     content: {
       intro: "Buying a golf cart is an exciting decision, and we want to help you make the best choice for your needs. This comprehensive guide covers everything Rhode Island residents need to know about purchasing a golf cart, from understanding features and pricing to navigating local regulations.",
@@ -1210,7 +1210,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Certification Documentation",
-                          content: "Ensure your cart includes proper LSV certification for Virginia DMV registration."
+                          content: "Ensure your cart includes proper LSV certification for Rhode Island DMV registration."
                         }
                       ]
                     }
@@ -1228,7 +1228,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Climate Considerations",
-                      content: "Features like fans, heaters, and weather enclosures matter in Virginia's varied seasons.",
+                      content: "Features like fans, heaters, and weather enclosures matter in Rhode Island's varied seasons.",
                       subpoints: [
                         {
                           h6: "USB Charging Ports",
@@ -1248,11 +1248,11 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Where You Can Drive",
-              content: "Street-legal carts can operate on roads with speed limits of 35 mph or less in Virginia.",
+              content: "Street-legal carts can operate on roads with speed limits of 35 mph or less in Rhode Island.",
               details: [
                 {
                   h4: "Rhode Island Street Access",
-                  content: "Many Rhode Island residential streets qualify for golf cart use under Virginia law.",
+                  content: "Many Rhode Island residential streets qualify for golf cart use under Rhode Island law.",
                   points: [
                     {
                       h5: "Neighborhood Routes",
@@ -1260,7 +1260,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Crossing Major Roads",
-                          content: "Virginia law allows crossing higher-speed roads at designated intersections."
+                          content: "Rhode Island law allows crossing higher-speed roads at designated intersections."
                         }
                       ]
                     }
@@ -1270,11 +1270,11 @@ export const blogPosts: BlogPost[] = [
             },
             {
               h3: "Insurance Requirements",
-              content: "Virginia requires liability insurance for street-legal golf carts operated on public roads.",
+              content: "Rhode Island requires liability insurance for street-legal golf carts operated on public roads.",
               details: [
                 {
                   h4: "Coverage Minimums",
-                  content: "Virginia law specifies minimum liability coverage amounts for LSV operation.",
+                  content: "Rhode Island law specifies minimum liability coverage amounts for LSV operation.",
                   points: [
                     {
                       h5: "Policy Options",
@@ -1306,15 +1306,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 9,
     slug: "premium-golf-carts-rhode-island-new-models",
-    seoTitle: "Premium Golf Carts Rhode Island VA | New Models In Stock",
-    metaDescription: "Shop premium golf carts in Rhode Island VA. Luxury DENAGO and EVOLUTION models with advanced features now in stock. Experience the best in electric golf cart technology!",
-    h1: "Premium Golf Carts Rhode Island VA | New Models In Stock",
+    seoTitle: "Premium Golf Carts Rhode Island RI | New Models In Stock",
+    metaDescription: "Shop premium golf carts in Rhode Island RI. Luxury DENAGO and EVOLUTION models with advanced features now in stock. Experience the best in electric golf cart technology!",
+    h1: "Premium Golf Carts Rhode Island RI | New Models In Stock",
     publishDate: "2025-11-07",
     excerpt: "Experience luxury golf cart ownership with our premium DENAGO and EVOLUTION models. Advanced features, superior comfort, and cutting-edge technology now available in Rhode Island.",
     heroImage: "/attached_assets/generated_images/premium_luxury_golf_cart.png",
     heroImagePrompt: "Luxury premium golf cart in showroom spotlight in Rhode Island, leather seats visible, chrome accents, high-end finish, VIP presentation, elegant showroom setting",
-    heroImageAlt: "Premium luxury golf carts in Rhode Island VA showroom featuring new DENAGO and EVOLUTION models with advanced features",
-    keywords: "premium golf carts Rhode Island VA, luxury golf carts Virginia, high-end golf carts, DENAGO premium, EVOLUTION luxury, Rhode Island golf carts",
+    heroImageAlt: "Premium luxury golf carts in Rhode Island RI showroom featuring new DENAGO and EVOLUTION models with advanced features",
+    keywords: "premium golf carts Rhode Island RI, luxury golf carts Rhode Island, high-end golf carts, DENAGO premium, EVOLUTION luxury, Rhode Island golf carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/premium-golf-carts-rhode-island-new-models",
     content: {
       intro: "For discerning buyers who demand the best, Rhode Island Golf Carts offers a curated selection of premium golf carts featuring the finest materials, advanced technology, and exceptional performance. Our luxury DENAGO and EVOLUTION models represent the pinnacle of electric golf cart design.",
@@ -1337,7 +1337,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Weather-Resistant Materials",
-                          content: "Premium materials are selected for durability and resistance to Virginia's varied climate."
+                          content: "Premium materials are selected for durability and resistance to Rhode Island's varied climate."
                         }
                       ]
                     }
@@ -1437,7 +1437,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "All-Weather Capability",
-                          content: "Premium weather protection features keep you comfortable in Virginia's varied climate."
+                          content: "Premium weather protection features keep you comfortable in Rhode Island's varied climate."
                         }
                       ]
                     }
@@ -1491,7 +1491,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/family_golf_cart_dealership.png",
     heroImagePrompt: "Trusted family-owned golf cart dealership in Rhode Island with staff and owner shaking hands with customers, community awards visible, professional but welcoming atmosphere, established business appearance",
     heroImageAlt: "Trusted local golf cart dealer in Rhode Island with professional staff and community commitment at George Washington Memorial Hwy showroom",
-    keywords: "trusted golf cart dealer Rhode Island VA, reliable golf cart sales Virginia, local golf cart business, Rhode Island dealership, Rhode Island golf cart dealer",
+    keywords: "trusted golf cart dealer Rhode Island RI, reliable golf cart sales Rhode Island, local golf cart business, Rhode Island dealership, Rhode Island golf cart dealer",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-golf-cart-sales-trusted-dealer",
     content: {
       intro: "When you buy a golf cart, you're not just making a purchase—you're starting a relationship with a dealer who will support you for years to come. At Rhode Island Golf Carts, we've built our reputation on trust, integrity, and genuine care for our Rhode Island community.",
@@ -1602,7 +1602,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Regional Delivery Coverage",
-              content: "We deliver golf carts throughout Rhode Island and surrounding Virginia communities.",
+              content: "We deliver golf carts throughout Rhode Island and surrounding Rhode Island communities.",
               details: [
                 {
                   h4: "Free Local Delivery",
@@ -1638,15 +1638,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 11,
     slug: "lifted-golf-carts-for-sale-rhode-island",
-    seoTitle: "Lifted Golf Carts for Sale in Rhode Island VA | Local Upgrades Available",
-    metaDescription: "Shop lifted golf carts in Rhode Island VA. Higher ground clearance, larger tires, and enhanced suspension. Factory and custom lift kits available. Test drive today!",
-    h1: "Lifted Golf Carts for Sale in Rhode Island VA | Local Upgrades Available",
+    seoTitle: "Lifted Golf Carts for Sale in Rhode Island RI | Local Upgrades Available",
+    metaDescription: "Shop lifted golf carts in Rhode Island RI. Higher ground clearance, larger tires, and enhanced suspension. Factory and custom lift kits available. Test drive today!",
+    h1: "Lifted Golf Carts for Sale in Rhode Island RI | Local Upgrades Available",
     publishDate: "2025-11-05",
     excerpt: "Take your golf cart to new heights with lifted models from Rhode Island Golf Carts. Enhanced ground clearance, aggressive styling, and off-road capability for Rhode Island terrain.",
     heroImage: "/attached_assets/generated_images/lifted_golf_cart_terrain.png",
     heroImagePrompt: "Lifted golf cart with oversized tires and suspension lift kit on rugged Rhode Island terrain, aggressive stance, outdoor setting, pine trees in background, adventure-ready appearance",
-    heroImageAlt: "Lifted golf cart for sale in Rhode Island VA with enhanced ground clearance, large tires, and custom suspension upgrades",
-    keywords: "lifted golf carts Rhode Island VA, golf cart lift kit Virginia, raised golf carts, off-road golf carts, custom lifted carts Rhode Island",
+    heroImageAlt: "Lifted golf cart for sale in Rhode Island RI with enhanced ground clearance, large tires, and custom suspension upgrades",
+    keywords: "lifted golf carts Rhode Island RI, golf cart lift kit Rhode Island, raised golf carts, off-road golf carts, custom lifted carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/lifted-golf-carts-for-sale-rhode-island",
     content: {
       intro: "Lifted golf carts combine aggressive styling with practical benefits like improved ground clearance and off-road capability. At Rhode Island Golf Carts, we offer factory-lifted models and can install professional lift kits on existing carts to give you the elevated ride you're looking for.",
@@ -1815,15 +1815,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 12,
     slug: "custom-golf-carts-rhode-island-build-your-way",
-    seoTitle: "Custom Golf Carts Rhode Island VA | Build Your Cart Your Way",
-    metaDescription: "Create your dream golf cart at Rhode Island Golf Carts. Custom colors, accessories, lift kits, sound systems, and more. Design your perfect cart in Rhode Island VA!",
-    h1: "Custom Golf Carts Rhode Island VA | Build Your Cart Your Way",
+    seoTitle: "Custom Golf Carts Rhode Island RI | Build Your Cart Your Way",
+    metaDescription: "Create your dream golf cart at Rhode Island Golf Carts. Custom colors, accessories, lift kits, sound systems, and more. Design your perfect cart in Rhode Island RI!",
+    h1: "Custom Golf Carts Rhode Island RI | Build Your Cart Your Way",
     publishDate: "2025-11-04",
     excerpt: "Your vision, your cart. Rhode Island Golf Carts offers complete customization services to build the golf cart of your dreams. Choose your colors, features, and accessories.",
     heroImage: "/attached_assets/generated_images/custom_golf_cart_design.png",
     heroImagePrompt: "Custom designed golf cart with unique color scheme and personalized accessories in Rhode Island showroom, designer elements visible, premium customization, customer reviewing design options on tablet",
-    heroImageAlt: "Custom golf cart in Rhode Island VA showroom with personalized colors, accessories, and custom build options",
-    keywords: "custom golf carts Rhode Island VA, personalized golf carts, build your own golf cart, custom accessories, golf cart customization Virginia",
+    heroImageAlt: "Custom golf cart in Rhode Island RI showroom with personalized colors, accessories, and custom build options",
+    keywords: "custom golf carts Rhode Island RI, personalized golf carts, build your own golf cart, custom accessories, golf cart customization Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/custom-golf-carts-rhode-island-build-your-way",
     content: {
       intro: "Why settle for ordinary when you can have extraordinary? At Rhode Island Golf Carts, we offer comprehensive customization services that let you create a one-of-a-kind golf cart. From custom paint to premium audio systems, from lift kits to luxury seating, we'll help you build the cart of your dreams.",
@@ -1896,7 +1896,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Weather-Resistant Materials",
-                          content: "All upholstery is designed to withstand Virginia's climate and weather."
+                          content: "All upholstery is designed to withstand Rhode Island's climate and weather."
                         }
                       ]
                     }
@@ -2000,7 +2000,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/family_riding_golf_cart.png",
     heroImagePrompt: "Happy family with parents and children riding in a 6-passenger golf cart through Rhode Island neighborhood, seatbelts visible, safe operation, suburban community setting, sunny day",
     heroImageAlt: "Family-friendly 6-passenger golf cart in Rhode Island neighborhood with safety features and comfortable seating for families",
-    keywords: "family golf carts Rhode Island VA, safe golf carts Virginia, 6-passenger golf carts, kids safe golf carts, family transportation Rhode Island",
+    keywords: "family golf carts Rhode Island RI, safe golf carts Rhode Island, 6-passenger golf carts, kids safe golf carts, family transportation Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/family-friendly-golf-carts-rhode-island",
     content: {
       intro: "Golf carts are perfect for family transportation in Rhode Island neighborhoods, and safety is our top priority. At Rhode Island Golf Carts, we offer family-friendly models designed with enhanced safety features, comfortable multi-passenger seating, and reliable performance that parents can trust.",
@@ -2147,15 +2147,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 14,
     slug: "rhode-island-neighborhood-golf-carts",
-    seoTitle: "Rhode Island VA Neighborhood Golf Carts | Shop Local Options",
-    metaDescription: "Find the perfect neighborhood golf cart for Rhode Island VA communities. Quiet, eco-friendly carts ideal for Great Bridge, Greenbrier, Western Branch, and all Rhode Island areas!",
-    h1: "Rhode Island VA Neighborhood Golf Carts | Shop Local Options",
+    seoTitle: "Rhode Island RI Neighborhood Golf Carts | Shop Local Options",
+    metaDescription: "Find the perfect neighborhood golf cart for Rhode Island RI communities. Quiet, eco-friendly carts ideal for Great Bridge, Greenbrier, Western Branch, and all Rhode Island areas!",
+    h1: "Rhode Island RI Neighborhood Golf Carts | Shop Local Options",
     publishDate: "2025-11-02",
     excerpt: "Navigate your Rhode Island neighborhood in style with a quiet, eco-friendly golf cart. Perfect for Great Bridge, Greenbrier, Western Branch, and communities throughout the city.",
     heroImage: "/attached_assets/generated_images/golf_cart_suburban_home.png",
     heroImagePrompt: "Electric golf cart parked in front of beautiful Rhode Island suburban home, well-manicured lawn, friendly neighborhood street, trees and landscaping, peaceful community atmosphere",
-    heroImageAlt: "Neighborhood golf cart in Rhode Island VA community suitable for Great Bridge, Greenbrier, and Western Branch residential areas",
-    keywords: "neighborhood golf carts Rhode Island VA, community golf carts Virginia, Great Bridge golf carts, Greenbrier golf carts, residential golf carts",
+    heroImageAlt: "Neighborhood golf cart in Rhode Island RI community suitable for Great Bridge, Greenbrier, and Western Branch residential areas",
+    keywords: "neighborhood golf carts Rhode Island RI, community golf carts Rhode Island, Great Bridge golf carts, Greenbrier golf carts, residential golf carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-neighborhood-golf-carts",
     content: {
       intro: "Rhode Island's beautiful neighborhoods are perfect for golf cart living. From the established communities of Great Bridge to the family-friendly streets of Greenbrier and Western Branch, a golf cart provides convenient, eco-friendly transportation that fits the relaxed lifestyle of our city.",
@@ -2332,7 +2332,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/golf_cart_outlet_store.png",
     heroImagePrompt: "Golf cart outlet store in Rhode Island with sale banners and discount pricing visible, multiple golf carts with price tags, outlet shopping atmosphere, customers getting great deals",
     heroImageAlt: "Rhode Island golf cart outlet with new and used inventory featuring outlet pricing and special deals on DENAGO and EVOLUTION carts",
-    keywords: "golf cart outlet Rhode Island VA, discount golf carts Virginia, golf cart deals, outlet pricing, cheap golf carts Rhode Island",
+    keywords: "golf cart outlet Rhode Island RI, discount golf carts Rhode Island, golf cart deals, outlet pricing, cheap golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-golf-cart-outlet-inventory",
     content: {
       intro: "Looking for exceptional value on quality golf carts? Rhode Island Golf Carts offers outlet-style pricing on select new and used inventory. Our volume purchasing and efficient operations allow us to pass significant savings on to our Rhode Island customers.",
@@ -2479,15 +2479,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 16,
     slug: "high-performance-golf-carts-rhode-island",
-    seoTitle: "High-Performance Golf Carts Rhode Island VA | Local Test Rides",
-    metaDescription: "Experience high-performance golf carts in Rhode Island VA. Upgraded motors, enhanced speed, superior handling. Schedule your test ride at our George Washington Memorial Hwy showroom!",
-    h1: "High-Performance Golf Carts Rhode Island VA | Local Test Rides",
+    seoTitle: "High-Performance Golf Carts Rhode Island RI | Local Test Rides",
+    metaDescription: "Experience high-performance golf carts in Rhode Island RI. Upgraded motors, enhanced speed, superior handling. Schedule your test ride at our George Washington Memorial Hwy showroom!",
+    h1: "High-Performance Golf Carts Rhode Island RI | Local Test Rides",
     publishDate: "2025-10-31",
     excerpt: "Feel the power of high-performance golf carts at Rhode Island Golf Carts. Enhanced motors, improved handling, and superior acceleration for drivers who demand more.",
     heroImage: "/attached_assets/generated_images/high-performance_golf_cart.png",
     heroImagePrompt: "High-performance golf cart in motion blur on Rhode Island test track, speed and power evident, upgraded wheels, sporty appearance, dynamic action shot",
-    heroImageAlt: "High-performance golf cart in Rhode Island VA with upgraded motor and enhanced speed capabilities available for test rides",
-    keywords: "high performance golf carts Rhode Island VA, fast golf carts Virginia, upgraded golf cart motors, speed golf carts, performance upgrades Rhode Island",
+    heroImageAlt: "High-performance golf cart in Rhode Island RI with upgraded motor and enhanced speed capabilities available for test rides",
+    keywords: "high performance golf carts Rhode Island RI, fast golf carts Rhode Island, upgraded golf cart motors, speed golf carts, performance upgrades Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/high-performance-golf-carts-rhode-island",
     content: {
       intro: "For golf cart enthusiasts who want more than standard performance, Rhode Island Golf Carts offers high-performance models and upgrade packages that deliver enhanced speed, acceleration, and handling. Experience the thrill of a performance cart with a test ride at our George Washington Memorial Hwy location.",
@@ -2634,15 +2634,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 17,
     slug: "rhode-island-golf-cart-financing-easy-approval",
-    seoTitle: "Rhode Island VA Golf Cart Financing | Easy Approval Options",
-    metaDescription: "Get easy financing approval for golf carts in Rhode Island VA. Low monthly payments, competitive rates, all credit situations welcome. Apply online or in-store today!",
-    h1: "Rhode Island VA Golf Cart Financing | Easy Approval Options",
+    seoTitle: "Rhode Island RI Golf Cart Financing | Easy Approval Options",
+    metaDescription: "Get easy financing approval for golf carts in Rhode Island RI. Low monthly payments, competitive rates, all credit situations welcome. Apply online or in-store today!",
+    h1: "Rhode Island RI Golf Cart Financing | Easy Approval Options",
     publishDate: "2025-10-30",
     excerpt: "Make golf cart ownership affordable with flexible financing from Rhode Island Golf Carts. Easy approval, low monthly payments, and options for all credit situations.",
     heroImage: "/attached_assets/generated_images/golf_cart_financing_signing.png",
     heroImagePrompt: "Happy customer signing golf cart financing paperwork in Rhode Island dealership, friendly finance manager, approved stamp visible, celebration atmosphere, keys being handed over",
-    heroImageAlt: "Golf cart financing approval in Rhode Island VA with easy application process, low monthly payments, and customer receiving keys",
-    keywords: "golf cart financing Rhode Island VA, easy golf cart loans, golf cart payment plans, finance golf cart Virginia, low monthly payments",
+    heroImageAlt: "Golf cart financing approval in Rhode Island RI with easy application process, low monthly payments, and customer receiving keys",
+    keywords: "golf cart financing Rhode Island RI, easy golf cart loans, golf cart payment plans, finance golf cart Rhode Island, low monthly payments",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-golf-cart-financing-easy-approval",
     content: {
       intro: "Don't let upfront costs prevent you from owning the golf cart you want. Rhode Island Golf Carts offers flexible financing options designed to make golf cart ownership accessible to every Rhode Island family. Our finance team works with multiple lenders to find approval options that work for your situation.",
@@ -2797,7 +2797,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/golf_cart_community_recreation.png",
     heroImagePrompt: "Golf cart at Rhode Island community recreation area with families enjoying outdoor activities, pool area visible, community center background, recreational setting, happy residents",
     heroImageAlt: "Golf cart for recreation and community use in Rhode Island at neighborhood pool and community center with families",
-    keywords: "recreational golf carts Rhode Island VA, community golf carts Virginia, campground golf carts, HOA golf carts, recreation facility carts",
+    keywords: "recreational golf carts Rhode Island RI, community golf carts Rhode Island, campground golf carts, HOA golf carts, recreation facility carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/golf-carts-recreation-community-rhode-island",
     content: {
       intro: "Golf carts are no longer just for golf courses. Throughout Rhode Island and Rhode Island, communities, recreational facilities, and outdoor enthusiasts are discovering the convenience and fun of golf cart transportation. Whether for neighborhood use, community facilities, or recreational activities, we have the perfect cart for you.",
@@ -2952,7 +2952,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/luxury_champagne_golf_cart.png",
     heroImagePrompt: "Luxury golf cart with leather seats and premium finishes in elegant Rhode Island setting, high-end residential backdrop, sophisticated design, champagne-colored cart, exclusive atmosphere",
     heroImageAlt: "Luxury premium golf cart in Rhode Island with leather interior, upscale finishes, and sophisticated styling for sale",
-    keywords: "luxury golf carts Rhode Island VA, premium golf carts Virginia, high-end golf carts, upscale golf carts, exclusive golf carts Rhode Island",
+    keywords: "luxury golf carts Rhode Island RI, premium golf carts Rhode Island, high-end golf carts, upscale golf carts, exclusive golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-luxury-golf-carts-premium-models",
     content: {
       intro: "For those who appreciate the finer things, Rhode Island Golf Carts offers a selection of luxury golf carts that deliver an elevated ownership experience. Premium materials, advanced technology, and meticulous attention to detail define these exceptional vehicles.",
@@ -3099,15 +3099,15 @@ export const blogPosts: BlogPost[] = [
   {
     id: 20,
     slug: "local-rhode-island-golf-cart-source-shop-today",
-    seoTitle: "Your Local Rhode Island VA Golf Cart Source | Shop Today",
-    metaDescription: "Rhode Island Golf Carts is your local source for premium golf carts in Rhode Island VA. DENAGO and EVOLUTION dealer with sales, service, and rentals. Visit us today!",
-    h1: "Your Local Rhode Island VA Golf Cart Source | Shop Today",
+    seoTitle: "Your Local Rhode Island RI Golf Cart Source | Shop Today",
+    metaDescription: "Rhode Island Golf Carts is your local source for premium golf carts in Rhode Island RI. DENAGO and EVOLUTION dealer with sales, service, and rentals. Visit us today!",
+    h1: "Your Local Rhode Island RI Golf Cart Source | Shop Today",
     publishDate: "2025-10-27",
     excerpt: "Rhode Island Golf Carts is Rhode Island' premier local source for electric golf carts. Complete sales, service, and rentals from your neighbors on George Washington Memorial Hwy.",
     heroImage: "/attached_assets/generated_images/local_dealership_storefront.png",
     heroImagePrompt: "Welcoming local golf cart dealership storefront in Rhode Island with Open sign, friendly staff waving, local business atmosphere, American flags, community-focused appearance",
-    heroImageAlt: "Local Rhode Island VA golf cart dealership storefront on George Washington Memorial Hwy with friendly staff and community-focused atmosphere",
-    keywords: "local golf cart dealer Rhode Island VA, Rhode Island golf cart source, golf carts near me, Rhode Island golf cart dealer, Virginia golf cart sales",
+    heroImageAlt: "Local Rhode Island RI golf cart dealership storefront on George Washington Memorial Hwy with friendly staff and community-focused atmosphere",
+    keywords: "local golf cart dealer Rhode Island RI, Rhode Island golf cart source, golf carts near me, Rhode Island golf cart dealer, Rhode Island golf cart sales",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/local-rhode-island-golf-cart-source-shop-today",
     content: {
       intro: "When you're looking for a golf cart in Rhode Island, choose a local source you can trust. Rhode Island Golf Carts is your neighborhood dealer, offering complete sales, service, and support right here in Rhode Island. As authorized dealers for DENAGO and EVOLUTION, we provide the selection, expertise, and ongoing service you need.",
@@ -3218,7 +3218,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Regional Delivery Coverage",
-              content: "We deliver golf carts throughout Rhode Island and the Virginia Tidewater region.",
+              content: "We deliver golf carts throughout Rhode Island and the Rhode Island Tidewater region.",
               details: [
                 {
                   h4: "Free Local Delivery",

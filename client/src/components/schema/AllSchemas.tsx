@@ -126,7 +126,7 @@ interface AllSchemasProps {
 export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps) {
   const {
     title = "Rhode Island Golf Carts",
-    description = "Premier golf cart dealership in Rhode Island, Virginia",
+    description = "Premier golf cart dealership in Rhode Island",
     url = "https://rhodeislandgolfcarts.com",
     breadcrumbs = [{ name: "Home", url: "https://rhodeislandgolfcarts.com/" }],
     vehicleName,
@@ -167,13 +167,13 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
       {/* Auto Dealer Schema for all pages */}
       <AutoDealerSchema
         name="Rhode Island Golf Carts"
-        description="Premier electric golf cart dealership serving Rhode Island, Virginia with sales, service, rentals, and financing"
+        description="Premier electric golf cart dealership serving Rhode Island with sales, service, rentals, and financing"
         url="https://rhodeislandgolfcarts.com"
         address={{
           streetAddress: "Various Locations",
           addressLocality: "Rhode Island",
-          addressRegion: "VA",
-          postalCode: "23072",
+          addressRegion: "RI",
+          postalCode: "02901",
           addressCountry: "US"
         }}
         telephone="804-792-0234"
