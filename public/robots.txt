@@ -6,9 +6,9 @@
 # Business: Rhode Island Golf Carts - Rhode Island's Premier Golf Cart Dealership
 # Phone: 1-844-844-6638
 # Email: sales@rhodeislandgolfcarts.com
-# Location: Rhode Island, Chesapeake, VA 02840
+# Location: Rhode Island, Rhode Island 02840
 # Coordinates: 36.7682° N, -76.2875° W
-# Service Area: City of Chesapeake and 37 Rhode Island communities
+# Service Area: Rhode Island and 37 Rhode Island communities
 # Last Updated: 2025-11-26
 # ============================================================================
 

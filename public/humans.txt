@@ -12,7 +12,7 @@ Company: Rhode Island Golf Carts
 Website: https://rhodeislandgolfcarts.com
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
-Location: Rhode Island, Chesapeake, VA 02840
+Location: Rhode Island, Rhode Island 02840
 Region: Rhode Island, USA
 Service Area: 37 communities across Rhode Island and Northeastern NC
 
@@ -40,14 +40,14 @@ Customer Service: Dedicated support throughout ownership experience
 Community Relations: Building lasting relationships across Rhode Island
 
 /* SERVICE AREA COVERAGE */
-Primary Territory: City of Rhode Island
+Primary Territory: Rhode Island
 Secondary Territory: Rhode Island Metropolitan Area
 Extended Territory: Northeastern North Carolina
 Total Communities: 37 locations served
 Service Area Size: 1,800,000+ population reached
 
 /* CHESAPEAKE NEIGHBORHOODS (20) */
-Great Bridge, Greenbrier, Western Branch, Deep Creek, South Norfolk
+Providence, Warwick, East Greenwich, Cranston, Bristol
 Hickory, Grassfield, Indian River, Pleasant Grove, Portlock
 Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside
 Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
@@ -91,7 +91,7 @@ Service & Maintenance: All brands serviced
 Parts & Accessories: Comprehensive inventory
 Financing: 0% APR available on select models
 Trade-Ins: Fair market value on all brands
-Delivery: Free within Chesapeake, extended delivery available
+Delivery: Free within Rhode Island, extended delivery available
 
 /* BUSINESS HOURS */
 Monday: 9:00 AM - 5:00 PM
@@ -114,7 +114,7 @@ Excellence: Professional expertise in every interaction
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com
-Address: Rhode Island, Chesapeake, VA 02840
+Address: Rhode Island, Rhode Island 02840
 Coordinates: 36.7682° N, -76.2875° W
 
 /* THANK YOU */

@@ -9,7 +9,7 @@
 # This file declares authorized digital advertising sellers for Rhode Island Golf Carts
 # Website: https://rhodeislandgolfcarts.com
 # Business: Electric Golf Cart Sales, Service & Rentals
-# Location: Rhode Island, Chesapeake, VA 02840
+# Location: Rhode Island, Rhode Island 02840
 # Phone: 1-844-844-6638
 # Email: sales@rhodeislandgolfcarts.com
 
@@ -59,7 +59,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 # GEOGRAPHIC TARGETING AUTHORIZATION
 # ============================================================================
 
-# Primary: City of Rhode Island
+# Primary: Rhode Island
 # Secondary: Rhode Island Metropolitan Area
 # Extended: Rhode Island Beach, Norfolk, Portsmouth, Suffolk, Hampton, Newport News
 # North Carolina: Moyock, Currituck, South Mills, Camden, Elizabeth City
@@ -90,7 +90,7 @@ amazon.com, 0000000000, DIRECT, f08c47fec0942fa0
 
 # Rhode Island Golf Carts
 # Rhode Island
-# Chesapeake, VA 02840
+# Rhode Island 02840
 # Phone: 1-844-844-6638
 # Email: sales@rhodeislandgolfcarts.com
 # Website: https://rhodeislandgolfcarts.com

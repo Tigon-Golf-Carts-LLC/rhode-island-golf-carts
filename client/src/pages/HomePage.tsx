@@ -76,7 +76,7 @@ export default function HomePage() {
                 Rhode Island Golf Carts - Premier   Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Serving all 15 Rhode Island communities in and around Rhode Island with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to the City of Rhode Island and surrounding Rhode Island areas.
+                Serving all 15 Rhode Island communities in and around Rhode Island with premium electric golf carts from Evolution and Denago. Professional sales, service, and rental solutions delivered to Rhode Island and surrounding areas.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -344,7 +344,7 @@ export default function HomePage() {
                 About Rhode Island Golf Carts
               </h2>
               <p className="text-base md:text-lg text-gray-600 mb-6 md:mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout the City of Rhode Island and surrounding Rhode Island areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Rhode Island and surrounding areas.
               </p>
               
               <div className="grid grid-cols-2 gap-4 md:gap-8 mb-6 md:mb-8">
@@ -389,7 +389,7 @@ export default function HomePage() {
             Golf Carts for Rhode Island and Surrounding Rhode Island Communities
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional golf cart services delivered to your community throughout the City of Rhode Island and surrounding areas
+            Professional golf cart services delivered to your community throughout Rhode Island and surrounding areas
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 mb-12">
             {/* Complete Rhode Island Municipality List - dynamically generated */}
@@ -427,13 +427,13 @@ export default function HomePage() {
               <MapPin className="w-8 h-8 text-theme-orange mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Rhode Island Golf Carts</h3>
               <p className="text-sm text-gray-600 mb-2"></p>
-              <p className="text-theme-orange font-semibold">1-844-844-66384</p>
+              <p className="text-theme-orange font-semibold">1-844-844-6638</p>
             </div>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Main Contact</h3>
-            <p className="text-gray-600 mb-4">For general inquiries and support throughout the City of Rhode Island</p>
+            <p className="text-gray-600 mb-4">For general inquiries and support throughout Rhode Island</p>
             <div className="flex flex-col md:flex-row justify-center items-center gap-4">
               <a href="tel:844-844-6638" className="text-2xl font-bold text-theme-orange hover:underline">844-844-6638</a>
               <Link href="/contact">

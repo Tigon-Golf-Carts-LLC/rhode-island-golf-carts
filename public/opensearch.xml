@@ -3,13 +3,13 @@
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   
   <ShortName>Rhode Island Golf Carts</ShortName>
-  <Description>Search Rhode Island Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Chesapeake, VA and Rhode Island</Description>
+  <Description>Search Rhode Island Golf Carts - DENAGO &amp; EVOLUTION Electric Golf Cart Sales, Rentals &amp; Service in Rhode Island and Rhode Island</Description>
   
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
   
   <Image width="16" height="16" type="image/png">https://rhodeislandgolfcarts.com/favicon.png</Image>
-  <Image width="64" height="64" type="image/png">https://rhodeislandgolfcarts.com/attached_assets/Chesapeake%20Golf%20Carts_1764173360595.png</Image>
+  <Image width="64" height="64" type="image/png">https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png</Image>
   
   <Url type="text/html" 
        method="get" 
@@ -25,13 +25,13 @@
   
   <Developer>Rhode Island Golf Carts</Developer>
   
-  <Attribution>Rhode Island Golf Carts - Rhode Island's Premier Electric Golf Cart Dealership serving Chesapeake and Rhode Island</Attribution>
+  <Attribution>Rhode Island Golf Carts - Rhode Island's Premier Electric Golf Cart Dealership serving Rhode Island</Attribution>
   
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
   
   <Query role="example" searchTerms="DENAGO EV CITY" />
-  <Query role="example" searchTerms="golf cart rental Chesapeake VA" />
+  <Query role="example" searchTerms="golf cart rental Rhode Island" />
   <Query role="example" searchTerms="EVOLUTION D5 Maverick" />
   <Query role="example" searchTerms="electric golf cart service Rhode Island" />
   <Query role="example" searchTerms="golf cart Rhode Island Beach" />

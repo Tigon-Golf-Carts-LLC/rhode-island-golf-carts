@@ -113,18 +113,18 @@ export default function AboutPage() {
                 to provide high-quality golf carts and exceptional service to customers throughout the Rhode Island region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                The City of Rhode Island is home to beautiful communities including Great Bridge, Deep Creek, and Greenbrier, along with scenic areas like 
-                Western Branch, South Norfolk, and Indian River. Our location in the heart of the Rhode Island region drives our commitment to excellence 
-                and serves the outdoor recreation and residential communities throughout this vibrant area.
+                Rhode Island is home to beautiful coastal communities including Newport, Narragansett, and Warwick, along with vibrant towns like
+                Bristol, Barrington, and East Greenwich. Our presence in the heart of the Ocean State drives our commitment to excellence
+                and serves the outdoor recreation and residential communities throughout this vibrant region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                Our city is known for its natural beauty, including the Great Dismal Swamp and numerous 
-                parks and waterways. This tradition of natural excellence continues in our approach to golf cart sales and service, where we 
+                Our state is known for its natural beauty, including stunning coastlines, Narragansett Bay, and numerous
+                parks and waterways. This tradition of natural excellence continues in our approach to golf cart sales and service, where we
                 combine cutting-edge technology with personalized customer care perfect for Rhode Island's outdoor lifestyle.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Today, we're proud to serve the diverse communities across Rhode Island's neighborhoods, from Great Bridge 
-                to Deep Creek, from Greenbrier to the surrounding Rhode Island cities, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
+                Today, we're proud to serve the diverse communities across Rhode Island, from Newport
+                to Providence, from Warwick to the surrounding coastal towns, as authorized dealers for EVOLUTION and DENAGO electric golf carts.
               </p>
               <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full sm:w-auto">
                 Learn More About Our Services
@@ -265,15 +265,15 @@ export default function AboutPage() {
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Great Bridge</span>
+                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Providence Area</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Greenbrier</span>
+                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Newport Area</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-6 h-6 text-theme-orange" />
-                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Western Branch</span>
+                  <span className="text-gray-700 font-medium">Rhode Island Golf Carts - Warwick Area</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 mb-6">
@@ -294,19 +294,19 @@ export default function AboutPage() {
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Rhode Island, VA Map"
+                title="Rhode Island Map"
               />
             </div>
           </div>
 
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">Rhode Island & Rhode Island Communities We Serve</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">Rhode Island Communities We Serve</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
-                "Rhode Island", "Great Bridge", "Deep Creek", "Greenbrier", "Western Branch", "South Norfolk",
-                "Hickory", "Indian River", "Norfolk", "Rhode Island", "Portsmouth", "Suffolk",
-                "Hampton", "Newport News", "Rhode Island"
+                "Providence", "Warwick", "Cranston", "Newport", "Pawtucket", "East Providence",
+                "Woonsocket", "Bristol", "Barrington", "Narragansett", "South Kingstown", "Westerly",
+                "North Kingstown", "East Greenwich", "Middletown"
               ].map((town, index) => (
                 <div key={index} className="py-1">
                   {town}

@@ -11,7 +11,7 @@
 Country: United States
 Primary State: Rhode Island (VA)
 Secondary State: North Carolina (NC)
-Primary City: Chesapeake
+Primary City: Providence
 Metro Area: Rhode Island Metropolitan Area
 Total Population Served: 1,800,000+
 Total Communities: 37
@@ -19,7 +19,7 @@ Total Communities: 37
 ## SHOWROOM LOCATION
 
 Business Name: Rhode Island Golf Carts
-Address: Rhode Island, Chesapeake, VA 02840
+Address: Rhode Island, Rhode Island 02840
 Coordinates: 36.7682° N, -76.2875° W
 Elevation: 20 feet above sea level
 Time Zone: Eastern Time Zone (ET)
@@ -30,7 +30,7 @@ Website: https://rhodeislandgolfcarts.com
 
 ## CHESAPEAKE NEIGHBORHOODS SERVICE COVERAGE (20 Communities)
 
-### 1. Great Bridge
+### 1. Providence
 - Population: 35,000+
 - Coordinates: 36.7204° N, -76.2344° W
 - Character: Historic neighborhood with residential areas
@@ -38,7 +38,7 @@ Website: https://rhodeislandgolfcarts.com
 - Delivery Time: Same day
 - URL: https://rhodeislandgolfcarts.com/great-bridge-golf-carts
 
-### 2. Greenbrier
+### 2. Warwick
 - Population: 45,000+
 - Coordinates: 36.7789° N, -76.1867° W
 - Character: Commercial and residential hub
@@ -46,7 +46,7 @@ Website: https://rhodeislandgolfcarts.com
 - Delivery Time: Same day
 - URL: https://rhodeislandgolfcarts.com/greenbrier-golf-carts
 
-### 3. Western Branch
+### 3. East Greenwich
 - Population: 50,000+
 - Coordinates: 36.8444° N, -76.4314° W
 - Character: Growing family community
@@ -54,7 +54,7 @@ Website: https://rhodeislandgolfcarts.com
 - Delivery Time: Same day
 - URL: https://rhodeislandgolfcarts.com/western-branch-golf-carts
 
-### 4. Deep Creek
+### 4. Cranston
 - Population: 25,000+
 - Coordinates: 36.7247° N, -76.3511° W
 - Character: Waterfront community with canal access
@@ -62,7 +62,7 @@ Website: https://rhodeislandgolfcarts.com
 - Delivery Time: Same day
 - URL: https://rhodeislandgolfcarts.com/deep-creek-golf-carts
 
-### 5. South Norfolk
+### 5. Bristol
 - Population: 30,000+
 - Coordinates: 36.8167° N, -76.2833° W
 - Character: Historic urban neighborhood
@@ -316,8 +316,8 @@ Website: https://rhodeislandgolfcarts.com
 
 ## DELIVERY ZONES
 
-### Zone 1 - Chesapeake (Free Delivery)
-All 20 Chesapeake neighborhoods
+### Zone 1 - Rhode Island (Free Delivery)
+All 20 Rhode Island municipalities
 Delivery Time: Same day
 
 ### Zone 2 - Rhode Island Cities (Free Delivery on Weekly+)
@@ -341,12 +341,12 @@ Delivery Fee: $100
 - Total Population: 1,800,000+
 - Major Industries: Military, Shipbuilding, Tourism, Healthcare
 - Climate: Humid subtropical with mild winters
-- Coastal Access: Chesapeake Bay, Atlantic Ocean
+- Coastal Access: Narragansett Bay, Atlantic Ocean
 - Golf Cart Regulations: Rhode Island DMV LSV registration
 
 ### Geography
 - Terrain: Flat coastal plain
-- Waterways: Chesapeake Bay, Elizabeth River, James River
+- Waterways: Narragansett Bay, Providence River, Blackstone River
 - Atlantic Ocean access via Rhode Island Beach
 - Intracoastal Waterway access
 
@@ -354,7 +354,7 @@ Delivery Fee: $100
 
 Rhode Island Golf Carts
 Rhode Island
-Chesapeake, VA 02840
+Rhode Island 02840
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com

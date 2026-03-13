@@ -53,7 +53,7 @@ export const blogPosts: BlogPost[] = [
     heroImage: "/attached_assets/generated_images/golf_cart_showroom_rhode_island.png",
     heroImagePrompt: "A modern golf cart showroom in Rhode Island with multiple electric golf carts on display, professional lighting, American flags, customers browsing, clean polished floor, dealership signage visible, sunny day visible through large windows",
     heroImageAlt: "Rhode Island Golf Carts showroom featuring DENAGO and EVOLUTION electric golf carts for sale in Rhode Island with best local deals",
-    keywords: "golf carts for sale Rhode Island, Rhode Island golf cart deals, buy golf cart Rhode Island, local golf cart dealer, electric golf carts Rhode Island",
+    keywords: "golf carts for sale Rhode Island golf cart deals, buy golf cart Rhode Island, local golf cart dealer, electric golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/rhode-island-golf-carts-for-sale-best-local-deals",
     content: {
       intro: "Looking for the best golf carts for sale in Rhode Island? You've come to the right place. At Rhode Island Golf Carts, we pride ourselves on offering Rhode Island residents the finest selection of electric golf carts at competitive local prices. Our George Washington Memorial Hwy showroom features an impressive inventory of DENAGO and EVOLUTION models designed for every lifestyle and budget.",
@@ -211,7 +211,7 @@ export const blogPosts: BlogPost[] = [
     keywords: "new golf carts Rhode Island RI, used golf carts Rhode Island, pre-owned golf carts, certified used golf carts, golf cart inventory Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/new-used-golf-carts-rhode-island-shop-local",
     content: {
-      intro: "At Rhode Island Golf Carts, we understand that every customer has unique needs and budgets. That's why we maintain an extensive inventory of both new and certified pre-owned golf carts to serve the Rhode Island community. Whether you want the latest technology or exceptional value, our Rhode Island showroom has the perfect cart waiting for you.",
+      intro: "At Rhode Island Golf Carts, we understand that every customer has unique needs and budgets. That's why we maintain an extensive inventory of both new and certified pre-owned golf carts to serve Rhode Island community. Whether you want the latest technology or exceptional value, our Rhode Island showroom has the perfect cart waiting for you.",
       sections: [
         {
           h2: "Brand New Golf Carts in Stock",
@@ -293,11 +293,11 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Why Shop Local in Rhode Island",
-          content: "When you buy from Rhode Island Golf Carts, you're supporting a local business that's invested in the Rhode Island community. We provide ongoing service, parts, and support right here in your neighborhood.",
+          content: "When you buy from Rhode Island Golf Carts, you're supporting a local business that's invested in Rhode Island community. We provide ongoing service, parts, and support right here in your neighborhood.",
           subsections: [
             {
               h3: "Community Investment",
-              content: "As a local business, we're committed to the Rhode Island and surrounding communities we serve.",
+              content: "As a local business, we're committed to Rhode Island and surrounding communities we serve.",
               details: [
                 {
                   h4: "Local Jobs and Economy",
@@ -687,7 +687,7 @@ export const blogPosts: BlogPost[] = [
               details: [
                 {
                   h4: "Rhode Island DMV Requirements",
-                  content: "Street-legal golf carts must be registered with the Rhode Island DMV and display proper license plates for legal road operation.",
+                  content: "Street-legal golf carts must be registered with Rhode Island DMV and display proper license plates for legal road operation.",
                   points: [
                     {
                       h5: "Title and Registration Assistance",
@@ -922,7 +922,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Long-Term Value",
-                          content: "EVOLUTION carts maintain their value exceptionally well in the Rhode Island market."
+                          content: "EVOLUTION carts maintain their value exceptionally well in Rhode Island market."
                         }
                       ]
                     }
@@ -1182,7 +1182,7 @@ export const blogPosts: BlogPost[] = [
                       subpoints: [
                         {
                           h6: "Resale Value",
-                          content: "Larger capacity carts often maintain better resale value in the Rhode Island market."
+                          content: "Larger capacity carts often maintain better resale value in Rhode Island market."
                         }
                       ]
                     }

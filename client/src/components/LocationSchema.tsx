@@ -44,11 +44,10 @@ export default function LocationSchema({
         "name": municipalityName,
         "containedInPlace": {
           "@type": "AdministrativeArea",
-          "name": "City of Rhode Island",
+          "name": "Rhode Island",
           "containedInPlace": {
             "@type": "State",
-            "name": "Rhode Island
-              "
+            "name": "Rhode Island"
           }
         }
       },

@@ -301,7 +301,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout {townName} and surrounding City of Rhode Island areas.
+                    Delivery and pickup available throughout {townName} and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

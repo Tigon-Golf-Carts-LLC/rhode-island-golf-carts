@@ -21,8 +21,8 @@ Service Area: 37 Rhode Island communities
 Primary Phone: 1-844-844-6638
 Primary Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com
-Address: Rhode Island, Chesapeake, VA 02840
-City: Chesapeake
+Address: Rhode Island, Rhode Island 02840
+City: Providence
 State: Rhode Island
 ZIP Code: 02840
 Country: United States
@@ -258,8 +258,8 @@ Monthly Rate: $4,200.00
 
 ## SERVICE AREA DATA (37 Locations)
 
-### Chesapeake Neighborhoods (20):
-Great Bridge, Greenbrier, Western Branch, Deep Creek, South Norfolk
+### Rhode Island Municipalities (20):
+Providence, Warwick, East Greenwich, Cranston, Bristol
 Hickory, Grassfield, Indian River, Pleasant Grove, Portlock
 Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside
 Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
@@ -282,7 +282,7 @@ Google Tag Manager ID: GTM-KB3WNGFH
 
 Rhode Island Golf Carts
 Rhode Island
-Chesapeake, VA 02840
+Rhode Island 02840
 Phone: 1-844-844-6638
 Email: sales@rhodeislandgolfcarts.com
 Website: https://rhodeislandgolfcarts.com

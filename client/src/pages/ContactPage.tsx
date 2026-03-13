@@ -100,7 +100,7 @@ export default function ContactPage() {
       <SEOHead 
         title="Contact Rhode Island Golf Carts"
         description="Get expert golf cart sales, service, and support from Rhode Island's premier dealership located in Rhode Island. Call 1-844-844-6638."
-        keywords="contact Rhode Island golf carts, golf cart sales in Rhode Island, Rhode Island showroom, Rhode Island golf cart service RI"
+        keywords="contact Rhode Island golf carts, golf cart sales in Rhode Island showroom, Rhode Island golf cart service RI"
         canonicalUrl="https://rhodeislandgolfcarts.com/contact"
         ogImage="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_qTxyHWkHTpqA5-VAcbsH3A_4I_G2VlRQP6tVB7Lk85ndw_1756144059397.jpeg"
         ogType="website"

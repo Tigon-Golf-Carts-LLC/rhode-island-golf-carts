@@ -52,15 +52,15 @@ export default function InventoryPage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="Golf Cart Inventory - Rhode Island Golf Carts | New Electric Golf Carts VA"
-        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Rhode Island, Rhode Island with expert service."
-        keywords="golf cart inventory Rhode Island VA, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Rhode Island"
+        description="Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Rhode Island with expert service."
+        keywords="golf cart inventory Rhode Island, electric golf carts for sale, DENAGO golf carts, Evolution golf carts, new golf carts Rhode Island"
         canonicalUrl="https://rhodeislandgolfcarts.com/inventory"
       />
       <AllSchemas 
         pageType="inventory" 
         pageData={{
           title: "Golf Cart Inventory - Rhode Island Golf Carts",
-          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in the City of Rhode Island, Rhode Island with expert service.",
+          description: "Browse our extensive inventory of new electric golf carts from DENAGO and Evolution. Premium quality golf carts available in Rhode Island with expert service.",
           url: "https://rhodeislandgolfcarts.com/inventory",
           breadcrumbs: breadcrumbItems,
           collectionItems: vehicles?.map(vehicle => ({

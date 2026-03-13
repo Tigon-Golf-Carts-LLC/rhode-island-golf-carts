@@ -142,7 +142,7 @@ export default function DenagoPage() {
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
               Experience the ultimate in electric off-road performance. DENAGO vehicles combine cutting-edge 
-              technology with rugged durability for unmatched adventure capability in the City of Rhode Island.
+              technology with rugged durability for unmatched adventure capability in Rhode Island.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="tel:1-844-844-6638">
@@ -262,7 +262,7 @@ export default function DenagoPage() {
                 Complete DENAGO Vehicle Lineup
               </h2>
               <p className="text-xl text-gray-600">
-                Explore all 6 DENAGO electric vehicle models available in the City of Rhode Island
+                Explore all 6 DENAGO electric vehicle models available in Rhode Island
               </p>
             </div>
 
@@ -354,7 +354,7 @@ export default function DenagoPage() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-gray-900">
-                Why Choose DENAGO in the City of Rhode Island?
+                Why Choose DENAGO in Rhode Island?
               </h2>
             </div>
 
@@ -381,7 +381,7 @@ export default function DenagoPage() {
                 <MapPin className="w-16 h-16 text-theme-orange mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Local Service</h3>
                 <p className="text-gray-600">
-                  Expert DENAGO service and support right here in the City of Rhode Island with 
+                  Expert DENAGO service and support right here in Rhode Island with 
                   genuine parts and factory-trained technicians.
                 </p>
               </div>

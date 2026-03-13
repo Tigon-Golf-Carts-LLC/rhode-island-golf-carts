@@ -19,9 +19,9 @@ function CommunityRentalPage({
   slug 
 }: CommunityRentalPageProps) {
   const locationText = parentMunicipality ? `${communityName} (${parentMunicipality})` : communityName;
-  const pageTitle = `Golf Cart Rentals in ${communityName}, City of Rhode Island | Premium Rental Services`;
-  const pageDescription = `Rent premium golf carts in ${communityName}, City of Rhode Island. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
-  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, City of Rhode Island golf cart rental, golf cart rental, street legal golf cart rental`;
+  const pageTitle = `Golf Cart Rentals in ${communityName}, Rhode Island | Premium Rental Services`;
+  const pageDescription = `Rent premium golf carts in ${communityName}, Rhode Island. Daily, weekly, monthly rentals available. 4-seater, 6-seater, and utility golf carts. Professional delivery in ${communityName}.`;
+  const keywords = `golf cart rental ${communityName}, ${communityName} golf cart rental, Rhode Island golf cart rental, golf cart rental, street legal golf cart rental`;
 
   const rentalFeatures = [
     "Street legal with seat belts and safety features",
