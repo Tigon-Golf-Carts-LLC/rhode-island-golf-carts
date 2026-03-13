@@ -347,7 +347,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               },
               {
                 question: "Do you provide delivery service?",
-                answer: "Yes, we provide delivery service throughout Rhode Island and surrounding areas in Pennsylvania."
+                answer: "Yes, we provide delivery service throughout Rhode Island and surrounding areas."
               }
             ]}
           />
@@ -384,8 +384,8 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           />
           <ServiceSchema
             serviceName={`Golf Cart Services in ${locationName} ${locationType}`}
-            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Rhode Island, VA`}
-            areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
+            description={`Professional golf cart sales, service, and rentals serving ${locationName} ${locationType}, Rhode Island`}
+            areaServed={`${locationName} ${locationType}, Rhode Island`}
           />
           <AutoDealerSchema
             name={`Rhode Island Golf Carts - ${locationName} Service`}
@@ -395,7 +395,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               streetAddress: "Service Area",
               addressLocality: locationName,
               addressRegion: "RI",
-              postalCode: "23072",
+              postalCode: "02901",
               addressCountry: "US"
             }}
             telephone="804-792-0234"
@@ -423,12 +423,12 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               streetAddress: "Service Area",
               addressLocality: locationName,
               addressRegion: "RI",
-              postalCode: "23072",
+              postalCode: "02901",
               addressCountry: "US"
             }}
             telephone="804-792-0234"
             email="info@rhodeislandgolfcarts.com"
-            areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
+            areaServed={`${locationName} ${locationType}, Rhode Island`}
             vehicleTypes={["4-Seater Golf Cart", "6-Seater Golf Cart", "Utility Golf Cart"]}
             rentalPolicies={[
               { type: "Daily Rental", description: "4-Seater from $245/day, 6-Seater from $295/day, Utility from $245/day" },
@@ -439,7 +439,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
           <ServiceSchema
             serviceName={`Golf Cart Rentals in ${locationName} ${locationType}`}
             description={`Professional golf cart rental services in ${locationName} ${locationType}, Rhode Island`}
-            areaServed={`${locationName} ${locationType}, Rhode Island, VA`}
+            areaServed={`${locationName} ${locationType}, Rhode Island`}
             offers={[
               { price: "$245", description: "4-Seater Golf Cart Daily Rental" },
               { price: "$295", description: "6-Seater Golf Cart Daily Rental" },
@@ -536,7 +536,7 @@ export default function AllSchemas({ pageType, pageData = {} }: AllSchemasProps)
               streetAddress: "Service Area",
               addressLocality: "Rhode Island",
               addressRegion: "RI",
-              postalCode: "23072",
+              postalCode: "02901",
               addressCountry: "US"
             }}
             telephone="804-792-0234"

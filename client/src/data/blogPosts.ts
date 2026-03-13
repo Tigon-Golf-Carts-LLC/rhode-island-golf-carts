@@ -297,7 +297,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Community Investment",
-              content: "As a local business, we're committed to the Rhode Island and Rhode Island communities we serve.",
+              content: "As a local business, we're committed to the Rhode Island and surrounding communities we serve.",
               details: [
                 {
                   h4: "Local Jobs and Economy",
@@ -552,7 +552,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Fast Local Delivery Service",
-          content: "We understand that once you've chosen your perfect cart, you want to start enjoying it right away. That's why we offer fast local delivery throughout Rhode Island and Rhode Island.",
+          content: "We understand that once you've chosen your perfect cart, you want to start enjoying it right away. That's why we offer fast local delivery throughout Rhode Island and surrounding.",
           subsections: [
             {
               h3: "Same-Day Delivery Options",
@@ -653,7 +653,7 @@ export const blogPosts: BlogPost[] = [
     keywords: "street legal golf carts Rhode Island RI, LSV golf carts Rhode Island, NEV carts Rhode Island, DOT approved golf carts, road legal golf carts Rhode Island",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/street-legal-golf-carts-rhode-island-buy-now",
     content: {
-      intro: "Want to drive your golf cart on Rhode Island streets legally? Our street-legal golf carts meet all Rhode Island DOT requirements and federal LSV (Low-Speed Vehicle) standards. With proper equipment including headlights, turn signals, mirrors, and seatbelts, you can legally operate on roads with speed limits of 35 mph or less throughout Rhode Island and Rhode Island.",
+      intro: "Want to drive your golf cart on Rhode Island streets legally? Our street-legal golf carts meet all Rhode Island DOT requirements and federal LSV (Low-Speed Vehicle) standards. With proper equipment including headlights, turn signals, mirrors, and seatbelts, you can legally operate on roads with speed limits of 35 mph or less throughout Rhode Island and surrounding.",
       sections: [
         {
           h2: "Understanding Street-Legal Requirements",
@@ -1244,7 +1244,7 @@ export const blogPosts: BlogPost[] = [
         },
         {
           h2: "Rhode Island Golf Cart Regulations",
-          content: "Understanding local regulations ensures you can legally and safely operate your golf cart in Rhode Island and Rhode Island.",
+          content: "Understanding local regulations ensures you can legally and safely operate your golf cart in Rhode Island and surrounding.",
           subsections: [
             {
               h3: "Where You Can Drive",
@@ -2800,7 +2800,7 @@ export const blogPosts: BlogPost[] = [
     keywords: "recreational golf carts Rhode Island RI, community golf carts Rhode Island, campground golf carts, HOA golf carts, recreation facility carts",
     canonicalUrl: "https://rhodeislandgolfcarts.com/blog/golf-carts-recreation-community-rhode-island",
     content: {
-      intro: "Golf carts are no longer just for golf courses. Throughout Rhode Island and Rhode Island, communities, recreational facilities, and outdoor enthusiasts are discovering the convenience and fun of golf cart transportation. Whether for neighborhood use, community facilities, or recreational activities, we have the perfect cart for you.",
+      intro: "Golf carts are no longer just for golf courses. Throughout Rhode Island and surrounding, communities, recreational facilities, and outdoor enthusiasts are discovering the convenience and fun of golf cart transportation. Whether for neighborhood use, community facilities, or recreational activities, we have the perfect cart for you.",
       sections: [
         {
           h2: "Community and HOA Applications",
@@ -3198,7 +3198,7 @@ export const blogPosts: BlogPost[] = [
                   points: [
                     {
                       h5: "Delivery and Pickup",
-                      content: "We deliver and pick up rental carts throughout Rhode Island and Rhode Island.",
+                      content: "We deliver and pick up rental carts throughout Rhode Island and surrounding.",
                       subpoints: [
                         {
                           h6: "Full Support Included",
@@ -3218,7 +3218,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Regional Delivery Coverage",
-              content: "We deliver golf carts throughout Rhode Island and the Rhode Island Tidewater region.",
+              content: "We deliver golf carts throughout Rhode Island and surrounding communities.",
               details: [
                 {
                   h4: "Free Local Delivery",
