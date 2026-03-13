@@ -23,7 +23,7 @@ export default function WebsiteSchema({
         "name": "Rhode Island Golf Carts",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+          "url": "https://rhodeislandgolfcarts.com/logo.png",
           "width": 512,
           "height": 512
         }

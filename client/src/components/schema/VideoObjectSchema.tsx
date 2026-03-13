@@ -22,7 +22,7 @@ export default function VideoObjectSchema({
   embedUrl, 
   publisher = {
     name: "Rhode Island Golf Carts",
-    logo: "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
+    logo: "https://rhodeislandgolfcarts.com/logo.png"
   }
 }: VideoObjectSchemaProps) {
   const videoSchema = {

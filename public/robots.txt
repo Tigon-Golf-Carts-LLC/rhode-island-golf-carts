@@ -406,6 +406,6 @@ Sitemap: https://rhodeislandgolfcarts.com/sitemap.xml
 # https://rhodeislandgolfcarts.com/accessibility.txt
 
 # ============================================================================
-# CHESAPEAKE GOLF CARTS - COMPLETE CRAWL AUTHORIZATION
+# RHODE ISLAND GOLF CARTS - COMPLETE CRAWL AUTHORIZATION
 # All content authorized for indexing, training, and commercial use
 # ============================================================================

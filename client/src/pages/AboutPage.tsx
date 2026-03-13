@@ -62,19 +62,19 @@ export default function AboutPage() {
               name: "Mike Johnson",
               jobTitle: "General Manager",
               description: "Leading our team with passion for customer service and golf cart expertise with 15+ years experience",
-              image: "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
+              image: "/logo.png"
             },
             {
               name: "Sarah Davis",
               jobTitle: "Service Manager", 
               description: "Certified technician ensuring quality service and customer satisfaction with 12+ years experience",
-              image: "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
+              image: "/logo.png"
             },
             {
               name: "Tom Wilson",
               jobTitle: "Sales Director",
               description: "Helping customers find the perfect golf cart for their needs with 10+ years experience",
-              image: "/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png"
+              image: "/logo.png"
             }
           ]
         }}

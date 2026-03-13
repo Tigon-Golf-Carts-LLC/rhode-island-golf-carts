@@ -19,9 +19,9 @@ export const generateOrganizationSchema = () => ({
   "alternateName": "Golf Carts In Rhode Island",
   "description": "Premier golf cart dealer in Rhode Island specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
   "url": "https://rhodeislandgolfcarts.com",
-  "logo": "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+  "logo": "https://rhodeislandgolfcarts.com/logo.png",
   "image": [
-    "https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png",
+    "https://rhodeislandgolfcarts.com/logo.png",
     "https://rhodeislandgolfcarts.com/attached_assets/a-photograph-of-a-modern-golf-cart-deale_1Cnk505HSlGhjw-TPLFg9w_nDZV9Dn5QHiGR5OY8JPBgA_1753453234033.png"
   ],
   "telephone": "1-844-844-6638",

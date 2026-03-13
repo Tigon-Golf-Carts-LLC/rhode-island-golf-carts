@@ -46,7 +46,7 @@ Extended Territory: Northeastern North Carolina
 Total Communities: 37 locations served
 Service Area Size: 1,800,000+ population reached
 
-/* CHESAPEAKE NEIGHBORHOODS (20) */
+/* RHODE ISLAND MUNICIPALITIES (20) */
 Providence, Warwick, East Greenwich, Cranston, Bristol
 Hickory, Grassfield, Indian River, Pleasant Grove, Portlock
 Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside

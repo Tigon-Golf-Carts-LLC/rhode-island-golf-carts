@@ -9,7 +9,7 @@
   <OutputEncoding>UTF-8</OutputEncoding>
   
   <Image width="16" height="16" type="image/png">https://rhodeislandgolfcarts.com/favicon.png</Image>
-  <Image width="64" height="64" type="image/png">https://rhodeislandgolfcarts.com/attached_assets/Rhode Island%20Golf%20Carts_1764173360595.png</Image>
+  <Image width="64" height="64" type="image/png">https://rhodeislandgolfcarts.com/logo.png</Image>
   
   <Url type="text/html" 
        method="get" 
