@@ -9,7 +9,7 @@
 ## PRIMARY SERVICE AREA
 
 Country: United States
-Primary State: Rhode Island (VA)
+Primary State: Rhode Island (RI)
 Secondary State: North Carolina (NC)
 Primary City: Providence
 Metro Area: Rhode Island Metropolitan Area

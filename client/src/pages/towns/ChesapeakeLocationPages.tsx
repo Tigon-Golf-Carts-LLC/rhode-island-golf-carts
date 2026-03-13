@@ -87,7 +87,7 @@ export function NorfolkPage() {
 }
 
 export function VirginiaBeachPage() {
-  return <TownPage townName="Virginia Beach" townType="City" />;
+  return <TownPage townName="Newport" townType="City" />;
 }
 
 export function PortsmouthPage() {
@@ -106,7 +106,7 @@ export function NewportNewsPage() {
   return <TownPage townName="Newport News" townType="City" />;
 }
 
-// Virginia Beach / Norfolk / Portsmouth Neighborhoods (6)
+// Newport / Norfolk / Portsmouth Neighborhoods (6)
 export function KempsvillePage() {
   return <TownPage townName="Kempsville" townType="Neighborhood" />;
 }

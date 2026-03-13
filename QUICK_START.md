@@ -304,7 +304,7 @@ https://github.com/Tigon-Golf-Carts-LLC/rhode-island-golf-carts/actions
 ### Branding Changes
 - ❌ Rhode Island Golf Carts → ✅ Rhode Island Golf Carts
 - ❌ rhodeislandgolfcarts.com → ✅ rhodeislandgolfcarts.com
-- ❌ Virginia location → ✅ Rhode Island location
+- ❌ Rhode Island location → ✅ Rhode Island location
 - ❌ Rhode Island region → ✅ Rhode Island region
 
 ### Technical Changes

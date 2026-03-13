@@ -183,7 +183,7 @@ PTV (Personal Transportation Vehicle):
 - Golf carts may operate on roads with speed limits of 35 mph or less
 - Must have all required safety equipment for street use
 - Operators must have a valid driver's license
-- Golf carts must be registered with VA DMV
+- Golf carts must be registered with RI DMV
 - Liability insurance required for street use
 - Local ordinances may have additional requirements
 

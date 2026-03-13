@@ -87,7 +87,7 @@ export function NorfolkRentalsPage() {
 }
 
 export function VirginiaBeachRentalsPage() {
-  return <MunicipalityRentalPage municipalityName="Virginia Beach" municipalityType="City" slug="virginia-beach" />;
+  return <MunicipalityRentalPage municipalityName="Newport" municipalityType="City" slug="virginia-beach" />;
 }
 
 export function PortsmouthRentalsPage() {

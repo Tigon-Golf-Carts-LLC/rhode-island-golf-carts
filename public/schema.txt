@@ -35,7 +35,7 @@ Validation: Google Rich Results Test and Schema.org validator compliant
     "@type": "PostalAddress",
     "streetAddress": "Rhode Island",
     "addressLocality": "Rhode Island",
-    "addressRegion": "VA",
+    "addressRegion": "RI",
     "postalCode": "02840",
     "addressCountry": "US"
   },

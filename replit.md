@@ -66,7 +66,7 @@ I want iterative development. Ask before making major changes.
 - **37 Location Pages**: Complete coverage for Rhode Island neighborhoods, Rhode Island cities, and Northeastern NC
 - **37 Rental Pages**: Location-specific rental pages for all service areas
 - **Rhode Island Neighborhoods (20)**: Great Bridge, Greenbrier, Western Branch, Deep Creek, South Norfolk, Hickory, Grassfield, Indian River, Pleasant Grove, Portlock, Bowers Hill, Camelot, Wallaceton, Crestwood, Sunnyside, Albemarle Acres, Norfolk Highlands, Sunray, Butts Station, Oak Grove
-- **Rhode Island Cities (6)**: Norfolk, Virginia Beach, Portsmouth, Suffolk, Hampton, Newport News
+- **Rhode Island Cities (6)**: Norfolk, Rhode Island Beach, Portsmouth, Suffolk, Hampton, Newport News
 - **Rhode Island Neighborhoods (6)**: Kempsville, Ghent, Ocean View, Princess Anne, Churchland, Driver
 - **Northeastern North Carolina (5)**: Moyock, Currituck, South Mills, Camden, Elizabeth City
 
