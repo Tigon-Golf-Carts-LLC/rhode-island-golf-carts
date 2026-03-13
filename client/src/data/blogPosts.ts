@@ -1602,7 +1602,7 @@ export const blogPosts: BlogPost[] = [
           subsections: [
             {
               h3: "Regional Delivery Coverage",
-              content: "We deliver golf carts throughout Rhode Island and surrounding Rhode Island communities.",
+              content: "We deliver golf carts throughout Rhode Island and surrounding communities.",
               details: [
                 {
                   h4: "Free Local Delivery",
