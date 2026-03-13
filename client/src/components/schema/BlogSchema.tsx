@@ -57,15 +57,15 @@ export default function BlogSchema({
     "about": {
       "@type": "Thing",
       "name": "Golf Carts",
-      "description": "Electric golf carts for sale, rental, and service in Rhode Island, Virginia and Rhode Island"
+      "description": "Electric golf carts for sale, rental, and service in Rhode Island"
     },
     "contentLocation": {
       "@type": "Place",
-      "name": "Rhode Island, Virginia",
+      "name": "Rhode Island",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "37.2850625",
-        "longitude": "-76.5074161"
+        "latitude": "41.5801",
+        "longitude": "-71.4774"
       }
     }
   };

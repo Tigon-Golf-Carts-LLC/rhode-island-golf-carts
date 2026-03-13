@@ -19,7 +19,7 @@ export default function ServiceSchema({
   description,
   serviceType = "Golf Cart Service",
   provider = "Rhode Island Golf Carts",
-  areaServed = "Rhode Island, VA",
+  areaServed = "Rhode Island",
   availableChannel = ["https://schema.org/OnlineChannel", "https://schema.org/InStoreChannel"],
   offers = []
 }: ServiceSchemaProps) {
@@ -37,10 +37,10 @@ export default function ServiceSchema({
         "email": "sales@rhodeislandgolfcarts.com",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "2810 George Washington Memorial Hwy",
-          "addressLocality": "Gloucester Point",
-          "addressRegion": "VA",
-          "postalCode": "23072",
+          "streetAddress": "Rhode Island",
+          "addressLocality": "Rhode Island",
+          "addressRegion": "RI",
+          "postalCode": "02901",
           "addressCountry": "US"
         },
         "logo": {
